@@ -114,9 +114,12 @@ def clone_and_copy_symbols():
             #create directories if needed
             os.makedirs(os.path.dirname(library_file), exist_ok=True)
             sym.to_file(library_file)
+            print(f'Wrote {library_file}')
             sym = SymbolLib().from_file(empty_library_file)
             counter = 0
             counter_file += 1
+    counter_file += 1
+    library_file = f'symbols_all_the_symbols_one_library/all_the_symbols_one_library_{counter_file}.kicad_sym'
     #create directories if needed
     os.makedirs(os.path.dirname(library_file), exist_ok=True)
     sym.to_file(library_file)
