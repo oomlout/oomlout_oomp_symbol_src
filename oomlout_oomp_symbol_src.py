@@ -43,13 +43,15 @@ def load_symbols_from_files(**kwargs):
         for root, dirs, files in os.walk(f'tmp/{name}'):
             for file in files:
                 if file.endswith('kicad_sym'):
-                    deets = {}
-                    kicad_sym = os.path.join(root, file)
-                    #replace \\ with / for windows
-                    kicad_sym = kicad_sym.replace('\\', '/')
-                    deets['kicad_sym'] = kicad_sym
-                    deets['repo'] = repo
-                    kicad_syms.append(deets)
+                    #skip all ones with fpga in the name to save space
+                    if 'fpga' not in file.lower():
+                        deets = {}
+                        kicad_sym = os.path.join(root, file)
+                        #replace \\ with / for windows
+                        kicad_sym = kicad_sym.replace('\\', '/')
+                        deets['kicad_sym'] = kicad_sym
+                        deets['repo'] = repo
+                        kicad_syms.append(deets)
     #copy all the kicad_syms into the oomlout_oomp_symbol_src directory
     #dump kicas_syms to yaml
     return kicad_syms
@@ -152,7 +154,7 @@ def make_mega_library(**kwargs):
     
     counter = 0
     counter_file = 0
-    symbols_per = 1000
+    symbols_per = 2500
     test_string_last = ""
     can_split = False
     from kiutils.symbol import SymbolLib
@@ -160,24 +162,30 @@ def make_mega_library(**kwargs):
     ######## splitting isn't working need to split so a library is all in the same file
     for symb in symbols_all:
         symbol = symb['symbol']
+        repo = symb['repo']
+        name = repo['name']
+        owner = repo['owner']
+        remove_string = f'{owner}_{name}_'
+        #replace / with _
+        remove_string = remove_string.replace('/', '_')
+        remove_string = remove_string.replace('-', '_')
+
         
         
         #test string equals all charachters up to the second underscore
         
         
-        
-        test_string_current = symbol.entryName.split('_')[0] + '_' + symbol.entryName.split('_')[1]
+        entry_name_usable = symbol.entryName.replace(remove_string, '')
+        test_string_current = entry_name_usable.split('_')[0] + '_' + entry_name_usable.split('_')[1]
         #if test string last is empty, set it to test string current
 
         #initialization
         if test_string_last == "":
             test_string_last = test_string_current
         
-        #if test string current equals test string last, can split
+        #if test string current doesn't equals test string last, can split
         if test_string_current != test_string_last:
-            can_split = True
-            if counter >= symbols_per and can_split == True:
-                can_split = False #to split across library owners only                    
+            if counter >= symbols_per:
                 library_file = f'symbols_all_the_symbols_one_library/all_the_symbols_one_library_{counter_file}.kicad_sym'
                 #create directories if needed
                 os.makedirs(os.path.dirname(library_file), exist_ok=True)
@@ -187,8 +195,6 @@ def make_mega_library(**kwargs):
                 sym = SymbolLib().from_file(empty_library_file)
                 counter = 0
                 counter_file += 1
-        if test_string_last == test_string_current:
-            can_split = False
         
         sym.symbols.append(symbol)
 
