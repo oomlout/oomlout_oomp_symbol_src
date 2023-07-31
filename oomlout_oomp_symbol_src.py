@@ -186,15 +186,17 @@ def make_mega_library(**kwargs):
         #if test string current doesn't equals test string last, can split
         if test_string_current != test_string_last:
             if counter >= symbols_per:
-                library_file = f'symbols_all_the_symbols_one_library/all_the_symbols_one_library_{counter_file}.kicad_sym'
-                #create directories if needed
-                os.makedirs(os.path.dirname(library_file), exist_ok=True)
-                print(f'Writing {library_file}')
-                sym.to_file(library_file)
-                print(f'Wrote {library_file}')
-                sym = SymbolLib().from_file(empty_library_file)
-                counter = 0
-                counter_file += 1
+                #extra check because was making a mistake with diodes
+                if 'diode' not in test_string_current.lower():
+                    library_file = f'symbols_all_the_symbols_one_library/all_the_symbols_one_library_{counter_file}.kicad_sym'
+                    #create directories if needed
+                    os.makedirs(os.path.dirname(library_file), exist_ok=True)
+                    print(f'Writing {library_file}')
+                    sym.to_file(library_file)
+                    print(f'Wrote {library_file}')
+                    sym = SymbolLib().from_file(empty_library_file)
+                    counter = 0
+                    counter_file += 1
         
         sym.symbols.append(symbol)
 
