@@ -1,5 +1,6 @@
 import os
 import yaml
+import oom_kiutils
 
 from kiutils.symbol import SymbolLib
 
@@ -123,17 +124,8 @@ def get_all_symbols_from_kicad_syms(**kwargs):
                 library_name = library_name.replace('/', '_')
                 library_name = library_name.replace('-', '_')
                 #add owner and name to each symbol
-                for symbol in sym.symbols:                        
-                    entry_name_original = symbol.entryName
-                    entry_name = f'{owner}_{library_name}_{symbol.entryName}'
-
-                    symbol.entryName = symbol.entryName.replace(entry_name_original, entry_name)
-                    for unit in symbol.units:
-                        unit.entryName = unit.entryName.replace(entry_name_original, entry_name)
-                    #if extends
-                    if symbol.extends != None:
-                        extend_extra = f'{owner}_{library_name}'
-                        symbol.extends = f'{extend_extra}_{symbol.extends}'
+                for symbol in sym.symbols: 
+                    symbol = oom_kiutils.symbol_change_name_oomp(symbol=symbol, library_name=library_name, repo=repo)
                     deets = {}
                     deets['symbol'] = symbol
                     deets['repo'] = repo
@@ -264,4 +256,9 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
             #might just need to include the extension
             entry_name = symbol.entryName
             print(f'Skipping {entry_name} becaue it extends')
+        #dump all the details we know to a yaml
+        print(f'Writing {directory_name}/working.yaml')
+        with open(f'{directory_name}/working.yaml', 'w') as f:
+            yaml.dump(symb, f)
+
     print()
