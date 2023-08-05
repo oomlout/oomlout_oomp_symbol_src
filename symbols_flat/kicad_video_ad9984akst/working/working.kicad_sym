@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Video_AD9984AKST" (in_bom yes) (on_board yes)
+  (symbol "kicad_video_ad9984akst" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 10.16 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "LQFP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_AD9984AKST_0_1"
+    (symbol "kicad_video_ad9984akst_0_1"
       (rectangle (start 12.7 50.8) (end -15.24 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_AD9984AKST_0_2"
+    (symbol "kicad_video_ad9984akst_0_2"
       (polyline
         (pts
           (xy -113.03 -55.88)
@@ -40,7 +40,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Video_AD9984AKST_1_1"
+    (symbol "kicad_video_ad9984akst_1_1"
       (pin power_in line (at 2.54 55.88 270) (length 5.08)
         (name "VD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32H7_STM32H7B3IITx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32h7_stm32h7b3iitx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -30.48 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "LQFP*24x24mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32H7_STM32H7B3IITx_0_1"
+    (symbol "kicad_mcu_st_stm32h7_stm32h7b3iitx_0_1"
       (rectangle (start -30.48 -109.22) (end 30.48 109.22)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32H7_STM32H7B3IITx_1_1"
+    (symbol "kicad_mcu_st_stm32h7_stm32h7b3iitx_1_1"
       (pin bidirectional line (at 35.56 -71.12 180) (length 5.08)
         (name "PE2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Display_Graphic_NHD_C12832A1Z_FSRGB" (in_bom yes) (on_board yes)
+  (symbol "kicad_display_graphic_nhd_c12832a1z_fsrgb" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 15.875 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "NHD?C12832A1Z?FSRGB*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Display_Graphic_NHD_C12832A1Z_FSRGB_0_1"
+    (symbol "kicad_display_graphic_nhd_c12832a1z_fsrgb_0_1"
       (rectangle (start -7.62 15.24) (end 7.62 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Display_Graphic_NHD_C12832A1Z_FSRGB_1_1"
+    (symbol "kicad_display_graphic_nhd_c12832a1z_fsrgb_1_1"
       (pin passive line (at 10.16 0 180) (length 2.54)
         (name "V0" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

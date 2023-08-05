@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Simulation_SPICE_ISIN" (pin_numbers hide) (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_simulation_spice_isin" (pin_numbers hide) (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "I" (at 2.54 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -30,7 +30,7 @@
     (property "ki_description" "Current source, sinusoidal" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Simulation_SPICE_ISIN_0_0"
+    (symbol "kicad_simulation_spice_isin_0_0"
       (arc (start 0 0) (mid -0.635 0.6323) (end -1.27 0)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -40,7 +40,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Simulation_SPICE_ISIN_0_1"
+    (symbol "kicad_simulation_spice_isin_0_1"
       (polyline
         (pts
           (xy 0 1.27)
@@ -63,7 +63,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Simulation_SPICE_ISIN_1_1"
+    (symbol "kicad_simulation_spice_isin_1_1"
       (pin passive line (at 0 5.08 270) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

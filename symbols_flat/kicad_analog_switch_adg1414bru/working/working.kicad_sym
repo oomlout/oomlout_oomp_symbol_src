@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_ADG1414BRU" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_adg1414bru" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TSSOP*4.4x7.8mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_ADG1414BRU_1_0"
+    (symbol "kicad_analog_switch_adg1414bru_1_0"
       (polyline
         (pts
           (xy -11.43 -17.78)
@@ -143,7 +143,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Analog_Switch_ADG1414BRU_1_1"
+    (symbol "kicad_analog_switch_adg1414bru_1_1"
       (rectangle (start -17.78 -20.32) (end 17.78 20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))

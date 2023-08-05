@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Operational_LTC6229xDD" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_operational_ltc6229xdd" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DFN*1EP*3x3mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Operational_LTC6229xDD_1_1"
+    (symbol "kicad_amplifier_operational_ltc6229xdd_1_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -49,7 +49,7 @@
         (number "5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LTC6229xDD_2_1"
+    (symbol "kicad_amplifier_operational_ltc6229xdd_2_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -77,7 +77,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LTC6229xDD_3_1"
+    (symbol "kicad_amplifier_operational_ltc6229xdd_3_1"
       (pin power_in line (at -2.54 7.62 270) (length 3.81)
         (name "V+" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))

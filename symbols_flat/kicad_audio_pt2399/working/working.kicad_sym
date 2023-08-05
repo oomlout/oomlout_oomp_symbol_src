@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Audio_PT2399" (in_bom yes) (on_board yes)
+  (symbol "kicad_audio_pt2399" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 17.78 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Audio_PT2399_0_1"
+    (symbol "kicad_audio_pt2399_0_1"
       (rectangle (start -10.16 15.24) (end 10.16 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Audio_PT2399_1_1"
+    (symbol "kicad_audio_pt2399_1_1"
       (pin power_in line (at -12.7 12.7 0) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_74LS240_Split" (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_74ls240_split" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm* SOIC*7.5x12.8mm*P1.27mm* *SSOP*5.3x7.2mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_74LS240_Split_1_0"
+    (symbol "kicad_74xx_74ls240_split_1_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -48,7 +48,7 @@
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_1_1"
+    (symbol "kicad_74xx_74ls240_split_1_1"
       (polyline
         (pts
           (xy -0.762 -0.762)
@@ -68,7 +68,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_2_0"
+    (symbol "kicad_74xx_74ls240_split_2_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -88,7 +88,7 @@
         (number "4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_2_1"
+    (symbol "kicad_74xx_74ls240_split_2_1"
       (polyline
         (pts
           (xy -0.762 -0.762)
@@ -108,7 +108,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_3_0"
+    (symbol "kicad_74xx_74ls240_split_3_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -128,7 +128,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_3_1"
+    (symbol "kicad_74xx_74ls240_split_3_1"
       (polyline
         (pts
           (xy -0.762 -0.762)
@@ -148,7 +148,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_4_0"
+    (symbol "kicad_74xx_74ls240_split_4_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -168,7 +168,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_4_1"
+    (symbol "kicad_74xx_74ls240_split_4_1"
       (polyline
         (pts
           (xy -0.762 -0.762)
@@ -188,7 +188,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_5_0"
+    (symbol "kicad_74xx_74ls240_split_5_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -212,7 +212,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_5_1"
+    (symbol "kicad_74xx_74ls240_split_5_1"
       (polyline
         (pts
           (xy -0.762 -0.762)
@@ -232,7 +232,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_6_0"
+    (symbol "kicad_74xx_74ls240_split_6_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -252,7 +252,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_6_1"
+    (symbol "kicad_74xx_74ls240_split_6_1"
       (polyline
         (pts
           (xy -0.762 -0.762)
@@ -272,7 +272,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_7_0"
+    (symbol "kicad_74xx_74ls240_split_7_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -292,7 +292,7 @@
         (number "5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_7_1"
+    (symbol "kicad_74xx_74ls240_split_7_1"
       (polyline
         (pts
           (xy -0.762 -0.762)
@@ -312,7 +312,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_8_0"
+    (symbol "kicad_74xx_74ls240_split_8_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -332,7 +332,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_8_1"
+    (symbol "kicad_74xx_74ls240_split_8_1"
       (polyline
         (pts
           (xy -0.762 -0.762)
@@ -352,7 +352,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_9_0"
+    (symbol "kicad_74xx_74ls240_split_9_0"
       (pin power_in line (at 0 -12.7 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
@@ -362,7 +362,7 @@
         (number "20" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS240_Split_9_1"
+    (symbol "kicad_74xx_74ls240_split_9_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))

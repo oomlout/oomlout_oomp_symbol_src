@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_MAX9814" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_max9814" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -20.32 13.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*DFN*EP*3x3mm*P0.4mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_MAX9814_0_0"
+    (symbol "kicad_amplifier_audio_max9814_0_0"
       (rectangle (start -11.43 5.08) (end -3.81 2.54)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -125,13 +125,13 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Amplifier_Audio_MAX9814_0_1"
+    (symbol "kicad_amplifier_audio_max9814_0_1"
       (rectangle (start -20.32 12.7) (end 20.32 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Audio_MAX9814_1_1"
+    (symbol "kicad_amplifier_audio_max9814_1_1"
       (pin input line (at -22.86 10.16 0) (length 2.54)
         (name "CT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

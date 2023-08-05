@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transistor_FET_IRFI4019H" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transistor_fet_irfi4019h" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 4.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TO?220F*P3.4x2.06mm*StaggerEven*Lead1.86mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transistor_FET_IRFI4019H_0_1"
+    (symbol "kicad_transistor_fet_irfi4019h_0_1"
       (polyline
         (pts
           (xy 0.254 -5.08)
@@ -237,7 +237,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Transistor_FET_IRFI4019H_1_1"
+    (symbol "kicad_transistor_fet_irfi4019h_1_1"
       (pin passive line (at 2.54 -10.16 90) (length 2.54)
         (name "S2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_ROM_XCF08P" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_rom_xcf08p" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "Platform Flash In-System PROM" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_ROM_XCF08P_0_1"
+    (symbol "kicad_memory_rom_xcf08p_0_1"
       (rectangle (start -8.89 31.75) (end 8.89 -31.75)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Memory_ROM_XCF08P_1_1"
+    (symbol "kicad_memory_rom_xcf08p_1_1"
       (pin power_in line (at -16.51 -10.16 0) (length 7.62)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

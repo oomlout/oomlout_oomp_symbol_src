@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_MAX14778" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_max14778" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TQFN*1EP*5x5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_MAX14778_0_1"
+    (symbol "kicad_analog_switch_max14778_0_1"
       (rectangle (start -7.62 12.7) (end 7.62 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Analog_Switch_MAX14778_1_1"
+    (symbol "kicad_analog_switch_max14778_1_1"
       (pin passive line (at -10.16 -2.54 0) (length 2.54)
         (name "BCOM" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

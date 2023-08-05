@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Power_Management_Extra_TPS255xDBV" (in_bom yes) (on_board yes)
+  (symbol "arturo182_power_management_extra_tps255xdbv" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps2553.pdf?ts=1623319268565&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS2553" (id 3) (at 0 -8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Power_Management_Extra_TPS255xDBV_0_0"
+    (symbol "arturo182_power_management_extra_tps255xdbv_0_0"
       (pin power_in line (at -8.89 2.54 0) (length 2.54)
         (name "IN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -38,7 +38,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_Power_Management_Extra_TPS255xDBV_0_1"
+    (symbol "arturo182_power_management_extra_tps255xdbv_0_1"
       (rectangle (start -6.35 5.08) (end 6.35 -5.08)
         (stroke (width 0.1524) (type default))
         (fill (type background))

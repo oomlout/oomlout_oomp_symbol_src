@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_LineDriver_UA9638CD" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_linedriver_ua9638cd" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_LineDriver_UA9638CD_0_1"
+    (symbol "kicad_interface_linedriver_ua9638cd_0_1"
       (polyline
         (pts
           (xy -7.62 5.08)
@@ -107,7 +107,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Interface_LineDriver_UA9638CD_1_1"
+    (symbol "kicad_interface_linedriver_ua9638cd_1_1"
       (pin power_in line (at -2.54 10.16 270) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -129,7 +129,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Interface_LineDriver_UA9638CD_2_1"
+    (symbol "kicad_interface_linedriver_ua9638cd_2_1"
       (pin power_in line (at -2.54 10.16 270) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

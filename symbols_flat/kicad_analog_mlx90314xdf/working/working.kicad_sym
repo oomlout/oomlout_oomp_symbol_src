@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_MLX90314xDF" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_mlx90314xdf" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 13.97 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SOIC*7.5x10.3mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_MLX90314xDF_0_1"
+    (symbol "kicad_analog_mlx90314xdf_0_1"
       (rectangle (start -10.16 12.7) (end 10.16 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Analog_MLX90314xDF_1_1"
+    (symbol "kicad_analog_mlx90314xdf_1_1"
       (pin bidirectional line (at 12.7 7.62 180) (length 2.54)
         (name "IO1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

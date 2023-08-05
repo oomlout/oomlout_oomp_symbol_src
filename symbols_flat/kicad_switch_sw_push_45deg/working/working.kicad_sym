@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Switch_SW_Push_45deg" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_switch_sw_push_45deg" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at 3.048 1.016 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Switch_SW_Push_45deg_0_1"
+    (symbol "kicad_switch_sw_push_45deg_0_1"
       (circle (center -1.1684 1.1684) (radius 0.508)
         (stroke (width 0) (type default))
         (fill (type none))

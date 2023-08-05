@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Switching_VIPer22AS" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_switching_viper22as" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 11.43 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Switching_VIPer22AS_0_0"
+    (symbol "kicad_regulator_switching_viper22as_0_0"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -102,7 +102,7 @@
         (effects (font (size 1.1176 1.1176)))
       )
     )
-    (symbol "kicad_Regulator_Switching_VIPer22AS_0_1"
+    (symbol "kicad_regulator_switching_viper22as_0_1"
       (rectangle (start -3.81 2.54) (end 2.54 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -210,7 +210,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Regulator_Switching_VIPer22AS_1_1"
+    (symbol "kicad_regulator_switching_viper22as_1_1"
       (pin passive line (at 7.62 -10.16 90) (length 2.54)
         (name "S" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_HallGenerator" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_hallgenerator" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "HG" (at 2.54 4.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Hall effect generator" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_HallGenerator_0_1"
+    (symbol "kicad_device_hallgenerator_0_1"
       (rectangle (start -1.016 2.54) (end 1.016 -2.54)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -56,7 +56,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_HallGenerator_1_1"
+    (symbol "kicad_device_hallgenerator_1_1"
       (pin passive line (at 0 5.08 270) (length 2.54)
         (name "U1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

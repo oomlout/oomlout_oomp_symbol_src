@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Logic_Programmable_PAL16L8" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_logic_programmable_pal16l8" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 16.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP* PDIP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Logic_Programmable_PAL16L8_0_0"
+    (symbol "kicad_logic_programmable_pal16l8_0_0"
       (pin power_in line (at 0 -15.24 90) (length 3.81)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
@@ -31,13 +31,13 @@
         (number "20" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Logic_Programmable_PAL16L8_0_1"
+    (symbol "kicad_logic_programmable_pal16l8_0_1"
       (rectangle (start -8.89 13.97) (end 7.62 -11.43)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Logic_Programmable_PAL16L8_1_1"
+    (symbol "kicad_logic_programmable_pal16l8_1_1"
       (pin input line (at -12.7 12.7 0) (length 3.81)
         (name "I1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

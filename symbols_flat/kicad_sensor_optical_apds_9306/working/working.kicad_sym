@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Optical_APDS_9306" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_optical_apds_9306" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Broadcom*LGA*2x2mm*P0.53mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Optical_APDS_9306_0_0"
+    (symbol "kicad_sensor_optical_apds_9306_0_0"
       (polyline
         (pts
           (xy -3.81 1.27)
@@ -38,13 +38,13 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Sensor_Optical_APDS_9306_0_1"
+    (symbol "kicad_sensor_optical_apds_9306_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Optical_APDS_9306_1_0"
+    (symbol "kicad_sensor_optical_apds_9306_1_0"
       (polyline
         (pts
           (xy -5.08 -1.524)
@@ -55,7 +55,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Sensor_Optical_APDS_9306_1_1"
+    (symbol "kicad_sensor_optical_apds_9306_1_1"
       (polyline
         (pts
           (xy -6.223 -0.762)

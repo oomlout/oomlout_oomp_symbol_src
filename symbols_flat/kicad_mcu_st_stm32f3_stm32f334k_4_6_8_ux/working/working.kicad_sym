@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32F3_STM32F334K_4_6_8_Ux" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32f3_stm32f334k_4_6_8_ux" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 24.13 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "QFN*1EP*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32F3_STM32F334K_4_6_8_Ux_0_1"
+    (symbol "kicad_mcu_st_stm32f3_stm32f334k_4_6_8_ux_0_1"
       (rectangle (start -10.16 -22.86) (end 12.7 22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32F3_STM32F334K_4_6_8_Ux_1_1"
+    (symbol "kicad_mcu_st_stm32f3_stm32f334k_4_6_8_ux_1_1"
       (pin power_in line (at 0 25.4 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

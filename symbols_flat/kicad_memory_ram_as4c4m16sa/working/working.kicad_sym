@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_RAM_AS4C4M16SA" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_ram_as4c4m16sa" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TSOP?II*22.2x10.16mm*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_RAM_AS4C4M16SA_0_1"
+    (symbol "kicad_memory_ram_as4c4m16sa_0_1"
       (rectangle (start -10.16 33.02) (end 10.16 -33.02)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Memory_RAM_AS4C4M16SA_1_1"
+    (symbol "kicad_memory_ram_as4c4m16sa_1_1"
       (pin power_in line (at -2.54 35.56 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

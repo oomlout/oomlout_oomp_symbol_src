@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Linear_LM79L05_TO92" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_linear_lm79l05_to92" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -3.81 -3.175 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TO?92*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Linear_LM79L05_TO92_0_1"
+    (symbol "kicad_regulator_linear_lm79l05_to92_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -1.905)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Regulator_Linear_LM79L05_TO92_1_1"
+    (symbol "kicad_regulator_linear_lm79l05_to92_1_1"
       (pin power_in line (at 0 7.62 270) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

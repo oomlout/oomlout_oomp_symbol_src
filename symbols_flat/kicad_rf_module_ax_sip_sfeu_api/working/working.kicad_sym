@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_Module_AX_SIP_SFEU_API" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_module_ax_sip_sfeu_api" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "OnSemi*SIP*6EP*9x7mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_Module_AX_SIP_SFEU_API_0_1"
+    (symbol "kicad_rf_module_ax_sip_sfeu_api_0_1"
       (rectangle (start -15.24 22.86) (end 15.24 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_Module_AX_SIP_SFEU_API_1_1"
+    (symbol "kicad_rf_module_ax_sip_sfeu_api_1_1"
       (pin power_in line (at 0 -25.4 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

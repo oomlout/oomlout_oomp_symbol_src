@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_RAM_IDT7132" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_ram_idt7132" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_RAM_IDT7132_0_1"
+    (symbol "kicad_memory_ram_idt7132_0_1"
       (rectangle (start -15.24 -35.56) (end 15.24 35.56)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Memory_RAM_IDT7132_1_1"
+    (symbol "kicad_memory_ram_idt7132_1_1"
       (pin input line (at -22.86 30.48 0) (length 7.62)
         (name "/CEL" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

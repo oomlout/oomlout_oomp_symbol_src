@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Operational_OPA858xDSG" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_operational_opa858xdsg" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 1.27 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "WSON*1EP*2x2mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Operational_OPA858xDSG_0_0"
+    (symbol "kicad_amplifier_operational_opa858xdsg_0_0"
       (pin power_in line (at -2.54 7.62 270) (length 3.81)
         (name "V+" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
@@ -35,7 +35,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_OPA858xDSG_0_1"
+    (symbol "kicad_amplifier_operational_opa858xdsg_0_1"
       (polyline
         (pts
           (xy 5.08 0)
@@ -63,7 +63,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_OPA858xDSG_1_1"
+    (symbol "kicad_amplifier_operational_opa858xdsg_1_1"
       (pin output line (at 7.62 2.54 180) (length 2.54)
         (name "FB" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

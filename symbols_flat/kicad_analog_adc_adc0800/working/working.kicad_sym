@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_ADC_ADC0800" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_adc_adc0800" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 17.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "Analog to Digital 8 bits converter, DIP-18 (Hermetic)" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_ADC_ADC0800_0_1"
+    (symbol "kicad_analog_adc_adc0800_0_1"
       (rectangle (start -11.43 -16.51) (end 11.43 16.51)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Analog_ADC_ADC0800_1_1"
+    (symbol "kicad_analog_adc_adc0800_1_1"
       (pin tri_state line (at 15.24 2.54 180) (length 3.81)
         (name "QE" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

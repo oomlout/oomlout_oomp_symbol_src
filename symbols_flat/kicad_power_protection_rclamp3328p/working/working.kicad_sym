@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Protection_RCLAMP3328P" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_power_protection_rclamp3328p" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 13.97 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "UDFN*1.0x3.8mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Protection_RCLAMP3328P_0_0"
+    (symbol "kicad_power_protection_rclamp3328p_0_0"
       (pin passive line (at 0 -7.62 90) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Power_Protection_RCLAMP3328P_0_1"
+    (symbol "kicad_power_protection_rclamp3328p_0_1"
       (rectangle (start -10.795 5.08) (end 13.335 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1191,7 +1191,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Power_Protection_RCLAMP3328P_1_1"
+    (symbol "kicad_power_protection_rclamp3328p_1_1"
       (pin passive line (at -7.62 7.62 270) (length 2.54)
         (name "K1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

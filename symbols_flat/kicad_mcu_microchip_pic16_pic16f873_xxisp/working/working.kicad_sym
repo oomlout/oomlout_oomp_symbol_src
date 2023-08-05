@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Microchip_PIC16_PIC16F873_XXISP" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_microchip_pic16_pic16f873_xxisp" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DIP* PDIP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Microchip_PIC16_PIC16F873_XXISP_0_1"
+    (symbol "kicad_mcu_microchip_pic16_pic16f873_xxisp_0_1"
       (rectangle (start -16.51 21.59) (end 16.51 -21.59)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Microchip_PIC16_PIC16F873_XXISP_1_1"
+    (symbol "kicad_mcu_microchip_pic16_pic16f873_xxisp_1_1"
       (pin input line (at -20.32 17.78 0) (length 3.81)
         (name "~{MCLR}/Vpp" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

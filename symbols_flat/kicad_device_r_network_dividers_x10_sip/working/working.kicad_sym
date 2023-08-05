@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_R_Network_Dividers_x10_SIP" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_r_network_dividers_x10_sip" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "RN" (at -27.94 0 90)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "R?Array?SIP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_R_Network_Dividers_x10_SIP_0_1"
+    (symbol "kicad_device_r_network_dividers_x10_sip_0_1"
       (rectangle (start -26.67 -5.08) (end 24.13 5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -576,7 +576,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Device_R_Network_Dividers_x10_SIP_1_1"
+    (symbol "kicad_device_r_network_dividers_x10_sip_1_1"
       (pin passive line (at -25.4 7.62 270) (length 2.54)
         (name "COM1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

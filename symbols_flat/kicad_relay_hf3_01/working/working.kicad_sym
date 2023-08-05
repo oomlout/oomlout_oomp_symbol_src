@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Relay_HF3_01" (in_bom yes) (on_board yes)
+  (symbol "kicad_relay_hf3_01" (in_bom yes) (on_board yes)
     (property "Reference" "K" (at 11.43 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Relay*SPDT*AXICOM*HF3Series*75ohms*Pitch1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Relay_HF3_01_0_0"
+    (symbol "kicad_relay_hf3_01_0_0"
       (polyline
         (pts
           (xy 7.62 5.08)
@@ -36,7 +36,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Relay_HF3_01_0_1"
+    (symbol "kicad_relay_hf3_01_0_1"
       (rectangle (start -10.16 5.08) (end 10.16 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -136,7 +136,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Relay_HF3_01_1_1"
+    (symbol "kicad_relay_hf3_01_1_1"
       (pin passive line (at -5.08 7.62 270) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

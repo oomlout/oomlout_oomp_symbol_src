@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_SI9986" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_si9986" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_SI9986_0_1"
+    (symbol "kicad_interface_si9986_0_1"
       (rectangle (start -7.62 8.89) (end -1.27 -8.89)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -114,7 +114,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Interface_SI9986_1_1"
+    (symbol "kicad_interface_si9986_1_1"
       (pin power_in line (at 10.16 -12.7 90) (length 5.08)
         (name "SA" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

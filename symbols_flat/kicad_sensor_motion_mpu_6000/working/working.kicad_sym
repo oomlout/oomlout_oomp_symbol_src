@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Motion_MPU_6000" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_motion_mpu_6000" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "*QFN?24*4x4mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Motion_MPU_6000_0_1"
+    (symbol "kicad_sensor_motion_mpu_6000_0_1"
       (rectangle (start -12.7 12.7) (end 12.7 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Motion_MPU_6000_1_1"
+    (symbol "kicad_sensor_motion_mpu_6000_1_1"
       (pin input clock (at -17.78 -7.62 0) (length 5.08)
         (name "CLKIN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

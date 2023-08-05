@@ -1,4 +1,4 @@
-# Audio_ADAU1978xBCP by arturo182  
+# audio_adau1978xbcp by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Audio |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_audio_adau1978xbcp/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_audio_adau1978xbcp/working', 'oomp_doc': 'kicad_audio_adau1978xbcp/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_adau1978xbcp/working', 'oomp_src_flat': 'symbols_flat/kicad_audio_adau1978xbcp/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_adau1978xbcp/working'} |  
-| name | Audio_ADAU1978xBCP |  
+| name | audio_adau1978xbcp |  
 | oomp_key | oomp_kicad_audio_adau1978xbcp |  
 | oomp_key_simple | kicad_audio_adau1978xbcp |  
 | owner | arturo182 |  

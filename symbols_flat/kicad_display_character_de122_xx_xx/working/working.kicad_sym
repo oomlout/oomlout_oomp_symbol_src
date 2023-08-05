@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Display_Character_DE122_XX_XX" (in_bom yes) (on_board yes)
+  (symbol "kicad_display_character_de122_xx_xx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DE122?XX?XX*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Display_Character_DE122_XX_XX_0_0"
+    (symbol "kicad_display_character_de122_xx_xx_0_0"
       (text "8.8.8.8.8.8" (at 0.127 29.337 0)
         (effects (font (size 2.0066 2.0066)))
       )
@@ -72,13 +72,13 @@
         (number "50" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Display_Character_DE122_XX_XX_0_1"
+    (symbol "kicad_display_character_de122_xx_xx_0_1"
       (rectangle (start -12.7 33.02) (end 12.7 -33.02)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Display_Character_DE122_XX_XX_1_1"
+    (symbol "kicad_display_character_de122_xx_xx_1_1"
       (pin input line (at 15.24 -30.48 180) (length 2.54)
         (name "BP" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

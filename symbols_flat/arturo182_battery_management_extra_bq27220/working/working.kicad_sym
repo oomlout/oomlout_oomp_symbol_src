@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Battery_Management_Extra_BQ27220" (in_bom yes) (on_board yes)
+  (symbol "arturo182_battery_management_extra_bq27220" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 7.62 11.43 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/bq27220.pdf?ts=1668396089743&ref_url=https%253A%252F%252Flcsc.com%252F" (at 0 -19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Battery_Management_Extra_BQ27220_0_0"
+    (symbol "arturo182_battery_management_extra_bq27220_0_0"
       (pin output line (at -8.89 -7.62 0) (length 2.54)
         (name "GPOUT" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
@@ -50,7 +50,7 @@
         (number "C3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_Battery_Management_Extra_BQ27220_0_1"
+    (symbol "arturo182_battery_management_extra_bq27220_0_1"
       (rectangle (start -6.35 10.16) (end 6.35 -12.7)
         (stroke (width 0) (type default))
         (fill (type background))

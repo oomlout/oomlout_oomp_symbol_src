@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Operational_HMC799LP3E" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_operational_hmc799lp3e" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "QFN*1EP*3x3mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Operational_HMC799LP3E_0_0"
+    (symbol "kicad_amplifier_operational_hmc799lp3e_0_0"
       (pin no_connect line (at 0 0 90) (length 2.54) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))
@@ -67,7 +67,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_HMC799LP3E_0_1"
+    (symbol "kicad_amplifier_operational_hmc799lp3e_0_1"
       (polyline
         (pts
           (xy 5.08 0)
@@ -79,7 +79,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Operational_HMC799LP3E_1_1"
+    (symbol "kicad_amplifier_operational_hmc799lp3e_1_1"
       (pin power_in line (at -2.54 7.62 270) (length 3.81)
         (name "VCC" (effects (font (size 0.762 0.762))))
         (number "1" (effects (font (size 1.27 1.27))))

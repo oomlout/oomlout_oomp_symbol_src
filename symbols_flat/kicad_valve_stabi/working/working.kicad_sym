@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Valve_STABI" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_stabi" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15,7 +15,7 @@
     (property "ki_fp_filters" "VALVE*GLIMM*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_STABI_1_0"
+    (symbol "kicad_valve_stabi_1_0"
       (polyline
         (pts
           (xy 0 -2.54)
@@ -33,7 +33,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_STABI_1_1"
+    (symbol "kicad_valve_stabi_1_1"
       (polyline
         (pts
           (xy 0 -2.54)

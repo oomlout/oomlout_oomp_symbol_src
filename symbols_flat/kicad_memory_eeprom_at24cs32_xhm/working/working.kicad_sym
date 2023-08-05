@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_EEPROM_AT24CS32_XHM" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_eeprom_at24cs32_xhm" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TSSOP*4.4x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_EEPROM_AT24CS32_XHM_1_1"
+    (symbol "kicad_memory_eeprom_at24cs32_xhm_1_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))

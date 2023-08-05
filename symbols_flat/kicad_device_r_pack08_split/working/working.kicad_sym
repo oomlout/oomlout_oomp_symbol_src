@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_R_Pack08_Split" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_r_pack08_split" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "RN" (at 2.032 0 90)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DIP* SOIC* R*Array*Concave* R*Array*Convex*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_R_Pack08_Split_0_1"
+    (symbol "kicad_device_r_pack08_split_0_1"
       (rectangle (start 1.016 2.54) (end -1.016 -2.54)
         (stroke (width 0.254) (type default))
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_R_Pack08_Split_1_1"
+    (symbol "kicad_device_r_pack08_split_1_1"
       (pin passive line (at 0 -3.81 90) (length 1.27)
         (name "R1.1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -37,7 +37,7 @@
         (number "16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_R_Pack08_Split_2_1"
+    (symbol "kicad_device_r_pack08_split_2_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "R2.2" (effects (font (size 1.27 1.27))))
         (number "15" (effects (font (size 1.27 1.27))))
@@ -47,7 +47,7 @@
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_R_Pack08_Split_3_1"
+    (symbol "kicad_device_r_pack08_split_3_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "R3.2" (effects (font (size 1.27 1.27))))
         (number "14" (effects (font (size 1.27 1.27))))
@@ -57,7 +57,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_R_Pack08_Split_4_1"
+    (symbol "kicad_device_r_pack08_split_4_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "R4.2" (effects (font (size 1.27 1.27))))
         (number "13" (effects (font (size 1.27 1.27))))
@@ -67,7 +67,7 @@
         (number "4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_R_Pack08_Split_5_1"
+    (symbol "kicad_device_r_pack08_split_5_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "R5.2" (effects (font (size 1.27 1.27))))
         (number "12" (effects (font (size 1.27 1.27))))
@@ -77,7 +77,7 @@
         (number "5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_R_Pack08_Split_6_1"
+    (symbol "kicad_device_r_pack08_split_6_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "R6.2" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))
@@ -87,7 +87,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_R_Pack08_Split_7_1"
+    (symbol "kicad_device_r_pack08_split_7_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "R7.2" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
@@ -97,7 +97,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_R_Pack08_Split_8_1"
+    (symbol "kicad_device_r_pack08_split_8_1"
       (pin passive line (at 0 -3.81 90) (length 1.27)
         (name "R8.1" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))

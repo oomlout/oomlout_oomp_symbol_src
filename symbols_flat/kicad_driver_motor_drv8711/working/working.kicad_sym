@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_Motor_DRV8711" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_motor_drv8711" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 33.655 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "HTSSOP-38" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_Motor_DRV8711_0_1"
+    (symbol "kicad_driver_motor_drv8711_0_1"
       (rectangle (start -15.24 30.48) (end 15.24 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_Motor_DRV8711_1_1"
+    (symbol "kicad_driver_motor_drv8711_1_1"
       (pin bidirectional line (at -17.78 27.94 0) (length 2.54)
         (name "CP1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

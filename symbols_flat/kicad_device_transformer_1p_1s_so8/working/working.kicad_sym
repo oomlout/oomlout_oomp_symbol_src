@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Transformer_1P_1S_SO8" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_transformer_1p_1s_so8" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "T" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Transformer, single primary, single secondary, SO-8 package" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Transformer_1P_1S_SO8_0_1"
+    (symbol "kicad_device_transformer_1p_1s_so8_0_1"
       (arc (start -2.54 -5.0546) (mid -1.6599 -4.6901) (end -1.27 -3.81)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -100,7 +100,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Transformer_1P_1S_SO8_1_1"
+    (symbol "kicad_device_transformer_1p_1s_so8_1_1"
       (pin passive line (at -7.62 5.08 0) (length 5.08)
         (name "AA" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_CD4097B" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_cd4097b" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 29.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TSSOP*4.4x7.8mm*P0.65mm* SOIC*7.5*15.4*1.27mm* SO*5.3x15.0mm*P1.27mm* DIP*15.24mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_CD4097B_0_1"
+    (symbol "kicad_analog_switch_cd4097b_0_1"
       (rectangle (start -10.16 24.13) (end -5.08 16.51)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -811,7 +811,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Analog_Switch_CD4097B_1_1"
+    (symbol "kicad_analog_switch_cd4097b_1_1"
       (polyline
         (pts
           (xy -4.572 -9.906)

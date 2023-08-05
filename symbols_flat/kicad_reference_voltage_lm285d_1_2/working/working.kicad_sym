@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Reference_Voltage_LM285D_1_2" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_reference_voltage_lm285d_1_2" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 3.175 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC?8*3.9x4.9m*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Reference_Voltage_LM285D_1_2_0_1"
+    (symbol "kicad_reference_voltage_lm285d_1_2_0_1"
       (polyline
         (pts
           (xy -1.27 0)
@@ -52,7 +52,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Reference_Voltage_LM285D_1_2_1_1"
+    (symbol "kicad_reference_voltage_lm285d_1_2_1_1"
       (pin passive line (at -3.81 0 0) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))

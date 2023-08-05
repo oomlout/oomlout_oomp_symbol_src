@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Linear_NCP133AMX100TCG" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_linear_ncp133amx100tcg" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DFN?6?1EP*1.2x1.2mm*P0.4mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Linear_NCP133AMX100TCG_0_1"
+    (symbol "kicad_regulator_linear_ncp133amx100tcg_0_1"
       (rectangle (start -8.89 -3.81) (end 8.89 3.81)
         (stroke (width 0.254) (type default))
         (fill (type background))

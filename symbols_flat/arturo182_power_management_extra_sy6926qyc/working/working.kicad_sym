@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Power_Management_Extra_SY6926QYC" (in_bom yes) (on_board yes)
+  (symbol "arturo182_power_management_extra_sy6926qyc" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 6.35 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15,7 +15,7 @@
     (property "LCSC" "C180877" (id 4) (at 0 -41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Power_Management_Extra_SY6926QYC_0_0"
+    (symbol "arturo182_power_management_extra_sy6926qyc_0_0"
       (pin passive line (at -10.16 15.24 0) (length 2.54) hide
         (name "SIN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -97,7 +97,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_Power_Management_Extra_SY6926QYC_0_1"
+    (symbol "arturo182_power_management_extra_sy6926qyc_0_1"
       (rectangle (start -7.62 17.78) (end 7.62 -38.1)
         (stroke (width 0) (type default))
         (fill (type background))

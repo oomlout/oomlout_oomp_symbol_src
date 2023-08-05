@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT" (in_bom yes) (on_board yes)
+  (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 15.24 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,12 +24,12 @@
     (property "ki_fp_filters" "BGA*21.0x21.0mm*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_1_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_1_0"
       (text "Power Management" (at -1.27 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_1_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_1_1"
       (rectangle (start -20.32 12.7) (end 20.32 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -723,12 +723,12 @@
         (number "Y5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_2_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_2_0"
       (text "Factory (NXP only)" (at -10.16 0 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_2_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_2_1"
       (rectangle (start -20.32 5.08) (end 20.32 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -750,12 +750,12 @@
         (number "E12" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_3_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_3_0"
       (text "Boot/Power Management" (at 1.27 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_3_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_3_1"
       (rectangle (start -20.32 7.62) (end 20.32 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -792,12 +792,12 @@
         (number "F12" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_4_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_4_0"
       (text "Clock" (at -16.51 11.43 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_4_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_4_1"
       (rectangle (start -20.32 12.7) (end 20.32 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -846,12 +846,12 @@
         (number "D7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_5_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_5_0"
       (text "MIPI Camera" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_5_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_5_1"
       (rectangle (start -20.32 15.24) (end 20.32 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -933,12 +933,12 @@
         (number "K7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_6_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_6_0"
       (text "Camera" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_6_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_6_1"
       (rectangle (start -20.32 15.24) (end 20.32 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1028,12 +1028,12 @@
         (number "P4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_7_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_7_0"
       (text "LCD Display" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_7_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_7_1"
       (rectangle (start -20.32 20.32) (end 20.32 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1159,12 +1159,12 @@
         (number "W24" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_8_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_8_0"
       (text "External memory" (at 1.27 0 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_8_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_8_1"
       (rectangle (start -20.32 43.18) (end 20.32 -43.18)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1394,12 +1394,12 @@
         (number "N24" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_9_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_9_0"
       (text "10/100-Mbit Ethernet" (at -2.54 -7.62 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_9_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_9_1"
       (rectangle (start -20.32 10.16) (end 20.32 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1449,12 +1449,12 @@
         (number "W23" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_10_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_10_0"
       (text "GPIO" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_10_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_10_1"
       (rectangle (start -20.32 20.32) (end 20.32 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1560,12 +1560,12 @@
         (number "W6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_11_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_11_0"
       (text "HDMI Display" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_11_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_11_1"
       (rectangle (start -20.32 15.24) (end 20.32 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1623,12 +1623,12 @@
         (number "M7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_12_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_12_0"
       (text "JTAG Debug" (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_12_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_12_1"
       (rectangle (start -20.32 10.16) (end 20.32 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1662,12 +1662,12 @@
         (number "J7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_13_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_13_0"
       (text "LVDS Display" (at 0 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_13_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_13_1"
       (rectangle (start -20.32 20.32) (end 20.32 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1757,7 +1757,7 @@
         (number "Y4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_14_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_14_0"
       (text "NAND Flash" (at -13.97 24.13 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -1765,7 +1765,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_14_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_14_1"
       (rectangle (start -20.32 25.4) (end 20.32 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1879,12 +1879,12 @@
         (number "G15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_15_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_15_0"
       (text "PCIe 2.0" (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_15_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_15_1"
       (rectangle (start -20.32 7.62) (end 20.32 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1922,7 +1922,7 @@
         (number "H7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_16_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_16_0"
       (text "HS USB2.0 Host" (at -11.43 6.35 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -1930,7 +1930,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_16_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_16_1"
       (rectangle (start -20.32 7.62) (end 20.32 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1964,12 +1964,12 @@
         (number "F10" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_17_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_17_0"
       (text "Gigabit Ethernet" (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_17_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_17_1"
       (rectangle (start -20.32 10.16) (end 20.32 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2027,12 +2027,12 @@
         (number "G18" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_18_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_18_0"
       (text "SD/MMC" (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_18_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_18_1"
       (rectangle (start -20.32 10.16) (end 20.32 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2066,12 +2066,12 @@
         (number "G16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_19_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_19_0"
       (text "SD/MMC" (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_19_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_19_1"
       (rectangle (start -20.32 10.16) (end 20.32 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2105,12 +2105,12 @@
         (number "G17" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_20_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_20_0"
       (text "SD/MMC" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_20_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_20_1"
       (rectangle (start -20.32 17.78) (end 20.32 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2164,12 +2164,12 @@
         (number "G14" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_21_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_21_0"
       (text "DDR3/DDR3L/LPDDR2" (at 0 -2.54 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_21_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_21_1"
       (rectangle (start -20.32 88.9) (end 20.32 -96.52)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2719,12 +2719,12 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_22_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_22_0"
       (text "Crystal Oscillator" (at 0 1.27 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_22_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_22_1"
       (rectangle (start -20.32 5.08) (end 20.32 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2741,12 +2741,12 @@
         (number "B7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_23_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_23_0"
       (text "RTC" (at 0 1.27 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_23_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_23_1"
       (rectangle (start -20.32 5.08) (end 20.32 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2763,12 +2763,12 @@
         (number "D9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_24_0"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_24_0"
       (text "SATA" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_CPU_NXP_IMX_MCIMX6QP7CVT_24_1"
+    (symbol "kicad_cpu_nxp_imx_mcimx6qp7cvt_24_1"
       (rectangle (start -20.32 7.62) (end 20.32 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))

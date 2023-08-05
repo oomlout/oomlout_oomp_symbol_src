@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_IEEE_7427" (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_ieee_7427" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 15.24 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_IEEE_7427_0_0"
+    (symbol "kicad_74xx_ieee_7427_0_0"
       (polyline
         (pts
           (xy -4.064 -2.54)
@@ -36,7 +36,7 @@
         (effects (font (size 2.54 2.54)))
       )
     )
-    (symbol "kicad_74xx_IEEE_7427_0_1"
+    (symbol "kicad_74xx_ieee_7427_0_1"
       (rectangle (start -10.16 10.16) (end 10.16 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -50,7 +50,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_IEEE_7427_1_1"
+    (symbol "kicad_74xx_ieee_7427_1_1"
       (pin input line (at -17.78 7.62 0) (length 7.62)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -68,7 +68,7 @@
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_IEEE_7427_2_1"
+    (symbol "kicad_74xx_ieee_7427_2_1"
       (pin input line (at -17.78 7.62 0) (length 7.62)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
@@ -86,7 +86,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_IEEE_7427_3_1"
+    (symbol "kicad_74xx_ieee_7427_3_1"
       (pin input line (at -17.78 0 0) (length 7.62)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))

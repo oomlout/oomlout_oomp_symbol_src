@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Relay_SolidState_MOC3031M" (in_bom yes) (on_board yes)
+  (symbol "kicad_relay_solidstate_moc3031m" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Relay_SolidState_MOC3031M_0_0"
+    (symbol "kicad_relay_solidstate_moc3031m_0_0"
       (rectangle (start -0.381 -2.032) (end 1.397 -3.048)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -47,7 +47,7 @@
         (effects (font (size 0.508 0.508)))
       )
     )
-    (symbol "kicad_Relay_SolidState_MOC3031M_0_1"
+    (symbol "kicad_relay_solidstate_moc3031m_0_1"
       (rectangle (start -5.08 3.81) (end 5.08 -3.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -174,7 +174,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Relay_SolidState_MOC3031M_1_1"
+    (symbol "kicad_relay_solidstate_moc3031m_1_1"
       (pin passive line (at -7.62 2.54 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

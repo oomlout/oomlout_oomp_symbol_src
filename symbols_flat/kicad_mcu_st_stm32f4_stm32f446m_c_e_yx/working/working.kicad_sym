@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32F4_STM32F446M_C_E_Yx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32f4_stm32f446m_c_e_yx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -17.78 62.23 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "ST*WLCSP*Die421*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32F4_STM32F446M_C_E_Yx_0_1"
+    (symbol "kicad_mcu_st_stm32f4_stm32f446m_c_e_yx_0_1"
       (rectangle (start -17.78 -60.96) (end 17.78 60.96)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32F4_STM32F446M_C_E_Yx_1_1"
+    (symbol "kicad_mcu_st_stm32f4_stm32f446m_c_e_yx_1_1"
       (pin power_in line (at -2.54 63.5 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

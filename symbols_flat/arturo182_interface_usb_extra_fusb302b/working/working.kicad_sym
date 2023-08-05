@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Interface_USB_Extra_FUSB302B" (in_bom yes) (on_board yes)
+  (symbol "arturo182_interface_usb_extra_fusb302b" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 8.89 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15,7 +15,7 @@
     (property "LCSC" "C132291" (at 0 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Interface_USB_Extra_FUSB302B_0_0"
+    (symbol "arturo182_interface_usb_extra_fusb302b_0_0"
       (pin input line (at -11.43 -2.54 0) (length 2.54)
         (name "CC2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -77,7 +77,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_Interface_USB_Extra_FUSB302B_0_1"
+    (symbol "arturo182_interface_usb_extra_fusb302b_0_1"
       (rectangle (start -8.89 10.16) (end 8.89 -10.16)
         (stroke (width 0.0005) (type default))
         (fill (type background))

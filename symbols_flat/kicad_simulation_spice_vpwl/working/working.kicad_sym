@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Simulation_SPICE_VPWL" (pin_numbers hide) (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_simulation_spice_vpwl" (pin_numbers hide) (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "V" (at 2.54 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -30,7 +30,7 @@
     (property "ki_description" "Voltage source, piece-wise linear" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Simulation_SPICE_VPWL_0_0"
+    (symbol "kicad_simulation_spice_vpwl_0_0"
       (polyline
         (pts
           (xy -1.778 -1.016)
@@ -46,13 +46,13 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Simulation_SPICE_VPWL_0_1"
+    (symbol "kicad_simulation_spice_vpwl_0_1"
       (circle (center 0 0) (radius 2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Simulation_SPICE_VPWL_1_1"
+    (symbol "kicad_simulation_spice_vpwl_1_1"
       (pin passive line (at 0 5.08 270) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

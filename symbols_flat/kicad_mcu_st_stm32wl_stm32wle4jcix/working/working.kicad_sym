@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32WL_STM32WLE4JCIx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32wl_stm32wle4jcix" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -20.32 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "*UFBGA*5x5mm*Layout9x9*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32WL_STM32WLE4JCIx_0_1"
+    (symbol "kicad_mcu_st_stm32wl_stm32wle4jcix_0_1"
       (rectangle (start -20.32 -43.18) (end 22.86 45.72)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32WL_STM32WLE4JCIx_1_1"
+    (symbol "kicad_mcu_st_stm32wl_stm32wle4jcix_1_1"
       (pin power_in line (at 5.08 -45.72 90) (length 2.54)
         (name "VSSSMPS" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

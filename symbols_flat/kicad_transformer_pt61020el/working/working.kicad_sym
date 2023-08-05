@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transformer_PT61020EL" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transformer_pt61020el" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at -6.35 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Transformer*Ethernet*Bourns*PT61020EL*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transformer_PT61020EL_0_1"
+    (symbol "kicad_transformer_pt61020el_0_1"
       (rectangle (start -7.62 19.05) (end 7.62 -19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -515,7 +515,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Transformer_PT61020EL_1_1"
+    (symbol "kicad_transformer_pt61020el_1_1"
       (arc (start -5.08 -17.78) (mid -4.4477 -17.145) (end -5.08 -16.51)
         (stroke (width 0) (type default))
         (fill (type none))

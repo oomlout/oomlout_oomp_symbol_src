@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_DAC_AD9106BCP" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_dac_ad9106bcp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*LFCSP*1EP*5x5mm*P0.5mm*EP3.6x3.6mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_DAC_AD9106BCP_0_0"
+    (symbol "kicad_analog_dac_ad9106bcp_0_0"
       (rectangle (start -15.24 27.94) (end 15.24 -27.94)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -103,7 +103,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Analog_DAC_AD9106BCP_0_1"
+    (symbol "kicad_analog_dac_ad9106bcp_0_1"
       (polyline
         (pts
           (xy -1.27 -3.81)
@@ -153,7 +153,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Analog_DAC_AD9106BCP_1_1"
+    (symbol "kicad_analog_dac_ad9106bcp_1_1"
       (pin input line (at -17.78 10.16 0) (length 2.54)
         (name "SCLK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_DSP_Motorola_DSP56301" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_dsp_motorola_dsp56301" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "PQFP*28x28mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_DSP_Motorola_DSP56301_0_1"
+    (symbol "kicad_dsp_motorola_dsp56301_0_1"
       (rectangle (start -43.18 111.76) (end 48.26 -116.84)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -55,7 +55,7 @@
         (effects (font (size 1.524 1.524) bold))
       )
     )
-    (symbol "kicad_DSP_Motorola_DSP56301_1_1"
+    (symbol "kicad_dsp_motorola_dsp56301_1_1"
       (pin output line (at -50.8 -20.32 0) (length 7.62)
         (name "AA0/RAS0" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

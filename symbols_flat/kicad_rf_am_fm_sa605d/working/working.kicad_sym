@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_AM_FM_SA605D" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_am_fm_sa605d" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -22.606 24.13 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SO*12.8x7.5mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_AM_FM_SA605D_0_0"
+    (symbol "kicad_rf_am_fm_sa605d_0_0"
       (circle (center -1.27 -35.56) (radius 3.5814)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -284,7 +284,7 @@
         (effects (font (size 1.016 1.016)))
       )
     )
-    (symbol "kicad_RF_AM_FM_SA605D_0_1"
+    (symbol "kicad_rf_am_fm_sa605d_0_1"
       (rectangle (start -22.86 22.86) (end 22.86 -43.18)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -311,7 +311,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_RF_AM_FM_SA605D_1_1"
+    (symbol "kicad_rf_am_fm_sa605d_1_1"
       (pin input line (at -25.4 20.32 0) (length 2.54)
         (name "RF_IN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

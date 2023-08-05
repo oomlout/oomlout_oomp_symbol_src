@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_Switch_KSWA_2_46" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_switch_kswa_2_46" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Mini?Circuits*XX112* SOP*1EP*4.57x4.57mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_Switch_KSWA_2_46_0_0"
+    (symbol "kicad_rf_switch_kswa_2_46_0_0"
       (text "50" (at 1.524 -4.699 900)
         (effects (font (size 0.635 0.635)))
       )
@@ -29,7 +29,7 @@
         (effects (font (size 0.635 0.635)))
       )
     )
-    (symbol "kicad_RF_Switch_KSWA_2_46_0_1"
+    (symbol "kicad_rf_switch_kswa_2_46_0_1"
       (rectangle (start -12.7 7.62) (end 12.7 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -220,7 +220,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_RF_Switch_KSWA_2_46_1_1"
+    (symbol "kicad_rf_switch_kswa_2_46_1_1"
       (pin input line (at -15.24 -5.08 0) (length 2.54)
         (name "CONTROL2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

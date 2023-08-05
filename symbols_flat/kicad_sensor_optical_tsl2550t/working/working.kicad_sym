@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Optical_TSL2550T" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_optical_tsl2550t" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "AMS*TSL2550*SMD*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Optical_TSL2550T_0_0"
+    (symbol "kicad_sensor_optical_tsl2550t_0_0"
       (polyline
         (pts
           (xy 2.413 -0.889)
@@ -79,7 +79,7 @@
         (effects (font (size 1.524 1.524)))
       )
     )
-    (symbol "kicad_Sensor_Optical_TSL2550T_0_1"
+    (symbol "kicad_sensor_optical_tsl2550t_0_1"
       (polyline
         (pts
           (xy -6.223 -3.302)
@@ -217,7 +217,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Optical_TSL2550T_1_1"
+    (symbol "kicad_sensor_optical_tsl2550t_1_1"
       (pin power_in line (at 0 7.62 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

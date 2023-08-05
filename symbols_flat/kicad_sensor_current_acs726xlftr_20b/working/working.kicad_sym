@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Current_ACS726xLFTR_20B" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_current_acs726xlftr_20b" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 8.89 16.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Allegro*QSOP*3.9x8.7mm*P0.635mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Current_ACS726xLFTR_20B_0_1"
+    (symbol "kicad_sensor_current_acs726xlftr_20b_0_1"
       (rectangle (start -7.62 15.24) (end 7.62 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Current_ACS726xLFTR_20B_1_1"
+    (symbol "kicad_sensor_current_acs726xlftr_20b_1_1"
       (pin passive line (at -10.16 7.62 0) (length 2.54)
         (name "IP+" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

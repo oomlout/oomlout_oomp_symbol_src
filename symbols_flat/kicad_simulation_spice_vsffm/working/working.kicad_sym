@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Simulation_SPICE_VSFFM" (pin_numbers hide) (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_simulation_spice_vsffm" (pin_numbers hide) (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "V" (at 2.54 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -27,12 +27,12 @@
     (property "ki_description" "Voltage source, single-frequency FM" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Simulation_SPICE_VSFFM_0_0"
+    (symbol "kicad_simulation_spice_vsffm_0_0"
       (text "+" (at 0 1.905 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Simulation_SPICE_VSFFM_0_1"
+    (symbol "kicad_simulation_spice_vsffm_0_1"
       (arc (start -1.524 -0.254) (mid -1.27 -0.5069) (end -1.016 -0.254)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -110,7 +110,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Simulation_SPICE_VSFFM_1_1"
+    (symbol "kicad_simulation_spice_vsffm_1_1"
       (pin passive line (at 0 5.08 270) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

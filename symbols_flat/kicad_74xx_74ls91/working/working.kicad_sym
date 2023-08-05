@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_74LS91" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_74ls91" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_74LS91_1_0"
+    (symbol "kicad_74xx_74ls91_1_0"
       (pin power_in line (at 0 -12.7 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
@@ -54,7 +54,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS91_1_1"
+    (symbol "kicad_74xx_74ls91_1_1"
       (rectangle (start -7.62 5.08) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))

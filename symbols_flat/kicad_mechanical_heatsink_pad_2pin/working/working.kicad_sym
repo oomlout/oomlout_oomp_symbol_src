@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Mechanical_Heatsink_Pad_2Pin" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_mechanical_heatsink_pad_2pin" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "HS" (at 0 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Heatsink_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Mechanical_Heatsink_Pad_2Pin_0_1"
+    (symbol "kicad_mechanical_heatsink_pad_2pin_0_1"
       (polyline
         (pts
           (xy -0.3302 0)
@@ -58,7 +58,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Mechanical_Heatsink_Pad_2Pin_1_1"
+    (symbol "kicad_mechanical_heatsink_pad_2pin_1_1"
       (pin passive line (at -2.54 -2.54 90) (length 1.27)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

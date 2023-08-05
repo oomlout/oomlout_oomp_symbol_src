@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_Bluetooth_BM78SPPS5MC2" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_bluetooth_bm78spps5mc2" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 29.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "BM78SPPS5XC2*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_Bluetooth_BM78SPPS5MC2_0_1"
+    (symbol "kicad_rf_bluetooth_bm78spps5mc2_0_1"
       (rectangle (start -12.7 27.94) (end 12.7 -27.94)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -71,7 +71,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_Bluetooth_BM78SPPS5MC2_1_1"
+    (symbol "kicad_rf_bluetooth_bm78spps5mc2_1_1"
       (pin power_in line (at 0 -30.48 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

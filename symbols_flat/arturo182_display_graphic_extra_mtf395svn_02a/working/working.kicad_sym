@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Display_Graphic_Extra_MTF395SVN_02A" (in_bom yes) (on_board yes)
+  (symbol "arturo182_display_graphic_extra_mtf395svn_02a" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 7.62 16.51 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Display_Graphic_Extra_MTF395SVN_02A_0_1"
+    (symbol "arturo182_display_graphic_extra_mtf395svn_02a_0_1"
       (rectangle (start -7.62 15.24) (end 7.62 -12.7)
         (stroke (width 0) (type default))
         (fill (type background))
       )
     )
-    (symbol "arturo182_Display_Graphic_Extra_MTF395SVN_02A_1_1"
+    (symbol "arturo182_display_graphic_extra_mtf395svn_02a_1_1"
       (pin input line (at -10.16 -2.54 0) (length 2.54)
         (name "LEDK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

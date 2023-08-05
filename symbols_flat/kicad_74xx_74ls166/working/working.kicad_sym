@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_74LS166" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_74ls166" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "DIP?16*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_74LS166_1_0"
+    (symbol "kicad_74xx_74ls166_1_0"
       (pin input line (at -12.7 17.78 0) (length 5.08)
         (name "Ds" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -90,7 +90,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS166_1_1"
+    (symbol "kicad_74xx_74ls166_1_1"
       (rectangle (start -7.62 20.32) (end 7.62 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Microchip_ATmega_ATmega640V_8A" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_microchip_atmega_atmega640v_8a" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)) (justify bottom))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TQFP*14x14mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Microchip_ATmega_ATmega640V_8A_0_1"
+    (symbol "kicad_mcu_microchip_atmega_atmega640v_8a_0_1"
       (rectangle (start -16.51 -69.85) (end 16.51 69.85)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Microchip_ATmega_ATmega640V_8A_1_1"
+    (symbol "kicad_mcu_microchip_atmega_atmega640v_8a_1_1"
       (pin bidirectional line (at -20.32 -60.96 0) (length 3.81)
         (name "PG5" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

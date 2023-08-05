@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Linear_TPS51200DRC" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_linear_tps51200drc" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*VSON?10?1EP?3x3mm?P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Linear_TPS51200DRC_0_1"
+    (symbol "kicad_regulator_linear_tps51200drc_0_1"
       (rectangle (start -8.89 -8.89) (end 8.89 8.89)
         (stroke (width 0.254) (type default))
         (fill (type background))

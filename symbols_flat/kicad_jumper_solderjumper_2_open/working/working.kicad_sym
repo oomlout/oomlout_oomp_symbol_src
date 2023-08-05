@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Jumper_SolderJumper_2_Open" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_jumper_solderjumper_2_open" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "JP" (at 0 2.032 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SolderJumper*Open*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Jumper_SolderJumper_2_Open_0_1"
+    (symbol "kicad_jumper_solderjumper_2_open_0_1"
       (arc (start -0.254 1.016) (mid -1.2656 0) (end -0.254 -1.016)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -55,7 +55,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Jumper_SolderJumper_2_Open_1_1"
+    (symbol "kicad_jumper_solderjumper_2_open_1_1"
       (pin passive line (at -3.81 0 0) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

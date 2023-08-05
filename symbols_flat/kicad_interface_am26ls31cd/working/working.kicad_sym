@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_AM26LS31CD" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_am26ls31cd" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*3.9x9.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_AM26LS31CD_0_1"
+    (symbol "kicad_interface_am26ls31cd_0_1"
       (rectangle (start -10.16 22.86) (end 10.16 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -306,7 +306,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Interface_AM26LS31CD_1_1"
+    (symbol "kicad_interface_am26ls31cd_1_1"
       (polyline
         (pts
           (xy -6.35 -16.51)

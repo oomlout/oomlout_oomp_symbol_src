@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Relay_SolidState_LCC110" (in_bom yes) (on_board yes)
+  (symbol "kicad_relay_solidstate_lcc110" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 11.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Relay_SolidState_LCC110_0_0"
+    (symbol "kicad_relay_solidstate_lcc110_0_0"
       (text "NC" (at 2.54 8.89 0)
         (effects (font (size 1.016 1.016)))
       )
@@ -29,7 +29,7 @@
         (effects (font (size 1.016 1.016)))
       )
     )
-    (symbol "kicad_Relay_SolidState_LCC110_0_1"
+    (symbol "kicad_relay_solidstate_lcc110_0_1"
       (polyline
         (pts
           (xy -3.81 -0.635)
@@ -319,7 +319,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Relay_SolidState_LCC110_1_1"
+    (symbol "kicad_relay_solidstate_lcc110_1_1"
       (polyline
         (pts
           (xy 1.524 -6.223)

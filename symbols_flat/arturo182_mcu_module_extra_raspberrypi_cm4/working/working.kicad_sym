@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "MCU_Module_Extra:arturo182_MCU_Module_Extra_RaspberryPi_CM4" (in_bom yes) (on_board yes)
+  (symbol "MCU_Module_Extra:arturo182_mcu_module_extra_raspberrypi_cm4" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 12.7 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15,7 +15,7 @@
     (property "ki_locked" "" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_1_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_1_0"
       (text "600mA out" (at -5.08 10.16 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -30,7 +30,7 @@
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_1_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_1_1"
       (pin power_in line (at -21.59 -15.24 0) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -348,13 +348,13 @@
         (number "198" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_2_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_2_0"
       (rectangle (start -12.7 33.02) (end 12.7 -33.02)
         (stroke (width 0.0006))
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_2_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_2_1"
       (pin input line (at 17.78 -5.08 180) (length 5.08)
         (name "HDMI1_HOTPLUG" (effects (font (size 1.27 1.27))))
         (number "143" (effects (font (size 1.27 1.27))))
@@ -452,13 +452,13 @@
         (number "200" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_3_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_3_0"
       (rectangle (start -12.7 12.7) (end 12.7 -12.7)
         (stroke (width 0.0006))
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_3_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_3_1"
       (pin input line (at 17.78 7.62 180) (length 5.08)
         (name "PCIe_CLK_nREQ" (effects (font (size 1.27 1.27))))
         (number "102" (effects (font (size 1.27 1.27))))
@@ -492,13 +492,13 @@
         (number "124" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_4_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_4_0"
       (rectangle (start -12.7 22.86) (end 12.7 -22.86)
         (stroke (width 0.0006))
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_4_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_4_1"
       (pin bidirectional line (at 17.78 12.7 180) (length 5.08)
         (name "DSI0_D0-" (effects (font (size 1.27 1.27))))
         (number "157" (effects (font (size 1.27 1.27))))
@@ -564,13 +564,13 @@
         (number "196" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_5_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_5_0"
       (rectangle (start -12.7 12.7) (end 12.7 -17.78)
         (stroke (width 0.0006))
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_5_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_5_1"
       (pin bidirectional line (at 17.78 -5.08 180) (length 5.08)
         (name "GPIO26" (effects (font (size 1.27 1.27))))
         (number "24" (effects (font (size 1.27 1.27))))
@@ -608,13 +608,13 @@
         (number "82" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_6_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_6_0"
       (rectangle (start -12.7 27.94) (end 12.7 -30.48)
         (stroke (width 0.0006))
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_6_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_6_1"
       (pin bidirectional line (at 17.78 -27.94 180) (length 5.08)
         (name "LCD_D17" (effects (font (size 1.27 1.27))))
         (number "25" (effects (font (size 1.27 1.27))))
@@ -704,13 +704,13 @@
         (number "58" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_7_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_7_0"
       (rectangle (start -12.7 25.4) (end 12.7 -25.4)
         (stroke (width 0.0006))
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_7_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_7_1"
       (pin bidirectional line (at 17.78 22.86 180) (length 5.08)
         (name "Camera_GPIO" (effects (font (size 1.27 1.27))))
         (number "97" (effects (font (size 1.27 1.27))))
@@ -780,7 +780,7 @@
         (number "142" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_8_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_8_0"
       (text "Only on CM4Lite (without eMMC)" (at -10.16 0 900)
         (effects (font (size 1.27 1.27)))
       )
@@ -789,7 +789,7 @@
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_8_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_8_1"
       (pin passive line (at 17.78 7.62 180) (length 5.08)
         (name "SD_CLK" (effects (font (size 1.27 1.27))))
         (number "57" (effects (font (size 1.27 1.27))))
@@ -839,7 +839,7 @@
         (number "75" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_9_0"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_9_0"
       (text "1.8V" (at -8.89 15.24 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -851,7 +851,7 @@
         (fill (type background))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_RaspberryPi_CM4_9_1"
+    (symbol "arturo182_mcu_module_extra_raspberrypi_cm4_9_1"
       (pin bidirectional line (at 17.78 -2.54 180) (length 5.08)
         (name "Ethernet_Pair0-" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))

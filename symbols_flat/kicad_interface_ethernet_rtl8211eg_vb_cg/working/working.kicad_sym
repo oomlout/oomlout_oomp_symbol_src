@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_Ethernet_RTL8211EG_VB_CG" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_ethernet_rtl8211eg_vb_cg" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 22.86 -58.42 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*1EP*9x9mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_Ethernet_RTL8211EG_VB_CG_0_1"
+    (symbol "kicad_interface_ethernet_rtl8211eg_vb_cg_0_1"
       (rectangle (start -25.4 53.34) (end 25.4 -55.88)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_Ethernet_RTL8211EG_VB_CG_1_1"
+    (symbol "kicad_interface_ethernet_rtl8211eg_vb_cg_1_1"
       (pin output line (at -27.94 -35.56 0) (length 2.54)
         (name "CLK125" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

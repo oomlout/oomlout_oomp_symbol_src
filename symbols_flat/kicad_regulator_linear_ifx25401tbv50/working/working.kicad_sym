@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Linear_IFX25401TBV50" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_linear_ifx25401tbv50" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TO?263*TabPin3*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Linear_IFX25401TBV50_0_1"
+    (symbol "kicad_regulator_linear_ifx25401tbv50_0_1"
       (rectangle (start -7.62 2.54) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Regulator_Linear_IFX25401TBV50_1_1"
+    (symbol "kicad_regulator_linear_ifx25401tbv50_1_1"
       (pin power_in line (at -10.16 0 0) (length 2.54)
         (name "I" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

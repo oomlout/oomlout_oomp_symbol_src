@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Management_FPF2000" (in_bom yes) (on_board yes)
+  (symbol "kicad_power_management_fpf2000" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SOT?353*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Management_FPF2000_0_1"
+    (symbol "kicad_power_management_fpf2000_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Power_Management_FPF2000_1_1"
+    (symbol "kicad_power_management_fpf2000_1_1"
       (pin power_out line (at 10.16 2.54 180) (length 2.54)
         (name "VOUT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

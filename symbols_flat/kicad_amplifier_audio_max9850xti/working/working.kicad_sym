@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_MAX9850xTI" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_max9850xti" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 19.05 25.4 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TQFN*1EP*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_MAX9850xTI_0_1"
+    (symbol "kicad_amplifier_audio_max9850xti_0_1"
       (rectangle (start -12.7 22.86) (end 12.7 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Audio_MAX9850xTI_1_1"
+    (symbol "kicad_amplifier_audio_max9850xti_1_1"
       (pin bidirectional line (at -15.24 10.16 0) (length 2.54)
         (name "LRCLK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

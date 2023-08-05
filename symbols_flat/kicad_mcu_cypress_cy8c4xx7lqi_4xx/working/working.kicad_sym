@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Cypress_CY8C4xx7LQI_4xx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_cypress_cy8c4xx7lqi_4xx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -29.21 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*1EP*7x7mm*P0.4mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Cypress_CY8C4xx7LQI_4xx_1_0"
+    (symbol "kicad_mcu_cypress_cy8c4xx7lqi_4xx_1_0"
       (rectangle (start -30.48 -38.1) (end 30.48 38.1)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Cypress_CY8C4xx7LQI_4xx_1_1"
+    (symbol "kicad_mcu_cypress_cy8c4xx7lqi_4xx_1_1"
       (pin power_in line (at -7.62 43.18 270) (length 5.08)
         (name "VDDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

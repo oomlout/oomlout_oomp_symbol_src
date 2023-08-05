@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_GSM_UL865" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_gsm_ul865" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -19.05 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "*Telit*xL865*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_GSM_UL865_0_1"
+    (symbol "kicad_rf_gsm_ul865_0_1"
       (rectangle (start -19.05 41.91) (end 19.05 -52.07)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_GSM_UL865_1_1"
+    (symbol "kicad_rf_gsm_ul865_1_1"
       (pin output line (at -22.86 -22.86 0) (length 3.81)
         (name "C109/DCD/GPO" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

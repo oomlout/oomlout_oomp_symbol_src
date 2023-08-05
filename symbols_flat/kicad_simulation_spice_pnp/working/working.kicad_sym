@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Simulation_SPICE_PNP" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_simulation_spice_pnp" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at -2.54 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -27,7 +27,7 @@
     (property "ki_description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Simulation_SPICE_PNP_0_1"
+    (symbol "kicad_simulation_spice_pnp_0_1"
       (polyline
         (pts
           (xy -2.54 0)
@@ -78,7 +78,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Simulation_SPICE_PNP_1_1"
+    (symbol "kicad_simulation_spice_pnp_1_1"
       (pin open_collector line (at 2.54 5.08 270) (length 2.54)
         (name "C" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

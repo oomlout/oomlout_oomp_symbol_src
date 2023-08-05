@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_RJ45_Abracon_ARJP11A_MASA_B_A_EMU2" (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2" (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 0 -38.1 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "RJ45*Abracon*ARJP11A?MA*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_RJ45_Abracon_ARJP11A_MASA_B_A_EMU2_0_0"
+    (symbol "kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2_0_0"
       (rectangle (start -15.24 34.29) (end 15.24 -34.29)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -254,7 +254,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Connector_RJ45_Abracon_ARJP11A_MASA_B_A_EMU2_0_1"
+    (symbol "kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2_0_1"
       (circle (center -6.985 -19.685) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -404,7 +404,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Connector_RJ45_Abracon_ARJP11A_MASA_B_A_EMU2_1_0"
+    (symbol "kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2_1_0"
       (polyline
         (pts
           (xy -2.54 8.89)
@@ -447,7 +447,7 @@
         (effects (font (size 0.635 0.635)))
       )
     )
-    (symbol "kicad_Connector_RJ45_Abracon_ARJP11A_MASA_B_A_EMU2_1_1"
+    (symbol "kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2_1_1"
       (circle (center -11.43 7.62) (radius 0.0001)
         (stroke (width 0.508) (type default))
         (fill (type none))

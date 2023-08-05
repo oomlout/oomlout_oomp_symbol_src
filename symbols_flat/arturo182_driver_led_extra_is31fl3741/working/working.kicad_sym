@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Driver_LED_Extra_IS31FL3741" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "arturo182_driver_led_extra_is31fl3741" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 10.16 49.53 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Driver_LED_Extra_IS31FL3741_0_1"
+    (symbol "arturo182_driver_led_extra_is31fl3741_0_1"
       (rectangle (start -10.16 48.26) (end 10.16 -53.34)
         (stroke (width 0) (type solid))
         (fill (type background))
       )
     )
-    (symbol "arturo182_Driver_LED_Extra_IS31FL3741_1_1"
+    (symbol "arturo182_driver_led_extra_is31fl3741_1_1"
       (pin input line (at 13.97 -38.1 180) (length 3.81)
         (name "CS34" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

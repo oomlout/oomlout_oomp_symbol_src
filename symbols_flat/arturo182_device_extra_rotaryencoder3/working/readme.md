@@ -1,4 +1,4 @@
-# Device_Extra_RotaryEncoder3 by arturo182  
+# device_extra_rotaryencoder3 by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://github.com/arturo182/kicad-library  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Device_Extra |  
 | links | {'github_owner': 'arturo182', 'github_repo_name': 'kicad-library', 'github_src': 'https://github.com/arturo182/kicad-library/Video_Extra.kicad_sym', 'github_src_repo': 'https://github.com/arturo182/kicad-library', 'oomp_bot': 'arturo182_device_extra_rotaryencoder3/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/arturo182_device_extra_rotaryencoder3/working', 'oomp_doc': 'arturo182_device_extra_rotaryencoder3/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_device_extra_rotaryencoder3/working', 'oomp_src_flat': 'symbols_flat/arturo182_device_extra_rotaryencoder3/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_device_extra_rotaryencoder3/working'} |  
-| name | Device_Extra_RotaryEncoder3 |  
+| name | device_extra_rotaryencoder3 |  
 | oomp_key | oomp_arturo182_device_extra_rotaryencoder3 |  
 | oomp_key_simple | arturo182_device_extra_rotaryencoder3 |  
 | owner | arturo182 |  

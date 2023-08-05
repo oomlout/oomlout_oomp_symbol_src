@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Mechanical_Fiducial" (in_bom yes) (on_board yes)
+  (symbol "kicad_mechanical_fiducial" (in_bom yes) (on_board yes)
     (property "Reference" "FID" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Fiducial*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Mechanical_Fiducial_0_1"
+    (symbol "kicad_mechanical_fiducial_0_1"
       (circle (center 0 0) (radius 1.27)
         (stroke (width 0.508) (type default))
         (fill (type background))

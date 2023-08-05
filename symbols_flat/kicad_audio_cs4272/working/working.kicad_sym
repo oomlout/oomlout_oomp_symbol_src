@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Audio_CS4272" (in_bom yes) (on_board yes)
+  (symbol "kicad_audio_cs4272" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 24.13 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TSSOP*4.4x9.7mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Audio_CS4272_0_1"
+    (symbol "kicad_audio_cs4272_0_1"
       (rectangle (start -12.7 22.86) (end 12.7 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Audio_CS4272_1_1"
+    (symbol "kicad_audio_cs4272_1_1"
       (pin output line (at -15.24 15.24 0) (length 2.54)
         (name "XT0" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

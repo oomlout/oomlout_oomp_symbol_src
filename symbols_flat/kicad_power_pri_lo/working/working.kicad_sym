@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_power_PRI_LO" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_power_pri_lo" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Power symbol creates a global label with name \"PRI_LO\"" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_power_PRI_LO_0_1"
+    (symbol "kicad_power_pri_lo_0_1"
       (polyline
         (pts
           (xy 0 0)
@@ -38,7 +38,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_power_PRI_LO_1_1"
+    (symbol "kicad_power_pri_lo_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
         (name "PRI_LO" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

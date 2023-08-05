@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_D_TVS" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_d_tvs" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_D_TVS_0_1"
+    (symbol "kicad_device_d_tvs_0_1"
       (polyline
         (pts
           (xy 1.27 0)
@@ -52,7 +52,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_D_TVS_1_1"
+    (symbol "kicad_device_d_tvs_1_1"
       (pin passive line (at -3.81 0 0) (length 2.54)
         (name "A1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

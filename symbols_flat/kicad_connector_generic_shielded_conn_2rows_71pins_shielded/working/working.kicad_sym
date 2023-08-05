@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_Generic_Shielded_Conn_2Rows_71Pins_Shielded" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_generic_shielded_conn_2rows_71pins_shielded" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 1.524 45.466 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Connector*:*2Rows*Pins-1SH_* *FCC*2Rows*Pins-1SH_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_Generic_Shielded_Conn_2Rows_71Pins_Shielded_1_1"
+    (symbol "kicad_connector_generic_shielded_conn_2rows_71pins_shielded_1_1"
       (rectangle (start -1.27 44.45) (end 3.81 -46.99)
         (stroke (width 0.1524) (type default))
         (fill (type none))

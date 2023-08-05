@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32WB_STM32WB55REVx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32wb_stm32wb55revx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -17.78 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "QFN*1EP*8x8mm*P0.4mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32WB_STM32WB55REVx_0_1"
+    (symbol "kicad_mcu_st_stm32wb_stm32wb55revx_0_1"
       (rectangle (start -17.78 -43.18) (end 20.32 45.72)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32WB_STM32WB55REVx_1_1"
+    (symbol "kicad_mcu_st_stm32wb_stm32wb55revx_1_1"
       (pin power_in line (at -7.62 48.26 270) (length 2.54)
         (name "VBAT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,4 +1,4 @@
-# Device_Filter_EMI_CLC by arturo182  
+# device_filter_emi_clc by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Device |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_device_filter_emi_clc/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_device_filter_emi_clc/working', 'oomp_doc': 'kicad_device_filter_emi_clc/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_filter_emi_clc/working', 'oomp_src_flat': 'symbols_flat/kicad_device_filter_emi_clc/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_filter_emi_clc/working'} |  
-| name | Device_Filter_EMI_CLC |  
+| name | device_filter_emi_clc |  
 | oomp_key | oomp_kicad_device_filter_emi_clc |  
 | oomp_key_simple | kicad_device_filter_emi_clc |  
 | owner | arturo182 |  

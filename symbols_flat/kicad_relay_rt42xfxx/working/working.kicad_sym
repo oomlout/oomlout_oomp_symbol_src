@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Relay_RT42xFxx" (in_bom yes) (on_board yes)
+  (symbol "kicad_relay_rt42xfxx" (in_bom yes) (on_board yes)
     (property "Reference" "K" (at 16.51 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Relay*DPDT*RT2*FormC*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Relay_RT42xFxx_0_0"
+    (symbol "kicad_relay_rt42xfxx_0_0"
       (polyline
         (pts
           (xy -7.62 1.905)
@@ -31,7 +31,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Relay_RT42xFxx_0_1"
+    (symbol "kicad_relay_rt42xfxx_0_1"
       (rectangle (start -15.24 0) (end -13.335 0)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -237,7 +237,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Relay_RT42xFxx_1_1"
+    (symbol "kicad_relay_rt42xfxx_1_1"
       (pin passive line (at 0 -7.62 90) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))

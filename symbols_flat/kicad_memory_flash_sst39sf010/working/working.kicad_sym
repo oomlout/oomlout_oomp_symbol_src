@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_Flash_SST39SF010" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_flash_sst39sf010" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Silicon Storage Technology (SSF) 128k x 8 Flash ROM" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_Flash_SST39SF010_0_0"
+    (symbol "kicad_memory_flash_sst39sf010_0_0"
       (pin power_in line (at 0 -34.29 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "16" (effects (font (size 1.27 1.27))))
@@ -28,13 +28,13 @@
         (number "32" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Memory_Flash_SST39SF010_0_1"
+    (symbol "kicad_memory_flash_sst39sf010_0_1"
       (rectangle (start -10.16 31.75) (end 10.16 -29.21)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Memory_Flash_SST39SF010_1_1"
+    (symbol "kicad_memory_flash_sst39sf010_1_1"
       (pin input line (at -15.24 -15.24 0) (length 5.08)
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

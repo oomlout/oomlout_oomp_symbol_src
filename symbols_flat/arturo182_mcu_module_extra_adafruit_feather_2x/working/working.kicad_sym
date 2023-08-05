@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "MCU_Module_Extra:arturo182_MCU_Module_Extra_Adafruit_Feather_2X" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "MCU_Module_Extra:arturo182_mcu_module_extra_adafruit_feather_2x" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 12.7 24.13 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (id 3) (at -4.445 -41.275 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_MCU_Module_Extra_Adafruit_Feather_2X_0_1"
+    (symbol "arturo182_mcu_module_extra_adafruit_feather_2x_0_1"
       (circle (center -11.43 -23.495) (radius 0.889)
         (stroke (width 0))
         (fill (type none))
@@ -50,7 +50,7 @@
         (fill (type none))
       )
     )
-    (symbol "arturo182_MCU_Module_Extra_Adafruit_Feather_2X_1_1"
+    (symbol "arturo182_mcu_module_extra_adafruit_feather_2x_1_1"
       (pin bidirectional line (at -17.78 17.78 0) (length 3.81)
         (name "~RESET~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

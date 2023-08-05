@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_D_Dual_Series_KAC_Split" (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_d_dual_series_kac_split" (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_description" "Dual diode, cathode/anode/center" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_D_Dual_Series_KAC_Split_0_1"
+    (symbol "kicad_device_d_dual_series_kac_split_0_1"
       (pin passive line (at 3.81 0 180) (length 2.54)
         (name "K" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_D_Dual_Series_KAC_Split_1_0"
+    (symbol "kicad_device_d_dual_series_kac_split_1_0"
       (polyline
         (pts
           (xy 1.27 1.27)
@@ -37,7 +37,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_D_Dual_Series_KAC_Split_1_1"
+    (symbol "kicad_device_d_dual_series_kac_split_1_1"
       (polyline
         (pts
           (xy 1.27 0)
@@ -63,7 +63,7 @@
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_D_Dual_Series_KAC_Split_2_0"
+    (symbol "kicad_device_d_dual_series_kac_split_2_0"
       (polyline
         (pts
           (xy -1.27 1.27)
@@ -73,7 +73,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_D_Dual_Series_KAC_Split_2_1"
+    (symbol "kicad_device_d_dual_series_kac_split_2_1"
       (polyline
         (pts
           (xy -1.27 0)

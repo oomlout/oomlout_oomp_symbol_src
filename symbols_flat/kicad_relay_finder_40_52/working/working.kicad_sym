@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Relay_FINDER_40_52" (in_bom yes) (on_board yes)
+  (symbol "kicad_relay_finder_40_52" (in_bom yes) (on_board yes)
     (property "Reference" "K" (at 16.51 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Relay*DPDT*Finder*40.52*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Relay_FINDER_40_52_0_1"
+    (symbol "kicad_relay_finder_40_52_0_1"
       (rectangle (start -15.24 5.08) (end 15.24 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -231,7 +231,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Relay_FINDER_40_52_1_1"
+    (symbol "kicad_relay_finder_40_52_1_1"
       (pin passive line (at 0 -7.62 90) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))

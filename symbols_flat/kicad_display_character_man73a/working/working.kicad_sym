@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Display_Character_MAN73A" (pin_names (offset 0.635)) (in_bom yes) (on_board yes)
+  (symbol "kicad_display_character_man73a" (pin_names (offset 0.635)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 13.97 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*MAN73A*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Display_Character_MAN73A_0_0"
+    (symbol "kicad_display_character_man73a_0_0"
       (text "A" (at 3.175 10.16 0)
         (effects (font (size 0.508 0.508)))
       )
@@ -35,7 +35,7 @@
         (effects (font (size 0.508 0.508)))
       )
     )
-    (symbol "kicad_Display_Character_MAN73A_0_1"
+    (symbol "kicad_display_character_man73a_0_1"
       (rectangle (start -5.08 12.7) (end 5.08 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -65,7 +65,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Display_Character_MAN73A_1_1"
+    (symbol "kicad_display_character_man73a_1_1"
       (polyline
         (pts
           (xy -0.6604 7.1374)

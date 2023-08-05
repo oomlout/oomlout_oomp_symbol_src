@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_Motor_PG001M" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_motor_pg001m" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DIP* PDIP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_Motor_PG001M_0_1"
+    (symbol "kicad_driver_motor_pg001m_0_1"
       (rectangle (start 12.7 -12.7) (end -12.7 12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_Motor_PG001M_1_1"
+    (symbol "kicad_driver_motor_pg001m_1_1"
       (pin input line (at -15.24 10.16 0) (length 2.54)
         (name "~{RESET}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

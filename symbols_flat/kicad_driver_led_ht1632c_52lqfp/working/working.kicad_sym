@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_HT1632C_52LQFP" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_ht1632c_52lqfp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "LQFP*14x14mm*P1mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_HT1632C_52LQFP_0_1"
+    (symbol "kicad_driver_led_ht1632c_52lqfp_0_1"
       (rectangle (start -12.7 53.34) (end 12.7 -53.34)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_LED_HT1632C_52LQFP_1_1"
+    (symbol "kicad_driver_led_ht1632c_52lqfp_1_1"
       (pin output line (at 17.78 22.86 180) (length 5.08)
         (name "ROW11" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

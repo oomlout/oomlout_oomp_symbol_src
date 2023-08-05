@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Battery_Management_BQ24013" (in_bom yes) (on_board yes)
+  (symbol "kicad_battery_management_bq24013" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Texas*DRC0010J*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Battery_Management_BQ24013_0_1"
+    (symbol "kicad_battery_management_bq24013_0_1"
       (rectangle (start -7.62 10.16) (end 7.62 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Battery_Management_BQ24013_1_1"
+    (symbol "kicad_battery_management_bq24013_1_1"
       (pin power_in line (at -2.54 12.7 270) (length 2.54)
         (name "IN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

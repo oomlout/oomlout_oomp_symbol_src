@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32F0_STM32F042C_4_6_Tx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32f0_stm32f042c_4_6_tx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 36.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "LQFP*7x7mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32F0_STM32F042C_4_6_Tx_0_1"
+    (symbol "kicad_mcu_st_stm32f0_stm32f042c_4_6_tx_0_1"
       (rectangle (start -12.7 -35.56) (end 12.7 35.56)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32F0_STM32F042C_4_6_Tx_1_1"
+    (symbol "kicad_mcu_st_stm32f0_stm32f042c_4_6_tx_1_1"
       (pin power_in line (at -5.08 38.1 270) (length 2.54)
         (name "VBAT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

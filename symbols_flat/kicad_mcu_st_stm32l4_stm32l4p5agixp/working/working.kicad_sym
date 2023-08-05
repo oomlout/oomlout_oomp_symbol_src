@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32L4_STM32L4P5AGIxP" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32l4_stm32l4p5agixp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -33.02 107.95 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "*UFBGA*7x7mm*Layout13x13*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32L4_STM32L4P5AGIxP_0_1"
+    (symbol "kicad_mcu_st_stm32l4_stm32l4p5agixp_0_1"
       (rectangle (start -33.02 -104.14) (end 35.56 106.68)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32L4_STM32L4P5AGIxP_1_1"
+    (symbol "kicad_mcu_st_stm32l4_stm32l4p5agixp_1_1"
       (pin bidirectional line (at -38.1 60.96 0) (length 5.08)
         (name "PI10" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

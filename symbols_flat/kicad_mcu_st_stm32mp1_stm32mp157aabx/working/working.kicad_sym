@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32MP1_STM32MP157AABx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32mp1_stm32mp157aabx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -101.6 133.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "*LFBGA*16x16mm*Layout19x19*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32MP1_STM32MP157AABx_0_1"
+    (symbol "kicad_mcu_st_stm32mp1_stm32mp157aabx_0_1"
       (rectangle (start -101.6 -132.08) (end 104.14 132.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32MP1_STM32MP157AABx_1_1"
+    (symbol "kicad_mcu_st_stm32mp1_stm32mp157aabx_1_1"
       (pin power_in line (at -5.08 -137.16 90) (length 5.08)
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

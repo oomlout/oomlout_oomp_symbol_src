@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_LP5036" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_lp5036" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 49.53 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "VQFN?46?1EP?5x6mm?P0.4mm?EP2.8x3.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_LP5036_0_1"
+    (symbol "kicad_driver_led_lp5036_0_1"
       (rectangle (start -10.16 48.26) (end 10.16 -45.72)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_LED_LP5036_1_1"
+    (symbol "kicad_driver_led_lp5036_1_1"
       (pin power_out line (at 12.7 45.72 180) (length 2.54)
         (name "OUT0" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

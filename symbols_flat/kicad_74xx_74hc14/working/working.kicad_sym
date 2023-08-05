@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_74HC14" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_74hc14" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_74HC14_1_0"
+    (symbol "kicad_74xx_74hc14_1_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -44,7 +44,7 @@
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74HC14_1_1"
+    (symbol "kicad_74xx_74hc14_1_1"
       (polyline
         (pts
           (xy -1.905 -1.27)
@@ -65,7 +65,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74HC14_2_0"
+    (symbol "kicad_74xx_74hc14_2_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -85,7 +85,7 @@
         (number "4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74HC14_2_1"
+    (symbol "kicad_74xx_74hc14_2_1"
       (polyline
         (pts
           (xy -1.905 -1.27)
@@ -106,7 +106,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74HC14_3_0"
+    (symbol "kicad_74xx_74hc14_3_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -126,7 +126,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74HC14_3_1"
+    (symbol "kicad_74xx_74hc14_3_1"
       (polyline
         (pts
           (xy -1.905 -1.27)
@@ -147,7 +147,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74HC14_4_0"
+    (symbol "kicad_74xx_74hc14_4_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -167,7 +167,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74HC14_4_1"
+    (symbol "kicad_74xx_74hc14_4_1"
       (polyline
         (pts
           (xy -1.905 -1.27)
@@ -188,7 +188,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74HC14_5_0"
+    (symbol "kicad_74xx_74hc14_5_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -208,7 +208,7 @@
         (number "11" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74HC14_5_1"
+    (symbol "kicad_74xx_74hc14_5_1"
       (polyline
         (pts
           (xy -1.905 -1.27)
@@ -229,7 +229,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74HC14_6_0"
+    (symbol "kicad_74xx_74hc14_6_0"
       (polyline
         (pts
           (xy -3.81 3.81)
@@ -249,7 +249,7 @@
         (number "13" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74HC14_6_1"
+    (symbol "kicad_74xx_74hc14_6_1"
       (polyline
         (pts
           (xy -1.905 -1.27)
@@ -270,7 +270,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74HC14_7_0"
+    (symbol "kicad_74xx_74hc14_7_0"
       (pin power_in line (at 0 12.7 270) (length 5.08)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "14" (effects (font (size 1.27 1.27))))
@@ -280,7 +280,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74HC14_7_1"
+    (symbol "kicad_74xx_74hc14_7_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))

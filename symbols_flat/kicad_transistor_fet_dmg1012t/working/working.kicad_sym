@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transistor_FET_DMG1012T" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transistor_fet_dmg1012t" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?523*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transistor_FET_DMG1012T_0_1"
+    (symbol "kicad_transistor_fet_dmg1012t_0_1"
       (polyline
         (pts
           (xy 2.54 -3.81)
@@ -32,7 +32,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Transistor_FET_DMG1012T_1_1"
+    (symbol "kicad_transistor_fet_dmg1012t_1_1"
       (circle (center -2.286 0) (radius 0.254)
         (stroke (width 0) (type default))
         (fill (type outline))

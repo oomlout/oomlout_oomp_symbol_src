@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_D_Laser_1C2A" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_d_laser_1c2a" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "LD" (at -1.27 4.445 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*LaserDiode*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_D_Laser_1C2A_0_1"
+    (symbol "kicad_device_d_laser_1c2a_0_1"
       (polyline
         (pts
           (xy -4.064 1.27)
@@ -149,7 +149,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_D_Laser_1C2A_1_1"
+    (symbol "kicad_device_d_laser_1c2a_1_1"
       (pin passive line (at -7.62 0 0) (length 2.54)
         (name "K" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

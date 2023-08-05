@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_Audio_XLR5_Ground" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_audio_xlr5_ground" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Jack*XLR*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_Audio_XLR5_Ground_0_1"
+    (symbol "kicad_connector_audio_xlr5_ground_0_1"
       (circle (center -3.556 0) (radius 1.016)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -126,7 +126,7 @@
         (effects (font (size 1.016 1.016) bold))
       )
     )
-    (symbol "kicad_Connector_Audio_XLR5_Ground_1_1"
+    (symbol "kicad_connector_audio_xlr5_ground_1_1"
       (pin passive line (at -7.62 0 0) (length 2.54)
         (name "P1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

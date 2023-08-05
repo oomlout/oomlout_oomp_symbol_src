@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_Expansion_PCA9548ADB" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_expansion_pca9548adb" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 21.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SSOP*5.3x8.2mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_Expansion_PCA9548ADB_0_1"
+    (symbol "kicad_interface_expansion_pca9548adb_0_1"
       (rectangle (start -7.62 20.32) (end 7.62 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_Expansion_PCA9548ADB_1_1"
+    (symbol "kicad_interface_expansion_pca9548adb_1_1"
       (pin input line (at -10.16 -12.7 0) (length 2.54)
         (name "A0" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Display_Character_NHD_C0220BIZ" (in_bom yes) (on_board yes)
+  (symbol "kicad_display_character_nhd_c0220biz" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "NHD*C0220BiZ*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Display_Character_NHD_C0220BIZ_0_1"
+    (symbol "kicad_display_character_nhd_c0220biz_0_1"
       (rectangle (start -7.62 10.16) (end 7.62 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Display_Character_NHD_C0220BIZ_1_1"
+    (symbol "kicad_display_character_nhd_c0220biz_1_1"
       (pin input line (at -10.16 -2.54 0) (length 2.54)
         (name "~{RST}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

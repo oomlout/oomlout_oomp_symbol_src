@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Battery_Management_BQ78350DBT" (in_bom yes) (on_board yes)
+  (symbol "kicad_battery_management_bq78350dbt" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 26.67 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TSSOP*4.4x7.8mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Battery_Management_BQ78350DBT_0_1"
+    (symbol "kicad_battery_management_bq78350dbt_0_1"
       (rectangle (start -10.16 25.4) (end 10.16 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Battery_Management_BQ78350DBT_1_1"
+    (symbol "kicad_battery_management_bq78350dbt_1_1"
       (pin open_collector line (at 12.7 10.16 180) (length 2.54)
         (name "COM" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Triac_Thyristor_BT169B" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_triac_thyristor_bt169b" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 2.54 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TO?92*Inline*Narrow*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Triac_Thyristor_BT169B_0_1"
+    (symbol "kicad_triac_thyristor_bt169b_0_1"
       (polyline
         (pts
           (xy -1.27 -2.54)
@@ -57,7 +57,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Triac_Thyristor_BT169B_1_1"
+    (symbol "kicad_triac_thyristor_bt169b_1_1"
       (pin passive line (at 0 3.81 270) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -72,7 +72,7 @@
       )
     )
   )
-  (symbol "kicad_Triac_Thyristor_BT169D" (extends "kicad_Triac_Thyristor_BT169B")
+  (symbol "kicad_triac_thyristor_bt169d" (extends "kicad_triac_thyristor_bt169b")
     (property "Reference" "Q" (at 2.54 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -95,7 +95,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BT169G" (extends "kicad_Triac_Thyristor_BT169B")
+  (symbol "kicad_triac_thyristor_bt169g" (extends "kicad_triac_thyristor_bt169b")
     (property "Reference" "Q" (at 2.54 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -118,7 +118,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_TIC106" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_triac_thyristor_tic106" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 2.54 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -140,7 +140,7 @@
     (property "ki_fp_filters" "TO?220*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Triac_Thyristor_TIC106_0_1"
+    (symbol "kicad_triac_thyristor_tic106_0_1"
       (polyline
         (pts
           (xy -1.27 -2.54)
@@ -176,7 +176,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Triac_Thyristor_TIC106_1_1"
+    (symbol "kicad_triac_thyristor_tic106_1_1"
       (pin passive line (at 0 -3.81 90) (length 2.54)
         (name "K" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -191,7 +191,7 @@
       )
     )
   )
-  (symbol "kicad_Triac_Thyristor_TIC116" (extends "kicad_Triac_Thyristor_TIC106")
+  (symbol "kicad_triac_thyristor_tic116" (extends "kicad_triac_thyristor_tic106")
     (property "Reference" "Q" (at 2.54 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -214,7 +214,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_TIC126" (extends "kicad_Triac_Thyristor_TIC106")
+  (symbol "kicad_triac_thyristor_tic126" (extends "kicad_triac_thyristor_tic106")
     (property "Reference" "Q" (at 2.54 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -237,7 +237,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_TIC226" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_triac_thyristor_tic226" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -259,7 +259,7 @@
     (property "ki_fp_filters" "TO?220*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Triac_Thyristor_TIC226_0_1"
+    (symbol "kicad_triac_thyristor_tic226_0_1"
       (polyline
         (pts
           (xy -2.54 -1.27)
@@ -303,7 +303,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Triac_Thyristor_TIC226_1_1"
+    (symbol "kicad_triac_thyristor_tic226_1_1"
       (pin passive line (at 0 -3.81 90) (length 2.54)
         (name "A1" (effects (font (size 0.635 0.635))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -318,7 +318,7 @@
       )
     )
   )
-  (symbol "kicad_Triac_Thyristor_BT136_500" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bt136_500" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -341,7 +341,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BT136_600" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bt136_600" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -364,7 +364,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BT136_800" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bt136_800" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -387,7 +387,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BT138_600" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bt138_600" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -410,7 +410,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BT138_800" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bt138_800" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -433,7 +433,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BT139_600" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bt139_600" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -456,7 +456,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_600B" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_600b" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -479,7 +479,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_600BW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_600bw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -502,7 +502,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_600C" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_600c" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -525,7 +525,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_600CW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_600cw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -548,7 +548,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_600SW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_600sw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -571,7 +571,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_800B" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_800b" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -594,7 +594,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_800BW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_800bw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -617,7 +617,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_800C" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_800c" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -640,7 +640,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_800CW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_800cw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -663,7 +663,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTA16_800SW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_bta16_800sw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -686,7 +686,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_600B" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_600b" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -709,7 +709,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_600BW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_600bw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -732,7 +732,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_600C" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_600c" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -755,7 +755,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_600CW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_600cw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -778,7 +778,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_600SW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_600sw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -801,7 +801,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_800B" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_800b" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -824,7 +824,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_800BW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_800bw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -847,7 +847,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_800C" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_800c" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -870,7 +870,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_800CW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_800cw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -893,7 +893,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_BTB16_800SW" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_btb16_800sw" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -916,7 +916,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_TIC206" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_tic206" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -939,7 +939,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_TIC216" (extends "kicad_Triac_Thyristor_TIC226")
+  (symbol "kicad_triac_thyristor_tic216" (extends "kicad_triac_thyristor_tic226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -962,7 +962,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_X0202MN" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_triac_thyristor_x0202mn" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 2.54 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -984,7 +984,7 @@
     (property "ki_fp_filters" "SOT?223*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Triac_Thyristor_X0202MN_0_1"
+    (symbol "kicad_triac_thyristor_x0202mn_0_1"
       (polyline
         (pts
           (xy -1.27 -2.54)
@@ -1020,7 +1020,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Triac_Thyristor_X0202MN_1_1"
+    (symbol "kicad_triac_thyristor_x0202mn_1_1"
       (pin passive line (at 0 -3.81 90) (length 2.54)
         (name "K" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -1039,7 +1039,7 @@
       )
     )
   )
-  (symbol "kicad_Triac_Thyristor_X0202NN" (extends "kicad_Triac_Thyristor_X0202MN")
+  (symbol "kicad_triac_thyristor_x0202nn" (extends "kicad_triac_thyristor_x0202mn")
     (property "Reference" "Q" (at 2.54 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1062,7 +1062,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_Z0103MN" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_triac_thyristor_z0103mn" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1084,7 +1084,7 @@
     (property "ki_fp_filters" "SOT*223*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Triac_Thyristor_Z0103MN_0_1"
+    (symbol "kicad_triac_thyristor_z0103mn_0_1"
       (polyline
         (pts
           (xy -2.54 -1.27)
@@ -1128,7 +1128,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Triac_Thyristor_Z0103MN_1_1"
+    (symbol "kicad_triac_thyristor_z0103mn_1_1"
       (pin passive line (at 0 -3.81 90) (length 2.54)
         (name "A1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -1147,7 +1147,7 @@
       )
     )
   )
-  (symbol "kicad_Triac_Thyristor_Z0103NN" (extends "kicad_Triac_Thyristor_Z0103MN")
+  (symbol "kicad_triac_thyristor_z0103nn" (extends "kicad_triac_thyristor_z0103mn")
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1170,7 +1170,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_Z0107MN" (extends "kicad_Triac_Thyristor_Z0103MN")
+  (symbol "kicad_triac_thyristor_z0107mn" (extends "kicad_triac_thyristor_z0103mn")
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1193,7 +1193,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_Z0107NN" (extends "kicad_Triac_Thyristor_Z0103MN")
+  (symbol "kicad_triac_thyristor_z0107nn" (extends "kicad_triac_thyristor_z0103mn")
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1216,7 +1216,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_Z0109MN" (extends "kicad_Triac_Thyristor_Z0103MN")
+  (symbol "kicad_triac_thyristor_z0109mn" (extends "kicad_triac_thyristor_z0103mn")
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1239,7 +1239,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_Z0109NN" (extends "kicad_Triac_Thyristor_Z0103MN")
+  (symbol "kicad_triac_thyristor_z0109nn" (extends "kicad_triac_thyristor_z0103mn")
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1262,7 +1262,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_Z0110MN" (extends "kicad_Triac_Thyristor_Z0103MN")
+  (symbol "kicad_triac_thyristor_z0110mn" (extends "kicad_triac_thyristor_z0103mn")
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1285,7 +1285,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Triac_Thyristor_Z0110NN" (extends "kicad_Triac_Thyristor_Z0103MN")
+  (symbol "kicad_triac_thyristor_z0110nn" (extends "kicad_triac_thyristor_z0103mn")
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1308,7 +1308,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_CK6418" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ck6418" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 6.096 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1333,7 +1333,7 @@
     (property "ki_fp_filters" "VALVE*MINI*PENTODE*LINEAR*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_CK6418_0_1"
+    (symbol "kicad_valve_ck6418_0_1"
       (arc (start -5.08 -1.27) (mid 0 -6.3279) (end 5.08 -1.27)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -1377,7 +1377,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_CK6418_1_0"
+    (symbol "kicad_valve_ck6418_1_0"
       (polyline
         (pts
           (xy -5.08 0)
@@ -1419,7 +1419,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_CK6418_1_1"
+    (symbol "kicad_valve_ck6418_1_1"
       (circle (center -2.54 -3.81) (radius 0.3556)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -1543,7 +1543,7 @@
         (number "4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_CK6418_2_1"
+    (symbol "kicad_valve_ck6418_2_1"
       (polyline
         (pts
           (xy 2.54 -7.62)
@@ -1567,7 +1567,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_CK548DX" (extends "kicad_Valve_CK6418")
+  (symbol "kicad_valve_ck548dx" (extends "kicad_valve_ck6418")
     (property "Reference" "U" (at 6.096 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1590,7 +1590,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_JAN6418" (extends "kicad_Valve_CK6418")
+  (symbol "kicad_valve_jan6418" (extends "kicad_valve_ck6418")
     (property "Reference" "U" (at 6.096 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1613,7 +1613,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_NOS_6418" (extends "kicad_Valve_CK6418")
+  (symbol "kicad_valve_nos_6418" (extends "kicad_valve_ck6418")
     (property "Reference" "U" (at 6.096 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1636,7 +1636,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_EABC80" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_eabc80" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1661,7 +1661,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_EABC80_0_1"
+    (symbol "kicad_valve_eabc80_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -1688,7 +1688,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EABC80_1_0"
+    (symbol "kicad_valve_eabc80_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -1706,7 +1706,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EABC80_1_1"
+    (symbol "kicad_valve_eabc80_1_1"
       (polyline
         (pts
           (xy -2.54 5.08)
@@ -1730,7 +1730,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EABC80_2_1"
+    (symbol "kicad_valve_eabc80_2_1"
       (polyline
         (pts
           (xy -2.54 -6.858)
@@ -1794,7 +1794,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EABC80_3_0"
+    (symbol "kicad_valve_eabc80_3_0"
       (polyline
         (pts
           (xy -5.08 0)
@@ -1828,7 +1828,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EABC80_3_1"
+    (symbol "kicad_valve_eabc80_3_1"
       (polyline
         (pts
           (xy -1.905 0)
@@ -1879,7 +1879,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EABC80_4_1"
+    (symbol "kicad_valve_eabc80_4_1"
       (arc (start 2.54 -6.35) (mid 0 -5.1292) (end -2.54 -6.35)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -1894,7 +1894,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_6AK8" (extends "kicad_Valve_EABC80")
+  (symbol "kicad_valve_6ak8" (extends "kicad_valve_eabc80")
     (property "Reference" "U" (at 5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1917,7 +1917,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_9AK8" (extends "kicad_Valve_EABC80")
+  (symbol "kicad_valve_9ak8" (extends "kicad_valve_eabc80")
     (property "Reference" "U" (at 5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1940,7 +1940,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_PABC80" (extends "kicad_Valve_EABC80")
+  (symbol "kicad_valve_pabc80" (extends "kicad_valve_eabc80")
     (property "Reference" "U" (at 5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1963,7 +1963,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_UABC80" (extends "kicad_Valve_EABC80")
+  (symbol "kicad_valve_uabc80" (extends "kicad_valve_eabc80")
     (property "Reference" "U" (at 5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1986,7 +1986,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_EC92" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ec92" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.048 7.874 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -2011,7 +2011,7 @@
     (property "ki_fp_filters" "VALVE*MINI*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_EC92_0_1"
+    (symbol "kicad_valve_ec92_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -2038,7 +2038,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EC92_1_0"
+    (symbol "kicad_valve_ec92_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -2080,7 +2080,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EC92_1_1"
+    (symbol "kicad_valve_ec92_1_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -2115,7 +2115,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EC92_2_1"
+    (symbol "kicad_valve_ec92_2_1"
       (arc (start 2.54 -6.35) (mid 0 -5.1292) (end -2.54 -6.35)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -2130,7 +2130,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_ECC81" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ecc81" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.302 7.874 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -2155,7 +2155,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_ECC81_0_1"
+    (symbol "kicad_valve_ecc81_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -2182,7 +2182,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECC81_1_0"
+    (symbol "kicad_valve_ecc81_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -2200,7 +2200,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECC81_1_1"
+    (symbol "kicad_valve_ecc81_1_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -2259,7 +2259,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECC81_2_0"
+    (symbol "kicad_valve_ecc81_2_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -2277,7 +2277,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECC81_2_1"
+    (symbol "kicad_valve_ecc81_2_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -2336,7 +2336,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECC81_3_1"
+    (symbol "kicad_valve_ecc81_3_1"
       (arc (start 0 -6.35) (mid -1.27 -5.5651) (end -2.54 -6.35)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -2359,7 +2359,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_ECC83" (extends "kicad_Valve_ECC81")
+  (symbol "kicad_valve_ecc83" (extends "kicad_valve_ecc81")
     (property "Reference" "U" (at 3.302 7.874 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -2382,7 +2382,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_ECC88" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ecc88" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 4.318 7.112 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -2407,7 +2407,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_ECC88_0_1"
+    (symbol "kicad_valve_ecc88_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -2441,7 +2441,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECC88_1_0"
+    (symbol "kicad_valve_ecc88_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -2459,7 +2459,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECC88_1_1"
+    (symbol "kicad_valve_ecc88_1_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -2518,7 +2518,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECC88_2_0"
+    (symbol "kicad_valve_ecc88_2_0"
       (polyline
         (pts
           (xy -5.08 0)
@@ -2577,7 +2577,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECC88_2_1"
+    (symbol "kicad_valve_ecc88_2_1"
       (arc (start 2.54 -5.08) (mid 0 -3.0968) (end -2.54 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -2595,7 +2595,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECC88_3_1"
+    (symbol "kicad_valve_ecc88_3_1"
       (arc (start 2.54 -6.35) (mid 0 -5.1292) (end -2.54 -6.35)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -2610,7 +2610,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_ECH81" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ech81" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 12.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -2635,7 +2635,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_ECH81_0_1"
+    (symbol "kicad_valve_ech81_0_1"
       (arc (start -5.08 -5.08) (mid 0 -10.1379) (end 5.08 -5.08)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -2663,7 +2663,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECH81_1_0"
+    (symbol "kicad_valve_ech81_1_0"
       (polyline
         (pts
           (xy -2.54 -6.35)
@@ -2673,7 +2673,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECH81_1_1"
+    (symbol "kicad_valve_ech81_1_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -2741,7 +2741,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECH81_2_0"
+    (symbol "kicad_valve_ech81_2_0"
       (polyline
         (pts
           (xy -5.08 -3.81)
@@ -2783,7 +2783,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECH81_2_1"
+    (symbol "kicad_valve_ech81_2_1"
       (polyline
         (pts
           (xy -4.572 -5.588)
@@ -3083,7 +3083,7 @@
         (number "~" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECH81_3_1"
+    (symbol "kicad_valve_ech81_3_1"
       (arc (start 2.54 -6.35) (mid 0 -4.7802) (end -2.54 -6.35)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -3098,7 +3098,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_ECL82" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ecl82" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -3123,7 +3123,7 @@
     (property "ki_fp_filters" "Valve*Noval*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_ECL82_0_1"
+    (symbol "kicad_valve_ecl82_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -3151,7 +3151,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECL82_1_0"
+    (symbol "kicad_valve_ecl82_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -3161,7 +3161,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECL82_1_1"
+    (symbol "kicad_valve_ecl82_1_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -3228,7 +3228,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECL82_2_0"
+    (symbol "kicad_valve_ecl82_2_0"
       (polyline
         (pts
           (xy -2.54 -6.35)
@@ -3262,7 +3262,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECL82_2_1"
+    (symbol "kicad_valve_ecl82_2_1"
       (polyline
         (pts
           (xy -5.08 -2.54)
@@ -3445,7 +3445,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECL82_3_1"
+    (symbol "kicad_valve_ecl82_3_1"
       (polyline
         (pts
           (xy -2.54 -6.985)
@@ -3479,7 +3479,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_ECL86" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ecl86" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -3504,7 +3504,7 @@
     (property "ki_fp_filters" "Valve*Noval*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_ECL86_0_1"
+    (symbol "kicad_valve_ecl86_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -3533,7 +3533,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECL86_1_1"
+    (symbol "kicad_valve_ecl86_1_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -3608,7 +3608,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECL86_2_0"
+    (symbol "kicad_valve_ecl86_2_0"
       (polyline
         (pts
           (xy -2.54 -6.35)
@@ -3634,7 +3634,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECL86_2_1"
+    (symbol "kicad_valve_ecl86_2_1"
       (polyline
         (pts
           (xy -5.08 -2.54)
@@ -3825,7 +3825,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECL86_3_1"
+    (symbol "kicad_valve_ecl86_3_1"
       (polyline
         (pts
           (xy -2.54 -6.985)
@@ -3858,7 +3858,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_EF80" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ef80" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.556 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -3883,7 +3883,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_EF80_0_1"
+    (symbol "kicad_valve_ef80_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -3911,7 +3911,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EF80_1_0"
+    (symbol "kicad_valve_ef80_1_0"
       (polyline
         (pts
           (xy -5.08 -1.27)
@@ -3985,7 +3985,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EF80_1_1"
+    (symbol "kicad_valve_ef80_1_1"
       (polyline
         (pts
           (xy -4.445 2.54)
@@ -4148,7 +4148,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EF80_2_1"
+    (symbol "kicad_valve_ef80_2_1"
       (polyline
         (pts
           (xy -2.54 -6.858)
@@ -4181,7 +4181,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_EF85" (extends "kicad_Valve_EF80")
+  (symbol "kicad_valve_ef85" (extends "kicad_valve_ef80")
     (property "Reference" "U" (at 3.556 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -4204,7 +4204,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_EF83" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ef83" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -4229,7 +4229,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_EF83_0_1"
+    (symbol "kicad_valve_ef83_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -4257,7 +4257,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EF83_1_0"
+    (symbol "kicad_valve_ef83_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -4283,7 +4283,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EF83_1_1"
+    (symbol "kicad_valve_ef83_1_1"
       (polyline
         (pts
           (xy -5.08 -1.27)
@@ -4494,7 +4494,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EF83_2_1"
+    (symbol "kicad_valve_ef83_2_1"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -4527,7 +4527,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_EF86" (extends "kicad_Valve_EF83")
+  (symbol "kicad_valve_ef86" (extends "kicad_valve_ef83")
     (property "Reference" "U" (at 3.81 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -4550,7 +4550,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Valve_EL34" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_el34" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -4575,7 +4575,7 @@
     (property "ki_fp_filters" "VALVE*OCTAL*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_EL34_0_1"
+    (symbol "kicad_valve_el34_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -4603,7 +4603,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EL34_1_0"
+    (symbol "kicad_valve_el34_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -4613,7 +4613,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EL34_1_1"
+    (symbol "kicad_valve_el34_1_1"
       (polyline
         (pts
           (xy -5.08 -1.27)
@@ -4817,7 +4817,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EL34_2_1"
+    (symbol "kicad_valve_el34_2_1"
       (polyline
         (pts
           (xy -2.54 -6.35)
@@ -4850,7 +4850,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_EL84" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_el84" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -4875,7 +4875,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_EL84_0_1"
+    (symbol "kicad_valve_el84_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -4903,7 +4903,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EL84_1_0"
+    (symbol "kicad_valve_el84_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -4913,7 +4913,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EL84_1_1"
+    (symbol "kicad_valve_el84_1_1"
       (polyline
         (pts
           (xy -5.08 -1.27)
@@ -5120,7 +5120,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EL84_2_1"
+    (symbol "kicad_valve_el84_2_1"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -5153,7 +5153,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_EM84" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_em84" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -5178,7 +5178,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_EM84_0_1"
+    (symbol "kicad_valve_em84_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -5205,7 +5205,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EM84_1_0"
+    (symbol "kicad_valve_em84_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -5215,7 +5215,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EM84_1_1"
+    (symbol "kicad_valve_em84_1_1"
       (circle (center -2.794 2.032) (radius 0.508)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -5355,7 +5355,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EM84_2_0"
+    (symbol "kicad_valve_em84_2_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -5381,7 +5381,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EM84_2_1"
+    (symbol "kicad_valve_em84_2_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -5440,7 +5440,7 @@
         (number "~" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EM84_3_1"
+    (symbol "kicad_valve_em84_3_1"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -5473,7 +5473,7 @@
       )
     )
   )
-  (symbol "kicad_Valve_STABI" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_stabi" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -5489,7 +5489,7 @@
     (property "ki_fp_filters" "VALVE*GLIMM*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_STABI_1_0"
+    (symbol "kicad_valve_stabi_1_0"
       (polyline
         (pts
           (xy 0 -2.54)
@@ -5507,7 +5507,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_STABI_1_1"
+    (symbol "kicad_valve_stabi_1_1"
       (polyline
         (pts
           (xy 0 -2.54)
@@ -5561,7 +5561,7 @@
       )
     )
   )
-  (symbol "kicad_Video_AD725" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_ad725" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -5583,13 +5583,13 @@
     (property "ki_fp_filters" "SOIC*7.5x10.3mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_AD725_0_1"
+    (symbol "kicad_video_ad725_0_1"
       (rectangle (start -15.24 12.7) (end 15.24 -13.97)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_AD725_1_1"
+    (symbol "kicad_video_ad725_1_1"
       (pin input line (at -22.86 7.62 0) (length 7.62)
         (name "NTSC/PAL" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -5656,7 +5656,7 @@
       )
     )
   )
-  (symbol "kicad_Video_AD9708AR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_ad9708ar" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 20.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -5675,13 +5675,13 @@
     (property "ki_description" "Video DAC (32 MHz), SOIC/TSSOP-28" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_AD9708AR_0_1"
+    (symbol "kicad_video_ad9708ar_0_1"
       (rectangle (start -13.97 19.05) (end 13.97 -19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_AD9708AR_1_1"
+    (symbol "kicad_video_ad9708ar_1_1"
       (pin input line (at -17.78 -2.54 0) (length 3.81)
         (name "DB7" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -5768,7 +5768,7 @@
       )
     )
   )
-  (symbol "kicad_Video_AD9891" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_ad9891" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 59.69 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -5790,13 +5790,13 @@
     (property "ki_fp_filters" "BGA*9.0x9.0mm*Layout10x10*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_AD9891_0_1"
+    (symbol "kicad_video_ad9891_0_1"
       (rectangle (start 13.97 -55.88) (end -13.97 55.88)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_AD9891_1_1"
+    (symbol "kicad_video_ad9891_1_1"
       (pin bidirectional line (at -17.78 33.02 0) (length 3.81)
         (name "VD" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
@@ -6047,7 +6047,7 @@
       )
     )
   )
-  (symbol "kicad_Video_AD9895" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_ad9895" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 59.69 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6069,13 +6069,13 @@
     (property "ki_fp_filters" "BGA*9.0x9.0mm*Layout10x10*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_AD9895_0_1"
+    (symbol "kicad_video_ad9895_0_1"
       (rectangle (start 13.97 -55.88) (end -13.97 55.88)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_AD9895_1_1"
+    (symbol "kicad_video_ad9895_1_1"
       (pin bidirectional line (at -17.78 33.02 0) (length 3.81)
         (name "VD" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
@@ -6334,7 +6334,7 @@
       )
     )
   )
-  (symbol "kicad_Video_AD9984AKST" (in_bom yes) (on_board yes)
+  (symbol "kicad_video_ad9984akst" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 10.16 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -6356,13 +6356,13 @@
     (property "ki_fp_filters" "LQFP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_AD9984AKST_0_1"
+    (symbol "kicad_video_ad9984akst_0_1"
       (rectangle (start 12.7 50.8) (end -15.24 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_AD9984AKST_0_2"
+    (symbol "kicad_video_ad9984akst_0_2"
       (polyline
         (pts
           (xy -113.03 -55.88)
@@ -6375,7 +6375,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Video_AD9984AKST_1_1"
+    (symbol "kicad_video_ad9984akst_1_1"
       (pin power_in line (at 2.54 55.88 270) (length 5.08)
         (name "VD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -6698,7 +6698,7 @@
       )
     )
   )
-  (symbol "kicad_Video_ADA4430_1YKSZ" (in_bom yes) (on_board yes)
+  (symbol "kicad_video_ada4430_1yksz" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -3.81 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -6720,13 +6720,13 @@
     (property "ki_fp_filters" "SOT?363*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_ADA4430_1YKSZ_0_1"
+    (symbol "kicad_video_ada4430_1yksz_0_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_ADA4430_1YKSZ_1_1"
+    (symbol "kicad_video_ada4430_1yksz_1_1"
       (pin input line (at -7.62 2.54 0) (length 2.54)
         (name "V_{IN}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -6753,7 +6753,7 @@
       )
     )
   )
-  (symbol "kicad_Video_ADA4430_1WYRTZ" (extends "kicad_Video_ADA4430-1YKSZ")
+  (symbol "kicad_video_ada4430_1wyrtz" (extends "kicad_video_ada4430_1yksz")
     (property "Reference" "U" (at -3.81 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -6776,7 +6776,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Video_ADV7280xCP" (in_bom yes) (on_board yes)
+  (symbol "kicad_video_adv7280xcp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 24.13 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6798,13 +6798,13 @@
     (property "ki_fp_filters" "LFCSP*1EP*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_ADV7280xCP_0_1"
+    (symbol "kicad_video_adv7280xcp_0_1"
       (rectangle (start -15.24 22.86) (end 15.24 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_ADV7280xCP_1_1"
+    (symbol "kicad_video_adv7280xcp_1_1"
       (pin power_in line (at 0 -25.4 90) (length 2.54)
         (name "DGND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -6939,7 +6939,7 @@
       )
     )
   )
-  (symbol "kicad_Video_ADV7390BCPZ" (in_bom yes) (on_board yes)
+  (symbol "kicad_video_adv7390bcpz" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -6961,13 +6961,13 @@
     (property "ki_fp_filters" "LFCSP*1EP*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_ADV7390BCPZ_0_1"
+    (symbol "kicad_video_adv7390bcpz_0_1"
       (rectangle (start -10.16 25.4) (end 10.16 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_ADV7390BCPZ_1_1"
+    (symbol "kicad_video_adv7390bcpz_1_1"
       (pin power_in line (at -2.54 27.94 270) (length 2.54)
         (name "V_{DD_IO}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -7102,7 +7102,7 @@
       )
     )
   )
-  (symbol "kicad_Video_ADV7391BCPZ" (extends "kicad_Video_ADV7390BCPZ")
+  (symbol "kicad_video_adv7391bcpz" (extends "kicad_video_adv7390bcpz")
     (property "Reference" "U" (at -13.97 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -7125,7 +7125,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Video_AV9173" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_av9173" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -7144,13 +7144,13 @@
     (property "ki_description" "Video Genlock PLL" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_AV9173_0_1"
+    (symbol "kicad_video_av9173_0_1"
       (rectangle (start -10.16 8.89) (end 10.16 -8.89)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_AV9173_1_1"
+    (symbol "kicad_video_av9173_1_1"
       (pin input line (at -12.7 2.54 0) (length 2.54)
         (name "FSIGIN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -7185,7 +7185,7 @@
       )
     )
   )
-  (symbol "kicad_Video_CX7930" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_cx7930" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -7198,13 +7198,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_CX7930_0_1"
+    (symbol "kicad_video_cx7930_0_1"
       (rectangle (start -12.7 -19.05) (end 12.7 19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_CX7930_1_1"
+    (symbol "kicad_video_cx7930_1_1"
       (pin input line (at -20.32 -16.51 0) (length 7.62)
         (name "VRI" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -7303,7 +7303,7 @@
       )
     )
   )
-  (symbol "kicad_Video_CXD3400N" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_cxd3400n" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 21.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -7325,13 +7325,13 @@
     (property "ki_fp_filters" "SSOP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_CXD3400N_0_1"
+    (symbol "kicad_video_cxd3400n_0_1"
       (rectangle (start 11.43 -19.05) (end -11.43 20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_CXD3400N_1_1"
+    (symbol "kicad_video_cxd3400n_1_1"
       (pin power_in line (at 0 24.13 270) (length 3.81)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -7414,7 +7414,7 @@
       )
     )
   )
-  (symbol "kicad_Video_HD63484" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_hd63484" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -7427,13 +7427,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_HD63484_0_1"
+    (symbol "kicad_video_hd63484_0_1"
       (rectangle (start -20.32 -50.8) (end 20.32 50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_HD63484_1_1"
+    (symbol "kicad_video_hd63484_1_1"
       (pin output inverted (at 27.94 -17.78 180) (length 7.62)
         (name "CUD1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -7692,7 +7692,7 @@
       )
     )
   )
-  (symbol "kicad_Video_HD63484_PLCC" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_hd63484_plcc" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -7705,13 +7705,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_HD63484_PLCC_0_1"
+    (symbol "kicad_video_hd63484_plcc_0_1"
       (rectangle (start -20.32 -50.8) (end 20.32 50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_HD63484_PLCC_1_1"
+    (symbol "kicad_video_hd63484_plcc_1_1"
       (pin input line (at -5.08 58.42 270) (length 7.62)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -7986,7 +7986,7 @@
       )
     )
   )
-  (symbol "kicad_Video_ICX415AQ" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_icx415aq" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 20.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -8005,13 +8005,13 @@
     (property "ki_description" "Diagonal 8mm B/W Progressive Scan CCD Image Sensor with Square Pixel, CERDIP-22" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_ICX415AQ_0_1"
+    (symbol "kicad_video_icx415aq_0_1"
       (rectangle (start -13.97 19.05) (end 13.97 -19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_ICX415AQ_1_1"
+    (symbol "kicad_video_icx415aq_1_1"
       (pin input line (at 17.78 -10.16 180) (length 3.81)
         (name "CGG" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
@@ -8070,7 +8070,7 @@
       )
     )
   )
-  (symbol "kicad_Video_ISL59885" (in_bom yes) (on_board yes)
+  (symbol "kicad_video_isl59885" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -8092,13 +8092,13 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_ISL59885_0_1"
+    (symbol "kicad_video_isl59885_0_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_ISL59885_1_1"
+    (symbol "kicad_video_isl59885_1_1"
       (pin output line (at 12.7 5.08 180) (length 2.54)
         (name "CSYNC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -8133,7 +8133,7 @@
       )
     )
   )
-  (symbol "kicad_Video_LM1881" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_lm1881" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -8146,13 +8146,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_LM1881_0_1"
+    (symbol "kicad_video_lm1881_0_1"
       (rectangle (start -10.16 7.62) (end 10.16 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_LM1881_1_1"
+    (symbol "kicad_video_lm1881_1_1"
       (pin output line (at 12.7 5.08 180) (length 2.54)
         (name "CSYNC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -8187,7 +8187,7 @@
       )
     )
   )
-  (symbol "kicad_Video_MAX310" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_max310" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -8206,13 +8206,13 @@
     (property "ki_description" "8-Channel CMOS RF Video Multiplexer" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_MAX310_0_1"
+    (symbol "kicad_video_max310_0_1"
       (rectangle (start -11.43 -13.97) (end 11.43 13.97)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_MAX310_1_1"
+    (symbol "kicad_video_max310_1_1"
       (pin input line (at -19.05 8.89 0) (length 7.62)
         (name "S1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -8279,7 +8279,7 @@
       )
     )
   )
-  (symbol "kicad_Video_MAX311" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_max311" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -8298,13 +8298,13 @@
     (property "ki_description" "8-Channel CMOS RF Video Multiplexer" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_MAX311_0_1"
+    (symbol "kicad_video_max311_0_1"
       (rectangle (start -11.43 -13.97) (end 11.43 13.97)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_MAX311_1_1"
+    (symbol "kicad_video_max311_1_1"
       (pin input line (at -19.05 8.89 0) (length 7.62)
         (name "S1A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -8371,7 +8371,7 @@
       )
     )
   )
-  (symbol "kicad_Video_MB88303P" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_mb88303p" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -8384,13 +8384,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_MB88303P_0_1"
+    (symbol "kicad_video_mb88303p_0_1"
       (rectangle (start -12.7 -19.05) (end 12.7 19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_MB88303P_1_1"
+    (symbol "kicad_video_mb88303p_1_1"
       (pin input inverted (at -20.32 -16.51 0) (length 7.62)
         (name "RESET" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -8469,7 +8469,7 @@
       )
     )
   )
-  (symbol "kicad_Video_S178" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_s178" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -8482,13 +8482,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_S178_0_1"
+    (symbol "kicad_video_s178_0_1"
       (rectangle (start -12.7 -25.4) (end 12.7 25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_S178_1_1"
+    (symbol "kicad_video_s178_1_1"
       (pin input line (at -5.08 33.02 270) (length 7.62)
         (name "+VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -8599,7 +8599,7 @@
       )
     )
   )
-  (symbol "kicad_Video_SAA7182" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_saa7182" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -26.67 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -8618,13 +8618,13 @@
     (property "ki_description" "Digital Video Encoder, Obsolete" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_SAA7182_0_1"
+    (symbol "kicad_video_saa7182_0_1"
       (rectangle (start -26.67 -46.99) (end 26.67 46.99)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_SAA7182_1_1"
+    (symbol "kicad_video_saa7182_1_1"
       (pin input line (at -30.48 43.18 0) (length 3.81)
         (name "~RESN~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -8919,7 +8919,7 @@
       )
     )
   )
-  (symbol "kicad_Video_SI582" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_si582" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -8932,13 +8932,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_SI582_0_1"
+    (symbol "kicad_video_si582_0_1"
       (rectangle (start -10.16 -7.62) (end 10.16 7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_SI582_1_1"
+    (symbol "kicad_video_si582_1_1"
       (pin input line (at -17.78 5.08 0) (length 7.62)
         (name "OFS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -8969,7 +8969,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TDA1950" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tda1950" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -8982,13 +8982,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TDA1950_0_1"
+    (symbol "kicad_video_tda1950_0_1"
       (rectangle (start -22.86 -16.51) (end 22.86 16.51)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TDA1950_1_1"
+    (symbol "kicad_video_tda1950_1_1"
       (pin input line (at 30.48 -13.97 180) (length 7.62)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9063,7 +9063,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TDA1950F" (extends "kicad_Video_TDA1950")
+  (symbol "kicad_video_tda1950f" (extends "kicad_video_tda1950")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9077,7 +9077,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Video_TDA2593" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tda2593" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9090,13 +9090,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TDA2593_0_1"
+    (symbol "kicad_video_tda2593_0_1"
       (rectangle (start -20.32 -12.7) (end 20.32 12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TDA2593_1_1"
+    (symbol "kicad_video_tda2593_1_1"
       (pin input line (at 7.62 20.32 270) (length 7.62)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9163,7 +9163,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TDA7260" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tda7260" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9176,13 +9176,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TDA7260_0_1"
+    (symbol "kicad_video_tda7260_0_1"
       (rectangle (start -25.4 -19.05) (end 25.4 19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TDA7260_1_1"
+    (symbol "kicad_video_tda7260_1_1"
       (pin output line (at 0 26.67 270) (length 7.62)
         (name "SI" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9265,7 +9265,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TDA8501" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tda8501" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -9287,13 +9287,13 @@
     (property "ki_fp_filters" "DIP* PDIP* SOIC*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TDA8501_0_1"
+    (symbol "kicad_video_tda8501_0_1"
       (rectangle (start -13.97 24.13) (end 13.97 -24.13)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TDA8501_1_1"
+    (symbol "kicad_video_tda8501_1_1"
       (pin input line (at -17.78 15.24 0) (length 3.81)
         (name "-R.Y" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9392,7 +9392,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TDA8702" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tda8702" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 17.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -9414,13 +9414,13 @@
     (property "ki_fp_filters" "DIP* PDIP* SO* SOIC*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TDA8702_0_1"
+    (symbol "kicad_video_tda8702_0_1"
       (rectangle (start -11.43 16.51) (end 11.43 -16.51)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TDA8702_1_1"
+    (symbol "kicad_video_tda8702_1_1"
       (pin bidirectional line (at 15.24 -12.7 180) (length 3.81)
         (name "VREF" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9487,7 +9487,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TDA8702T" (extends "kicad_Video_TDA8702")
+  (symbol "kicad_video_tda8702t" (extends "kicad_video_tda8702")
     (property "Reference" "U" (at -11.43 17.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -9510,7 +9510,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Video_TDA8772" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tda8772" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -16.51 38.1 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -9532,13 +9532,13 @@
     (property "ki_fp_filters" "QFP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TDA8772_0_1"
+    (symbol "kicad_video_tda8772_0_1"
       (rectangle (start -16.51 -36.83) (end 16.51 36.83)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TDA8772_1_1"
+    (symbol "kicad_video_tda8772_1_1"
       (pin input line (at -20.32 15.24 0) (length 3.81)
         (name "R7" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9717,7 +9717,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TDA9500" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tda9500" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9730,13 +9730,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TDA9500_0_1"
+    (symbol "kicad_video_tda9500_0_1"
       (rectangle (start -20.32 -10.16) (end 20.32 10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TDA9500_1_1"
+    (symbol "kicad_video_tda9500_1_1"
       (pin power_in line (at 15.24 -17.78 90) (length 7.62)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9799,7 +9799,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TDA9503" (extends "kicad_Video_TDA9500")
+  (symbol "kicad_video_tda9503" (extends "kicad_video_tda9500")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9813,7 +9813,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Video_TDA9513" (extends "kicad_Video_TDA9500")
+  (symbol "kicad_video_tda9513" (extends "kicad_video_tda9500")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9827,7 +9827,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_Video_TEA2014" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tea2014" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9849,13 +9849,13 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TEA2014_0_1"
+    (symbol "kicad_video_tea2014_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TEA2014_1_1"
+    (symbol "kicad_video_tea2014_1_1"
       (pin power_in line (at 0 -10.16 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9890,7 +9890,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TEA5115" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tea5115" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -16.51 22.86 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9903,13 +9903,13 @@
     (property "Datasheet" "" (at -1.27 -1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TEA5115_0_1"
+    (symbol "kicad_video_tea5115_0_1"
       (rectangle (start -17.78 -22.86) (end 15.24 20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TEA5115_1_1"
+    (symbol "kicad_video_tea5115_1_1"
       (pin input line (at -25.4 -15.24 0) (length 7.62)
         (name "ES2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9984,7 +9984,7 @@
       )
     )
   )
-  (symbol "kicad_Video_TFP410PAP" (in_bom yes) (on_board yes)
+  (symbol "kicad_video_tfp410pap" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 57.15 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -10006,13 +10006,13 @@
     (property "ki_fp_filters" "HTQFP*1EP*10x10mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_TFP410PAP_0_1"
+    (symbol "kicad_video_tfp410pap_0_1"
       (rectangle (start -15.24 55.88) (end 15.24 -58.42)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_TFP410PAP_1_1"
+    (symbol "kicad_video_tfp410pap_1_1"
       (pin power_in line (at 0 58.42 270) (length 2.54)
         (name "DVDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

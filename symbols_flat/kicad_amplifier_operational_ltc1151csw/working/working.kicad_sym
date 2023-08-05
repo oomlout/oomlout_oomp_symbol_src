@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Operational_LTC1151CSW" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_operational_ltc1151csw" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "SOIC*7.5x10.3mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Operational_LTC1151CSW_1_1"
+    (symbol "kicad_amplifier_operational_ltc1151csw_1_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -64,7 +64,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LTC1151CSW_2_1"
+    (symbol "kicad_amplifier_operational_ltc1151csw_2_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -104,7 +104,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LTC1151CSW_3_1"
+    (symbol "kicad_amplifier_operational_ltc1151csw_3_1"
       (pin power_in line (at -2.54 7.62 270) (length 3.81)
         (name "V+" (effects (font (size 1.27 1.27))))
         (number "14" (effects (font (size 1.27 1.27))))

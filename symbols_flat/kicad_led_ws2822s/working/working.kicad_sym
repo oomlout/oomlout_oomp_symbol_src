@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_LED_WS2822S" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_led_ws2822s" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 5.08 5.715 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
@@ -21,12 +21,12 @@
     (property "ki_fp_filters" "LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_LED_WS2822S_0_0"
+    (symbol "kicad_led_ws2822s_0_0"
       (text "RGB" (at 2.286 -4.191 0)
         (effects (font (size 0.762 0.762)))
       )
     )
-    (symbol "kicad_LED_WS2822S_0_1"
+    (symbol "kicad_led_ws2822s_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -93,7 +93,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_LED_WS2822S_1_1"
+    (symbol "kicad_led_ws2822s_1_1"
       (pin input line (at -7.62 -2.54 0) (length 2.54)
         (name "DAI" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

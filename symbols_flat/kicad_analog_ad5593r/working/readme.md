@@ -1,4 +1,4 @@
-# Analog_AD5593R by arturo182  
+# analog_ad5593r by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Analog |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_analog_ad5593r/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_analog_ad5593r/working', 'oomp_doc': 'kicad_analog_ad5593r/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_ad5593r/working', 'oomp_src_flat': 'symbols_flat/kicad_analog_ad5593r/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_ad5593r/working'} |  
-| name | Analog_AD5593R |  
+| name | analog_ad5593r |  
 | oomp_key | oomp_kicad_analog_ad5593r |  
 | oomp_key_simple | kicad_analog_ad5593r |  
 | owner | arturo182 |  

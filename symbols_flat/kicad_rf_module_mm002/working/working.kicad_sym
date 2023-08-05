@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_Module_MM002" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_module_mm002" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -26.67 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "NEMEUS Modem dual-mode LoRa/SIGFOX" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_Module_MM002_0_1"
+    (symbol "kicad_rf_module_mm002_0_1"
       (rectangle (start -27.94 20.32) (end 27.94 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_Module_MM002_1_1"
+    (symbol "kicad_rf_module_mm002_1_1"
       (pin power_in line (at -5.08 -20.32 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

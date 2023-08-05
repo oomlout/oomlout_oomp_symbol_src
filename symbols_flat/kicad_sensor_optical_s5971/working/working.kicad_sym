@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Optical_S5971" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_optical_s5971" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 2.54 -5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TO?18*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Optical_S5971_0_0"
+    (symbol "kicad_sensor_optical_s5971_0_0"
       (pin passive line (at 0 -7.62 90) (length 3.81)
         (name "C" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Sensor_Optical_S5971_0_1"
+    (symbol "kicad_sensor_optical_s5971_0_1"
       (polyline
         (pts
           (xy -1.27 0)
@@ -95,7 +95,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Sensor_Optical_S5971_1_1"
+    (symbol "kicad_sensor_optical_s5971_1_1"
       (pin passive line (at -7.62 0 0) (length 3.81)
         (name "K" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

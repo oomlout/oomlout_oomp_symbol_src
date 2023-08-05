@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Simulation_SPICE_IAM" (pin_numbers hide) (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_simulation_spice_iam" (pin_numbers hide) (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "I" (at 2.54 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -27,13 +27,13 @@
     (property "ki_description" "Current source, AM" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Simulation_SPICE_IAM_0_0"
+    (symbol "kicad_simulation_spice_iam_0_0"
       (arc (start 0 0.508) (mid -0.254 0.7609) (end -0.508 0.508)
         (stroke (width 0) (type default))
         (fill (type none))
       )
     )
-    (symbol "kicad_Simulation_SPICE_IAM_0_1"
+    (symbol "kicad_simulation_spice_iam_0_1"
       (arc (start -1.016 0) (mid -1.27 0.2529) (end -1.524 0)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -100,7 +100,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Simulation_SPICE_IAM_1_1"
+    (symbol "kicad_simulation_spice_iam_1_1"
       (pin passive line (at 0 5.08 270) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

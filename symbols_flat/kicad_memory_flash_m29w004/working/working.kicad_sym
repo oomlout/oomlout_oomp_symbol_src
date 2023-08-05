@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_Flash_M29W004" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_flash_m29w004" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 6.858 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "Flash EEProm 512Ko (TSOP 40 pack.) 3,3V" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_Flash_M29W004_0_1"
+    (symbol "kicad_memory_flash_m29w004_0_1"
       (rectangle (start -8.89 26.67) (end 8.89 -26.67)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Memory_Flash_M29W004_1_1"
+    (symbol "kicad_memory_flash_m29w004_1_1"
       (pin input line (at -15.24 -16.51 0) (length 6.35)
         (name "A16" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

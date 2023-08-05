@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Switching_LTC3886" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_switching_ltc3886" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Linear*UGK52*QFN*46*52*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Switching_LTC3886_0_1"
+    (symbol "kicad_regulator_switching_ltc3886_0_1"
       (rectangle (start -15.24 2.54) (end 15.24 -78.74)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Regulator_Switching_LTC3886_1_1"
+    (symbol "kicad_regulator_switching_ltc3886_1_1"
       (pin output line (at -17.78 -7.62 0) (length 2.54)
         (name "SW0" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

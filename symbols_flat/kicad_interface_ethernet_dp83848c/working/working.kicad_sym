@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_Ethernet_DP83848C" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_ethernet_dp83848c" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -21.59 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "LQFP*7x7mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_Ethernet_DP83848C_0_1"
+    (symbol "kicad_interface_ethernet_dp83848c_0_1"
       (rectangle (start -22.86 38.1) (end 22.86 -38.1)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_Ethernet_DP83848C_1_1"
+    (symbol "kicad_interface_ethernet_dp83848c_1_1"
       (pin output line (at -25.4 22.86 0) (length 2.54)
         (name "TX_CLK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

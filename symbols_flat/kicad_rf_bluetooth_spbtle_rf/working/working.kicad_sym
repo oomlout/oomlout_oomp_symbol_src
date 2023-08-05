@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_Bluetooth_SPBTLE_RF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_bluetooth_spbtle_rf" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 12.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "ST*SPBTLE*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_Bluetooth_SPBTLE_RF_0_1"
+    (symbol "kicad_rf_bluetooth_spbtle_rf_0_1"
       (rectangle (start -16.51 8.89) (end 16.51 -11.43)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_Bluetooth_SPBTLE_RF_1_1"
+    (symbol "kicad_rf_bluetooth_spbtle_rf_1_1"
       (pin input line (at -20.32 -2.54 0) (length 3.81)
         (name "NC/EXT_LPCLK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_CPLD_Altera_EPM1270M256" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_cpld_altera_epm1270m256" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 15.24 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "*BGA*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_CPLD_Altera_EPM1270M256_1_1"
+    (symbol "kicad_cpld_altera_epm1270m256_1_1"
       (rectangle (start -25.4 71.12) (end 25.4 -71.12)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -550,7 +550,7 @@
         (number "W2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_CPLD_Altera_EPM1270M256_2_1"
+    (symbol "kicad_cpld_altera_epm1270m256_2_1"
       (rectangle (start -25.4 71.12) (end 25.4 -71.12)
         (stroke (width 0.254) (type default))
         (fill (type background))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Simulation_SPICE_ESOURCE" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_simulation_spice_esource" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "E" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Voltage-dependent Voltage source symbol for simulation only" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Simulation_SPICE_ESOURCE_0_1"
+    (symbol "kicad_simulation_spice_esource_0_1"
       (polyline
         (pts
           (xy 0 -1.27)
@@ -41,7 +41,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Simulation_SPICE_ESOURCE_1_1"
+    (symbol "kicad_simulation_spice_esource_1_1"
       (polyline
         (pts
           (xy 0.254 3.81)

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Current_INA282" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_current_ina282" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Current_INA282_0_1"
+    (symbol "kicad_amplifier_current_ina282_0_1"
       (polyline
         (pts
           (xy 5.08 0)
@@ -33,7 +33,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Current_INA282_1_1"
+    (symbol "kicad_amplifier_current_ina282_1_1"
       (pin input line (at -7.62 -2.54 0) (length 2.54)
         (name "-" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

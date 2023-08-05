@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Device_Extra_RotaryEncoder3" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+  (symbol "arturo182_device_extra_rotaryencoder3" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at 0 6.604 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "RotaryEncoder*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Device_Extra_RotaryEncoder3_0_1"
+    (symbol "arturo182_device_extra_rotaryencoder3_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -138,7 +138,7 @@
         (fill (type none))
       )
     )
-    (symbol "arturo182_Device_Extra_RotaryEncoder3_1_1"
+    (symbol "arturo182_device_extra_rotaryencoder3_1_1"
       (pin passive line (at -7.62 2.54 0) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "A" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_Bluetooth_RN42" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_bluetooth_rn42" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "RN42*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_Bluetooth_RN42_0_1"
+    (symbol "kicad_rf_bluetooth_rn42_0_1"
       (rectangle (start -15.24 22.86) (end 15.24 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_Bluetooth_RN42_1_1"
+    (symbol "kicad_rf_bluetooth_rn42_1_1"
       (pin power_in line (at -17.78 17.78 0) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

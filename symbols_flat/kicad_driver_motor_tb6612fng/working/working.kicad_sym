@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_Motor_TB6612FNG" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_motor_tb6612fng" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 11.43 17.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SSOP-24*5.3x8.2mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_Motor_TB6612FNG_0_1"
+    (symbol "kicad_driver_motor_tb6612fng_0_1"
       (rectangle (start -10.16 20.32) (end 10.16 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_Motor_TB6612FNG_1_1"
+    (symbol "kicad_driver_motor_tb6612fng_1_1"
       (pin output line (at 15.24 10.16 180) (length 5.08)
         (name "AO1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

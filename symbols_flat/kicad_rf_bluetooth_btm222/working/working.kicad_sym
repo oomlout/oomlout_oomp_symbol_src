@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_Bluetooth_BTM222" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_bluetooth_btm222" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -20.32 29.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Bluetooth SPP Module, UART, Class 1" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_Bluetooth_BTM222_0_1"
+    (symbol "kicad_rf_bluetooth_btm222_0_1"
       (rectangle (start -20.32 25.4) (end 20.32 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -132,7 +132,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_Bluetooth_BTM222_1_1"
+    (symbol "kicad_rf_bluetooth_btm222_1_1"
       (pin power_in line (at -5.08 -30.48 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

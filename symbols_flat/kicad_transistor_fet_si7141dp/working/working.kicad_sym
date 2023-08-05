@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transistor_FET_Si7141DP" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transistor_fet_si7141dp" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "PowerPAK*SO*Single*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transistor_FET_Si7141DP_0_1"
+    (symbol "kicad_transistor_fet_si7141dp_0_1"
       (polyline
         (pts
           (xy 0.254 0)
@@ -132,7 +132,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Transistor_FET_Si7141DP_1_1"
+    (symbol "kicad_transistor_fet_si7141dp_1_1"
       (pin passive line (at 2.54 -5.08 90) (length 2.54)
         (name "S" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

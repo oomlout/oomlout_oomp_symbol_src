@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Oscillator_CFPS_72" (in_bom yes) (on_board yes)
+  (symbol "kicad_oscillator_cfps_72" (in_bom yes) (on_board yes)
     (property "Reference" "X" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Oscillator*SMD*IQD*IQXO70*7.5x5.0mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Oscillator_CFPS_72_0_1"
+    (symbol "kicad_oscillator_cfps_72_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.001) (type default))
         (fill (type background))
@@ -42,7 +42,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Oscillator_CFPS_72_1_1"
+    (symbol "kicad_oscillator_cfps_72_1_1"
       (pin input line (at -10.16 0 0) (length 2.54)
         (name "EN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

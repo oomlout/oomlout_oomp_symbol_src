@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Thermistor_NTC_4Wire" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_thermistor_ntc_4wire" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "TH" (at 1.905 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*NTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Thermistor_NTC_4Wire_0_1"
+    (symbol "kicad_device_thermistor_ntc_4wire_0_1"
       (arc (start -3.048 2.159) (mid -3.0495 2.3143) (end -3.175 2.413)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -147,7 +147,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Device_Thermistor_NTC_4Wire_1_1"
+    (symbol "kicad_device_thermistor_ntc_4wire_1_1"
       (pin passive line (at 0 6.35 270) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

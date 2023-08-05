@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transistor_BJT_DTB123T" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transistor_bjt_dtb123t" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?23* SC?59*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transistor_BJT_DTB123T_0_0"
+    (symbol "kicad_transistor_bjt_dtb123t_0_0"
       (polyline
         (pts
           (xy 2.54 -2.286)
@@ -34,7 +34,7 @@
         (effects (font (size 0.508 0.508)))
       )
     )
-    (symbol "kicad_Transistor_BJT_DTB123T_0_1"
+    (symbol "kicad_transistor_bjt_dtb123t_0_1"
       (arc (start -1.27 3.175) (mid -4.4312 0) (end -1.27 -3.175)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -126,7 +126,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Transistor_BJT_DTB123T_1_1"
+    (symbol "kicad_transistor_bjt_dtb123t_1_1"
       (pin input line (at -6.35 0 0) (length 2.54)
         (name "B" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

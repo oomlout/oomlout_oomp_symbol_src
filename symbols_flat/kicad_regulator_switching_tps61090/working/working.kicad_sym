@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Switching_TPS61090" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_switching_tps61090" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 15.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Texas*S?PVQFN?N*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Switching_TPS61090_0_0"
+    (symbol "kicad_regulator_switching_tps61090_0_0"
       (pin power_out line (at 10.16 12.7 180) (length 2.54)
         (name "VOUT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -91,7 +91,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Regulator_Switching_TPS61090_0_1"
+    (symbol "kicad_regulator_switching_tps61090_0_1"
       (rectangle (start -7.62 13.97) (end 7.62 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))

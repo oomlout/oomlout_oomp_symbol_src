@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Opamp_Dual" (in_bom yes) (on_board yes)
+  (symbol "kicad_device_opamp_dual" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* MSOP*3x3mm*P0.65mm* SSOP*2.95x2.8mm*P0.65mm* TSSOP*3x3mm*P0.65mm* VSSOP*P0.5mm* TO?99*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Opamp_Dual_1_1"
+    (symbol "kicad_device_opamp_dual_1_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -48,7 +48,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_Opamp_Dual_2_1"
+    (symbol "kicad_device_opamp_dual_2_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -72,7 +72,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_Opamp_Dual_3_1"
+    (symbol "kicad_device_opamp_dual_3_1"
       (pin power_in line (at -2.54 -7.62 90) (length 3.81)
         (name "V-" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))

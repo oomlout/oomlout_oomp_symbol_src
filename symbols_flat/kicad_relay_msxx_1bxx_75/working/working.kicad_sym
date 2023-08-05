@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Relay_MSxx_1Bxx_75" (in_bom yes) (on_board yes)
+  (symbol "kicad_relay_msxx_1bxx_75" (in_bom yes) (on_board yes)
     (property "Reference" "K" (at 8.89 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Relay*SPST*StandexMeder*MS*Form1AB*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Relay_MSxx_1Bxx_75_0_0"
+    (symbol "kicad_relay_msxx_1bxx_75_0_0"
       (polyline
         (pts
           (xy 5.08 5.08)
@@ -33,7 +33,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Relay_MSxx_1Bxx_75_0_1"
+    (symbol "kicad_relay_msxx_1bxx_75_0_1"
       (rectangle (start -10.16 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -123,7 +123,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Relay_MSxx_1Bxx_75_1_1"
+    (symbol "kicad_relay_msxx_1bxx_75_1_1"
       (pin passive line (at 5.08 -7.62 90) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

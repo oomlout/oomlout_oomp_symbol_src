@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_UART_ISL3282ExRHZ" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_uart_isl3282exrhz" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 11.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TDFN*1EP*3x2mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_UART_ISL3282ExRHZ_0_1"
+    (symbol "kicad_interface_uart_isl3282exrhz_0_1"
       (polyline
         (pts
           (xy 2.667 -2.54)
@@ -44,7 +44,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_UART_ISL3282ExRHZ_1_1"
+    (symbol "kicad_interface_uart_isl3282exrhz_1_1"
       (circle (center -1.651 -1.2954) (radius 0.3556)
         (stroke (width 0) (type default))
         (fill (type none))

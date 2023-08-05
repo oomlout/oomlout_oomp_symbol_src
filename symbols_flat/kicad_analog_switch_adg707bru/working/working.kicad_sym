@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_ADG707BRU" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_adg707bru" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TSSOP*4.4x9.7mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_ADG707BRU_0_1"
+    (symbol "kicad_analog_switch_adg707bru_0_1"
       (rectangle (start -7.62 29.21) (end -0.635 16.51)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -527,7 +527,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Analog_Switch_ADG707BRU_1_1"
+    (symbol "kicad_analog_switch_adg707bru_1_1"
       (pin power_in line (at 5.08 33.02 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

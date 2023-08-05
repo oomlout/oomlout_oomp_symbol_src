@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transistor_FET_DMG9926UDM" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transistor_fet_dmg9926udm" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 2.54 3.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transistor_FET_DMG9926UDM_0_1"
+    (symbol "kicad_transistor_fet_dmg9926udm_0_1"
       (circle (center -0.889 5.08) (radius 2.794)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -132,7 +132,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Transistor_FET_DMG9926UDM_1_1"
+    (symbol "kicad_transistor_fet_dmg9926udm_1_1"
       (circle (center -0.889 -5.08) (radius 2.794)
         (stroke (width 0.254) (type default))
         (fill (type none))

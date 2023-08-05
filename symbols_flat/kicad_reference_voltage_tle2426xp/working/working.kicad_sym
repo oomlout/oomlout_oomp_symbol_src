@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Reference_Voltage_TLE2426xP" (in_bom yes) (on_board yes)
+  (symbol "kicad_reference_voltage_tle2426xp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.414 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Reference_Voltage_TLE2426xP_0_1"
+    (symbol "kicad_reference_voltage_tle2426xp_0_1"
       (rectangle (start -10.16 7.62) (end 10.16 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Reference_Voltage_TLE2426xP_1_1"
+    (symbol "kicad_reference_voltage_tle2426xp_1_1"
       (pin power_out line (at 12.7 5.08 180) (length 2.54)
         (name "OUT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

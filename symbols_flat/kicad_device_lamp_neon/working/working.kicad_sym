@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Lamp_Neon" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_lamp_neon" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "NE" (at 0.635 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Neon lamp" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Lamp_Neon_0_1"
+    (symbol "kicad_device_lamp_neon_0_1"
       (rectangle (start -1.524 -0.508) (end 1.524 -0.762)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -52,7 +52,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Device_Lamp_Neon_1_1"
+    (symbol "kicad_device_lamp_neon_1_1"
       (pin passive line (at 0 -5.08 90) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

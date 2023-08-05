@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_LED_Dual_AKAK" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_led_dual_akak" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 0 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_LED_Dual_AKAK_0_1"
+    (symbol "kicad_device_led_dual_akak_0_1"
       (polyline
         (pts
           (xy -5.08 -2.54)
@@ -117,7 +117,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Device_LED_Dual_AKAK_1_1"
+    (symbol "kicad_device_led_dual_akak_1_1"
       (pin input line (at -7.62 2.54 0) (length 3.048)
         (name "A1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

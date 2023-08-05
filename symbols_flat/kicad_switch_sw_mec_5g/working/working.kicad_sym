@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Switch_SW_MEC_5G" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_switch_sw_mec_5g" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at 1.27 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SW*MEC*5G*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Switch_SW_MEC_5G_0_1"
+    (symbol "kicad_switch_sw_mec_5g_0_1"
       (circle (center -2.032 0) (radius 0.508)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -55,7 +55,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Switch_SW_MEC_5G_1_1"
+    (symbol "kicad_switch_sw_mec_5g_1_1"
       (pin passive line (at -5.08 0 0) (length 2.54) hide
         (name "A" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))

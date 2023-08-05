@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Switch_SW_E3_SA3216" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_switch_sw_e3_sa3216" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at 1.27 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SW?PUSH?LCD?E3?SAxxxx*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Switch_SW_E3_SA3216_0_0"
+    (symbol "kicad_switch_sw_e3_sa3216_0_0"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -46,7 +46,7 @@
         (effects (font (size 1.524 1.524)))
       )
     )
-    (symbol "kicad_Switch_SW_E3_SA3216_0_1"
+    (symbol "kicad_switch_sw_e3_sa3216_0_1"
       (circle (center -2.032 -2.54) (radius 0.508)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -93,7 +93,7 @@
         (number "4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Switch_SW_E3_SA3216_1_1"
+    (symbol "kicad_switch_sw_e3_sa3216_1_1"
       (pin passive line (at -10.16 -2.54 0) (length 2.54)
         (name "SW1" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))

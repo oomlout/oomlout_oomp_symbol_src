@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_Audio_SpeakON_NL2" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_audio_speakon_nl2" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 2.54 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Jack*speakON*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_Audio_SpeakON_NL2_0_1"
+    (symbol "kicad_connector_audio_speakon_nl2_0_1"
       (rectangle (start -2.54 1.27) (end -1.905 -1.27)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -55,7 +55,7 @@
         (number "1-" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Connector_Audio_SpeakON_NL2_1_1"
+    (symbol "kicad_connector_audio_speakon_nl2_1_1"
       (pin passive line (at 0 7.62 270) (length 2.54)
         (name "1+" (effects (font (size 1.27 1.27))))
         (number "1+" (effects (font (size 1.27 1.27))))

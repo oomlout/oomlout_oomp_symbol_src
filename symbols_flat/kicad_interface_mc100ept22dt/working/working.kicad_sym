@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_MC100EPT22DT" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_mc100ept22dt" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 11.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TSSOP*3x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_MC100EPT22DT_0_1"
+    (symbol "kicad_interface_mc100ept22dt_0_1"
       (polyline
         (pts
           (xy 1.905 -4.572)
@@ -39,7 +39,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Interface_MC100EPT22DT_1_0"
+    (symbol "kicad_interface_mc100ept22dt_1_0"
       (rectangle (start -7.62 10.16) (end 7.62 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -107,7 +107,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Interface_MC100EPT22DT_1_1"
+    (symbol "kicad_interface_mc100ept22dt_1_1"
       (polyline
         (pts
           (xy -2.54 -1.27)

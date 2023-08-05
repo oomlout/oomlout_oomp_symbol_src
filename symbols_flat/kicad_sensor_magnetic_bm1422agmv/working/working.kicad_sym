@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Magnetic_BM1422AGMV" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_magnetic_bm1422agmv" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -7.62 -10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "*MLGA010V020A*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Magnetic_BM1422AGMV_0_1"
+    (symbol "kicad_sensor_magnetic_bm1422agmv_0_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Magnetic_BM1422AGMV_1_1"
+    (symbol "kicad_sensor_magnetic_bm1422agmv_1_1"
       (pin power_in line (at -2.54 10.16 270) (length 2.54)
         (name "AVDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

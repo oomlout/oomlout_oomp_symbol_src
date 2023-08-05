@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Switch_SW_Coded_SH_7040" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_switch_sw_coded_sh_7040" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Nidec*Copal*SH*7040*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Switch_SW_Coded_SH_7040_0_0"
+    (symbol "kicad_switch_sw_coded_sh_7040_0_0"
       (text "0" (at 5.715 0 2700)
         (effects (font (size 1.27 1.27)))
       )
@@ -53,7 +53,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Switch_SW_Coded_SH_7040_0_1"
+    (symbol "kicad_switch_sw_coded_sh_7040_0_1"
       (polyline
         (pts
           (xy -0.254 -2.54)
@@ -80,7 +80,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Switch_SW_Coded_SH_7040_1_1"
+    (symbol "kicad_switch_sw_coded_sh_7040_1_1"
       (pin passive line (at 10.16 2.54 180) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

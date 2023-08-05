@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_CPLD_Xilinx_XC9572XL_TQ100" (in_bom yes) (on_board yes)
+  (symbol "kicad_cpld_xilinx_xc9572xl_tq100" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -20.32 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TQFP*14x14mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_CPLD_Xilinx_XC9572XL_TQ100_1_1"
+    (symbol "kicad_cpld_xilinx_xc9572xl_tq100_1_1"
       (rectangle (start -20.32 63.5) (end 20.32 -66.04)
         (stroke (width 0.254) (type default))
         (fill (type background))

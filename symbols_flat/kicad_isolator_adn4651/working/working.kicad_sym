@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Isolator_ADN4651" (in_bom yes) (on_board yes)
+  (symbol "kicad_isolator_adn4651" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SSOP*5.3x7.2mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Isolator_ADN4651_0_0"
+    (symbol "kicad_isolator_adn4651_0_0"
       (pin power_in line (at 5.08 15.24 270) (length 2.54)
         (name "VDD2" (effects (font (size 1.27 1.27))))
         (number "12" (effects (font (size 1.27 1.27))))
@@ -31,7 +31,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Isolator_ADN4651_0_1"
+    (symbol "kicad_isolator_adn4651_0_1"
       (rectangle (start -10.16 12.7) (end 10.16 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -109,7 +109,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Isolator_ADN4651_1_1"
+    (symbol "kicad_isolator_adn4651_1_1"
       (pin power_in line (at -2.54 15.24 270) (length 2.54)
         (name "VIN1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

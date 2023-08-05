@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_D_TVS_Dual_CAA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_d_tvs_dual_caa" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 0 4.445 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Bidirectional dual transient-voltage-suppression diode, center on pin 1" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_D_TVS_Dual_CAA_0_1"
+    (symbol "kicad_device_d_tvs_dual_caa_0_1"
       (polyline
         (pts
           (xy -6.35 0)
@@ -83,7 +83,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Device_D_TVS_Dual_CAA_1_1"
+    (symbol "kicad_device_d_tvs_dual_caa_1_1"
       (pin input line (at 0 -3.81 90) (length 2.54)
         (name "common" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

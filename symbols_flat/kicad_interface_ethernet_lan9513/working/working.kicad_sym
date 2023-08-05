@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_Ethernet_LAN9513" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_ethernet_lan9513" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "QFN*1EP?9x9mm?P0.5mm?EP7.3x7.3mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_Ethernet_LAN9513_1_1"
+    (symbol "kicad_interface_ethernet_lan9513_1_1"
       (rectangle (start -12.7 30.48) (end 12.7 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -202,7 +202,7 @@
         (number "65" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Interface_Ethernet_LAN9513_2_1"
+    (symbol "kicad_interface_ethernet_lan9513_2_1"
       (rectangle (start 12.7 -27.94) (end -12.7 27.94)
         (stroke (width 0.254) (type default))
         (fill (type background))

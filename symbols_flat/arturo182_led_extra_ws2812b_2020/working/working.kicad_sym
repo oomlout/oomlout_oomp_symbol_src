@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_LED_Extra_WS2812B_2020" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "arturo182_led_extra_ws2812b_2020" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "D" (id 0) (at 5.08 5.715 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
@@ -15,13 +15,13 @@
     (property "ki_fp_filters" "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_LED_Extra_WS2812B_2020_0_1"
+    (symbol "arturo182_led_extra_ws2812b_2020_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "arturo182_LED_Extra_WS2812B_2020_1_1"
+    (symbol "arturo182_led_extra_ws2812b_2020_1_1"
       (pin output line (at 7.62 0 180) (length 2.54)
         (name "DOUT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

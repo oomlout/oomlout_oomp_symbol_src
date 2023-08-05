@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_ADC_AD7606_4" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_adc_ad7606_4" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "LQFP*10x10mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_ADC_AD7606_4_1_1"
+    (symbol "kicad_analog_adc_ad7606_4_1_1"
       (rectangle (start -15.24 43.18) (end 15.24 -43.18)
         (stroke (width 0.254) (type default))
         (fill (type background))

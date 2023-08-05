@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Display_Graphic_Extra_ER_TFT02X" (in_bom yes) (on_board yes)
+  (symbol "arturo182_display_graphic_extra_er_tft02x" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 11.43 36.83 0)
       (effects (font (size 1.524 1.524)) (justify right))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "" (at 0 -19.05 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (symbol "arturo182_Display_Graphic_Extra_ER_TFT02X_0_1"
+    (symbol "arturo182_display_graphic_extra_er_tft02x_0_1"
       (rectangle (start -11.43 35.56) (end 11.43 -38.1)
         (stroke (width 0) (type default))
         (fill (type background))
       )
     )
-    (symbol "arturo182_Display_Graphic_Extra_ER_TFT02X_1_1"
+    (symbol "arturo182_display_graphic_extra_er_tft02x_1_1"
       (pin input line (at -16.51 22.86 0) (length 5.08)
         (name "LEDK/A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

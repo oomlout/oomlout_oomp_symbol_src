@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Temperature_DS18B20U" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_temperature_ds18b20u" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -3.81 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "MSOP*3x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Temperature_DS18B20U_0_1"
+    (symbol "kicad_sensor_temperature_ds18b20u_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -95,7 +95,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Sensor_Temperature_DS18B20U_1_1"
+    (symbol "kicad_sensor_temperature_ds18b20u_1_1"
       (pin bidirectional line (at 7.62 0 180) (length 2.54)
         (name "DQ" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

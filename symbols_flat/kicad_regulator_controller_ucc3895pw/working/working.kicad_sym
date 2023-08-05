@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Controller_UCC3895PW" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_controller_ucc3895pw" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 16.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TSSOP*4.4x6.5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Controller_UCC3895PW_0_1"
+    (symbol "kicad_regulator_controller_ucc3895pw_0_1"
       (rectangle (start -12.7 15.24) (end 12.7 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Regulator_Controller_UCC3895PW_1_1"
+    (symbol "kicad_regulator_controller_ucc3895pw_1_1"
       (pin input line (at -15.24 12.7 0) (length 2.54)
         (name "EAN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

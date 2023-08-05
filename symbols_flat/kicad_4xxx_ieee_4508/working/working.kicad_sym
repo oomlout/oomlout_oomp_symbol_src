@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_4xxx_IEEE_4508" (in_bom yes) (on_board yes)
+  (symbol "kicad_4xxx_ieee_4508" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 7.62 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_4xxx_IEEE_4508_0_1"
+    (symbol "kicad_4xxx_ieee_4508_0_1"
       (rectangle (start -6.35 -7.62) (end 6.35 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -64,7 +64,7 @@
         (number "24" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_4xxx_IEEE_4508_1_1"
+    (symbol "kicad_4xxx_ieee_4508_1_1"
       (pin input line (at -10.16 5.08 0) (length 3.81)
         (name "MR" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -110,7 +110,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_4xxx_IEEE_4508_2_1"
+    (symbol "kicad_4xxx_ieee_4508_2_1"
       (pin input line (at -10.16 5.08 0) (length 3.81)
         (name "MR" (effects (font (size 1.27 1.27))))
         (number "13" (effects (font (size 1.27 1.27))))

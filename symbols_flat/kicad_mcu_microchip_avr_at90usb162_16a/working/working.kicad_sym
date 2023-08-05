@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Microchip_AVR_AT90USB162_16A" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_microchip_avr_at90usb162_16a" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TQFP*7x7mm*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Microchip_AVR_AT90USB162_16A_0_1"
+    (symbol "kicad_mcu_microchip_avr_at90usb162_16a_0_1"
       (rectangle (start -15.24 -33.02) (end 15.24 33.02)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Microchip_AVR_AT90USB162_16A_1_1"
+    (symbol "kicad_mcu_microchip_avr_at90usb162_16a_1_1"
       (pin input line (at -17.78 22.86 0) (length 2.54)
         (name "XTAL1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

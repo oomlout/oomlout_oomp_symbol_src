@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_ADC_AD9280ARS" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_adc_ad9280ars" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "Video ADC (32 Mhz), SSOP-28" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_ADC_AD9280ARS_0_1"
+    (symbol "kicad_analog_adc_ad9280ars_0_1"
       (rectangle (start -13.97 24.13) (end 13.97 -24.13)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Analog_ADC_AD9280ARS_1_1"
+    (symbol "kicad_analog_adc_ad9280ars_1_1"
       (pin power_in line (at -2.54 -27.94 90) (length 3.81)
         (name "AVSS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

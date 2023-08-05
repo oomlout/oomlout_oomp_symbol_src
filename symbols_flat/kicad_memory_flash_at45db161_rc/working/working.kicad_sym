@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_Flash_AT45DB161_RC" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_flash_at45db161_rc" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 8.636 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SOIC?28*8.7x18.25mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_Flash_AT45DB161_RC_0_1"
+    (symbol "kicad_memory_flash_at45db161_rc_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Memory_Flash_AT45DB161_RC_1_1"
+    (symbol "kicad_memory_flash_at45db161_rc_1_1"
       (pin power_in line (at 0 -10.16 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

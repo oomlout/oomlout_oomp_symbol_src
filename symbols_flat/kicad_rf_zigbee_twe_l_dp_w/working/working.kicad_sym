@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_ZigBee_TWE_L_DP_W" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_zigbee_twe_l_dp_w" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DIP*28*W15.24mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_ZigBee_TWE_L_DP_W_1_0"
+    (symbol "kicad_rf_zigbee_twe_l_dp_w_1_0"
       (rectangle (start -15.24 -20.32) (end 15.24 20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_ZigBee_TWE_L_DP_W_1_1"
+    (symbol "kicad_rf_zigbee_twe_l_dp_w_1_1"
       (pin power_in line (at 0 -22.86 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

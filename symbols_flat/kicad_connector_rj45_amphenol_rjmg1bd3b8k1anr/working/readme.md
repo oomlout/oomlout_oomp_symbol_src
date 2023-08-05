@@ -1,4 +1,4 @@
-# Connector_RJ45_Amphenol_RJMG1BD3B8K1ANR by arturo182  
+# connector_rj45_amphenol_rjmg1bd3b8k1anr by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Connector |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working', 'oomp_doc': 'kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working', 'oomp_src_flat': 'symbols_flat/kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working'} |  
-| name | Connector_RJ45_Amphenol_RJMG1BD3B8K1ANR |  
+| name | connector_rj45_amphenol_rjmg1bd3b8k1anr |  
 | oomp_key | oomp_kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr |  
 | oomp_key_simple | kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr |  
 | owner | arturo182 |  

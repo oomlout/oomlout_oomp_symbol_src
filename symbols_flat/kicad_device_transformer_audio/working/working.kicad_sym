@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Transformer_Audio" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_transformer_audio" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "T" (at 0 11.684 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Audio transformer" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Transformer_Audio_0_1"
+    (symbol "kicad_device_transformer_audio_0_1"
       (arc (start -2.54 -5.0546) (mid -1.6599 -4.6901) (end -1.27 -3.81)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -115,7 +115,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Transformer_Audio_1_1"
+    (symbol "kicad_device_transformer_audio_1_1"
       (pin input line (at 0 -10.16 90) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "0" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Magnetic_AH1806_Z" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_magnetic_ah1806_z" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SOT*553*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Magnetic_AH1806_Z_0_1"
+    (symbol "kicad_sensor_magnetic_ah1806_z_0_1"
       (rectangle (start 5.08 7.62) (end -5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Magnetic_AH1806_Z_1_1"
+    (symbol "kicad_sensor_magnetic_ah1806_z_1_1"
       (pin no_connect line (at 5.08 2.54 180) (length 2.54) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

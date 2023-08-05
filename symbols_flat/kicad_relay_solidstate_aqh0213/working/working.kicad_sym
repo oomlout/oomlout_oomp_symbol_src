@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Relay_SolidState_AQH0213" (in_bom yes) (on_board yes)
+  (symbol "kicad_relay_solidstate_aqh0213" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP*N7*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Relay_SolidState_AQH0213_0_0"
+    (symbol "kicad_relay_solidstate_aqh0213_0_0"
       (rectangle (start -3.429 -3.302) (end -1.651 -4.318)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -30,7 +30,7 @@
         (effects (font (size 0.508 0.508)))
       )
     )
-    (symbol "kicad_Relay_SolidState_AQH0213_0_1"
+    (symbol "kicad_relay_solidstate_aqh0213_0_1"
       (rectangle (start -7.62 3.81) (end 5.08 -6.35)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -245,7 +245,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Relay_SolidState_AQH0213_1_1"
+    (symbol "kicad_relay_solidstate_aqh0213_1_1"
       (circle (center -0.254 -3.81) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))

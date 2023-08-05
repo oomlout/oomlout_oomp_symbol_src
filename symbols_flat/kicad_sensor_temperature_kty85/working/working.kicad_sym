@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Temperature_KTY85" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_temperature_kty85" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "TH" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOD80*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Temperature_KTY85_0_1"
+    (symbol "kicad_sensor_temperature_kty85_0_1"
       (arc (start -2.4892 -1.4478) (mid -2.4907 -1.2925) (end -2.6162 -1.1938)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -85,7 +85,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Sensor_Temperature_KTY85_1_1"
+    (symbol "kicad_sensor_temperature_kty85_1_1"
       (pin passive line (at -3.81 0 0) (length 2.54)
         (name "K" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

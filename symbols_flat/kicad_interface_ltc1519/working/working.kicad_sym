@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_LTC1519" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_ltc1519" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "SOIC*16*3.9x9.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_LTC1519_1_1"
+    (symbol "kicad_interface_ltc1519_1_1"
       (rectangle (start -10.16 12.7) (end 10.16 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -199,7 +199,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Interface_LTC1519_2_1"
+    (symbol "kicad_interface_ltc1519_2_1"
       (rectangle (start -10.16 12.7) (end 10.16 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -374,7 +374,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Interface_LTC1519_3_1"
+    (symbol "kicad_interface_ltc1519_3_1"
       (pin power_in line (at 0 7.62 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "16" (effects (font (size 1.27 1.27))))
@@ -384,7 +384,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Interface_LTC1519_3_3"
+    (symbol "kicad_interface_ltc1519_3_3"
       (circle (center 0 -5.08) (radius 0.254)
         (stroke (width 0.127) (type default))
         (fill (type outline))

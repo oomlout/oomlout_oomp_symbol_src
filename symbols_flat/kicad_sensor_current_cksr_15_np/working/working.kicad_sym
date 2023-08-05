@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Current_CKSR_15_NP" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_current_cksr_15_np" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 10.16 11.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "LEM*CKSR*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Current_CKSR_15_NP_0_1"
+    (symbol "kicad_sensor_current_cksr_15_np_0_1"
       (rectangle (start -12.7 10.16) (end 12.7 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -147,7 +147,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Sensor_Current_CKSR_15_NP_1_1"
+    (symbol "kicad_sensor_current_cksr_15_np_1_1"
       (arc (start -10.16 -1.2446) (mid -9.2799 -0.8801) (end -8.89 0)
         (stroke (width 0) (type default))
         (fill (type none))

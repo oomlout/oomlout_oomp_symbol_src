@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Timer_LMC555xTP" (in_bom yes) (on_board yes)
+  (symbol "kicad_timer_lmc555xtp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Texas*DSBGA*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Timer_LMC555xTP_0_0"
+    (symbol "kicad_timer_lmc555xtp_0_0"
       (pin power_in line (at 0 10.16 270) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "A2" (effects (font (size 1.27 1.27))))
@@ -31,7 +31,7 @@
         (number "A3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Timer_LMC555xTP_0_1"
+    (symbol "kicad_timer_lmc555xtp_0_1"
       (rectangle (start -8.89 -7.62) (end 8.89 7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -41,7 +41,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Timer_LMC555xTP_1_1"
+    (symbol "kicad_timer_lmc555xtp_1_1"
       (pin input line (at 12.7 0 180) (length 3.81)
         (name "DIS" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_TPA3251" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_tpa3251" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "HTSSOP*6.1x14mm*P0.635mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_TPA3251_0_1"
+    (symbol "kicad_amplifier_audio_tpa3251_0_1"
       (rectangle (start -10.16 -17.78) (end 10.16 17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Audio_TPA3251_1_1"
+    (symbol "kicad_amplifier_audio_tpa3251_1_1"
       (pin power_in line (at 0 20.32 270) (length 2.54)
         (name "GVDD_AB" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -144,7 +144,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Audio_TPA3251_2_1"
+    (symbol "kicad_amplifier_audio_tpa3251_2_1"
       (pin input line (at -12.7 12.7 0) (length 2.54)
         (name "INPUT_C" (effects (font (size 1.27 1.27))))
         (number "16" (effects (font (size 1.27 1.27))))

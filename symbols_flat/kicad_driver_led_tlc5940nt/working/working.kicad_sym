@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_TLC5940NT" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_tlc5940nt" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 22.225 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_TLC5940NT_0_1"
+    (symbol "kicad_driver_led_tlc5940nt_0_1"
       (rectangle (start -12.7 -21.59) (end -3.175 -13.335)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -192,7 +192,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Driver_LED_TLC5940NT_1_1"
+    (symbol "kicad_driver_led_tlc5940nt_1_1"
       (pin open_collector line (at 17.78 15.24 180) (length 5.08)
         (name "OUT1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

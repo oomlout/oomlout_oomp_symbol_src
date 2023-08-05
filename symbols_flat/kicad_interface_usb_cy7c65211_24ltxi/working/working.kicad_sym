@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_USB_CY7C65211_24LTXI" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_usb_cy7c65211_24ltxi" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.716 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*1EP*4x4mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_USB_CY7C65211_24LTXI_0_1"
+    (symbol "kicad_interface_usb_cy7c65211_24ltxi_0_1"
       (rectangle (start -15.24 15.24) (end 15.24 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_USB_CY7C65211_24LTXI_1_1"
+    (symbol "kicad_interface_usb_cy7c65211_24ltxi_1_1"
       (pin bidirectional line (at -17.78 5.08 0) (length 2.54)
         (name "SCB_0/GPIO_6" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

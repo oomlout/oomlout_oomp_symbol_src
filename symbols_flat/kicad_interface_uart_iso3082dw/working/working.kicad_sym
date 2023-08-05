@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_UART_ISO3082DW" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_uart_iso3082dw" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*7.5x10.3mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_UART_ISO3082DW_0_0"
+    (symbol "kicad_interface_uart_iso3082dw_0_0"
       (rectangle (start -12.7 15.24) (end 12.7 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -110,7 +110,7 @@
         (effects (font (size 1.016 1.016)))
       )
     )
-    (symbol "kicad_Interface_UART_ISO3082DW_0_1"
+    (symbol "kicad_interface_uart_iso3082dw_0_1"
       (circle (center -5.588 -4.318) (radius 0.508)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -355,7 +355,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Interface_UART_ISO3082DW_1_0"
+    (symbol "kicad_interface_uart_iso3082dw_1_0"
       (polyline
         (pts
           (xy 1.27 4.826)
@@ -367,7 +367,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Interface_UART_ISO3082DW_1_1"
+    (symbol "kicad_interface_uart_iso3082dw_1_1"
       (pin power_in line (at -7.62 17.78 270) (length 2.54)
         (name "Vcc1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

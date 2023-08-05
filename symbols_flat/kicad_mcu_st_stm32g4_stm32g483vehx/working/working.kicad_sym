@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32G4_STM32G483VEHx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32g4_stm32g483vehx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "TFBGA*8x8mm*Layout10x10*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32G4_STM32G483VEHx_0_1"
+    (symbol "kicad_mcu_st_stm32g4_stm32g483vehx_0_1"
       (rectangle (start -15.24 -66.04) (end 15.24 66.04)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32G4_STM32G483VEHx_1_1"
+    (symbol "kicad_mcu_st_stm32g4_stm32g483vehx_1_1"
       (pin bidirectional line (at -20.32 27.94 0) (length 5.08)
         (name "PE4" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

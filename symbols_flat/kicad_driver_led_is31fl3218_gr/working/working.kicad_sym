@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_IS31FL3218_GR" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_is31fl3218_gr" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 26.035 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SOP*7.5x15.4mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_IS31FL3218_GR_0_1"
+    (symbol "kicad_driver_led_is31fl3218_gr_0_1"
       (rectangle (start -10.16 25.4) (end 10.16 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_LED_IS31FL3218_GR_1_1"
+    (symbol "kicad_driver_led_is31fl3218_gr_1_1"
       (pin open_collector line (at 12.7 -20.32 180) (length 2.54)
         (name "OUT18" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

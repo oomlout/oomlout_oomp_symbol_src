@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_Expansion_PCAL6534EV" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_expansion_pcal6534ev" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "*VFBGA*2.6x3mm*Layout6x7*P0.4mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_Expansion_PCAL6534EV_0_1"
+    (symbol "kicad_interface_expansion_pcal6534ev_0_1"
       (rectangle (start -10.16 48.26) (end 10.16 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_Expansion_PCAL6534EV_1_1"
+    (symbol "kicad_interface_expansion_pcal6534ev_1_1"
       (pin power_in line (at -2.54 50.8 270) (length 2.54)
         (name "V_{DD(I2C-bus)}" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

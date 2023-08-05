@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_AD630ARZ" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_ad630arz" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*7.5x12.8mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_AD630ARZ_0_0"
+    (symbol "kicad_analog_ad630arz_0_0"
       (text "+" (at -4.445 -7.493 0)
         (effects (font (size 0.889 0.889)))
       )
@@ -110,7 +110,7 @@
         (effects (font (size 0.762 0.762)))
       )
     )
-    (symbol "kicad_Analog_AD630ARZ_0_1"
+    (symbol "kicad_analog_ad630arz_0_1"
       (rectangle (start -12.7 17.78) (end 12.7 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -719,7 +719,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Analog_AD630ARZ_1_1"
+    (symbol "kicad_analog_ad630arz_1_1"
       (pin input line (at -15.24 15.24 0) (length 2.54)
         (name "R_{in}A" (effects (font (size 0 0))))
         (number "1" (effects (font (size 1.27 1.27))))

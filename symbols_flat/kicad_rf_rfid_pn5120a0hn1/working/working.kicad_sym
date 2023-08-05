@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_RFID_PN5120A0HN1" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_rfid_pn5120a0hn1" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 25.4 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "HVQFN*1EP*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_RFID_PN5120A0HN1_0_1"
+    (symbol "kicad_rf_rfid_pn5120a0hn1_0_1"
       (rectangle (start -15.24 22.86) (end 15.24 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_RFID_PN5120A0HN1_1_1"
+    (symbol "kicad_rf_rfid_pn5120a0hn1_1_1"
       (pin input line (at -17.78 0 0) (length 2.54)
         (name "A1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

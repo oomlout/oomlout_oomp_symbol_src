@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_NXP_HC12_MC68HC912" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_nxp_hc12_mc68hc912" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 8.89 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "HC12 Microcontroller" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_NXP_HC12_MC68HC912_0_1"
+    (symbol "kicad_mcu_nxp_hc12_mc68hc912_0_1"
       (rectangle (start -20.32 -60.96) (end 20.32 66.04)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_NXP_HC12_MC68HC912_1_1"
+    (symbol "kicad_mcu_nxp_hc12_mc68hc912_1_1"
       (pin bidirectional line (at 27.94 -30.48 180) (length 7.62)
         (name "PP5" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

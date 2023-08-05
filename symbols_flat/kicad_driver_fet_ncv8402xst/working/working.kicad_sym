@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_FET_NCV8402xST" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_fet_ncv8402xst" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 8.89 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?223*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_FET_NCV8402xST_0_0"
+    (symbol "kicad_driver_fet_ncv8402xst_0_0"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0) (type default))
         (fill (type background))
@@ -99,7 +99,7 @@
         (effects (font (size 0.5334 0.5334)))
       )
     )
-    (symbol "kicad_Driver_FET_NCV8402xST_0_1"
+    (symbol "kicad_driver_fet_ncv8402xst_0_1"
       (rectangle (start -5.08 -1.27) (end 2.54 -4.572)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -121,7 +121,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Driver_FET_NCV8402xST_1_1"
+    (symbol "kicad_driver_fet_ncv8402xst_1_1"
       (circle (center -7.62 0) (radius 0.2794)
         (stroke (width 0) (type default))
         (fill (type outline))

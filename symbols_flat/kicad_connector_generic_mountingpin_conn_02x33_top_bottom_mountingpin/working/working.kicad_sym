@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_Generic_MountingPin_Conn_02x33_Top_Bottom_MountingPin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_generic_mountingpin_conn_02x33_top_bottom_mountingpin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 1.27 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Connector*:*_2x??-1MP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_Generic_MountingPin_Conn_02x33_Top_Bottom_MountingPin_1_1"
+    (symbol "kicad_connector_generic_mountingpin_conn_02x33_top_bottom_mountingpin_1_1"
       (rectangle (start -1.27 -40.513) (end 0 -40.767)
         (stroke (width 0.1524) (type default))
         (fill (type none))

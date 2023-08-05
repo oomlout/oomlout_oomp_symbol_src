@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Driver_LED_Extra_AP2502" (in_bom yes) (on_board yes)
+  (symbol "arturo182_driver_led_extra_ap2502" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 6.35 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15,7 +15,7 @@
     (property "LCSC" "C460349" (at 0 -15.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Driver_LED_Extra_AP2502_0_0"
+    (symbol "arturo182_driver_led_extra_ap2502_0_0"
       (pin input line (at -8.89 3.81 0) (length 2.54)
         (name "EN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -41,7 +41,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_Driver_LED_Extra_AP2502_1_1"
+    (symbol "arturo182_driver_led_extra_ap2502_1_1"
       (rectangle (start -6.35 6.35) (end 6.35 -6.35)
         (stroke (width 0) (type default))
         (fill (type background))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Display_Character_DA56_11SYKWA" (in_bom yes) (on_board yes)
+  (symbol "kicad_display_character_da56_11sykwa" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*DA56*11*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Display_Character_DA56_11SYKWA_0_0"
+    (symbol "kicad_display_character_da56_11sykwa_0_0"
       (text "8.8." (at 0 8.636 0)
         (effects (font (size 2.54 2.54)))
       )
@@ -38,13 +38,13 @@
         (effects (font (size 0.635 0.635)))
       )
     )
-    (symbol "kicad_Display_Character_DA56_11SYKWA_0_1"
+    (symbol "kicad_display_character_da56_11sykwa_0_1"
       (rectangle (start -12.7 12.7) (end 12.7 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Display_Character_DA56_11SYKWA_1_1"
+    (symbol "kicad_display_character_da56_11sykwa_1_1"
       (pin input line (at -15.24 0 0) (length 2.54)
         (name "DIG1_E" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

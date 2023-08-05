@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Protection_TPD3E001DRLR" (in_bom yes) (on_board yes)
+  (symbol "kicad_power_protection_tpd3e001drlr" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?553*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Protection_TPD3E001DRLR_0_1"
+    (symbol "kicad_power_protection_tpd3e001drlr_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -240,7 +240,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Power_Protection_TPD3E001DRLR_1_1"
+    (symbol "kicad_power_protection_tpd3e001drlr_1_1"
       (pin passive line (at 10.16 2.54 180) (length 2.54)
         (name "IO1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

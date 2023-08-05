@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "Video_Extra:arturo182_Video_Extra_TFP401" (in_bom yes) (on_board yes)
+  (symbol "Video_Extra:arturo182_video_extra_tfp401" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 11.43 57.15 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tfp401a-q1.pdf" (id 3) (at 0 -49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Video_Extra_TFP401_0_0"
+    (symbol "arturo182_video_extra_tfp401_0_0"
       (pin passive line (at -16.51 -40.64 0) (length 3.81) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "79" (effects (font (size 1.27 1.27))))
@@ -418,7 +418,7 @@
         (number "101" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_Video_Extra_TFP401_0_1"
+    (symbol "arturo182_video_extra_tfp401_0_1"
       (rectangle (start -12.7 55.88) (end 12.7 -43.18)
         (stroke (width 0.0006))
         (fill (type background))

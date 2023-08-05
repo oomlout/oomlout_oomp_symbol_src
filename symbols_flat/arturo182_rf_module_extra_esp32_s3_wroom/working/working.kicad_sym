@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_RF_Module_Extra_ESP32_S3_WROOM" (in_bom yes) (on_board yes)
+  (symbol "arturo182_rf_module_extra_esp32_s3_wroom" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 7.62 44.45 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf" (at 0 -44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_RF_Module_Extra_ESP32_S3_WROOM_0_0"
+    (symbol "arturo182_rf_module_extra_esp32_s3_wroom_0_0"
       (pin power_in line (at -10.16 -38.1 0) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -178,7 +178,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_RF_Module_Extra_ESP32_S3_WROOM_0_1"
+    (symbol "arturo182_rf_module_extra_esp32_s3_wroom_0_1"
       (rectangle (start -7.62 43.18) (end 7.62 -40.64)
         (stroke (width 0) (type default))
         (fill (type background))

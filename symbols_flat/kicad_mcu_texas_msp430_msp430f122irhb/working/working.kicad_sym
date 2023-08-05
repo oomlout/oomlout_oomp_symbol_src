@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Texas_MSP430_MSP430F122IRHB" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_texas_msp430_msp430f122irhb" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -17.78 22.86 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Texas*S?PVQFN*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Texas_MSP430_MSP430F122IRHB_0_1"
+    (symbol "kicad_mcu_texas_msp430_msp430f122irhb_0_1"
       (rectangle (start -19.05 21.59) (end 19.05 -21.59)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Texas_MSP430_MSP430F122IRHB_1_1"
+    (symbol "kicad_mcu_texas_msp430_msp430f122irhb_1_1"
       (pin power_in line (at 0 -25.4 90) (length 3.81)
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

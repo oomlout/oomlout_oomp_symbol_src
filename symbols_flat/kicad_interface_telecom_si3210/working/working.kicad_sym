@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_Telecom_Si3210" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_telecom_si3210" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 36.195 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TSSOP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_Telecom_Si3210_0_1"
+    (symbol "kicad_interface_telecom_si3210_0_1"
       (rectangle (start -20.32 33.02) (end 20.32 -35.56)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_Telecom_Si3210_1_1"
+    (symbol "kicad_interface_telecom_si3210_1_1"
       (pin input line (at 25.4 15.24 180) (length 5.08)
         (name "~{CS}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

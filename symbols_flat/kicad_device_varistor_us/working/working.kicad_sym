@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Varistor_US" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_varistor_us" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "RV" (at 3.175 0 90)
       (effects (font (size 1.27 1.27)))
     )
@@ -36,12 +36,12 @@
     (property "ki_fp_filters" "RV_* Varistor*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Varistor_US_0_0"
+    (symbol "kicad_device_varistor_us_0_0"
       (text "U" (at -1.778 -2.032 0)
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Device_Varistor_US_0_1"
+    (symbol "kicad_device_varistor_us_0_1"
       (polyline
         (pts
           (xy 0 -2.286)
@@ -101,7 +101,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Varistor_US_1_1"
+    (symbol "kicad_device_varistor_us_1_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

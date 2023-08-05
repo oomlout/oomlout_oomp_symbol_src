@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "power_extra:arturo182_power_extra_V7V" (power) (pin_names (offset 0))
+  (symbol "power_extra:arturo182_power_extra_v7v" (power) (pin_names (offset 0))
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_power_extra_V7V_0_1"
+    (symbol "arturo182_power_extra_v7v_0_1"
       (polyline
         (pts
           (xy -0.762 1.27)
@@ -38,7 +38,7 @@
         (fill (type none))
       )
     )
-    (symbol "arturo182_power_extra_V7V_1_1"
+    (symbol "arturo182_power_extra_v7v_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
         (name "V7V" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

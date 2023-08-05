@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_RJ45_Pulse_JXD6_0001NL" (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_rj45_pulse_jxd6_0001nl" (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 12.7 13.97 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "RJ45*Pulse*JXD6?0001NL*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_RJ45_Pulse_JXD6_0001NL_0_0"
+    (symbol "kicad_connector_rj45_pulse_jxd6_0001nl_0_0"
       (rectangle (start -12.7 12.7) (end 12.7 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -148,7 +148,7 @@
         (effects (font (size 0.635 0.635)))
       )
     )
-    (symbol "kicad_Connector_RJ45_Pulse_JXD6_0001NL_0_1"
+    (symbol "kicad_connector_rj45_pulse_jxd6_0001nl_0_1"
       (rectangle (start -8.382 -10.541) (end -10.922 10.16)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -795,7 +795,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Connector_RJ45_Pulse_JXD6_0001NL_1_0"
+    (symbol "kicad_connector_rj45_pulse_jxd6_0001nl_1_0"
       (text "75" (at -2.032 -6.858 0)
         (effects (font (size 0.508 0.508)))
       )
@@ -809,7 +809,7 @@
         (effects (font (size 0.508 0.508)))
       )
     )
-    (symbol "kicad_Connector_RJ45_Pulse_JXD6_0001NL_1_1"
+    (symbol "kicad_connector_rj45_pulse_jxd6_0001nl_1_1"
       (pin passive line (at -2.54 15.24 270) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

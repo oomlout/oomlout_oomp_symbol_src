@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Q_Dual_PNP_PNP_C2E2C1E1B1B2" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_q_dual_pnp_pnp_c2e2c1e1b1b2" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 1.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "SC?70* SC?88* SOT?363* SOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Q_Dual_PNP_PNP_C2E2C1E1B1B2_0_1"
+    (symbol "kicad_device_q_dual_pnp_pnp_c2e2c1e1b1b2_0_1"
       (polyline
         (pts
           (xy 0.635 0)
@@ -75,7 +75,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Q_Dual_PNP_PNP_C2E2C1E1B1B2_1_1"
+    (symbol "kicad_device_q_dual_pnp_pnp_c2e2c1e1b1b2_1_1"
       (pin passive line (at 2.54 5.08 270) (length 2.54)
         (name "C1" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
@@ -89,7 +89,7 @@
         (number "5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Device_Q_Dual_PNP_PNP_C2E2C1E1B1B2_2_1"
+    (symbol "kicad_device_q_dual_pnp_pnp_c2e2c1e1b1b2_2_1"
       (pin passive line (at 2.54 5.08 270) (length 2.54)
         (name "C2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

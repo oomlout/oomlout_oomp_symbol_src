@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_TS3L501ERUA" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_ts3l501erua" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 -10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "WQFN*1EP*3.5x9mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_TS3L501ERUA_1_1"
+    (symbol "kicad_analog_switch_ts3l501erua_1_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -54,7 +54,7 @@
         (number "38" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_TS3L501ERUA_2_1"
+    (symbol "kicad_analog_switch_ts3l501erua_2_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -84,7 +84,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_TS3L501ERUA_3_1"
+    (symbol "kicad_analog_switch_ts3l501erua_3_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -114,7 +114,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_TS3L501ERUA_4_1"
+    (symbol "kicad_analog_switch_ts3l501erua_4_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -144,7 +144,7 @@
         (number "25" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_TS3L501ERUA_5_1"
+    (symbol "kicad_analog_switch_ts3l501erua_5_1"
       (rectangle (start -7.62 8.89) (end 7.62 -8.89)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -186,13 +186,13 @@
         (number "42" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_TS3L501ERUA_6_0"
+    (symbol "kicad_analog_switch_ts3l501erua_6_0"
       (rectangle (start -10.16 5.08) (end 10.16 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Analog_Switch_TS3L501ERUA_6_1"
+    (symbol "kicad_analog_switch_ts3l501erua_6_1"
       (pin power_in line (at -7.62 7.62 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

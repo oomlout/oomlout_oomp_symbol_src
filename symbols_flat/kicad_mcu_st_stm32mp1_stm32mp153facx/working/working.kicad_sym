@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32MP1_STM32MP153FACx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32mp1_stm32mp153facx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -71.12 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "*TFBGA*12x12mm*Layout23x23*P0.5mmP0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32MP1_STM32MP153FACx_0_1"
+    (symbol "kicad_mcu_st_stm32mp1_stm32mp153facx_0_1"
       (rectangle (start -71.12 -175.26) (end 73.66 175.26)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32MP1_STM32MP153FACx_1_1"
+    (symbol "kicad_mcu_st_stm32mp1_stm32mp153facx_1_1"
       (pin power_in line (at -17.78 180.34 270) (length 5.08)
         (name "VDDCORE" (effects (font (size 1.27 1.27))))
         (number "1A2" (effects (font (size 1.27 1.27))))

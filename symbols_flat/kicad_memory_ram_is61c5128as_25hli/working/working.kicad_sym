@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_RAM_IS61C5128AS_25HLI" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_ram_is61c5128as_25hli" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TSOP*11.8x8mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_RAM_IS61C5128AS_25HLI_0_1"
+    (symbol "kicad_memory_ram_is61c5128as_25hli_0_1"
       (rectangle (start -12.7 30.48) (end 12.7 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Memory_RAM_IS61C5128AS_25HLI_1_1"
+    (symbol "kicad_memory_ram_is61c5128as_25hli_1_1"
       (pin input line (at -15.24 0 0) (length 2.54)
         (name "A11" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

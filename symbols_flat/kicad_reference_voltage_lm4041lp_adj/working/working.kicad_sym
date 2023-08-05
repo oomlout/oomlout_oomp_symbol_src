@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Reference_Voltage_LM4041LP_ADJ" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_reference_voltage_lm4041lp_adj" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TO?92*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Reference_Voltage_LM4041LP_ADJ_0_1"
+    (symbol "kicad_reference_voltage_lm4041lp_adj_0_1"
       (polyline
         (pts
           (xy 0 2.54)
@@ -60,7 +60,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Reference_Voltage_LM4041LP_ADJ_1_1"
+    (symbol "kicad_reference_voltage_lm4041lp_adj_1_1"
       (pin input line (at 0 5.08 270) (length 2.54)
         (name "FB" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

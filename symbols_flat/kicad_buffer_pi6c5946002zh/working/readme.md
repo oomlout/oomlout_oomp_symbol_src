@@ -1,4 +1,4 @@
-# Buffer_PI6C5946002ZH by arturo182  
+# buffer_pi6c5946002zh by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Buffer |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_buffer_pi6c5946002zh/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_buffer_pi6c5946002zh/working', 'oomp_doc': 'kicad_buffer_pi6c5946002zh/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_buffer_pi6c5946002zh/working', 'oomp_src_flat': 'symbols_flat/kicad_buffer_pi6c5946002zh/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_buffer_pi6c5946002zh/working'} |  
-| name | Buffer_PI6C5946002ZH |  
+| name | buffer_pi6c5946002zh |  
 | oomp_key | oomp_kicad_buffer_pi6c5946002zh |  
 | oomp_key_simple | kicad_buffer_pi6c5946002zh |  
 | owner | arturo182 |  

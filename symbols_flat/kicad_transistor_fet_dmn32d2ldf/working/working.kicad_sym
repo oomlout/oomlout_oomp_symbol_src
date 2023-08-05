@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transistor_FET_DMN32D2LDF" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transistor_fet_dmn32d2ldf" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?353*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transistor_FET_DMN32D2LDF_0_1"
+    (symbol "kicad_transistor_fet_dmn32d2ldf_0_1"
       (polyline
         (pts
           (xy -2.54 0)
@@ -39,7 +39,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Transistor_FET_DMN32D2LDF_1_1"
+    (symbol "kicad_transistor_fet_dmn32d2ldf_1_1"
       (circle (center -6.35 0) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))

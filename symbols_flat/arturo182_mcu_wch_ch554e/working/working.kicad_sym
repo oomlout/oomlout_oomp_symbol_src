@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "MCU_WCH:arturo182_MCU_WCH_CH554E" (in_bom yes) (on_board yes)
+  (symbol "MCU_WCH:arturo182_mcu_wch_ch554e" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 7.62 11.43 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -15,7 +15,7 @@
     (property "LCSC" "C111293" (id 4) (at 0 -11.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_MCU_WCH_CH554E_0_0"
+    (symbol "arturo182_mcu_wch_ch554e_0_0"
       (text "3.3V" (at 0.635 -5.08 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -82,7 +82,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_MCU_WCH_CH554E_0_1"
+    (symbol "arturo182_mcu_wch_ch554e_0_1"
       (rectangle (start -7.62 10.16) (end 7.62 -7.62)
         (stroke (width 0.1524))
         (fill (type background))

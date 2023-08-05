@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Audio_AK7742EQ" (in_bom yes) (on_board yes)
+  (symbol "kicad_audio_ak7742eq" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "LQFP*7x7mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Audio_AK7742EQ_0_1"
+    (symbol "kicad_audio_ak7742eq_0_1"
       (rectangle (start -15.24 35.56) (end 15.24 -35.56)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Audio_AK7742EQ_1_1"
+    (symbol "kicad_audio_ak7742eq_1_1"
       (pin input line (at -17.78 10.16 0) (length 2.54)
         (name "AIN3L" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_SN74CB3Q3384ADBQ" (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_sn74cb3q3384adbq" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 22.86 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SSOP*3.9x8.7mm*P0.635mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_SN74CB3Q3384ADBQ_0_1"
+    (symbol "kicad_74xx_sn74cb3q3384adbq_0_1"
       (pin input line (at -10.16 -12.7 0) (length 2.54)
         (name "~{1OE}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -119,7 +119,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_SN74CB3Q3384ADBQ_1_1"
+    (symbol "kicad_74xx_sn74cb3q3384adbq_1_1"
       (rectangle (start -7.62 20.32) (end 7.62 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))

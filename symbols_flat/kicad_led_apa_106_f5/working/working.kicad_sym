@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_LED_APA_106_F5" (in_bom yes) (on_board yes)
+  (symbol "kicad_led_apa_106_f5" (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 5.08 5.715 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
@@ -21,12 +21,12 @@
     (property "ki_fp_filters" "LED*D5.0mm*RGB*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_LED_APA_106_F5_0_0"
+    (symbol "kicad_led_apa_106_f5_0_0"
       (text "RGB" (at 2.286 -4.191 0)
         (effects (font (size 0.762 0.762)))
       )
     )
-    (symbol "kicad_LED_APA_106_F5_0_1"
+    (symbol "kicad_led_apa_106_f5_0_1"
       (polyline
         (pts
           (xy 1.27 -3.556)
@@ -93,7 +93,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_LED_APA_106_F5_1_1"
+    (symbol "kicad_led_apa_106_f5_1_1"
       (pin output line (at 7.62 2.54 180) (length 2.54)
         (name "DO" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

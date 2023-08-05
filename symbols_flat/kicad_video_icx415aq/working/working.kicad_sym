@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Video_ICX415AQ" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_video_icx415aq" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 20.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "Diagonal 8mm B/W Progressive Scan CCD Image Sensor with Square Pixel, CERDIP-22" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Video_ICX415AQ_0_1"
+    (symbol "kicad_video_icx415aq_0_1"
       (rectangle (start -13.97 19.05) (end 13.97 -19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Video_ICX415AQ_1_1"
+    (symbol "kicad_video_icx415aq_1_1"
       (pin input line (at 17.78 -10.16 180) (length 3.81)
         (name "CGG" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))

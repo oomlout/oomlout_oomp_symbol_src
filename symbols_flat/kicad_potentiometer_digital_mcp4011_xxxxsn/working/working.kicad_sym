@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Potentiometer_Digital_MCP4011_xxxxSN" (in_bom yes) (on_board yes)
+  (symbol "kicad_potentiometer_digital_mcp4011_xxxxsn" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Potentiometer_Digital_MCP4011_xxxxSN_0_1"
+    (symbol "kicad_potentiometer_digital_mcp4011_xxxxsn_0_1"
       (polyline
         (pts
           (xy 0 0)
@@ -52,7 +52,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Potentiometer_Digital_MCP4011_xxxxSN_1_1"
+    (symbol "kicad_potentiometer_digital_mcp4011_xxxxsn_1_1"
       (rectangle (start -7.62 7.62) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))

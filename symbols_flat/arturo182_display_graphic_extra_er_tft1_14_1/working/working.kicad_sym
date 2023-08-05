@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Display_Graphic_Extra_ER_TFT1_14_1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "arturo182_display_graphic_extra_er_tft1_14_1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "https://www.buydisplay.com/download/manual/ER-TFT1.14-1_Datasheet.pdf" (at 0 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Display_Graphic_Extra_ER_TFT1_14_1_0_1"
+    (symbol "arturo182_display_graphic_extra_er_tft1_14_1_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -10.16)
         (stroke (width 0.1524) (type default))
         (fill (type background))
       )
     )
-    (symbol "arturo182_Display_Graphic_Extra_ER_TFT1_14_1_1_1"
+    (symbol "arturo182_display_graphic_extra_er_tft1_14_1_1_1"
       (pin no_connect line (at 0 3.81 0) (length 3.81) hide
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_TLC5947DAP" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_tlc5947dap" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 38.1 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "HTSSOP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_TLC5947DAP_0_1"
+    (symbol "kicad_driver_led_tlc5947dap_0_1"
       (rectangle (start -13.97 34.29) (end 13.97 -31.75)
         (stroke (width 0.254) (type default))
         (fill (type background))

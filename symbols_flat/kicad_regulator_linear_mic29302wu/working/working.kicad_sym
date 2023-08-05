@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Linear_MIC29302WU" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_linear_mic29302wu" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TO*263*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Linear_MIC29302WU_1_1"
+    (symbol "kicad_regulator_linear_mic29302wu_1_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))

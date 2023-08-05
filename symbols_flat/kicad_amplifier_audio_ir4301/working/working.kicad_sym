@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_IR4301" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_ir4301" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 20.955 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Infineon*PQFN*4EP*6x5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_IR4301_0_1"
+    (symbol "kicad_amplifier_audio_ir4301_0_1"
       (rectangle (start -7.62 -15.24) (end 7.62 17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Audio_IR4301_1_1"
+    (symbol "kicad_amplifier_audio_ir4301_1_1"
       (pin power_in line (at -10.16 15.24 0) (length 2.54)
         (name "VAA" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

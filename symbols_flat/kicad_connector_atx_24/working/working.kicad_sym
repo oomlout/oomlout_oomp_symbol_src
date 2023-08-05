@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_ATX_24" (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_atx_24" (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -8.89 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "*Mini?Fit*2x12*Vertical* *Mini?Fit*2x12*Horizontal*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_ATX_24_0_1"
+    (symbol "kicad_connector_atx_24_0_1"
       (rectangle (start -10.16 12.7) (end 10.16 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Connector_ATX_24_1_1"
+    (symbol "kicad_connector_atx_24_1_1"
       (pin power_out line (at 12.7 -2.54 180) (length 2.54)
         (name "+3.3V" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

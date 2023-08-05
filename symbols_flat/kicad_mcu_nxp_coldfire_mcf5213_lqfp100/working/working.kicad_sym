@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_NXP_ColdFire_MCF5213_LQFP100" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_nxp_coldfire_mcf5213_lqfp100" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 29.21 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "Coldfire with SRAM and Flash Eprom - LQFP100 package" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_NXP_ColdFire_MCF5213_LQFP100_0_1"
+    (symbol "kicad_mcu_nxp_coldfire_mcf5213_lqfp100_0_1"
       (rectangle (start -43.18 67.31) (end 43.18 -67.31)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_NXP_ColdFire_MCF5213_LQFP100_1_1"
+    (symbol "kicad_mcu_nxp_coldfire_mcf5213_lqfp100_1_1"
       (pin power_in line (at -17.78 73.66 270) (length 6.35)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

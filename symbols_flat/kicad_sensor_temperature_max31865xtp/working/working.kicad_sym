@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Temperature_MAX31865xTP" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_temperature_max31865xtp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TQFN*1EP*5x5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Temperature_MAX31865xTP_0_1"
+    (symbol "kicad_sensor_temperature_max31865xtp_0_1"
       (rectangle (start -12.7 17.78) (end 12.7 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Temperature_MAX31865xTP_1_1"
+    (symbol "kicad_sensor_temperature_max31865xtp_1_1"
       (pin power_out line (at 15.24 15.24 180) (length 2.54)
         (name "BIAS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

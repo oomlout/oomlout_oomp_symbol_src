@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_LT3755xUD" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_lt3755xud" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*1EP*3x3mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_LT3755xUD_0_1"
+    (symbol "kicad_driver_led_lt3755xud_0_1"
       (rectangle (start -15.24 -17.78) (end 15.24 17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_LED_LT3755xUD_1_1"
+    (symbol "kicad_driver_led_lt3755xud_1_1"
       (pin output line (at -17.78 10.16 0) (length 2.54)
         (name "VREF" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

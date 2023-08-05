@@ -1,4 +1,4 @@
-# Device_Q_Dual_PNP_PNP_C1B1B2C2E2E1 by arturo182  
+# device_q_dual_pnp_pnp_c1b1b2c2e2e1 by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Device |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_device_q_dual_pnp_pnp_c1b1b2c2e2e1/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_device_q_dual_pnp_pnp_c1b1b2c2e2e1/working', 'oomp_doc': 'kicad_device_q_dual_pnp_pnp_c1b1b2c2e2e1/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_dual_pnp_pnp_c1b1b2c2e2e1/working', 'oomp_src_flat': 'symbols_flat/kicad_device_q_dual_pnp_pnp_c1b1b2c2e2e1/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_dual_pnp_pnp_c1b1b2c2e2e1/working'} |  
-| name | Device_Q_Dual_PNP_PNP_C1B1B2C2E2E1 |  
+| name | device_q_dual_pnp_pnp_c1b1b2c2e2e1 |  
 | oomp_key | oomp_kicad_device_q_dual_pnp_pnp_c1b1b2c2e2e1 |  
 | oomp_key_simple | kicad_device_q_dual_pnp_pnp_c1b1b2c2e2e1 |  
 | owner | arturo182 |  

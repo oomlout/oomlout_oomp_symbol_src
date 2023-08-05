@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Optical_NOA1305" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_optical_noa1305" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DFN*6*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Optical_NOA1305_0_0"
+    (symbol "kicad_sensor_optical_noa1305_0_0"
       (polyline
         (pts
           (xy 1.143 0.381)
@@ -79,7 +79,7 @@
         (effects (font (size 1.524 1.524)))
       )
     )
-    (symbol "kicad_Sensor_Optical_NOA1305_0_1"
+    (symbol "kicad_sensor_optical_noa1305_0_1"
       (polyline
         (pts
           (xy -7.493 -2.032)
@@ -217,7 +217,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Optical_NOA1305_1_1"
+    (symbol "kicad_sensor_optical_noa1305_1_1"
       (pin power_in line (at 0 -10.16 90) (length 2.54)
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

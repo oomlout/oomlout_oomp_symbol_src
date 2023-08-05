@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Cypress_CY7C68013A_56LTX" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_cypress_cy7c68013a_56ltx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 49.53 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*1EP*8x8mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Cypress_CY7C68013A_56LTX_0_1"
+    (symbol "kicad_mcu_cypress_cy7c68013a_56ltx_0_1"
       (rectangle (start -15.24 48.26) (end 15.24 -48.26)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Cypress_CY7C68013A_56LTX_1_1"
+    (symbol "kicad_mcu_cypress_cy7c68013a_56ltx_1_1"
       (pin input line (at 17.78 2.54 180) (length 2.54)
         (name "RDY0/SLRD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

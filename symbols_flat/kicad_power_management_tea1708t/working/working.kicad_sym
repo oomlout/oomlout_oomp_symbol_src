@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Management_TEA1708T" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_power_management_tea1708t" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 1.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Management_TEA1708T_0_1"
+    (symbol "kicad_power_management_tea1708t_0_1"
       (rectangle (start -2.54 5.08) (end 3.81 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -120,7 +120,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Power_Management_TEA1708T_1_1"
+    (symbol "kicad_power_management_tea1708t_1_1"
       (polyline
         (pts
           (xy 1.143 -0.508)

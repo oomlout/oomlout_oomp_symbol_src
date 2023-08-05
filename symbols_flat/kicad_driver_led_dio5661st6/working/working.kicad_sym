@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_DIO5661ST6" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_dio5661st6" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_DIO5661ST6_0_1"
+    (symbol "kicad_driver_led_dio5661st6_0_1"
       (rectangle (start 5.08 -5.08) (end -5.08 5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_LED_DIO5661ST6_1_1"
+    (symbol "kicad_driver_led_dio5661st6_1_1"
       (pin open_collector line (at 7.62 2.54 180) (length 2.54)
         (name "LX" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

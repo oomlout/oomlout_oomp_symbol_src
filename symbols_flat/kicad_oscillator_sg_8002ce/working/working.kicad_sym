@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Oscillator_SG_8002CE" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_oscillator_sg_8002ce" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "X" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Oscillator*SMD*SeikoEpson*SG8002CE*3.2x2.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Oscillator_SG_8002CE_0_1"
+    (symbol "kicad_oscillator_sg_8002ce_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -43,7 +43,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Oscillator_SG_8002CE_1_1"
+    (symbol "kicad_oscillator_sg_8002ce_1_1"
       (pin input line (at -7.62 0 0) (length 2.54)
         (name "OE" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

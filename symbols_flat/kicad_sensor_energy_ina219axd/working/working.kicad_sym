@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Energy_INA219AxD" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_energy_ina219axd" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Energy_INA219AxD_0_1"
+    (symbol "kicad_sensor_energy_ina219axd_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Energy_INA219AxD_1_1"
+    (symbol "kicad_sensor_energy_ina219axd_1_1"
       (pin input line (at 10.16 -2.54 180) (length 2.54)
         (name "A1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

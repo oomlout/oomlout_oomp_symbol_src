@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Filter_EMI_CLC" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_filter_emi_clc" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "FL" (at 0 6.985 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Filter* Resonator*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Filter_EMI_CLC_0_1"
+    (symbol "kicad_device_filter_emi_clc_0_1"
       (rectangle (start -5.715 3.81) (end 5.588 -0.635)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -117,7 +117,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Device_Filter_EMI_CLC_1_1"
+    (symbol "kicad_device_filter_emi_clc_1_1"
       (pin passive line (at -7.62 2.54 0) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

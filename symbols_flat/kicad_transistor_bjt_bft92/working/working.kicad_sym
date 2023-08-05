@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transistor_BJT_BFT92" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transistor_bjt_bft92" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transistor_BJT_BFT92_0_1"
+    (symbol "kicad_transistor_bjt_bft92_0_1"
       (polyline
         (pts
           (xy 0 0)
@@ -72,7 +72,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Transistor_BJT_BFT92_1_1"
+    (symbol "kicad_transistor_bjt_bft92_1_1"
       (pin input line (at -5.08 0 0) (length 5.08)
         (name "B" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

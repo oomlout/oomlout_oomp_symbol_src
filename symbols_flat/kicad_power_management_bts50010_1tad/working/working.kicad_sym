@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Management_BTS50010_1TAD" (in_bom yes) (on_board yes)
+  (symbol "kicad_power_management_bts50010_1tad" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TO*263*TabPin4*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Management_BTS50010_1TAD_0_1"
+    (symbol "kicad_power_management_bts50010_1tad_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Power_Management_BTS50010_1TAD_1_1"
+    (symbol "kicad_power_management_bts50010_1tad_1_1"
       (pin power_in line (at 0 -7.62 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

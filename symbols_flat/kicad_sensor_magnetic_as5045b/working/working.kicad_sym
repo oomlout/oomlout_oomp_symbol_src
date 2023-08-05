@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Magnetic_AS5045B" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_magnetic_as5045b" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 11.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SSOP*5.3x6.2mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Magnetic_AS5045B_0_1"
+    (symbol "kicad_sensor_magnetic_as5045b_0_1"
       (rectangle (start -10.16 10.16) (end 10.16 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -90,7 +90,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Sensor_Magnetic_AS5045B_1_1"
+    (symbol "kicad_sensor_magnetic_as5045b_1_1"
       (pin open_collector line (at -12.7 -5.08 0) (length 2.54)
         (name "MagINCn" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

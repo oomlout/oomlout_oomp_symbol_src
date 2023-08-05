@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Filter_BNX025" (in_bom yes) (on_board yes)
+  (symbol "kicad_filter_bnx025" (in_bom yes) (on_board yes)
     (property "Reference" "FL" (at -6.35 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Filter*Murata*BNX025*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Filter_BNX025_0_1"
+    (symbol "kicad_filter_bnx025_0_1"
       (rectangle (start -7.62 3.81) (end 7.62 -3.81)
         (stroke (width 0) (type default))
         (fill (type background))
@@ -163,7 +163,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Filter_BNX025_1_1"
+    (symbol "kicad_filter_bnx025_1_1"
       (arc (start -3.937 2.54) (mid -4.445 3.0458) (end -4.953 2.54)
         (stroke (width 0) (type default))
         (fill (type none))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_TAS5825MRHB" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_tas5825mrhb" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "VQFN*1EP*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_TAS5825MRHB_0_1"
+    (symbol "kicad_amplifier_audio_tas5825mrhb_0_1"
       (rectangle (start -12.7 22.86) (end 12.7 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Audio_TAS5825MRHB_1_1"
+    (symbol "kicad_amplifier_audio_tas5825mrhb_1_1"
       (pin passive line (at 15.24 15.24 180) (length 2.54)
         (name "BST_A+" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

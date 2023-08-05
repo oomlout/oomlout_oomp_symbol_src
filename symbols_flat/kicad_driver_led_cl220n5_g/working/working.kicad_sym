@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_CL220N5_G" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_cl220n5_g" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TO?220*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_CL220N5_G_0_1"
+    (symbol "kicad_driver_led_cl220n5_g_0_1"
       (rectangle (start -2.54 2.54) (end 2.54 -2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -124,7 +124,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Driver_LED_CL220N5_G_1_1"
+    (symbol "kicad_driver_led_cl220n5_g_1_1"
       (pin input line (at 0 5.08 270) (length 2.54)
         (name "VA" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

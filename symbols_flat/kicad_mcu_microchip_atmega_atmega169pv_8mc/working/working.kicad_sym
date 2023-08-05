@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Microchip_ATmega_ATmega169PV_8MC" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_microchip_atmega_atmega169pv_8mc" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 50.8 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Microchip*DRQFN*1EP*7x7mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Microchip_ATmega_ATmega169PV_8MC_0_1"
+    (symbol "kicad_mcu_microchip_atmega_atmega169pv_8mc_0_1"
       (rectangle (start -13.97 -49.53) (end 13.97 49.53)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Microchip_ATmega_ATmega169PV_8MC_1_1"
+    (symbol "kicad_mcu_microchip_atmega_atmega169pv_8mc_1_1"
       (pin bidirectional line (at -17.78 -25.4 0) (length 3.81)
         (name "PE0" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

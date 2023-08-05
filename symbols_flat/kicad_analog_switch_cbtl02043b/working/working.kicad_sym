@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_CBTL02043B" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_cbtl02043b" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 21.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "WQFN*1EP*2.5x4.5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_CBTL02043B_0_1"
+    (symbol "kicad_analog_switch_cbtl02043b_0_1"
       (rectangle (start -12.7 20.32) (end 12.7 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -118,7 +118,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Analog_Switch_CBTL02043B_1_1"
+    (symbol "kicad_analog_switch_cbtl02043b_1_1"
       (circle (center -3.81 -10.16) (radius 0.254)
         (stroke (width 0) (type default))
         (fill (type none))

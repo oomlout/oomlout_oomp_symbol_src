@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_4xxx_IEEE_4514" (in_bom yes) (on_board yes)
+  (symbol "kicad_4xxx_ieee_4514" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 6.35 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_4xxx_IEEE_4514_0_1"
+    (symbol "kicad_4xxx_ieee_4514_0_1"
       (rectangle (start 7.62 20.32) (end -7.62 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_4xxx_IEEE_4514_1_1"
+    (symbol "kicad_4xxx_ieee_4514_1_1"
       (pin input line (at -15.24 13.97 0) (length 7.62)
         (name "EL" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

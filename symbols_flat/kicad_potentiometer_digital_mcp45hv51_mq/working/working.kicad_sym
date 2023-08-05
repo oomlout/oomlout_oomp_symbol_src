@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Potentiometer_Digital_MCP45HV51_MQ" (in_bom yes) (on_board yes)
+  (symbol "kicad_potentiometer_digital_mcp45hv51_mq" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "QFN*5x5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Potentiometer_Digital_MCP45HV51_MQ_0_1"
+    (symbol "kicad_potentiometer_digital_mcp45hv51_mq_0_1"
       (polyline
         (pts
           (xy 9.525 0)
@@ -63,7 +63,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Potentiometer_Digital_MCP45HV51_MQ_1_1"
+    (symbol "kicad_potentiometer_digital_mcp45hv51_mq_1_1"
       (rectangle (start -15.24 12.7) (end 15.24 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))

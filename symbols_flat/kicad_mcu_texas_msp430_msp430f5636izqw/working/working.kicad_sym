@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Texas_MSP430_MSP430F5636IZQW" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_texas_msp430_msp430f5636izqw" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -29.21 66.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Texas*MicroStar*Junior*BGA*7.0x7.0mm*Layout12x12*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Texas_MSP430_MSP430F5636IZQW_0_1"
+    (symbol "kicad_mcu_texas_msp430_msp430f5636izqw_0_1"
       (rectangle (start -29.21 63.5) (end 29.21 -64.77)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Texas_MSP430_MSP430F5636IZQW_1_1"
+    (symbol "kicad_mcu_texas_msp430_msp430f5636izqw_1_1"
       (pin bidirectional line (at -33.02 -49.53 0) (length 3.81)
         (name "P6.4/CB4/A4" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

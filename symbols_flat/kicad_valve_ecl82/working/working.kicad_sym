@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Valve_ECL82" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_ecl82" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "Valve*Noval*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_ECL82_0_1"
+    (symbol "kicad_valve_ecl82_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -52,7 +52,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECL82_1_0"
+    (symbol "kicad_valve_ecl82_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -62,7 +62,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECL82_1_1"
+    (symbol "kicad_valve_ecl82_1_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -129,7 +129,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECL82_2_0"
+    (symbol "kicad_valve_ecl82_2_0"
       (polyline
         (pts
           (xy -2.54 -6.35)
@@ -163,7 +163,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_ECL82_2_1"
+    (symbol "kicad_valve_ecl82_2_1"
       (polyline
         (pts
           (xy -5.08 -2.54)
@@ -346,7 +346,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_ECL82_3_1"
+    (symbol "kicad_valve_ecl82_3_1"
       (polyline
         (pts
           (xy -2.54 -6.985)

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Valve_EL84" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_valve_el84" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "VALVE*NOVAL*P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Valve_EL84_0_1"
+    (symbol "kicad_valve_el84_0_1"
       (arc (start -5.08 -2.54) (mid 0 -7.5979) (end 5.08 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -52,7 +52,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EL84_1_0"
+    (symbol "kicad_valve_el84_1_0"
       (polyline
         (pts
           (xy -2.54 -5.08)
@@ -62,7 +62,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Valve_EL84_1_1"
+    (symbol "kicad_valve_el84_1_1"
       (polyline
         (pts
           (xy -5.08 -1.27)
@@ -269,7 +269,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Valve_EL84_2_1"
+    (symbol "kicad_valve_el84_2_1"
       (polyline
         (pts
           (xy -2.54 -5.08)

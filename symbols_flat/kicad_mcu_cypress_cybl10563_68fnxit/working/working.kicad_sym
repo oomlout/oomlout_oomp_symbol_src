@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Cypress_CYBL10563_68FNXIT" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_cypress_cybl10563_68fnxit" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -29.21 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "WLCSP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Cypress_CYBL10563_68FNXIT_1_0"
+    (symbol "kicad_mcu_cypress_cybl10563_68fnxit_1_0"
       (rectangle (start -30.48 -50.8) (end 30.48 38.1)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Cypress_CYBL10563_68FNXIT_1_1"
+    (symbol "kicad_mcu_cypress_cybl10563_68fnxit_1_1"
       (pin power_in line (at 35.56 -30.48 180) (length 5.08)
         (name "GANT1" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))

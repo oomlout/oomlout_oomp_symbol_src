@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_Microsemi_FlashPro_JTAG_10" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_microsemi_flashpro_jtag_10" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 4.445 12.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "IDC?Header*2x05* Pin?Header*2x05*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_Microsemi_FlashPro_JTAG_10_0_1"
+    (symbol "kicad_connector_microsemi_flashpro_jtag_10_0_1"
       (rectangle (start -2.667 11.43) (end -2.413 10.668)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -63,7 +63,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Connector_Microsemi_FlashPro_JTAG_10_1_1"
+    (symbol "kicad_connector_microsemi_flashpro_jtag_10_1_1"
       (pin passive line (at 12.7 5.08 180) (length 3.81)
         (name "TCK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

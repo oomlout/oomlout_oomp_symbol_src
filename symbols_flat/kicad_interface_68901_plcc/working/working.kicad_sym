@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_68901_PLCC" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_68901_plcc" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,13 +18,13 @@
     (property "ki_description" "Parallel Interface" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_68901_PLCC_0_1"
+    (symbol "kicad_interface_68901_plcc_0_1"
       (rectangle (start -15.24 -39.37) (end 15.24 39.37)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_68901_PLCC_1_1"
+    (symbol "kicad_interface_68901_plcc_1_1"
       (pin input line (at 22.86 22.86 180) (length 7.62)
         (name "SI" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))

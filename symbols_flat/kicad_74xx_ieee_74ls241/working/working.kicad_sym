@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_IEEE_74LS241" (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_ieee_74ls241" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 17.78 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Octal Buffer and Line Driver With 3-State Output, complementary enables, non-inverting outputs" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_IEEE_74LS241_0_0"
+    (symbol "kicad_74xx_ieee_74ls241_0_0"
       (polyline
         (pts
           (xy 2.032 6.604)
@@ -39,7 +39,7 @@
         (number "20" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_IEEE_74LS241_0_1"
+    (symbol "kicad_74xx_ieee_74ls241_0_1"
       (rectangle (start -12.7 7.62) (end 12.7 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -124,7 +124,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_74xx_IEEE_74LS241_1_1"
+    (symbol "kicad_74xx_ieee_74ls241_1_1"
       (pin input line (at -20.32 15.24 0) (length 7.62)
         (name "~{OE}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -162,7 +162,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_IEEE_74LS241_2_1"
+    (symbol "kicad_74xx_ieee_74ls241_2_1"
       (pin input line (at -20.32 5.08 0) (length 7.62)
         (name "I0" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))

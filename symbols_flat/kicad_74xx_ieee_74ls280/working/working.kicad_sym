@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_IEEE_74LS280" (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_ieee_74ls280" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 6.35 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_IEEE_74LS280_0_0"
+    (symbol "kicad_74xx_ieee_74ls280_0_0"
       (rectangle (start -6.35 11.43) (end 6.35 -11.43)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -26,7 +26,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_IEEE_74LS280_1_1"
+    (symbol "kicad_74xx_ieee_74ls280_1_1"
       (pin input line (at -12.7 -5.08 0) (length 6.35)
         (name "G" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

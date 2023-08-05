@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32L4_STM32L496WGYxP" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32l4_stm32l496wgyxp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -25.4 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32L4_STM32L496WGYxP_0_1"
+    (symbol "kicad_mcu_st_stm32l4_stm32l496wgyxp_0_1"
       (rectangle (start -25.4 -66.04) (end 25.4 68.58)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32L4_STM32L496WGYxP_1_1"
+    (symbol "kicad_mcu_st_stm32l4_stm32l496wgyxp_1_1"
       (pin bidirectional line (at -30.48 20.32 0) (length 5.08)
         (name "PG10" (effects (font (size 1.27 1.27))))
         (number "A10" (effects (font (size 1.27 1.27))))

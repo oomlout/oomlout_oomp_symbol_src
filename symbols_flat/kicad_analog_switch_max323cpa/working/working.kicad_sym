@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_MAX323CPA" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_max323cpa" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -3.175 5.334 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_MAX323CPA_1_1"
+    (symbol "kicad_analog_switch_max323cpa_1_1"
       (rectangle (start -3.81 2.54) (end 3.81 -2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -119,7 +119,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_MAX323CPA_2_1"
+    (symbol "kicad_analog_switch_max323cpa_2_1"
       (rectangle (start -3.81 2.54) (end 3.81 -2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -217,7 +217,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_MAX323CPA_3_0"
+    (symbol "kicad_analog_switch_max323cpa_3_0"
       (pin power_in line (at 0 -12.7 90) (length 2.54)
         (name "V-" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
@@ -227,7 +227,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_MAX323CPA_3_1"
+    (symbol "kicad_analog_switch_max323cpa_3_1"
       (rectangle (start -3.81 10.16) (end 3.81 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))

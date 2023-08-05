@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_USB_C_Receptacle_USB2_0" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_usb_c_receptacle_usb2_0" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -10.16 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "USB*C*Receptacle*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_USB_C_Receptacle_USB2_0_0_0"
+    (symbol "kicad_connector_usb_c_receptacle_usb2_0_0_0"
       (rectangle (start -0.254 -17.78) (end 0.254 -16.764)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -63,7 +63,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Connector_USB_C_Receptacle_USB2_0_0_1"
+    (symbol "kicad_connector_usb_c_receptacle_usb2_0_0_1"
       (rectangle (start -10.16 17.78) (end 10.16 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -161,7 +161,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Connector_USB_C_Receptacle_USB2_0_1_1"
+    (symbol "kicad_connector_usb_c_receptacle_usb2_0_1_1"
       (pin passive line (at 0 -22.86 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

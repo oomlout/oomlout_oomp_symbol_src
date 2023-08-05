@@ -1,4 +1,4 @@
-# Amplifier_Difference_LM733CN by arturo182  
+# amplifier_difference_lm733cn by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Amplifier_Difference |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_amplifier_difference_lm733cn/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_amplifier_difference_lm733cn/working', 'oomp_doc': 'kicad_amplifier_difference_lm733cn/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_difference_lm733cn/working', 'oomp_src_flat': 'symbols_flat/kicad_amplifier_difference_lm733cn/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_difference_lm733cn/working'} |  
-| name | Amplifier_Difference_LM733CN |  
+| name | amplifier_difference_lm733cn |  
 | oomp_key | oomp_kicad_amplifier_difference_lm733cn |  
 | oomp_key_simple | kicad_amplifier_difference_lm733cn |  
 | owner | arturo182 |  

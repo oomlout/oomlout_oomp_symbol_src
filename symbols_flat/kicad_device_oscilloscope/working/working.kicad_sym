@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Oscilloscope" (pin_numbers hide) (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_oscilloscope" (pin_numbers hide) (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "MES" (at -3.302 1.016 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Oscilloscope" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Oscilloscope_0_0"
+    (symbol "kicad_device_oscilloscope_0_0"
       (arc (start -1.016 0.508) (mid -1.397 0.8874) (end -1.778 0.508)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -76,7 +76,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Oscilloscope_0_1"
+    (symbol "kicad_device_oscilloscope_0_1"
       (polyline
         (pts
           (xy 0.254 3.81)
@@ -98,7 +98,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Oscilloscope_1_1"
+    (symbol "kicad_device_oscilloscope_1_1"
       (pin passive line (at 0 -5.08 90) (length 2.54)
         (name "-" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

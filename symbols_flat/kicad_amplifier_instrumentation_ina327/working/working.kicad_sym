@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Instrumentation_INA327" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_instrumentation_ina327" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 3.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "MSOP*3x3mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Instrumentation_INA327_0_1"
+    (symbol "kicad_amplifier_instrumentation_ina327_0_1"
       (polyline
         (pts
           (xy 7.62 0)
@@ -33,7 +33,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Instrumentation_INA327_1_1"
+    (symbol "kicad_amplifier_instrumentation_ina327_1_1"
       (pin passive line (at -7.62 2.54 0) (length 2.54)
         (name "R1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

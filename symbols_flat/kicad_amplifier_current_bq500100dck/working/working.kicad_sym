@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Current_BQ500100DCK" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_current_bq500100dck" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?363*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Current_BQ500100DCK_0_1"
+    (symbol "kicad_amplifier_current_bq500100dck_0_1"
       (polyline
         (pts
           (xy 5.08 0)
@@ -33,7 +33,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Current_BQ500100DCK_1_1"
+    (symbol "kicad_amplifier_current_bq500100dck_1_1"
       (pin passive line (at -2.54 -7.62 90) (length 3.81) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

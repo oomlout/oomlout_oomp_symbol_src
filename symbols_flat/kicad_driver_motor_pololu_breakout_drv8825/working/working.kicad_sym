@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_Motor_Pololu_Breakout_DRV8825" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_motor_pololu_breakout_drv8825" (in_bom yes) (on_board yes)
     (property "Reference" "A" (at -2.54 16.51 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Pololu*Breakout*15.2x20.3mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_Motor_Pololu_Breakout_DRV8825_0_1"
+    (symbol "kicad_driver_motor_pololu_breakout_drv8825_0_1"
       (rectangle (start 7.62 -17.78) (end -7.62 12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_Motor_Pololu_Breakout_DRV8825_1_1"
+    (symbol "kicad_driver_motor_pololu_breakout_drv8825_1_1"
       (pin power_in line (at 0 -20.32 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

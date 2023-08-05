@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Switching_AP63200WU" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_switching_ap63200wu" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TSOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Switching_AP63200WU_0_1"
+    (symbol "kicad_regulator_switching_ap63200wu_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Regulator_Switching_AP63200WU_1_1"
+    (symbol "kicad_regulator_switching_ap63200wu_1_1"
       (pin input line (at 10.16 -2.54 180) (length 2.54)
         (name "FB" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

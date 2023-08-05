@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Solar_Cells" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_solar_cells" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "SC" (at 2.54 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Multiple solar cells" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Solar_Cells_0_1"
+    (symbol "kicad_device_solar_cells_0_1"
       (rectangle (start -2.032 -1.397) (end 2.032 -1.651)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -134,7 +134,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Solar_Cells_1_1"
+    (symbol "kicad_device_solar_cells_1_1"
       (pin passive line (at 0 5.08 270) (length 2.54)
         (name "+" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

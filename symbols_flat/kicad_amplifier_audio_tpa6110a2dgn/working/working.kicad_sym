@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_TPA6110A2DGN" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_tpa6110a2dgn" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "HVSSOP*3x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_TPA6110A2DGN_0_1"
+    (symbol "kicad_amplifier_audio_tpa6110a2dgn_0_1"
       (rectangle (start -7.62 10.16) (end 7.62 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Audio_TPA6110A2DGN_1_1"
+    (symbol "kicad_amplifier_audio_tpa6110a2dgn_1_1"
       (pin passive line (at 10.16 -5.08 180) (length 2.54)
         (name "BYPASS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

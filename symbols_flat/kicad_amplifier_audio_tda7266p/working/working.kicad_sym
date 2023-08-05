@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_TDA7266P" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_tda7266p" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "ST*PowerSSO*SlugDown*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_TDA7266P_1_1"
+    (symbol "kicad_amplifier_audio_tda7266p_1_1"
       (polyline
         (pts
           (xy 3.81 -0.635)
@@ -116,7 +116,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Audio_TDA7266P_2_1"
+    (symbol "kicad_amplifier_audio_tda7266p_2_1"
       (polyline
         (pts
           (xy 3.81 -0.635)
@@ -156,7 +156,7 @@
         (number "20" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Audio_TDA7266P_3_1"
+    (symbol "kicad_amplifier_audio_tda7266p_3_1"
       (pin power_in line (at 0 -7.62 90) (length 5.08)
         (name "PG" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Gas_GM_402B" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_gas_gm_402b" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Winson?GM?402B*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Gas_GM_402B_0_1"
+    (symbol "kicad_sensor_gas_gm_402b_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -31,7 +31,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Sensor_Gas_GM_402B_1_1"
+    (symbol "kicad_sensor_gas_gm_402b_1_1"
       (pin passive line (at 7.62 -2.54 180) (length 2.54)
         (name "Rh1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

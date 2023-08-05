@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_AM_FM_SA636DK" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_am_fm_sa636dk" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -21.59 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SSOP*4.4x6.5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_AM_FM_SA636DK_0_0"
+    (symbol "kicad_rf_am_fm_sa636dk_0_0"
       (rectangle (start -12.7 11.43) (end -5.08 3.81)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -161,7 +161,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_RF_AM_FM_SA636DK_0_1"
+    (symbol "kicad_rf_am_fm_sa636dk_0_1"
       (rectangle (start -22.86 30.48) (end 22.86 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -343,7 +343,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_RF_AM_FM_SA636DK_1_0"
+    (symbol "kicad_rf_am_fm_sa636dk_1_0"
       (polyline
         (pts
           (xy -7.62 -5.08)
@@ -365,7 +365,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_RF_AM_FM_SA636DK_1_1"
+    (symbol "kicad_rf_am_fm_sa636dk_1_1"
       (pin input line (at -25.4 25.4 0) (length 2.54)
         (name "RF_IN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

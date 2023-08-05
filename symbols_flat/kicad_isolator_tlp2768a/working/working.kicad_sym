@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Isolator_TLP2768A" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_isolator_tlp2768a" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.112 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SO*6L*10x3.84mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Isolator_TLP2768A_0_1"
+    (symbol "kicad_isolator_tlp2768a_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -248,7 +248,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Isolator_TLP2768A_1_1"
+    (symbol "kicad_isolator_tlp2768a_1_1"
       (pin passive line (at -10.16 5.08 0) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

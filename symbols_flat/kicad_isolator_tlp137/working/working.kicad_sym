@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Isolator_TLP137" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_isolator_tlp137" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 4.953 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "MFSOP6*4.4x3.6mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Isolator_TLP137_0_1"
+    (symbol "kicad_isolator_tlp137_0_1"
       (rectangle (start -5.08 3.81) (end 5.08 -3.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -138,7 +138,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Isolator_TLP137_1_1"
+    (symbol "kicad_isolator_tlp137_1_1"
       (pin passive line (at -7.62 2.54 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

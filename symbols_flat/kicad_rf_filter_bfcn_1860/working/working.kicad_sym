@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_Filter_BFCN_1860" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_filter_bfcn_1860" (in_bom yes) (on_board yes)
     (property "Reference" "FL" (at 0 10.795 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Filter*Mini?Circuits*FV1206?4*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_Filter_BFCN_1860_0_1"
+    (symbol "kicad_rf_filter_bfcn_1860_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -67,7 +67,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_RF_Filter_BFCN_1860_1_1"
+    (symbol "kicad_rf_filter_bfcn_1860_1_1"
       (pin passive line (at -10.16 0 0) (length 2.54)
         (name "IN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Lamp" (pin_numbers hide) (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_lamp" (pin_numbers hide) (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "LA" (at 0.635 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Lamp" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Lamp_0_1"
+    (symbol "kicad_device_lamp_0_1"
       (polyline
         (pts
           (xy -1.778 1.778)
@@ -40,7 +40,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Lamp_1_1"
+    (symbol "kicad_device_lamp_1_1"
       (pin passive line (at 0 -5.08 90) (length 2.54)
         (name "-" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

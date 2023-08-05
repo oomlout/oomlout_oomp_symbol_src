@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Transformer_PA2006NL" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_transformer_pa2006nl" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "T" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Pulse*PA2006NL*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Transformer_PA2006NL_0_1"
+    (symbol "kicad_transformer_pa2006nl_0_1"
       (arc (start -2.54 -3.048) (mid -1.7813 -2.286) (end -2.54 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -107,7 +107,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Transformer_PA2006NL_1_1"
+    (symbol "kicad_transformer_pa2006nl_1_1"
       (arc (start -2.54 1.524) (mid -1.7813 2.286) (end -2.54 3.048)
         (stroke (width 0.2032) (type default))
         (fill (type none))

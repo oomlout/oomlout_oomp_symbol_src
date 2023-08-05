@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Switching_LMR33640ADDA" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_switching_lmr33640adda" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Texas*HSOP*1EP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Switching_LMR33640ADDA_0_1"
+    (symbol "kicad_regulator_switching_lmr33640adda_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Regulator_Switching_LMR33640ADDA_1_1"
+    (symbol "kicad_regulator_switching_lmr33640adda_1_1"
       (pin power_in line (at 0 -10.16 90) (length 2.54)
         (name "PGND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

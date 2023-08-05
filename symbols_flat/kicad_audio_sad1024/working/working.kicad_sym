@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Audio_SAD1024" (in_bom yes) (on_board yes)
+  (symbol "kicad_audio_sad1024" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP-16*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Audio_SAD1024_0_1"
+    (symbol "kicad_audio_sad1024_0_1"
       (rectangle (start -10.16 10.16) (end 10.16 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -51,7 +51,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Audio_SAD1024_1_1"
+    (symbol "kicad_audio_sad1024_1_1"
       (pin input line (at -12.7 -2.54 0) (length 2.54)
         (name "IN_A" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
@@ -73,7 +73,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Audio_SAD1024_2_1"
+    (symbol "kicad_audio_sad1024_2_1"
       (pin input line (at -12.7 5.08 0) (length 2.54)
         (name "01B" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))

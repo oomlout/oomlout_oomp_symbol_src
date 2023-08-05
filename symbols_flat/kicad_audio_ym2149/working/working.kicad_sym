@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Audio_YM2149" (in_bom yes) (on_board yes)
+  (symbol "kicad_audio_ym2149" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DIP*W15.24mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Audio_YM2149_0_1"
+    (symbol "kicad_audio_ym2149_0_1"
       (rectangle (start -10.16 27.94) (end 10.16 -27.94)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Audio_YM2149_1_1"
+    (symbol "kicad_audio_ym2149_1_1"
       (pin power_in line (at 0 -30.48 90) (length 2.54)
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Comparator_LM2903" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_comparator_lm2903" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* SOP*5.28x5.23mm*P1.27mm* VSSOP*3.0x3.0mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Comparator_LM2903_1_1"
+    (symbol "kicad_comparator_lm2903_1_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -61,7 +61,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Comparator_LM2903_2_1"
+    (symbol "kicad_comparator_lm2903_2_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -98,7 +98,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Comparator_LM2903_3_1"
+    (symbol "kicad_comparator_lm2903_3_1"
       (pin power_in line (at -2.54 -7.62 90) (length 3.81)
         (name "V-" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))

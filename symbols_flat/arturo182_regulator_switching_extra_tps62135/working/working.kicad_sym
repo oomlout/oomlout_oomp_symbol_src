@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "Regulator_Switching_Extra:arturo182_Regulator_Switching_Extra_TPS62135" (in_bom yes) (on_board yes)
+  (symbol "Regulator_Switching_Extra:arturo182_regulator_switching_extra_tps62135" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 8.89 13.97 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -15,13 +15,13 @@
     (property "LCSC" "C167238" (id 4) (at 0 -19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Regulator_Switching_Extra_TPS62135_0_1"
+    (symbol "arturo182_regulator_switching_extra_tps62135_0_1"
       (rectangle (start -8.89 12.7) (end 8.89 -15.24)
         (stroke (width 0))
         (fill (type background))
       )
     )
-    (symbol "arturo182_Regulator_Switching_Extra_TPS62135_1_1"
+    (symbol "arturo182_regulator_switching_extra_tps62135_1_1"
       (pin power_in line (at -12.7 10.16 0) (length 3.81)
         (name "VIN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

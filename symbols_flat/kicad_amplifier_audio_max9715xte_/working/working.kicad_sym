@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_MAX9715xTE_" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_max9715xte_" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "TQFN*1EP*5x5mm*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_MAX9715xTE__0_1"
+    (symbol "kicad_amplifier_audio_max9715xte__0_1"
       (rectangle (start -12.7 15.24) (end 12.7 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Audio_MAX9715xTE__1_1"
+    (symbol "kicad_amplifier_audio_max9715xte__1_1"
       (pin power_in line (at 2.54 -17.78 90) (length 2.54)
         (name "PGND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

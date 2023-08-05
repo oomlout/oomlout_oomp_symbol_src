@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_RAM_H5AN8G8NAFR_UHC" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_ram_h5an8g8nafr_uhc" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 48.26 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "FBGA*7.5x11mm*P0.8mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_RAM_H5AN8G8NAFR_UHC_0_1"
+    (symbol "kicad_memory_ram_h5an8g8nafr_uhc_0_1"
       (rectangle (start -15.24 -45.72) (end 15.24 45.72)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -339,7 +339,7 @@
         (number "N9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Memory_RAM_H5AN8G8NAFR_UHC_1_1"
+    (symbol "kicad_memory_ram_h5an8g8nafr_uhc_1_1"
       (text "DDR4" (at -3.81 8.89 0)
         (effects (font (size 2.1336 2.1336)) (justify left bottom))
       )

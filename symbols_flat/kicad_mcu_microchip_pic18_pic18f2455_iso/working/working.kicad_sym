@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Microchip_PIC18_PIC18F2455_ISO" (pin_names (offset 1.27)) (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_microchip_pic18_pic18f2455_iso" (pin_names (offset 1.27)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -25.4 25.4 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SO*W*7.5x17.9mm_P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Microchip_PIC18_PIC18F2455_ISO_0_1"
+    (symbol "kicad_mcu_microchip_pic18_pic18f2455_iso_0_1"
       (rectangle (start -26.67 24.13) (end 26.67 -24.13)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Microchip_PIC18_PIC18F2455_ISO_1_1"
+    (symbol "kicad_mcu_microchip_pic18_pic18f2455_iso_1_1"
       (pin input line (at 30.48 -5.08 180) (length 3.81)
         (name "Vpp/~{MCLR}/RE3" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

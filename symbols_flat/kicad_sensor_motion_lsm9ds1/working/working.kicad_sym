@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Motion_LSM9DS1" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_motion_lsm9ds1" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 21.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "LGA*3x3.5mm*P0.43mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Motion_LSM9DS1_0_1"
+    (symbol "kicad_sensor_motion_lsm9ds1_0_1"
       (rectangle (start -15.24 17.78) (end 15.24 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Motion_LSM9DS1_1_1"
+    (symbol "kicad_sensor_motion_lsm9ds1_1_1"
       (pin power_in line (at -2.54 20.32 270) (length 2.54)
         (name "VDDIO" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

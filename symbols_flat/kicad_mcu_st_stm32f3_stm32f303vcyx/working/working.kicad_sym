@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_ST_STM32F3_STM32F303VCYx" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_st_stm32f3_stm32f303vcyx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -17.78 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -24,13 +24,13 @@
     (property "ki_fp_filters" "ST*WLCSP*Die422*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_ST_STM32F3_STM32F303VCYx_0_1"
+    (symbol "kicad_mcu_st_stm32f3_stm32f303vcyx_0_1"
       (rectangle (start -17.78 -66.04) (end 20.32 66.04)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_ST_STM32F3_STM32F303VCYx_1_1"
+    (symbol "kicad_mcu_st_stm32f3_stm32f303vcyx_1_1"
       (pin power_in line (at 0 -71.12 90) (length 5.08)
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

@@ -1,4 +1,4 @@
-# Amplifier_Operational_OPA2376xxYZD by arturo182  
+# amplifier_operational_opa2376xxyzd by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Amplifier_Operational |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_amplifier_operational_opa2376xxyzd/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_amplifier_operational_opa2376xxyzd/working', 'oomp_doc': 'kicad_amplifier_operational_opa2376xxyzd/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_opa2376xxyzd/working', 'oomp_src_flat': 'symbols_flat/kicad_amplifier_operational_opa2376xxyzd/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_opa2376xxyzd/working'} |  
-| name | Amplifier_Operational_OPA2376xxYZD |  
+| name | amplifier_operational_opa2376xxyzd |  
 | oomp_key | oomp_kicad_amplifier_operational_opa2376xxyzd |  
 | oomp_key_simple | kicad_amplifier_operational_opa2376xxyzd |  
 | owner | arturo182 |  

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Isolator_ISO1643DWR" (in_bom yes) (on_board yes)
+  (symbol "kicad_isolator_iso1643dwr" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 6.35 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*7.5x10.3mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Isolator_ISO1643DWR_1_1"
+    (symbol "kicad_isolator_iso1643dwr_1_1"
       (rectangle (start -7.62 12.7) (end 7.62 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))

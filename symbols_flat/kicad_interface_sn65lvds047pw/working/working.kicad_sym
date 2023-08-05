@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_SN65LVDS047PW" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_sn65lvds047pw" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 21.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TSSOP*4.4x5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_SN65LVDS047PW_0_1"
+    (symbol "kicad_interface_sn65lvds047pw_0_1"
       (polyline
         (pts
           (xy 1.905 -9.652)
@@ -93,7 +93,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Interface_SN65LVDS047PW_1_0"
+    (symbol "kicad_interface_sn65lvds047pw_1_0"
       (rectangle (start -12.7 20.32) (end 12.7 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -268,7 +268,7 @@
         (effects (font (size 1.016 1.016)))
       )
     )
-    (symbol "kicad_Interface_SN65LVDS047PW_1_1"
+    (symbol "kicad_interface_sn65lvds047pw_1_1"
       (arc (start -5.08 -18.415) (mid -3.1833 -16.51) (end -5.08 -14.605)
         (stroke (width 0.254) (type default))
         (fill (type none))

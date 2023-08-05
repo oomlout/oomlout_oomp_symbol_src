@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Display_Graphic_Extra_GDEW0154T8" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "arturo182_display_graphic_extra_gdew0154t8" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 11.43 26.67 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "" (at 3.81 -8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Display_Graphic_Extra_GDEW0154T8_0_1"
+    (symbol "arturo182_display_graphic_extra_gdew0154t8_0_1"
       (rectangle (start -11.43 25.4) (end 11.43 -21.59)
         (stroke (width 0) (type default))
         (fill (type background))
       )
     )
-    (symbol "arturo182_Display_Graphic_Extra_GDEW0154T8_1_1"
+    (symbol "arturo182_display_graphic_extra_gdew0154t8_1_1"
       (pin input line (at 15.24 0 180) (length 3.81)
         (name "RESET" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))

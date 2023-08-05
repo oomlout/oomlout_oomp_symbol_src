@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Audio_SSM2211CP" (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_audio_ssm2211cp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "LFCSP*1EP*3x3mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Audio_SSM2211CP_0_1"
+    (symbol "kicad_amplifier_audio_ssm2211cp_0_1"
       (polyline
         (pts
           (xy -7.62 10.16)
@@ -33,7 +33,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Audio_SSM2211CP_1_1"
+    (symbol "kicad_amplifier_audio_ssm2211cp_1_1"
       (pin input line (at -10.16 2.54 0) (length 2.54)
         (name "SHUTDOWN" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Protection_NUP2202" (in_bom yes) (on_board yes)
+  (symbol "kicad_power_protection_nup2202" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.334 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?363*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Protection_NUP2202_0_1"
+    (symbol "kicad_power_protection_nup2202_0_1"
       (rectangle (start -3.048 3.048) (end 3.048 -3.048)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -303,7 +303,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Power_Protection_NUP2202_1_1"
+    (symbol "kicad_power_protection_nup2202_1_1"
       (pin passive line (at -5.08 0 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

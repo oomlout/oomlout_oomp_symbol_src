@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_USB_CP2102N_Axx_xQFN28" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_usb_cp2102n_axx_xqfn28" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*1EP*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_USB_CP2102N_Axx_xQFN28_0_1"
+    (symbol "kicad_interface_usb_cp2102n_axx_xqfn28_0_1"
       (rectangle (start -10.16 30.48) (end 10.16 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_USB_CP2102N_Axx_xQFN28_1_1"
+    (symbol "kicad_interface_usb_cp2102n_axx_xqfn28_1_1"
       (pin input line (at 12.7 12.7 180) (length 2.54)
         (name "~{DCD}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

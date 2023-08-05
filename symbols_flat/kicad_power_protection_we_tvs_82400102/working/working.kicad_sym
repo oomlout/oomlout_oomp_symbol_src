@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Protection_WE_TVS_82400102" (in_bom yes) (on_board yes)
+  (symbol "kicad_power_protection_we_tvs_82400102" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Protection_WE_TVS_82400102_0_1"
+    (symbol "kicad_power_protection_we_tvs_82400102_0_1"
       (circle (center -4.064 0) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -197,7 +197,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Power_Protection_WE_TVS_82400102_1_1"
+    (symbol "kicad_power_protection_we_tvs_82400102_1_1"
       (rectangle (start -5.08 3.81) (end 5.08 -3.81)
         (stroke (width 0.254) (type default))
         (fill (type background))

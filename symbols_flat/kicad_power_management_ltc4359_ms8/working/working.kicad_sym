@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Management_LTC4359_MS8" (in_bom yes) (on_board yes)
+  (symbol "kicad_power_management_ltc4359_ms8" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "MSOP*3x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Management_LTC4359_MS8_0_1"
+    (symbol "kicad_power_management_ltc4359_ms8_0_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Power_Management_LTC4359_MS8_1_1"
+    (symbol "kicad_power_management_ltc4359_ms8_1_1"
       (pin output line (at 2.54 10.16 270) (length 2.54)
         (name "GATE" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

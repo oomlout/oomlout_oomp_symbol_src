@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_TLC5951RHA" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_tlc5951rha" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Texas*S*PVQFN*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_TLC5951RHA_0_1"
+    (symbol "kicad_driver_led_tlc5951rha_0_1"
       (rectangle (start -10.16 33.02) (end 10.16 -33.02)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -183,7 +183,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Driver_LED_TLC5951RHA_1_1"
+    (symbol "kicad_driver_led_tlc5951rha_1_1"
       (pin output line (at -12.7 7.62 0) (length 2.54)
         (name "GSSOUT" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))

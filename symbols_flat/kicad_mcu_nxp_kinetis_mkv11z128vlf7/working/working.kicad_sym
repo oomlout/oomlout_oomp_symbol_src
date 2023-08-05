@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_NXP_Kinetis_MKV11Z128VLF7" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_nxp_kinetis_mkv11z128vlf7" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "LQFP*7x7mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_NXP_Kinetis_MKV11Z128VLF7_0_1"
+    (symbol "kicad_mcu_nxp_kinetis_mkv11z128vlf7_0_1"
       (rectangle (start -12.7 33.02) (end 12.7 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_NXP_Kinetis_MKV11Z128VLF7_1_1"
+    (symbol "kicad_mcu_nxp_kinetis_mkv11z128vlf7_1_1"
       (pin power_in line (at -5.08 35.56 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

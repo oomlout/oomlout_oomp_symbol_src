@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_Display_AY0438X_L" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_display_ay0438x_l" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.176 47.244 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "PLCC*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_Display_AY0438X_L_0_1"
+    (symbol "kicad_driver_display_ay0438x_l_0_1"
       (rectangle (start -12.7 45.72) (end 12.7 -48.26)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_Display_AY0438X_L_1_1"
+    (symbol "kicad_driver_display_ay0438x_l_1_1"
       (pin power_in line (at 0 48.26 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

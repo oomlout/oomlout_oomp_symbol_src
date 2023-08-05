@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Display_Character_HY1602E" (in_bom yes) (on_board yes)
+  (symbol "kicad_display_character_hy1602e" (in_bom yes) (on_board yes)
     (property "Reference" "DS" (at -6.096 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "*HY1602E*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Display_Character_HY1602E_0_1"
+    (symbol "kicad_display_character_hy1602e_0_1"
       (rectangle (start -7.62 17.78) (end 7.62 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Display_Character_HY1602E_1_1"
+    (symbol "kicad_display_character_hy1602e_1_1"
       (pin passive line (at 10.16 -2.54 180) (length 2.54)
         (name "LEDK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Logic_LevelTranslator_TXS0102YZP" (in_bom yes) (on_board yes)
+  (symbol "kicad_logic_leveltranslator_txs0102yzp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Texas*DSBGA*0.9x1.9mm*Layout2x4*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Logic_LevelTranslator_TXS0102YZP_0_1"
+    (symbol "kicad_logic_leveltranslator_txs0102yzp_0_1"
       (rectangle (start -7.62 10.16) (end 7.62 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -83,7 +83,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Logic_LevelTranslator_TXS0102YZP_1_1"
+    (symbol "kicad_logic_leveltranslator_txs0102yzp_1_1"
       (polyline
         (pts
           (xy -4.318 2.54)

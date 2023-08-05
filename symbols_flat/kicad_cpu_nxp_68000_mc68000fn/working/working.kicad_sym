@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_CPU_NXP_68000_MC68000FN" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_cpu_nxp_68000_mc68000fn" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -16.51 59.69 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "PLCC*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_CPU_NXP_68000_MC68000FN_0_1"
+    (symbol "kicad_cpu_nxp_68000_mc68000fn_0_1"
       (rectangle (start -17.78 58.42) (end 17.78 -58.42)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_CPU_NXP_68000_MC68000FN_1_1"
+    (symbol "kicad_cpu_nxp_68000_mc68000fn_1_1"
       (pin bidirectional line (at 25.4 -15.24 180) (length 7.62)
         (name "D4" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

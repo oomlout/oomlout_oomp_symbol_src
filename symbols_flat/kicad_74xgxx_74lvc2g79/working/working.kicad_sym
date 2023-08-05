@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xGxx_74LVC2G79" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_74xgxx_74lvc2g79" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 5.08 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SSOP* VSSOP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xGxx_74LVC2G79_1_1"
+    (symbol "kicad_74xgxx_74lvc2g79_1_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -39,7 +39,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xGxx_74LVC2G79_2_1"
+    (symbol "kicad_74xgxx_74lvc2g79_2_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -57,13 +57,13 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xGxx_74LVC2G79_3_0"
+    (symbol "kicad_74xgxx_74lvc2g79_3_0"
       (rectangle (start -5.08 -7.62) (end 5.08 7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_74xGxx_74LVC2G79_3_1"
+    (symbol "kicad_74xgxx_74lvc2g79_3_1"
       (pin power_in line (at 0 -12.7 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))

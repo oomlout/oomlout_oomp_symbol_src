@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Interface_USB_Extra_IP2721" (in_bom yes) (on_board yes)
+  (symbol "arturo182_interface_usb_extra_ip2721" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 10.16 11.43 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -15,7 +15,7 @@
     (property "LCSC" "C603176" (at 0 -11.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Interface_USB_Extra_IP2721_0_0"
+    (symbol "arturo182_interface_usb_extra_ip2721_0_0"
       (pin output line (at 0 13.97 270) (length 3.81)
         (name "VBUSG" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -81,7 +81,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_Interface_USB_Extra_IP2721_0_1"
+    (symbol "arturo182_interface_usb_extra_ip2721_0_1"
       (rectangle (start -10.16 10.16) (end 10.16 -7.62)
         (stroke (width 0.0005) (type default))
         (fill (type background))

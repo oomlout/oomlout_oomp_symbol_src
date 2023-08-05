@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Thermistor_PTC" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_thermistor_ptc" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "TH" (at -4.064 0 90)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Thermistor_PTC_0_1"
+    (symbol "kicad_device_thermistor_ptc_0_1"
       (arc (start -3.048 2.159) (mid -3.0495 2.3143) (end -3.175 2.413)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -97,7 +97,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Device_Thermistor_PTC_1_1"
+    (symbol "kicad_device_thermistor_ptc_1_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

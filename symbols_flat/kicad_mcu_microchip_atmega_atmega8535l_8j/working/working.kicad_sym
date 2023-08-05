@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Microchip_ATmega_ATmega8535L_8J" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_microchip_atmega_atmega8535l_8j" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "PLCC*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Microchip_ATmega_ATmega8535L_8J_0_1"
+    (symbol "kicad_mcu_microchip_atmega_atmega8535l_8j_0_1"
       (rectangle (start -12.7 -48.26) (end 12.7 48.26)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Microchip_ATmega_ATmega8535L_8J_1_1"
+    (symbol "kicad_mcu_microchip_atmega_atmega8535l_8j_1_1"
       (pin power_in line (at 0 -50.8 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

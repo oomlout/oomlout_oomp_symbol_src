@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Connector_Generic_Shielded_Conn_02x28_Odd_Even_Shielded" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_connector_generic_shielded_conn_02x28_odd_even_shielded" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 1.524 35.306 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "Connector*:*_2x??-1SH*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Connector_Generic_Shielded_Conn_02x28_Odd_Even_Shielded_1_1"
+    (symbol "kicad_connector_generic_shielded_conn_02x28_odd_even_shielded_1_1"
       (rectangle (start -1.27 34.29) (end 3.81 -36.83)
         (stroke (width 0.1524) (type default))
         (fill (type none))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "Transistor_FET_Extra:arturo182_Transistor_FET_Extra_BSS138DW"
+  (symbol "Transistor_FET_Extra:arturo182_transistor_fet_extra_bss138dw"
     (property "Reference" "U" (id 0) (at 6.35 10.16 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -15,13 +15,13 @@
     (property "LCSC" "C154900" (id 4) (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Transistor_FET_Extra_BSS138DW_0_1"
+    (symbol "arturo182_transistor_fet_extra_bss138dw_0_1"
       (rectangle (start -6.35 8.89) (end 6.35 -8.89)
         (stroke (width 0.0006))
         (fill (type background))
       )
     )
-    (symbol "arturo182_Transistor_FET_Extra_BSS138DW_0_0"
+    (symbol "arturo182_transistor_fet_extra_bss138dw_0_0"
       (pin passive line (at 8.89 -3.81 180) (length 2.54)
         (name "S1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

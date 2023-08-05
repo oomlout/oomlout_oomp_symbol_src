@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Antenna_Shield" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_antenna_shield" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "AE" (at -1.905 4.445 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Antenna with extra pin for shielding" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Antenna_Shield_0_1"
+    (symbol "kicad_device_antenna_shield_0_1"
       (arc (start -0.508 -1.143) (mid -0.8429 -2.1194) (end 0 -2.667)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -73,7 +73,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Device_Antenna_Shield_1_1"
+    (symbol "kicad_device_antenna_shield_1_1"
       (pin input line (at 0 -5.08 90) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

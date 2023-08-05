@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Battery_Management_Extra_BQ27421_G1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "arturo182_battery_management_extra_bq27421_g1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 7.62 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (id 3) (at -33.02 10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Battery_Management_Extra_BQ27421_G1_0_1"
+    (symbol "arturo182_battery_management_extra_bq27421_g1_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -57,7 +57,7 @@
         (fill (type none))
       )
     )
-    (symbol "arturo182_Battery_Management_Extra_BQ27421_G1_1_1"
+    (symbol "arturo182_battery_management_extra_bq27421_g1_1_1"
       (pin output line (at 11.43 2.54 180) (length 3.81)
         (name "GPOUT" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

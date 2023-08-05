@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Sensor_Gas_LuminOX_LOX_O2" (in_bom yes) (on_board yes)
+  (symbol "kicad_sensor_gas_luminox_lox_o2" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "LuminOX?LOX?O2*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Sensor_Gas_LuminOX_LOX_O2_0_1"
+    (symbol "kicad_sensor_gas_luminox_lox_o2_0_1"
       (rectangle (start -24.13 12.7) (end -24.13 12.7)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -31,7 +31,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Sensor_Gas_LuminOX_LOX_O2_1_1"
+    (symbol "kicad_sensor_gas_luminox_lox_o2_1_1"
       (pin power_in line (at 0 7.62 270) (length 2.54)
         (name "Vs" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

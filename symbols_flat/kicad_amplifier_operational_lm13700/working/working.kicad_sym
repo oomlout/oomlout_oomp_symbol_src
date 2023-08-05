@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Operational_LM13700" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_operational_lm13700" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 3.81 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "SOIC*3.9x9.9mm*P1.27mm* DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Operational_LM13700_1_1"
+    (symbol "kicad_amplifier_operational_lm13700_1_1"
       (polyline
         (pts
           (xy 3.81 -0.635)
@@ -65,7 +65,7 @@
         (number "16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LM13700_2_0"
+    (symbol "kicad_amplifier_operational_lm13700_2_0"
       (polyline
         (pts
           (xy -1.905 2.54)
@@ -75,7 +75,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LM13700_2_1"
+    (symbol "kicad_amplifier_operational_lm13700_2_1"
       (circle (center -2.54 1.905) (radius 0.254)
         (stroke (width 0.254) (type default))
         (fill (type outline))
@@ -164,7 +164,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LM13700_3_1"
+    (symbol "kicad_amplifier_operational_lm13700_3_1"
       (polyline
         (pts
           (xy 3.81 -0.635)
@@ -205,7 +205,7 @@
         (number "5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LM13700_4_0"
+    (symbol "kicad_amplifier_operational_lm13700_4_0"
       (polyline
         (pts
           (xy -3.175 2.54)
@@ -218,7 +218,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LM13700_4_1"
+    (symbol "kicad_amplifier_operational_lm13700_4_1"
       (circle (center -2.54 1.905) (radius 0.254)
         (stroke (width 0.254) (type default))
         (fill (type outline))
@@ -303,7 +303,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Amplifier_Operational_LM13700_5_1"
+    (symbol "kicad_amplifier_operational_lm13700_5_1"
       (pin power_in line (at -2.54 7.62 270) (length 3.81)
         (name "V+" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))

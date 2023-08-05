@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Amplifier_Operational_MCP6L91RT_EMS" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "kicad_amplifier_operational_mcp6l91rt_ems" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "MSOP*3x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Amplifier_Operational_MCP6L91RT_EMS_0_1"
+    (symbol "kicad_amplifier_operational_mcp6l91rt_ems_0_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -33,7 +33,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Amplifier_Operational_MCP6L91RT_EMS_1_1"
+    (symbol "kicad_amplifier_operational_mcp6l91rt_ems_1_1"
       (pin no_connect line (at -2.54 2.54 270) (length 2.54) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

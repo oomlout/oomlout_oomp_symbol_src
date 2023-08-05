@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_USB_MCP2210x_SO" (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_usb_mcp2210x_so" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "SOIC*7.5x12.8mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_USB_MCP2210x_SO_0_1"
+    (symbol "kicad_interface_usb_mcp2210x_so_0_1"
       (rectangle (start -10.16 17.78) (end 7.62 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Interface_USB_MCP2210x_SO_1_1"
+    (symbol "kicad_interface_usb_mcp2210x_so_1_1"
       (pin power_in line (at -2.54 20.32 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

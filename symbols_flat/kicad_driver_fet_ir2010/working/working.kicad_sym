@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_FET_IR2010" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_fet_ir2010" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 1.27 13.335 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_FET_IR2010_0_1"
+    (symbol "kicad_driver_fet_ir2010_0_1"
       (rectangle (start -5.08 -10.16) (end 5.08 10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_FET_IR2010_1_1"
+    (symbol "kicad_driver_fet_ir2010_1_1"
       (pin output line (at 7.62 -7.62 180) (length 2.54)
         (name "LO" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

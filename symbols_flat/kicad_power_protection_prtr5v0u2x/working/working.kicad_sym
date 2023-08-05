@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Protection_PRTR5V0U2X" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_power_protection_prtr5v0u2x" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 2.794 8.636 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOT?143*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Protection_PRTR5V0U2X_0_1"
+    (symbol "kicad_power_protection_prtr5v0u2x_0_1"
       (rectangle (start -7.62 -7.62) (end 7.62 7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -162,7 +162,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Power_Protection_PRTR5V0U2X_1_1"
+    (symbol "kicad_power_protection_prtr5v0u2x_1_1"
       (pin passive line (at 0 -12.7 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

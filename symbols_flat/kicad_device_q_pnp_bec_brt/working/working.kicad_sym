@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Q_PNP_BEC_BRT" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_q_pnp_bec_brt" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 3.81 1.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "PNP bias resistor transistor, base/emitter/collector" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Q_PNP_BEC_BRT_0_1"
+    (symbol "kicad_device_q_pnp_bec_brt_0_1"
       (rectangle (start -6.35 0.508) (end -4.826 -0.508)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -80,7 +80,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Device_Q_PNP_BEC_BRT_1_1"
+    (symbol "kicad_device_q_pnp_bec_brt_1_1"
       (polyline
         (pts
           (xy -0.635 0.635)

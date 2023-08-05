@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Simulation_SPICE_VOLTMETER_DIFF" (pin_numbers hide) (pin_names (offset 0.0254) hide) (in_bom no) (on_board no)
+  (symbol "kicad_simulation_spice_voltmeter_diff" (pin_numbers hide) (pin_names (offset 0.0254) hide) (in_bom no) (on_board no)
     (property "Reference" "MES?" (at -10.16 0 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -33,12 +33,12 @@
     (property "ki_description" "Differential voltmeter for simulation. The sensed differential voltage can be measured on the third terminal as a single-ended voltage" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Simulation_SPICE_VOLTMETER_DIFF_0_0"
+    (symbol "kicad_simulation_spice_voltmeter_diff_0_0"
       (text "V" (at 0 0 0)
         (effects (font (size 2.54 2.54)))
       )
     )
-    (symbol "kicad_Simulation_SPICE_VOLTMETER_DIFF_0_1"
+    (symbol "kicad_simulation_spice_voltmeter_diff_0_1"
       (polyline
         (pts
           (xy 0.254 3.81)
@@ -60,7 +60,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_Simulation_SPICE_VOLTMETER_DIFF_1_1"
+    (symbol "kicad_simulation_spice_voltmeter_diff_1_1"
       (pin passive line (at 0 5.08 270) (length 2.54)
         (name "+" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

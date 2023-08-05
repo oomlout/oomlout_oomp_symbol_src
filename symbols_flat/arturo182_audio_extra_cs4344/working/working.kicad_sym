@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Audio_Extra_CS4344" (in_bom yes) (on_board yes)
+  (symbol "arturo182_audio_extra_cs4344" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 10.16 12.7 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.mouser.com/datasheet/2/76/CS4344-45-48_F2-472818.pdf" (id 3) (at 0 -16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Audio_Extra_CS4344_0_0"
+    (symbol "arturo182_audio_extra_cs4344_0_0"
       (pin output line (at 12.7 -3.81 180) (length 2.54)
         (name "VQ" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))
@@ -22,13 +22,13 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "arturo182_Audio_Extra_CS4344_0_1"
+    (symbol "arturo182_audio_extra_cs4344_0_1"
       (rectangle (start -10.16 11.43) (end 10.16 -11.43)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "arturo182_Audio_Extra_CS4344_1_1"
+    (symbol "arturo182_audio_extra_cs4344_1_1"
       (pin input line (at -12.7 3.81 0) (length 2.54)
         (name "SDATA" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

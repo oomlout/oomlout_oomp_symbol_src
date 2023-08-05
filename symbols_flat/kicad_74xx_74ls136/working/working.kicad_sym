@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_74xx_74LS136" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "kicad_74xx_74ls136" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24,7 +24,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_74xx_74LS136_1_0"
+    (symbol "kicad_74xx_74ls136_1_0"
       (arc (start -4.4196 -3.81) (mid -3.2033 0) (end -4.4196 3.81)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -88,7 +88,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS136_1_1"
+    (symbol "kicad_74xx_74ls136_1_1"
       (polyline
         (pts
           (xy -3.81 -2.54)
@@ -106,7 +106,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS136_2_0"
+    (symbol "kicad_74xx_74ls136_2_0"
       (arc (start -4.4196 -3.81) (mid -3.2033 0) (end -4.4196 3.81)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -170,7 +170,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS136_2_1"
+    (symbol "kicad_74xx_74ls136_2_1"
       (polyline
         (pts
           (xy -3.81 -2.54)
@@ -188,7 +188,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS136_3_0"
+    (symbol "kicad_74xx_74ls136_3_0"
       (arc (start -4.4196 -3.81) (mid -3.2033 0) (end -4.4196 3.81)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -252,7 +252,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS136_3_1"
+    (symbol "kicad_74xx_74ls136_3_1"
       (polyline
         (pts
           (xy -3.81 -2.54)
@@ -270,7 +270,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS136_4_0"
+    (symbol "kicad_74xx_74ls136_4_0"
       (arc (start -4.4196 -3.81) (mid -3.2033 0) (end -4.4196 3.81)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -334,7 +334,7 @@
         (number "13" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS136_4_1"
+    (symbol "kicad_74xx_74ls136_4_1"
       (polyline
         (pts
           (xy -3.81 -2.54)
@@ -352,7 +352,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_74xx_74LS136_5_0"
+    (symbol "kicad_74xx_74ls136_5_0"
       (pin power_in line (at 0 12.7 270) (length 5.08)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "14" (effects (font (size 1.27 1.27))))
@@ -362,7 +362,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_74xx_74LS136_5_1"
+    (symbol "kicad_74xx_74ls136_5_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))

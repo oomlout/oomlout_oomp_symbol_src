@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_ZigBee_TWE_L_WX" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_zigbee_twe_l_wx" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -11.43 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "MonoWireless?TWE*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_ZigBee_TWE_L_WX_1_0"
+    (symbol "kicad_rf_zigbee_twe_l_wx_1_0"
       (rectangle (start -15.24 -20.32) (end 15.24 20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_ZigBee_TWE_L_WX_1_1"
+    (symbol "kicad_rf_zigbee_twe_l_wx_1_1"
       (pin output line (at 17.78 5.08 180) (length 2.54)
         (name "DO0/PWM2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

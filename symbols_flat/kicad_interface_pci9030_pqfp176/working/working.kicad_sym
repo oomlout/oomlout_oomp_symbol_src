@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_PCI9030_PQFP176" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_pci9030_pqfp176" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -19.304 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "LQFP*24x24mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_PCI9030_PQFP176_1_1"
+    (symbol "kicad_interface_pci9030_pqfp176_1_1"
       (rectangle (start 20.32 -127) (end -20.32 124.46)
         (stroke (width 0.254) (type default))
         (fill (type background))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Power_Supervisor_MAX16050xTI" (in_bom yes) (on_board yes)
+  (symbol "kicad_power_supervisor_max16050xti" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*1EP*4x4mm*P0.4mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Power_Supervisor_MAX16050xTI_0_1"
+    (symbol "kicad_power_supervisor_max16050xti_0_1"
       (rectangle (start -10.16 30.48) (end 10.16 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Power_Supervisor_MAX16050xTI_1_1"
+    (symbol "kicad_power_supervisor_max16050xti_1_1"
       (pin power_in line (at 0 33.02 270) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

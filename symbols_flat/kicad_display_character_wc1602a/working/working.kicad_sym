@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Display_Character_WC1602A" (in_bom yes) (on_board yes)
+  (symbol "kicad_display_character_wc1602a" (in_bom yes) (on_board yes)
     (property "Reference" "DS" (at -5.842 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*WC*1602A*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Display_Character_WC1602A_1_1"
+    (symbol "kicad_display_character_wc1602a_1_1"
       (rectangle (start -7.62 17.78) (end 7.62 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))

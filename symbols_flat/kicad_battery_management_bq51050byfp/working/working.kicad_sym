@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Battery_Management_BQ51050BYFP" (in_bom yes) (on_board yes)
+  (symbol "kicad_battery_management_bq51050byfp" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Texas?DSBGA*1.9x3.0mm*P0.4mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Battery_Management_BQ51050BYFP_0_1"
+    (symbol "kicad_battery_management_bq51050byfp_0_1"
       (rectangle (start -10.16 -20.32) (end 10.16 20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Battery_Management_BQ51050BYFP_1_1"
+    (symbol "kicad_battery_management_bq51050byfp_1_1"
       (pin power_in line (at 0 -22.86 90) (length 2.54)
         (name "PGND" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

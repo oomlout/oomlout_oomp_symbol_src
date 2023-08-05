@@ -1,4 +1,4 @@
-# Connector_Audio_XLR3_AudioJack3_Combo_GroundSwitch_Switch by arturo182  
+# connector_audio_xlr3_audiojack3_combo_groundswitch_switch by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Connector_Audio |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch/working', 'oomp_doc': 'kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch/working', 'oomp_src_flat': 'symbols_flat/kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch/working'} |  
-| name | Connector_Audio_XLR3_AudioJack3_Combo_GroundSwitch_Switch |  
+| name | connector_audio_xlr3_audiojack3_combo_groundswitch_switch |  
 | oomp_key | oomp_kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch |  
 | oomp_key_simple | kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch |  
 | owner | arturo182 |  

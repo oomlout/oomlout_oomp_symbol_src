@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_Flash_28F400" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_flash_28f400" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 36.195 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "PSOP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_Flash_28F400_0_1"
+    (symbol "kicad_memory_flash_28f400_0_1"
       (rectangle (start -8.89 33.02) (end 8.89 -33.02)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Memory_Flash_28F400_1_1"
+    (symbol "kicad_memory_flash_28f400_1_1"
       (pin power_in line (at 0 38.1 270) (length 5.08)
         (name "VPP" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

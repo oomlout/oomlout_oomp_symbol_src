@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_RF_Module_Extra_Holyiot_18010" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "arturo182_rf_module_extra_holyiot_18010" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 11.43 57.15 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "" (at 38.1 -25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_RF_Module_Extra_Holyiot_18010_0_1"
+    (symbol "arturo182_rf_module_extra_holyiot_18010_0_1"
       (rectangle (start -11.43 55.88) (end 11.43 -63.5)
         (stroke (width 0) (type default))
         (fill (type background))
       )
     )
-    (symbol "arturo182_RF_Module_Extra_Holyiot_18010_1_1"
+    (symbol "arturo182_rf_module_extra_holyiot_18010_1_1"
       (pin power_in line (at -15.24 -60.96 0) (length 3.81)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

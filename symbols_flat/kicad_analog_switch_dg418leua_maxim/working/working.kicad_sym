@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_DG418LEUA_Maxim" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_dg418leua_maxim" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -3.175 5.334 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "MSOP*3x3mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_DG418LEUA_Maxim_1_1"
+    (symbol "kicad_analog_switch_dg418leua_maxim_1_1"
       (rectangle (start -3.81 2.54) (end 3.81 -2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -127,7 +127,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_DG418LEUA_Maxim_2_0"
+    (symbol "kicad_analog_switch_dg418leua_maxim_2_0"
       (pin no_connect line (at -2.54 10.16 270) (length 2.54) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
@@ -149,7 +149,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_DG418LEUA_Maxim_2_1"
+    (symbol "kicad_analog_switch_dg418leua_maxim_2_1"
       (rectangle (start -3.81 10.16) (end 6.35 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))

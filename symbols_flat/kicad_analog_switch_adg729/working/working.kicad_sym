@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_ADG729" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_adg729" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 20.955 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TSSOP*4.4x5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_ADG729_0_1"
+    (symbol "kicad_analog_switch_adg729_0_1"
       (rectangle (start -7.62 6.35) (end -2.54 16.51)
         (stroke (width 0.254) (type default))
         (fill (type none))
@@ -491,7 +491,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Analog_Switch_ADG729_1_1"
+    (symbol "kicad_analog_switch_adg729_1_1"
       (pin input line (at -10.16 15.24 0) (length 2.54)
         (name "SCL" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

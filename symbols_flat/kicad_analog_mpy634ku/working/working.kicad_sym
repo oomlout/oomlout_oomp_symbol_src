@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_MPY634KU" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_mpy634ku" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 13.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SOIC*7.5x10.3mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_MPY634KU_0_0"
+    (symbol "kicad_analog_mpy634ku_0_0"
       (polyline
         (pts
           (xy -1.27 -3.175)
@@ -159,7 +159,7 @@
         (effects (font (size 0.635 0.635)))
       )
     )
-    (symbol "kicad_Analog_MPY634KU_0_1"
+    (symbol "kicad_analog_mpy634ku_0_1"
       (rectangle (start -10.16 12.7) (end 10.16 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -261,7 +261,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Analog_MPY634KU_1_0"
+    (symbol "kicad_analog_mpy634ku_1_0"
       (text "0.75" (at 0 -3.175 900)
         (effects (font (size 0.635 0.635)))
       )
@@ -275,7 +275,7 @@
         (effects (font (size 0.635 0.635)))
       )
     )
-    (symbol "kicad_Analog_MPY634KU_1_1"
+    (symbol "kicad_analog_mpy634ku_1_1"
       (pin input line (at -12.7 10.16 0) (length 2.54)
         (name "X_{1}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

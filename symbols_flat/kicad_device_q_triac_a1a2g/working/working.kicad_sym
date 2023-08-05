@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Device_Q_TRIAC_A1A2G" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_device_q_triac_a1a2g" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 3.175 0.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -18,7 +18,7 @@
     (property "ki_description" "Triode for alternating current, anode1/anode2/gate" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Device_Q_TRIAC_A1A2G_0_1"
+    (symbol "kicad_device_q_triac_a1a2g_0_1"
       (polyline
         (pts
           (xy -2.54 -1.27)
@@ -62,7 +62,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_Device_Q_TRIAC_A1A2G_1_1"
+    (symbol "kicad_device_q_triac_a1a2g_1_1"
       (pin passive line (at 0 -3.81 90) (length 2.54)
         (name "A1" (effects (font (size 0.635 0.635))))
         (number "1" (effects (font (size 1.27 1.27))))

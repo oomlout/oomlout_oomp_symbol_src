@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_LED_LED1642GWPTR" (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_led_led1642gwptr" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 21.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QSOP*3.9x8.7mm*P0.635mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_LED_LED1642GWPTR_0_1"
+    (symbol "kicad_driver_led_led1642gwptr_0_1"
       (rectangle (start -12.7 20.32) (end 12.7 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Driver_LED_LED1642GWPTR_1_1"
+    (symbol "kicad_driver_led_led1642gwptr_1_1"
       (pin power_in line (at 0 -25.4 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_MCU_Module_Maple_Mini" (in_bom yes) (on_board yes)
+  (symbol "kicad_mcu_module_maple_mini" (in_bom yes) (on_board yes)
     (property "Reference" "A" (at -16.51 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Maple*Mini*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_MCU_Module_Maple_Mini_0_1"
+    (symbol "kicad_mcu_module_maple_mini_0_1"
       (rectangle (start -16.51 24.13) (end 16.51 -24.13)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_MCU_Module_Maple_Mini_1_1"
+    (symbol "kicad_mcu_module_maple_mini_1_1"
       (pin power_in line (at -2.54 27.94 270) (length 3.81)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

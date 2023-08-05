@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Driver_FET_ACPL_P343" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_driver_fet_acpl_p343" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "SSO*6.8x4.6mm*P1.27mm*Clearance7mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Driver_FET_ACPL_P343_0_1"
+    (symbol "kicad_driver_fet_acpl_p343_0_1"
       (rectangle (start -7.62 8.89) (end 7.62 -8.89)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -365,7 +365,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Driver_FET_ACPL_P343_1_1"
+    (symbol "kicad_driver_fet_acpl_p343_1_1"
       (pin passive line (at -10.16 7.62 0) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

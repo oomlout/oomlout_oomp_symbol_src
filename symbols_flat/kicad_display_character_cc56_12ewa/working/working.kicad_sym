@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Display_Character_CC56_12EWA" (in_bom yes) (on_board yes)
+  (symbol "kicad_display_character_cc56_12ewa" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -24.13 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*CA56*12EWA*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Display_Character_CC56_12EWA_0_0"
+    (symbol "kicad_display_character_cc56_12ewa_0_0"
       (rectangle (start -25.4 12.7) (end 25.4 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -284,7 +284,7 @@
         (effects (font (size 1.524 1.524)))
       )
     )
-    (symbol "kicad_Display_Character_CC56_12EWA_0_1"
+    (symbol "kicad_display_character_cc56_12ewa_0_1"
       (circle (center -13.716 -3.81) (radius 0.3556)
         (stroke (width 0.254) (type default))
         (fill (type outline))
@@ -294,7 +294,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Display_Character_CC56_12EWA_1_0"
+    (symbol "kicad_display_character_cc56_12ewa_1_0"
       (circle (center 7.62 -4.064) (radius 0.3556)
         (stroke (width 0.254) (type default))
         (fill (type outline))
@@ -304,7 +304,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Display_Character_CC56_12EWA_1_1"
+    (symbol "kicad_display_character_cc56_12ewa_1_1"
       (pin input line (at -27.94 -2.54 0) (length 2.54)
         (name "e" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "arturo182_Switch_Extra_SW_SP3T_Rocker" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "arturo182_switch_extra_sw_sp3t_rocker" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -1.27 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "arturo182_Switch_Extra_SW_SP3T_Rocker_0_1"
+    (symbol "arturo182_switch_extra_sw_sp3t_rocker_0_1"
       (circle (center -2.032 0) (radius 0.4572)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -38,7 +38,7 @@
         (fill (type none))
       )
     )
-    (symbol "arturo182_Switch_Extra_SW_SP3T_Rocker_1_1"
+    (symbol "arturo182_switch_extra_sw_sp3t_rocker_1_1"
       (pin passive line (at 5.08 2.54 180) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

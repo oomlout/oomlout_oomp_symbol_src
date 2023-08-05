@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Analog_Switch_ADG734" (in_bom yes) (on_board yes)
+  (symbol "kicad_analog_switch_adg734" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -3.175 5.334 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "TSSOP*4.4x6.5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Analog_Switch_ADG734_1_1"
+    (symbol "kicad_analog_switch_adg734_1_1"
       (rectangle (start -3.81 1.905) (end 3.81 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -183,7 +183,7 @@
         (number "4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_ADG734_2_1"
+    (symbol "kicad_analog_switch_adg734_2_1"
       (rectangle (start -3.81 1.905) (end 3.81 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -345,7 +345,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_ADG734_3_1"
+    (symbol "kicad_analog_switch_adg734_3_1"
       (rectangle (start -3.81 1.905) (end 3.81 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -507,7 +507,7 @@
         (number "14" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_ADG734_4_1"
+    (symbol "kicad_analog_switch_adg734_4_1"
       (rectangle (start -3.81 1.905) (end 3.81 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -669,7 +669,7 @@
         (number "20" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_ADG734_5_0"
+    (symbol "kicad_analog_switch_adg734_5_0"
       (pin no_connect line (at 2.54 10.16 270) (length 2.54) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "15" (effects (font (size 1.27 1.27))))
@@ -687,7 +687,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_Analog_Switch_ADG734_5_1"
+    (symbol "kicad_analog_switch_adg734_5_1"
       (rectangle (start -3.81 10.16) (end 6.35 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))

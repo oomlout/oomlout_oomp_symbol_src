@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Memory_EPROM_27C010" (in_bom yes) (on_board yes)
+  (symbol "kicad_memory_eprom_27c010" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "DIP*W15.24mm* PLCC*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Memory_EPROM_27C010_1_1"
+    (symbol "kicad_memory_eprom_27c010_1_1"
       (rectangle (start -7.62 27.94) (end 7.62 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))

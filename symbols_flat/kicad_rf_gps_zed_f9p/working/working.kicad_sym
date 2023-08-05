@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_RF_GPS_ZED_F9P" (in_bom yes) (on_board yes)
+  (symbol "kicad_rf_gps_zed_f9p" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -13.97 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "ublox*ZED*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_RF_GPS_ZED_F9P_0_1"
+    (symbol "kicad_rf_gps_zed_f9p_0_1"
       (rectangle (start -15.24 25.4) (end 15.24 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_RF_GPS_ZED_F9P_1_1"
+    (symbol "kicad_rf_gps_zed_f9p_1_1"
       (pin passive line (at 0 -27.94 90) (length 2.54) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

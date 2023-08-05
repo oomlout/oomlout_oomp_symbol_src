@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Regulator_Controller_LTC3892" (in_bom yes) (on_board yes)
+  (symbol "kicad_regulator_controller_ltc3892" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -15.24 24.13 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Regulator_Controller_LTC3892_0_1"
+    (symbol "kicad_regulator_controller_ltc3892_0_1"
       (rectangle (start -15.24 22.86) (end 15.24 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Regulator_Controller_LTC3892_1_1"
+    (symbol "kicad_regulator_controller_ltc3892_1_1"
       (pin input line (at -17.78 -10.16 0) (length 2.54)
         (name "FREQ" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

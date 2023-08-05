@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Interface_Optical_QSE159" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_interface_optical_qse159" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "*QSE15*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Interface_Optical_QSE159_0_0"
+    (symbol "kicad_interface_optical_qse159_0_0"
       (arc (start -5.08 1.651) (mid -5.8829 0.0688) (end -5.08 -1.524)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -83,7 +83,7 @@
         (effects (font (size 1.524 1.524)))
       )
     )
-    (symbol "kicad_Interface_Optical_QSE159_0_1"
+    (symbol "kicad_interface_optical_qse159_0_1"
       (polyline
         (pts
           (xy -3.937 0.508)
@@ -183,7 +183,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_Interface_Optical_QSE159_1_1"
+    (symbol "kicad_interface_optical_qse159_1_1"
       (pin power_in line (at 2.54 -7.62 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

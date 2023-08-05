@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_Audio_TLV320AIC23BRHD" (in_bom yes) (on_board yes)
+  (symbol "kicad_audio_tlv320aic23brhd" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 15.24 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "QFN*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_Audio_TLV320AIC23BRHD_0_1"
+    (symbol "kicad_audio_tlv320aic23brhd_0_1"
       (rectangle (start -17.78 22.86) (end 17.78 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_Audio_TLV320AIC23BRHD_1_1"
+    (symbol "kicad_audio_tlv320aic23brhd_1_1"
       (pin input line (at -20.32 5.08 0) (length 2.54)
         (name "DIN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
