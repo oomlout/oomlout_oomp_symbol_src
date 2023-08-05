@@ -29,7 +29,7 @@ def clone_and_copy_symbols(**kwargs):
                 repos += new
         
     kicad_syms = load_symbols_from_files(repos=repos)    
-    #copy_symbol_libraries_to_new_directories(kicad_syms=kicad_syms)
+    copy_symbol_libraries_to_new_directories(kicad_syms=kicad_syms)
 
     # start to do more major things
     symbols_all = get_all_symbols_from_kicad_syms(kicad_syms=kicad_syms)
@@ -85,7 +85,13 @@ def copy_symbol_libraries_to_new_directories(**kwargs):
         src = src.replace('\\', '/')
         #remove tmp/
         dst = src
-        dst = dst.replace('tmp/', '')
+        #remove folders just filename for dst
+        dst = dst.split('/')[-1]
+
+
+        
+        #lower case
+        dst = dst.lower()
         #add owner
         dst = f'{owner}/{dst}'
         dst = f'symbols_folder_library/{dst}'
@@ -99,9 +105,10 @@ def copy_symbol_libraries_to_new_directories(**kwargs):
         src = src.replace('\\', '/')
         #remove tmp/
         dst = src            
-        dst = dst.replace('tmp/', '')
-        dst = dst.replace('/', '_')
+        dst = dst.split('/')[-1]
         dst = f'{owner}_{dst}'
+        # lower case
+        dst = dst.lower()
         dst = f'symbols_flat_library/{dst}'
         #make sure the directory exists
         os.makedirs(os.path.dirname(dst), exist_ok=True)
