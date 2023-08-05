@@ -171,7 +171,7 @@ def make_mega_library(**kwargs):
     
     counter = 0
     counter_file = 0
-    symbols_per = 2500
+    symbols_per = 1500
     test_string_last = ""
     can_split = False
     from kiutils.symbol import SymbolLib
