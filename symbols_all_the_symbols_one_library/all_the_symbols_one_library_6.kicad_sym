@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-M" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010_M" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 8.255 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "DFN*1EP*2x2mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-M_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010_M_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-M_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010_M_1_1"
       (pin passive line (at 10.16 2.54 180) (length 2.54)
         (name "SNSK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -66,7 +66,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1011-M" (extends "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-M")
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1011_M" (extends "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-M")
     (property "Reference" "U" (at -2.54 8.255 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -89,7 +89,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-TSHR" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010_TSHR" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 8.255 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -111,13 +111,13 @@
     (property "ki_fp_filters" "SOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-TSHR_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010_TSHR_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-TSHR_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010_TSHR_1_1"
       (pin output line (at -10.16 -2.54 0) (length 2.54)
         (name "OUT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -144,7 +144,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1011-TSHR" (extends "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-TSHR")
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1011_TSHR" (extends "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1010-TSHR")
     (property "Reference" "U" (at -2.54 8.255 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -167,7 +167,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012-M" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012_M" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 8.89 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -189,13 +189,13 @@
     (property "ki_fp_filters" "DFN*1EP*2x2mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012-M_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012_M_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012-M_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012_M_1_1"
       (pin passive line (at 10.16 2.54 180) (length 2.54)
         (name "SNSK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -234,7 +234,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012-T" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012_T" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 8.89 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -256,13 +256,13 @@
     (property "ki_fp_filters" "SOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012-T_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012_T_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012-T_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1012_T_1_1"
       (pin output line (at -10.16 -2.54 0) (length 2.54)
         (name "OUT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -289,7 +289,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1040-M" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1040_M" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 19.05 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -311,13 +311,13 @@
     (property "ki_fp_filters" "VQFN*1EP*3x3mm*P0.45mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1040-M_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1040_M_0_1"
       (rectangle (start -7.62 15.24) (end 7.62 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1040-M_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1040_M_1_1"
       (pin passive line (at 10.16 -7.62 180) (length 2.54)
         (name "SNS2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -404,7 +404,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050-M" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050_M" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 16.51 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -426,13 +426,13 @@
     (property "ki_fp_filters" "VQFN*1EP*3x3mm*P0.45mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050-M_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050_M_0_1"
       (rectangle (start -7.62 12.7) (end 7.62 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050-M_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050_M_1_1"
       (pin passive line (at 10.16 0 180) (length 2.54)
         (name "KEY2" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -519,7 +519,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050-U" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050_U" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 16.51 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -541,13 +541,13 @@
     (property "ki_fp_filters" "WLCSP*1.403x1.555mm*P0.4mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050-U_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050_U_0_1"
       (rectangle (start -7.62 12.7) (end 7.62 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050-U_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1050_U_1_1"
       (pin passive line (at 10.16 0 180) (length 2.54)
         (name "KEY2" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
@@ -598,7 +598,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1060-M" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1060_M" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 21.59 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -620,13 +620,13 @@
     (property "ki_fp_filters" "VQFN*1EP*4x4mm*P0.45mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1060-M_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1060_M_0_1"
       (rectangle (start 7.62 17.78) (end -7.62 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1060-M_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1060_M_1_1"
       (pin passive line (at 10.16 -5.08 180) (length 2.54)
         (name "SNS1K" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -745,7 +745,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070-M" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070_M" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 16.51 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -767,13 +767,13 @@
     (property "ki_fp_filters" "VQFN*1EP*3x3mm*P0.45mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070-M_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070_M_0_1"
       (rectangle (start -12.7 12.7) (end 12.7 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070-M_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070_M_1_1"
       (pin passive line (at 15.24 -2.54 180) (length 2.54)
         (name "KEY4" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -860,7 +860,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070-S" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070_S" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 16.51 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -882,13 +882,13 @@
     (property "ki_fp_filters" "SOIC*3.9x8.7mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070-S_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070_S_0_1"
       (rectangle (start -12.7 12.7) (end 12.7 -12.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070-S_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1070_S_1_1"
       (pin power_in line (at 0 15.24 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -947,7 +947,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1110-M" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1110_M" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -2.54 39.37 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -969,13 +969,13 @@
     (property "ki_fp_filters" "VQFN*1EP*5x5mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1110-M_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1110_M_0_1"
       (rectangle (start -15.24 35.56) (end 15.24 -35.56)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1110-M_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_AT42QT1110_M_1_1"
       (pin passive line (at 17.78 27.94 180) (length 2.54)
         (name "SNS0K" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -1110,7 +1110,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206-x-AIA" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206_x_AIA" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1132,13 +1132,13 @@
     (property "ki_fp_filters" "DFN*1EP*3x3mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206-x-AIA_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206_x_AIA_0_1"
       (rectangle (start -11.43 11.43) (end 11.43 -8.89)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206-x-AIA_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206_x_AIA_1_1"
       (pin passive line (at -15.24 7.62 0) (length 3.81)
         (name "CS1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -1185,7 +1185,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206-x-SL" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206_x_SL" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -10.16 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1207,13 +1207,13 @@
     (property "ki_fp_filters" "SOIC?14*3.9x8.7mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206-x-SL_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206_x_SL_0_1"
       (rectangle (start -11.43 11.43) (end 11.43 -8.89)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206-x-SL_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Touch_CAP1206_x_SL_1_1"
       (pin passive line (at -15.24 -2.54 0) (length 3.81)
         (name "CS5" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
@@ -2116,7 +2116,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Sensor_Voltage_LV25-P" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Sensor_Voltage_LV25_P" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -2138,7 +2138,7 @@
     (property "ki_fp_filters" "LEM?LV25?P*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Voltage_LV25-P_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Voltage_LV25_P_0_1"
       (arc (start -2.667 0) (mid -2.0347 0.635) (end -2.667 1.27)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -2236,7 +2236,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Sensor_Voltage_LV25-P_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Sensor_Voltage_LV25_P_1_1"
       (pin input line (at -10.16 2.54 0) (length 2.54)
         (name "HV+" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -6033,7 +6033,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7010" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7010" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6055,7 +6055,7 @@
     (property "ki_fp_filters" "Nidec*Copal*SH*7010*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7010_0_0"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7010_0_0"
       (text "0" (at 5.715 0 2700)
         (effects (font (size 1.27 1.27)))
       )
@@ -6087,7 +6087,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7010_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7010_0_1"
       (polyline
         (pts
           (xy -0.254 -2.54)
@@ -6114,7 +6114,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7010_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7010_1_1"
       (pin passive line (at 10.16 2.54 180) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -6137,7 +6137,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7030" (extends "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7010")
+  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7030" (extends "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7010")
     (property "Reference" "SW" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6160,7 +6160,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7040" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7040" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6182,7 +6182,7 @@
     (property "ki_fp_filters" "Nidec*Copal*SH*7040*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7040_0_0"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7040_0_0"
       (text "0" (at 5.715 0 2700)
         (effects (font (size 1.27 1.27)))
       )
@@ -6214,7 +6214,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7040_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7040_0_1"
       (polyline
         (pts
           (xy -0.254 -2.54)
@@ -6241,7 +6241,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7040_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7040_1_1"
       (pin passive line (at 10.16 2.54 180) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -6264,7 +6264,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7050" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7050" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6286,7 +6286,7 @@
     (property "ki_fp_filters" "Nidec*Copal*SH*7010*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7050_0_0"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7050_0_0"
       (text "0" (at 5.715 0 2700)
         (effects (font (size 1.27 1.27)))
       )
@@ -6336,7 +6336,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7050_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7050_0_1"
       (polyline
         (pts
           (xy -0.254 -2.54)
@@ -6363,7 +6363,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7050_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7050_1_1"
       (pin passive line (at 10.16 2.54 180) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -6386,7 +6386,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7070" (extends "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7050")
+  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7070" (extends "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7050")
     (property "Reference" "SW" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6409,7 +6409,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7080" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7080" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6431,7 +6431,7 @@
     (property "ki_fp_filters" "Nidec*Copal*SH*7040*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7080_0_0"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7080_0_0"
       (text "0" (at 5.715 0 2700)
         (effects (font (size 1.27 1.27)))
       )
@@ -6481,7 +6481,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7080_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7080_0_1"
       (polyline
         (pts
           (xy -0.254 -2.54)
@@ -6508,7 +6508,7 @@
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH-7080_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Switch_SW_Coded_SH_7080_1_1"
       (pin passive line (at 10.16 2.54 180) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -9390,7 +9390,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Switch_SW_MMI_Q5-100" (extends "kicad_libraries_kicad_symbols_Switch_SW_E3_SA3216")
+  (symbol "kicad_libraries_kicad_symbols_Switch_SW_MMI_Q5_100" (extends "kicad_libraries_kicad_symbols_Switch_SW_E3_SA3216")
     (property "Reference" "SW" (at 1.27 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -14915,7 +14915,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6_1" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -14937,13 +14937,13 @@
     (property "ki_fp_filters" "TSOT*23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6_1_0_1"
       (rectangle (start -6.35 5.08) (end 6.35 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6_1_1_1"
       (pin input line (at -10.16 0 0) (length 3.81)
         (name "TRIG" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -14970,7 +14970,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-2" (extends "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1")
+  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6_2" (extends "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1")
     (property "Reference" "U" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -14993,7 +14993,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-3" (extends "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1")
+  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6_3" (extends "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1")
     (property "Reference" "U" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15016,7 +15016,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-4" (extends "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1")
+  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6993xS6_4" (extends "kicad_libraries_kicad_symbols_Timer_LTC6993xS6-1")
     (property "Reference" "U" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15039,7 +15039,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB-1" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB_1" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15061,13 +15061,13 @@
     (property "ki_fp_filters" "DFN*1EP*3x2mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB_1_0_1"
       (rectangle (start -6.35 5.08) (end 6.35 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB_1_1_1"
       (pin power_in line (at 0 7.62 270) (length 2.54)
         (name "V+" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -15094,7 +15094,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB-2" (extends "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB-1")
+  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB_2" (extends "kicad_libraries_kicad_symbols_Timer_LTC6994xDCB-1")
     (property "Reference" "U" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15117,7 +15117,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xS6-1" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xS6_1" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15139,13 +15139,13 @@
     (property "ki_fp_filters" "TSOT*23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xS6-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xS6_1_0_1"
       (rectangle (start -6.35 5.08) (end 6.35 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xS6-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xS6_1_1_1"
       (pin input line (at -10.16 0 0) (length 3.81)
         (name "IN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -15172,7 +15172,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xS6-2" (extends "kicad_libraries_kicad_symbols_Timer_LTC6994xS6-1")
+  (symbol "kicad_libraries_kicad_symbols_Timer_LTC6994xS6_2" (extends "kicad_libraries_kicad_symbols_Timer_LTC6994xS6-1")
     (property "Reference" "U" (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15873,7 +15873,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PL611-01-xxxT" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_PL611_01_xxxT" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -15895,13 +15895,13 @@
     (property "ki_fp_filters" "SOT?23*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PL611-01-xxxT_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PL611_01_xxxT_0_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PL611-01-xxxT_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PL611_01_xxxT_1_1"
       (pin output line (at 12.7 2.54 180) (length 2.54)
         (name "CLK1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -17125,7 +17125,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_CS2000-CP" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_CS2000_CP" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17147,13 +17147,13 @@
     (property "ki_fp_filters" "MSOP*3x3mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_CS2000-CP_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_CS2000_CP_0_1"
       (rectangle (start -15.24 12.7) (end 15.24 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_CS2000-CP_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_CS2000_CP_1_1"
       (pin power_in line (at 0 15.24 270) (length 2.54)
         (name "VD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -17196,7 +17196,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_ICS525-01R" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_ICS525_01R" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 36.83 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -17218,13 +17218,13 @@
     (property "ki_fp_filters" "SSOP*3.9x9.9mm*P0.635mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_ICS525-01R_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_ICS525_01R_0_1"
       (rectangle (start -7.62 35.56) (end 7.62 -35.56)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_ICS525-01R_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_ICS525_01R_1_1"
       (pin input line (at -10.16 10.16 0) (length 2.54)
         (name "R5" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -17339,7 +17339,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_ICS525R-02" (extends "kicad_libraries_kicad_symbols_Timer_PLL_ICS525-01R")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_ICS525R_02" (extends "kicad_libraries_kicad_symbols_Timer_PLL_ICS525-01R")
     (property "Reference" "U" (at -5.08 36.83 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -17362,7 +17362,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A_D" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17384,13 +17384,13 @@
     (property "ki_fp_filters" "QFN*1EP*7x7mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A_D_0_1"
       (rectangle (start -17.78 38.1) (end 17.78 -38.1)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A_D_1_1"
       (pin input line (at -20.32 27.94 0) (length 2.54)
         (name "IN1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -17573,7 +17573,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342B-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342B_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17596,7 +17596,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342C-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342C_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17619,7 +17619,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342D-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5342D_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5342A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17642,7 +17642,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A_D" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17664,13 +17664,13 @@
     (property "ki_fp_filters" "QFN*1EP*7x7mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A_D_0_1"
       (rectangle (start -20.32 38.1) (end 20.32 -38.1)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A_D_1_1"
       (pin input line (at -22.86 27.94 0) (length 2.54)
         (name "IN1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -17853,7 +17853,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344B-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344B_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17876,7 +17876,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344C-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344C_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17899,7 +17899,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344D-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5344D_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5344A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17922,7 +17922,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A_D" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -17944,13 +17944,13 @@
     (property "ki_fp_filters" "QFN*1EP*9x9mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A_D_0_1"
       (rectangle (start -25.4 43.18) (end 25.4 -43.18)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A_D_1_1"
       (pin input line (at -27.94 33.02 0) (length 2.54)
         (name "IN1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -18213,7 +18213,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345B-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345B_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18236,7 +18236,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345C-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345C_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18259,7 +18259,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345D-D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D")
+  (symbol "kicad_libraries_kicad_symbols_Timer_PLL_Si5345D_D" (extends "kicad_libraries_kicad_symbols_Timer_PLL_Si5345A-D")
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18764,7 +18764,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302+" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302_" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18786,7 +18786,7 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302+_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302__1_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -18825,7 +18825,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302N+" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1302+")
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302N_" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1302+")
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18848,7 +18848,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302S+" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302S_" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18870,7 +18870,7 @@
     (property "ki_fp_filters" "SO*5.3x6.2mm?P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302S+_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302S__1_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -18909,7 +18909,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302SN+" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1302S+")
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302SN_" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1302S+")
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18932,7 +18932,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302Z+" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302Z_" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -18954,7 +18954,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm?P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302Z+_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302Z__1_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -18993,7 +18993,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302ZN+" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1302Z+")
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1302ZN_" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1302Z+")
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19016,7 +19016,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307+" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307_" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19038,13 +19038,13 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307+_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307__0_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307+_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307__1_1"
       (pin input line (at -12.7 -2.54 0) (length 2.54)
         (name "X1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -19079,7 +19079,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307N+" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1307+")
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307N_" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1307+")
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19102,7 +19102,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307Z+" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307Z_" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19124,13 +19124,13 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm?P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307Z+_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307Z__0_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307Z+_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307Z__1_1"
       (pin input line (at -12.7 -2.54 0) (length 2.54)
         (name "X1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -19165,7 +19165,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307ZN+" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1307Z+")
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_DS1307ZN_" (extends "kicad_libraries_kicad_symbols_Timer_RTC_DS1307Z+")
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19539,7 +19539,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMNY" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xMNY" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19561,13 +19561,13 @@
     (property "ki_fp_filters" "DFN*1EP*3x2mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMNY_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xMNY_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMNY_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xMNY_1_1"
       (pin input line (at 10.16 2.54 180) (length 2.54)
         (name "X1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -19606,7 +19606,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xMS" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -6.35 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19628,13 +19628,13 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* DIP*W7.62mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xMS_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xMS_1_1"
       (pin input line (at 10.16 2.54 180) (length 2.54)
         (name "X1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -19669,7 +19669,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xP" (extends "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS")
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xP" (extends "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS")
     (property "Reference" "U" (at -6.35 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19692,7 +19692,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xSN" (extends "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS")
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xSN" (extends "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS")
     (property "Reference" "U" (at -6.35 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -19715,7 +19715,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xST" (extends "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS")
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N_xST" (extends "kicad_libraries_kicad_symbols_Timer_RTC_MCP7940N-xMS")
     (property "Reference" "U" (at -6.35 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -20395,7 +20395,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV-1805-C3" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV_1805_C3" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -20417,13 +20417,13 @@
     (property "ki_fp_filters" "RTC*SMD*MicroCrystal*C3*2.5x3.7mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV-1805-C3_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV_1805_C3_0_1"
       (rectangle (start 10.16 7.62) (end -10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV-1805-C3_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV_1805_C3_1_1"
       (pin power_in line (at -2.54 10.16 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -20466,7 +20466,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV-8523-C3" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV_8523_C3" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -20488,13 +20488,13 @@
     (property "ki_fp_filters" "RTC*SMD*MicroCrystal*C3*2.5x3.7mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV-8523-C3_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV_8523_C3_0_1"
       (rectangle (start 10.16 7.62) (end -10.16 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV-8523-C3_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Timer_RTC_RV_8523_C3_1_1"
       (pin power_in line (at -2.54 10.16 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -20723,7 +20723,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_30F-51NL" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_30F_51NL" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at -6.35 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -20745,7 +20745,7 @@
     (property "ki_fp_filters" "Transformer*Ethernet*YDS*30F?51NL*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_30F-51NL_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_30F_51NL_0_1"
       (rectangle (start -7.62 20.32) (end 7.62 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -21027,7 +21027,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_30F-51NL_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_30F_51NL_1_1"
       (arc (start -5.08 -17.78) (mid -4.4477 -17.145) (end -5.08 -16.51)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -21947,7 +21947,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -21969,7 +21969,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -22039,7 +22039,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -22058,7 +22058,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1WT" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22080,7 +22080,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1WT_0_1"
       (circle (center -3.81 3.81) (radius 0.635)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -22166,7 +22166,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1WT_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -22193,7 +22193,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1WT_1" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22215,7 +22215,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1WT_1_0_1"
       (circle (center -3.81 3.81) (radius 0.635)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -22301,7 +22301,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_1WT_1_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -22328,7 +22328,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT16-1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT16_1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22351,7 +22351,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2-1T-1P" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2_1T_1P" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22374,7 +22374,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4-1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4_1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22397,7 +22397,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4-1WT" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4_1WT" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22420,7 +22420,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT9-1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT9_1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-1WT-1")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22443,7 +22443,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-6T" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_6T" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22465,7 +22465,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD637*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-6T_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_6T_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -22547,7 +22547,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1-6T_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_6T_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -22570,7 +22570,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT16-6T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT16_6T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22593,7 +22593,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2-71T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2_71T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22616,7 +22616,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4-5WT" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4_5WT" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22639,7 +22639,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4-6T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4_6T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22662,7 +22662,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT8-1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT8_1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1-6T")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22685,7 +22685,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-1" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_1" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22707,7 +22707,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_1_0_1"
       (circle (center -3.81 3.81) (radius 0.635)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -22793,7 +22793,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -22820,7 +22820,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-122" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_122" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -22842,7 +22842,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-122_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_122_0_1"
       (circle (center -8.89 -2.54) (radius 0.254)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -23038,7 +23038,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-122_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_122_1_1"
       (pin passive line (at -12.7 -2.54 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -23061,7 +23061,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-17" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_17" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23083,7 +23083,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-17_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_17_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -23147,7 +23147,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-17_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_17_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -23162,7 +23162,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-2" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_2" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23184,7 +23184,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD636*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_2_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -23254,7 +23254,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1.5-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT1_5_2_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -23273,7 +23273,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT16-6" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1.5-2")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT16_6" (extends "kicad_libraries_kicad_symbols_Transformer_ADT1.5-2")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23296,7 +23296,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2-1T" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2_1T" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23318,7 +23318,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2-1T_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2_1T_0_1"
       (circle (center -3.81 3.81) (radius 0.635)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -23404,7 +23404,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2-1T_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT2_1T_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -23431,7 +23431,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3-1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT2-1T")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3_1T" (extends "kicad_libraries_kicad_symbols_Transformer_ADT2-1T")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23454,7 +23454,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3-1T-75" (extends "kicad_libraries_kicad_symbols_Transformer_ADT2-1T")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3_1T_75" (extends "kicad_libraries_kicad_symbols_Transformer_ADT2-1T")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23477,7 +23477,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3-6T" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3_6T" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23499,7 +23499,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD636*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3-6T_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3_6T_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -23581,7 +23581,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3-6T_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT3_6T_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -23604,7 +23604,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4-6WT" (extends "kicad_libraries_kicad_symbols_Transformer_ADT3-6T")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4_6WT" (extends "kicad_libraries_kicad_symbols_Transformer_ADT3-6T")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23627,7 +23627,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4-6" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4_6" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23649,7 +23649,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD637*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4-6_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4_6_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -23719,7 +23719,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4-6_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADT4_6_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -23738,7 +23738,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1-15-75" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1_15_75" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23760,7 +23760,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1-15-75_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1_15_75_0_1"
       (circle (center -8.89 -2.54) (radius 0.254)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -23956,7 +23956,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1-15-75_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1_15_75_1_1"
       (pin passive line (at -12.7 2.54 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -23975,7 +23975,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1_4_75" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23997,7 +23997,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1_4_75_0_1"
       (arc (start -6.858 1.524) (mid -6.096 0.7653) (end -5.334 1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -24115,7 +24115,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1_4_75_1_1"
       (pin passive line (at -10.16 2.54 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -24134,7 +24134,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1-12" (extends "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1_12" (extends "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75")
     (property "Reference" "TR" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24157,7 +24157,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1-18-75" (extends "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL1_18_75" (extends "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75")
     (property "Reference" "TR" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24180,7 +24180,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL2-18" (extends "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTL2_18" (extends "kicad_libraries_kicad_symbols_Transformer_ADTL1-4-75")
     (property "Reference" "TR" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24203,7 +24203,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1-1" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_1" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24225,7 +24225,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD542*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_1_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -24311,7 +24311,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_1_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -24338,7 +24338,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1-6" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_6" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24360,7 +24360,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD637*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1-6_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_6_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -24446,7 +24446,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1-6_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_6_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -24473,7 +24473,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1.5-1" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_5_1" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24495,7 +24495,7 @@
     (property "ki_fp_filters" "Mini?Circuits*CD636*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1.5-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_5_1_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -24581,7 +24581,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1.5-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT1_5_1_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -24608,7 +24608,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT3-2" (extends "kicad_libraries_kicad_symbols_Transformer_ADTT1.5-1")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT3_2" (extends "kicad_libraries_kicad_symbols_Transformer_ADTT1.5-1")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -24631,7 +24631,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT4-1" (extends "kicad_libraries_kicad_symbols_Transformer_ADTT1.5-1")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ADTT4_1" (extends "kicad_libraries_kicad_symbols_Transformer_ADTT1.5-1")
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -25354,7 +25354,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_ETC1-1-13" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_ETC1_1_13" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -25376,7 +25376,7 @@
     (property "ki_fp_filters" "Transformer*MACOM*SM?22*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ETC1-1-13_0_0"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ETC1_1_13_0_0"
       (polyline
         (pts
           (xy 3.81 0.762)
@@ -25389,7 +25389,7 @@
         (effects (font (size 0.254 0.254) bold))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_ETC1-1-13_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_ETC1_1_13_1_1"
       (circle (center -3.048 1.524) (radius 0.254)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -26171,7 +26171,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_PE-68386NL" (extends "kicad_libraries_kicad_symbols_Transformer_PA2001NL")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_PE_68386NL" (extends "kicad_libraries_kicad_symbols_Transformer_PA2001NL")
     (property "Reference" "T" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -28997,7 +28997,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0.5-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0_5_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -29019,7 +29019,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*22x24*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0.5-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0_5_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -29111,7 +29111,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0.5-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0_5_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -29130,7 +29130,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0.5-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0_5_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -29152,7 +29152,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*22x24*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0.5-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0_5_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -29280,7 +29280,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0.5-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ0_5_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -29307,7 +29307,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1.5-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1_5_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -29329,7 +29329,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*28x33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1.5-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1_5_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -29421,7 +29421,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1.5-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1_5_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -29440,7 +29440,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1.5-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1_5_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -29462,7 +29462,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ+28x33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1.5-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1_5_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -29590,7 +29590,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1.5-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ1_5_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -29617,7 +29617,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10.0-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10_0_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -29639,7 +29639,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*44x52*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10.0-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10_0_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -29731,7 +29731,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10.0-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10_0_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -29750,7 +29750,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10.0-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10_0_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -29772,7 +29772,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*44x52*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10.0-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10_0_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -29900,7 +29900,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10.0-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ10_0_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -29927,7 +29927,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16.0-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16_0_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -29949,7 +29949,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*47x57*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16.0-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16_0_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -30041,7 +30041,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16.0-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16_0_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -30060,7 +30060,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16.0-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16_0_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -30082,7 +30082,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*47x57*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16.0-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16_0_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -30210,7 +30210,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16.0-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ16_0_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -30237,7 +30237,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.0-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_0_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -30259,7 +30259,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*28x33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.0-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_0_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -30351,7 +30351,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.0-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_0_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -30370,7 +30370,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.0-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_0_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -30392,7 +30392,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*28x33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.0-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_0_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -30520,7 +30520,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.0-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_0_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -30547,7 +30547,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.5-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_5_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -30569,7 +30569,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*28x33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.5-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_5_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -30661,7 +30661,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.5-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_5_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -30680,7 +30680,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.5-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_5_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -30702,7 +30702,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*28x33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.5-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_5_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -30830,7 +30830,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.5-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_5_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -30857,7 +30857,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.6-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_6_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -30879,7 +30879,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*28x33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.6-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_6_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -30971,7 +30971,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.6-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_6_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -30990,7 +30990,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.6-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_6_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -31012,7 +31012,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*28x33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.6-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_6_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -31140,7 +31140,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2.6-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ2_6_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -31167,7 +31167,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4.0-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4_0_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -31189,7 +31189,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*35x42*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4.0-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4_0_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -31281,7 +31281,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4.0-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4_0_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -31300,7 +31300,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4.0-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4_0_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -31322,7 +31322,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*35x42*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4.0-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4_0_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -31450,7 +31450,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4.0-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ4_0_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -31477,7 +31477,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6.0-D-1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6_0_D_1" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -31499,7 +31499,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*38x45*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6.0-D-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6_0_D_1_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -31591,7 +31591,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6.0-D-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6_0_D_1_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -31610,7 +31610,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6.0-D-2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6_0_D_2" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -31632,7 +31632,7 @@
     (property "ki_fp_filters" "Transformer*Breve*TEZ*38x45*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6.0-D-2_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6_0_D_2_0_1"
       (circle (center -2.032 4.572) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -31760,7 +31760,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6.0-D-2_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TEZ6_0_D_2_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -31787,7 +31787,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TG110-E050N5xx" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TG110_E050N5xx" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 10.795 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -31809,7 +31809,7 @@
     (property "ki_fp_filters" "Transformer*Ethernet*Halo*N5*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TG110-E050N5xx_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TG110_E050N5xx_0_1"
       (rectangle (start -7.62 10.16) (end 7.62 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -31943,7 +31943,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TG110-E050N5xx_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TG110_E050N5xx_1_1"
       (circle (center -5.207 6.985) (radius 0.1778)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -32234,7 +32234,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TG110-S050N2xx" (extends "kicad_libraries_kicad_symbols_Transformer_TG110-E050N5xx")
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TG110_S050N2xx" (extends "kicad_libraries_kicad_symbols_Transformer_TG110-E050N5xx")
     (property "Reference" "TR" (at 0 10.795 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -32257,7 +32257,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TG111-MSC13LF" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TG111_MSC13LF" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at -7.62 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -32279,7 +32279,7 @@
     (property "ki_fp_filters" "Transformer*Ethernet*HALO*TG111*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TG111-MSC13LF_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TG111_MSC13LF_0_1"
       (polyline
         (pts
           (xy 10.16 -17.78)
@@ -32405,7 +32405,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TG111-MSC13LF_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TG111_MSC13LF_1_1"
       (circle (center -8.255 -17.78) (radius 0.127)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -33312,7 +33312,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transformer_TR1-SO8" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transformer_TR1_SO8" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "TR" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -33325,7 +33325,7 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TR1-SO8_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TR1_SO8_0_1"
       (arc (start -1.524 -3.048) (mid -0.7653 -2.286) (end -1.524 -1.524)
         (stroke (width 0.2032) (type default))
         (fill (type none))
@@ -33415,7 +33415,7 @@
         (fill (type none))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transformer_TR1-SO8_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transformer_TR1_SO8_1_1"
       (pin passive line (at -5.08 5.08 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -65878,7 +65878,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7880-55A" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BSP89")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7880_55A" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BSP89")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -67940,7 +67940,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53_60EX" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -67962,7 +67962,7 @@
     (property "ki_fp_filters" "LFPAK33*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53_60EX_0_1"
       (polyline
         (pts
           (xy 0.254 0)
@@ -68073,7 +68073,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53_60EX_1_1"
       (pin passive line (at 2.54 -5.08 90) (length 2.54)
         (name "S" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -68096,7 +68096,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M10-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M10_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68119,7 +68119,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M12-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M12_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68142,7 +68142,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M12-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M12_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68165,7 +68165,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M15-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M15_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68188,7 +68188,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M17-80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M17_80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68211,7 +68211,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M19-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M19_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68234,7 +68234,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M21-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M21_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68257,7 +68257,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M22-80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M22_80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68280,7 +68280,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M27-80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M27_80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68303,7 +68303,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M33-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M33_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68326,7 +68326,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M42-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M42_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68349,7 +68349,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M45-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M45_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68372,7 +68372,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M67-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M67_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68395,7 +68395,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M6R3-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M6R3_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68418,7 +68418,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M8R0-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M8R0_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68441,7 +68441,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M9R9-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK7M9R9_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68464,7 +68464,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M10-30EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M10_30EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68487,7 +68487,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M11-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M11_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68510,7 +68510,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M12-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M12_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68533,7 +68533,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M120-100EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M120_100EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68556,7 +68556,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M14-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M14_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68579,7 +68579,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M15-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M15_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68602,7 +68602,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M156-100EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M156_100EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68625,7 +68625,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M17-30EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M17_30EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68648,7 +68648,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M19-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M19_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68671,7 +68671,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M23-80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M23_80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68694,7 +68694,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M24-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M24_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68717,7 +68717,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M24-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M24_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68740,7 +68740,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M28-80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M28_80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68763,7 +68763,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M34-100EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M34_100EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68786,7 +68786,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M35-80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M35_80EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68809,7 +68809,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M42-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M42_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68832,7 +68832,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M43-100EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M43_100EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68855,7 +68855,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M52-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M52_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68878,7 +68878,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M5R2-30EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M5R2_30EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68901,7 +68901,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M6R6-30EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M6R6_30EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68924,7 +68924,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M7R2-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M7R2_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68947,7 +68947,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M85-60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M85_60EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -68970,7 +68970,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M9R1-40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M9R1_40EX" (extends "kicad_libraries_kicad_symbols_Transistor_FET_BUK9M53-60EX")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -76815,7 +76815,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IPB180N10S4-02" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IPB180N10S4_02" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -76837,7 +76837,7 @@
     (property "ki_fp_filters" "TO?263?6*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IPB180N10S4-02_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IPB180N10S4_02_0_1"
       (polyline
         (pts
           (xy 0.254 0)
@@ -76948,7 +76948,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IPB180N10S4-02_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IPB180N10S4_02_1_1"
       (pin passive line (at -5.08 0 0) (length 2.54)
         (name "G" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -80637,7 +80637,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IRF8721PBF-1" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IRF8721PBF_1" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 5.08 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -80659,7 +80659,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IRF8721PBF-1_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IRF8721PBF_1_0_1"
       (polyline
         (pts
           (xy 0.254 0)
@@ -80770,7 +80770,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IRF8721PBF-1_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_IRF8721PBF_1_1_1"
       (pin passive line (at 2.54 -5.08 90) (length 2.54)
         (name "S" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -82370,7 +82370,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_PSMN5R2-60YL" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_PSMN5R2_60YL" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 6.35 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -82392,7 +82392,7 @@
     (property "ki_fp_filters" "LFPAK56*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_PSMN5R2-60YL_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_PSMN5R2_60YL_0_1"
       (polyline
         (pts
           (xy 0.254 0)
@@ -82503,7 +82503,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_PSMN5R2-60YL_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_PSMN5R2_60YL_1_1"
       (pin passive line (at 2.54 -5.08 90) (length 2.54)
         (name "S" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -83154,7 +83154,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06_60" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 4.953 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -83176,7 +83176,7 @@
     (property "ki_fp_filters" "TO?252*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06_60_0_1"
       (polyline
         (pts
           (xy 0.254 0)
@@ -83287,7 +83287,7 @@
         (fill (type outline))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06_60_1_1"
       (pin input line (at -5.08 0 0) (length 2.54)
         (name "G" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -83302,7 +83302,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD08P06-155L" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD08P06_155L" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
     (property "Reference" "Q" (at 4.953 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -83325,7 +83325,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD09P10-195" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD09P10_195" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
     (property "Reference" "Q" (at 4.953 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -83348,7 +83348,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD45P03-09" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD45P03_09" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
     (property "Reference" "Q" (at 4.953 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -83371,7 +83371,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD50P04-08" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD50P04_08" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
     (property "Reference" "Q" (at 4.953 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -83394,7 +83394,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD50P06-15" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD50P06_15" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
     (property "Reference" "Q" (at 4.953 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -83417,7 +83417,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD50P08-25L" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD50P08_25L" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
     (property "Reference" "Q" (at 4.953 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -83440,7 +83440,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD50P10-43L" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_FET_SUD50P10_43L" (extends "kicad_libraries_kicad_symbols_Transistor_FET_SUD19P06-60")
     (property "Reference" "Q" (at 4.953 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -85853,7 +85853,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C25S12M3-F" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C25S12M3")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C25S12M3_F" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C25S12M3")
     (property "Reference" "U" (at 0 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -85899,7 +85899,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C35S12M3-F" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C25S12M3")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C35S12M3_F" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C25S12M3")
     (property "Reference" "U" (at 0 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -85945,7 +85945,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C50S65M2-F" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C25S12M3")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C50S65M2_F" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_A2C25S12M3")
     (property "Reference" "U" (at 0 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86295,7 +86295,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1225H-XN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_FS75R07N2E4")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1225H_XN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_FS75R07N2E4")
     (property "Reference" "U" (at 0 25.4 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86318,7 +86318,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1250H-XN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_FS75R07N2E4")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1250H_XN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_FS75R07N2E4")
     (property "Reference" "U" (at 0 25.4 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86341,7 +86341,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H_XBN2MM" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86363,7 +86363,7 @@
     (property "ki_fp_filters" "Littelfuse*Package*H*XBN2MM*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H_XBN2MM_1_1"
       (rectangle (start -10.16 25.4) (end 10.16 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -86466,7 +86466,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1225H-XBN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1225H_XBN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM")
     (property "Reference" "U" (at 0 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86489,7 +86489,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1240H-XBN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1240H_XBN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM")
     (property "Reference" "U" (at 0 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86512,7 +86512,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1250W-XBN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1250W_XBN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM")
     (property "Reference" "U" (at 0 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86535,7 +86535,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W-XBN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W_XBN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1215H-XBN2MM")
     (property "Reference" "U" (at 0 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86558,7 +86558,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W-XN2MM" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W_XN2MM" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86580,7 +86580,7 @@
     (property "ki_fp_filters" "Littelfuse*Package*W*XN2MM*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W-XN2MM_0_0"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W_XN2MM_0_0"
       (pin passive line (at 12.7 15.24 180) (length 2.54)
         (name "N1" (effects (font (size 1.27 1.27))))
         (number "13" (effects (font (size 1.27 1.27))))
@@ -86638,7 +86638,7 @@
         (number "35" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W-XN2MM_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W_XN2MM_1_1"
       (rectangle (start -10.16 22.86) (end 10.16 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -86729,7 +86729,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG12100W-XN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W-XN2MM")
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG12100W_XN2MM" (extends "kicad_libraries_kicad_symbols_Transistor_Power_Module_MG1275W-XN2MM")
     (property "Reference" "U" (at 0 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86752,7 +86752,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_STGIPS10C60-H" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_STGIPS10C60_H" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -86774,7 +86774,7 @@
     (property "ki_fp_filters" "ST*SDIP*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_STGIPS10C60-H_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Transistor_Power_Module_STGIPS10C60_H_1_1"
       (rectangle (start -10.16 25.4) (end 10.16 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -87662,7 +87662,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT136-500" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT136_500" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87685,7 +87685,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT136-600" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT136_600" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87708,7 +87708,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT136-800" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT136_800" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87731,7 +87731,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT138-600" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT138_600" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87754,7 +87754,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT138-800" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT138_800" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87777,7 +87777,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT139-600" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BT139_600" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87800,7 +87800,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-600B" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_600B" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87823,7 +87823,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-600BW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_600BW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87846,7 +87846,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-600C" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_600C" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87869,7 +87869,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-600CW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_600CW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87892,7 +87892,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-600SW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_600SW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87915,7 +87915,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-800B" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_800B" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87938,7 +87938,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-800BW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_800BW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87961,7 +87961,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-800C" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_800C" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -87984,7 +87984,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-800CW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_800CW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88007,7 +88007,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16-800SW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTA16_800SW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88030,7 +88030,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-600B" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_600B" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88053,7 +88053,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-600BW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_600BW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88076,7 +88076,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-600C" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_600C" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88099,7 +88099,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-600CW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_600CW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88122,7 +88122,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-600SW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_600SW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88145,7 +88145,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-800B" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_800B" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88168,7 +88168,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-800BW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_800BW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88191,7 +88191,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-800C" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_800C" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88214,7 +88214,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-800CW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_800CW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88237,7 +88237,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16-800SW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
+  (symbol "kicad_libraries_kicad_symbols_Triac_Thyristor_BTB16_800SW" (extends "kicad_libraries_kicad_symbols_Triac_Thyristor_TIC226")
     (property "Reference" "Q" (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -88957,7 +88957,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Valve_NOS-6418" (extends "kicad_libraries_kicad_symbols_Valve_CK6418")
+  (symbol "kicad_libraries_kicad_symbols_Valve_NOS_6418" (extends "kicad_libraries_kicad_symbols_Valve_CK6418")
     (property "Reference" "U" (at 6.096 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -94042,7 +94042,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Video_ADA4430-1YKSZ" (in_bom yes) (on_board yes)
+  (symbol "kicad_libraries_kicad_symbols_Video_ADA4430_1YKSZ" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -3.81 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -94064,13 +94064,13 @@
     (property "ki_fp_filters" "SOT?363*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "kicad_libraries_kicad_symbols_Video_ADA4430-1YKSZ_0_1"
+    (symbol "kicad_libraries_kicad_symbols_Video_ADA4430_1YKSZ_0_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "kicad_libraries_kicad_symbols_Video_ADA4430-1YKSZ_1_1"
+    (symbol "kicad_libraries_kicad_symbols_Video_ADA4430_1YKSZ_1_1"
       (pin input line (at -7.62 2.54 0) (length 2.54)
         (name "V_{IN}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -94097,7 +94097,7 @@
       )
     )
   )
-  (symbol "kicad_libraries_kicad_symbols_Video_ADA4430-1WYRTZ" (extends "kicad_libraries_kicad_symbols_Video_ADA4430-1YKSZ")
+  (symbol "kicad_libraries_kicad_symbols_Video_ADA4430_1WYRTZ" (extends "kicad_libraries_kicad_symbols_Video_ADA4430-1YKSZ")
     (property "Reference" "U" (at -3.81 8.89 0)
       (effects (font (size 1.27 1.27)))
     )

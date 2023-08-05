@@ -1,23 +1,33 @@
 import os
 import yaml
 import oom_kiutils
+import oom_base
 
 from kiutils.symbol import SymbolLib
 
 empty_library_file = 'templates/empty.kicad_sym'
 
-def clone_and_copy_symbols():
+github_repos = {}
+
+def clone_and_copy_symbols(**kwargs):
+    test = kwargs.get('test', False)
     #load repos from repos.yaml and repos_manual.yaml
     repos = []
-    with open('repos.yaml', 'r') as f:
-        new = yaml.load(f, Loader=yaml.FullLoader)
-        if new != None:
-            repos += new
-    with open('repos_manual.yaml', 'r') as f:
-        new = yaml.load(f, Loader=yaml.FullLoader)
-        if new != None:
-            repos += new
-
+    if not test:
+        with open('repos.yaml', 'r') as f:
+            new = yaml.load(f, Loader=yaml.FullLoader)
+            if new != None:
+                repos += new
+        with open('repos_manual.yaml', 'r') as f:
+            new = yaml.load(f, Loader=yaml.FullLoader)
+            if new != None:
+                repos += new
+    else:
+        with open('repos_test.yaml', 'r') as f:
+            new = yaml.load(f, Loader=yaml.FullLoader)
+            if new != None:
+                repos += new
+        
     kicad_syms = load_symbols_from_files(repos=repos)    
     #copy_symbol_libraries_to_new_directories(kicad_syms=kicad_syms)
 
@@ -112,14 +122,20 @@ def get_all_symbols_from_kicad_syms(**kwargs):
         kicad_sym = ks["kicad_sym"]
         print(f"loading symbol from {kicad_sym}")
         repo = ks["repo"]
+        #get reponame from repo
+        
+        repo["github_src"] = repo['url'] + kicad_sym.replace('tmp/', '').replace(repo['name'], '')
+
         owner = repo["owner"]
         
-        #load the symbol
+        #loa#d the symbol
         try:
-            sym = SymbolLib().from_file(kicad_sym)
+            sym = SymbolLib().from_file(kicad_sym.replace('/', '\\'))
+        
             if sym != None:
                 #libaryr name is just the filename of kicad_sym
-                library_name = kicad_sym.replace('.kicad_sym', '').replace('tmp/', '')
+                library_name = kicad_sym.split('/')[-1]
+                library_name = library_name.replace('.kicad_sym', '').replace('tmp/', '')
                 #replace / with _
                 library_name = library_name.replace('/', '_')
                 library_name = library_name.replace('-', '_')
@@ -130,10 +146,12 @@ def get_all_symbols_from_kicad_syms(**kwargs):
                     deets['symbol'] = symbol
                     deets['repo'] = repo
                     deets["library_name"] = library_name
+                    deets["repo_github"] = get_repo_from_github(repo=repo)
                     symbols.append(deets)                    
         except Exception as e:
             print(f'Failed to load {kicad_sym}')
-            print(e)
+            
+            print(e)            
         print(f'Loaded {kicad_sym}')
         #dump symbols to yaml
     return symbols
@@ -215,8 +233,10 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         symbol = symb['symbol']
         current_owner = symb['repo']['owner']
         current_entry_name = symbol.entryName.replace(f'{current_owner}_', '')
-        symbol_name = f'{current_owner}_{symb["repo"]["name"]}_{current_entry_name}'
+        symbol_name = f'{current_owner}_{current_entry_name}'
         #replace / with _
+        #lower case
+        symbol_name = symbol_name.lower()
         symbol_name = symbol_name.replace('.kicad_mod', '')
         symbol_name = symbol_name.replace('/', '_')
         symbol_name = symbol_name.replace('\\', '_')
@@ -236,6 +256,7 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         symbol_name = symbol_name.replace('__', '_')
         symbol_name = symbol_name.replace('__', '_')
         directory_name = f'symbols_flat/{symbol_name}/working'
+        folder = f'{symbol_name}/working'
         library_name = f'{directory_name}/working.kicad_sym'
         #skip if extends not in symbol[symbol] or if it doesn't equal none
         if symbol.extends == None:        
@@ -252,13 +273,176 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
             count += 1
             if count % 100 == 0:
                 print('.', end='')
+        
+        #add various useful links to footprint details
+            links = {}
+            repo_full = symb['repo_github']
+            if len(repo_full) > 2:
+                #get the repo url details from github using their api
+                html_url = repo_full['html_url']
+                github_src = symb["repo"]["github_src"]
+                links['github_src'] = github_src
+                links['github_src_repo'] = html_url
+                #get owner from html_url
+                owner = html_url.split('/')[-2]
+                links['github_owner'] = f'{owner}'
+                #get repo name from html_url
+                repo_name = html_url.split('/')[-1]
+                links['github_repo_name'] = f'{repo_name}'
+            else:
+                ###kicad on gitlab
+                html_url = 'https://gitlab.com/kicad/libraries/kicad-symbols'
+                github_src = f"{symb['repo']['github_src']}"
+                github_src = github_src.replace('github.com', 'gitlab.com')
+                links['github_src'] = github_src
+                links['github_src_repo'] = html_url
+                #get owner from html_url
+                ##owner = html_url.split('/')[-2]
+                ##links['github_owner'] = f'{owner}'
+                #get repo name from html_url
+                ##repo_name = html_url.split('/')[-1]
+                ##links['github_repo_name'] = f'{repo_name}'
+            #oomp_src flat link
+            oomp_src_flat = f'symbols_flat/{folder}'
+            links['oomp_src_flat'] = oomp_src_flat
+            oomp_src_flat_github = f'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/{folder}'
+            links['oomp_src_flat_github'] = oomp_src_flat_github
+            
+            
+            #oomp_bot link
+            oomp_bot_folder = folder.replace("symbols_flat","symbols")
+            oomp_bot = f'{oomp_bot_folder}'
+            links['oomp_bot'] = oomp_bot
+            oomp_bot_github = f'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/{oomp_bot_folder}'
+            links['oomp_bot_github'] = oomp_bot_github
+            
+            #doc folder
+            oomp_doc_folder = folder.replace("symbols_flat","symbols")
+            oomp_bot = f'{oomp_doc_folder}'
+            links['oomp_doc'] = oomp_bot
+            oomp_doc_github = f'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/{oomp_bot_folder}'
+            links['oomp_doc_github'] = oomp_doc_github
+
+            
+
+            #add links to footprint details
+            symb['links'] = links
+
+        
+            symb['oomp_key'] = f'oomp_{symbol_name}'
+            symb['oomp_key_simple'] = f'{symbol_name}'
+            symb['owner'] = owner
+            symb['name'] = current_entry_name
+        
         else:
             #might just need to include the extension
             entry_name = symbol.entryName
             print(f'Skipping {entry_name} becaue it extends')
+
+        
+
         #dump all the details we know to a yaml
         print(f'Writing {directory_name}/working.yaml')
+        #create directories if needed
+        os.makedirs(os.path.dirname(f'{directory_name}/working.yaml'), exist_ok=True)
+
+        #make a deepcopy of symb
+        import copy
+        symb2 = copy.deepcopy(symb)
+        #remove symbol from symb
+        symb2.pop('symbol')
+
         with open(f'{directory_name}/working.yaml', 'w') as f:
-            yaml.dump(symb, f)
+            yaml.dump(symb2, f)
 
     print()
+
+def get_repo_from_github(**kwargs):
+    rep = kwargs['repo']
+    url = rep['url']
+    if url in github_repos:
+        return github_repos[url]
+    else:
+        #fetch the repo details from github api using requests
+        import requests
+        #get the repo details
+        #get owner from url
+        owner = url.split('/')[3]
+        #get repo from url
+        repo = url.split('/')[4]
+
+        api_url = f'https://api.github.com/repos/{owner}/{repo}'
+        #get the repo details
+        r = requests.get(api_url)
+        #convert to json
+        repo = r.json()
+        #add the repo to the github repos
+        github_repos[url] = repo
+        return repo
+    
+        
+def make_symbols_readme():
+    counter = 1
+    folders = ["symbols_flat"]
+    for folder in folders:
+        #go through all the files in folder 
+        for root, dirs, files in os.walk(folder):
+            #if its a directory
+            if os.path.isdir(root):
+                #if it's called working
+                if root.endswith('working'):
+                    #load the working.yaml file from the folder
+                    #try:
+                        with open(f'{root}/working.yaml', 'r') as yaml_file:
+                            yaml_dict = yaml.load(yaml_file, Loader=yaml.FullLoader)
+                        #create a readme file by calling make_readme(yaml_dict)
+                        readme = make_readme(yaml_dict=yaml_dict)
+                        #save readme as readme.md
+                        with open(f'{root}/readme.md', 'w') as readme_file:
+                            try:
+                                readme_file.write(readme)
+                            except Exception as e:
+                                print(f'error creating readme for {root} most likely no working.yaml file/n')
+                                print(e)
+                            pass
+                        counter += 1
+                        #print a dot every 100 times through
+                        if counter % 100 == 0:
+                            print('.', end='', flush=True)
+
+                    #except Exception as e:
+                    #    print(f'error creating readme for {root} most likely no working.yaml file/n')
+                    #    print(e)
+                    #    pass
+    print()
+
+def make_readme(**kwargs):
+    yaml_dict = kwargs['yaml_dict']
+    #if yaml_dict is an array take element
+    if type(yaml_dict) is list:
+        yaml_dict = yaml_dict[0]
+
+    yaml_table =  oom_base.yaml_to_markdown(**kwargs)
+    name = yaml_dict.get('name', '')
+    owner = yaml_dict.get('owner', '')
+    
+    ## links
+    links = yaml_dict.get('links', '')
+    url = ""
+    github_path = ""
+    if links != '':
+        url = links.get('github_src_repo', '')
+        github_path = links.get('github_src', '')
+        
+    
+    readme = f"""# {name} by {owner}  
+This is a harvested standardized copy of a symbol from github.  
+The original project can be found at:  
+{url}  
+The original symbol can be found in:
+{github_path}
+Please consult that link for additional, details, files, and license information.  
+## yaml dump  
+{yaml_table}
+"""
+    return readme
