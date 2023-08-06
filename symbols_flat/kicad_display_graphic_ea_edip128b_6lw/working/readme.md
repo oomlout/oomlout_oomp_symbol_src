@@ -1,4 +1,4 @@
-# Display_Graphic_EA_eDIP128B_6LW by arturo182  
+# display_graphic_ea_edip128b_6lw by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Display_Graphic |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_display_graphic_ea_edip128b_6lw/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_display_graphic_ea_edip128b_6lw/working', 'oomp_doc': 'kicad_display_graphic_ea_edip128b_6lw/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_graphic_ea_edip128b_6lw/working', 'oomp_src_flat': 'symbols_flat/kicad_display_graphic_ea_edip128b_6lw/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_graphic_ea_edip128b_6lw/working'} |  
-| name | Display_Graphic_EA_eDIP128B_6LW |  
+| name | display_graphic_ea_edip128b_6lw |  
 | oomp_key | oomp_kicad_display_graphic_ea_edip128b_6lw |  
 | oomp_key_simple | kicad_display_graphic_ea_edip128b_6lw |  
 | owner | arturo182 |  

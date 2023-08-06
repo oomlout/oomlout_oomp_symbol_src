@@ -1,4 +1,4 @@
-# Diode_C3D02060F by arturo182  
+# diode_c3d02060f by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Diode |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_diode_c3d02060f/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_diode_c3d02060f/working', 'oomp_doc': 'kicad_diode_c3d02060f/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_c3d02060f/working', 'oomp_src_flat': 'symbols_flat/kicad_diode_c3d02060f/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_c3d02060f/working'} |  
-| name | Diode_C3D02060F |  
+| name | diode_c3d02060f |  
 | oomp_key | oomp_kicad_diode_c3d02060f |  
 | oomp_key_simple | kicad_diode_c3d02060f |  
 | owner | arturo182 |  

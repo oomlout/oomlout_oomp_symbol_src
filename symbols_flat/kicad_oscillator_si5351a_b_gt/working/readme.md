@@ -1,4 +1,4 @@
-# Oscillator_Si5351A_B_GT by arturo182  
+# oscillator_si5351a_b_gt by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Oscillator |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_oscillator_si5351a_b_gt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_oscillator_si5351a_b_gt/working', 'oomp_doc': 'kicad_oscillator_si5351a_b_gt/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_si5351a_b_gt/working', 'oomp_src_flat': 'symbols_flat/kicad_oscillator_si5351a_b_gt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_si5351a_b_gt/working'} |  
-| name | Oscillator_Si5351A_B_GT |  
+| name | oscillator_si5351a_b_gt |  
 | oomp_key | oomp_kicad_oscillator_si5351a_b_gt |  
 | oomp_key_simple | kicad_oscillator_si5351a_b_gt |  
 | owner | arturo182 |  

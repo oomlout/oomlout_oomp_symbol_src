@@ -1,4 +1,4 @@
-# Logic_LevelTranslator_74LVC2T45DC by arturo182  
+# logic_leveltranslator_74lvc2t45dc by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Logic_LevelTranslator |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_logic_leveltranslator_74lvc2t45dc/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_logic_leveltranslator_74lvc2t45dc/working', 'oomp_doc': 'kicad_logic_leveltranslator_74lvc2t45dc/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_logic_leveltranslator_74lvc2t45dc/working', 'oomp_src_flat': 'symbols_flat/kicad_logic_leveltranslator_74lvc2t45dc/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_logic_leveltranslator_74lvc2t45dc/working'} |  
-| name | Logic_LevelTranslator_74LVC2T45DC |  
+| name | logic_leveltranslator_74lvc2t45dc |  
 | oomp_key | oomp_kicad_logic_leveltranslator_74lvc2t45dc |  
 | oomp_key_simple | kicad_logic_leveltranslator_74lvc2t45dc |  
 | owner | arturo182 |  

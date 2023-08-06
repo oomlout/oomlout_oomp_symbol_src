@@ -1,4 +1,4 @@
-# RF_NFC_PN5321A3HN_C1xx by arturo182  
+# rf_nfc_pn5321a3hn_c1xx by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | RF_NFC |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_rf_nfc_pn5321a3hn_c1xx/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_rf_nfc_pn5321a3hn_c1xx/working', 'oomp_doc': 'kicad_rf_nfc_pn5321a3hn_c1xx/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_nfc_pn5321a3hn_c1xx/working', 'oomp_src_flat': 'symbols_flat/kicad_rf_nfc_pn5321a3hn_c1xx/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_nfc_pn5321a3hn_c1xx/working'} |  
-| name | RF_NFC_PN5321A3HN_C1xx |  
+| name | rf_nfc_pn5321a3hn_c1xx |  
 | oomp_key | oomp_kicad_rf_nfc_pn5321a3hn_c1xx |  
 | oomp_key_simple | kicad_rf_nfc_pn5321a3hn_c1xx |  
 | owner | arturo182 |  

@@ -1,4 +1,4 @@
-# Transformer_5400BL15B050 by arturo182  
+# transformer_5400bl15b050 by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Transformer |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_transformer_5400bl15b050/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_transformer_5400bl15b050/working', 'oomp_doc': 'kicad_transformer_5400bl15b050/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_5400bl15b050/working', 'oomp_src_flat': 'symbols_flat/kicad_transformer_5400bl15b050/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_5400bl15b050/working'} |  
-| name | Transformer_5400BL15B050 |  
+| name | transformer_5400bl15b050 |  
 | oomp_key | oomp_kicad_transformer_5400bl15b050 |  
 | oomp_key_simple | kicad_transformer_5400bl15b050 |  
 | owner | arturo182 |  

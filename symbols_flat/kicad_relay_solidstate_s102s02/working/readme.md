@@ -1,4 +1,4 @@
-# Relay_SolidState_S102S02 by arturo182  
+# relay_solidstate_s102s02 by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Relay_SolidState |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_relay_solidstate_s102s02/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_relay_solidstate_s102s02/working', 'oomp_doc': 'kicad_relay_solidstate_s102s02/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_solidstate_s102s02/working', 'oomp_src_flat': 'symbols_flat/kicad_relay_solidstate_s102s02/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_solidstate_s102s02/working'} |  
-| name | Relay_SolidState_S102S02 |  
+| name | relay_solidstate_s102s02 |  
 | oomp_key | oomp_kicad_relay_solidstate_s102s02 |  
 | oomp_key_simple | kicad_relay_solidstate_s102s02 |  
 | owner | arturo182 |  

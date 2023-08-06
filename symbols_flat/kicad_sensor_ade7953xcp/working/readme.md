@@ -1,4 +1,4 @@
-# Sensor_ADE7953xCP by arturo182  
+# sensor_ade7953xcp by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Sensor |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_sensor_ade7953xcp/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_sensor_ade7953xcp/working', 'oomp_doc': 'kicad_sensor_ade7953xcp/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_ade7953xcp/working', 'oomp_src_flat': 'symbols_flat/kicad_sensor_ade7953xcp/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_ade7953xcp/working'} |  
-| name | Sensor_ADE7953xCP |  
+| name | sensor_ade7953xcp |  
 | oomp_key | oomp_kicad_sensor_ade7953xcp |  
 | oomp_key_simple | kicad_sensor_ade7953xcp |  
 | owner | arturo182 |  

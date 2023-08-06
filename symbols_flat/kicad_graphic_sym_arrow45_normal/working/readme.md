@@ -1,4 +1,4 @@
-# Graphic_SYM_Arrow45_Normal by arturo182  
+# graphic_sym_arrow45_normal by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Graphic |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_graphic_sym_arrow45_normal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_graphic_sym_arrow45_normal/working', 'oomp_doc': 'kicad_graphic_sym_arrow45_normal/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_graphic_sym_arrow45_normal/working', 'oomp_src_flat': 'symbols_flat/kicad_graphic_sym_arrow45_normal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_graphic_sym_arrow45_normal/working'} |  
-| name | Graphic_SYM_Arrow45_Normal |  
+| name | graphic_sym_arrow45_normal |  
 | oomp_key | oomp_kicad_graphic_sym_arrow45_normal |  
 | oomp_key_simple | kicad_graphic_sym_arrow45_normal |  
 | owner | arturo182 |  

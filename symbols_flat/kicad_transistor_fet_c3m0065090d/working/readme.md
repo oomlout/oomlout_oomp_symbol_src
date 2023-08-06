@@ -1,4 +1,4 @@
-# Transistor_FET_C3M0065090D by arturo182  
+# transistor_fet_c3m0065090d by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Transistor_FET |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_transistor_fet_c3m0065090d/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_transistor_fet_c3m0065090d/working', 'oomp_doc': 'kicad_transistor_fet_c3m0065090d/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_c3m0065090d/working', 'oomp_src_flat': 'symbols_flat/kicad_transistor_fet_c3m0065090d/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_c3m0065090d/working'} |  
-| name | Transistor_FET_C3M0065090D |  
+| name | transistor_fet_c3m0065090d |  
 | oomp_key | oomp_kicad_transistor_fet_c3m0065090d |  
 | oomp_key_simple | kicad_transistor_fet_c3m0065090d |  
 | owner | arturo182 |  

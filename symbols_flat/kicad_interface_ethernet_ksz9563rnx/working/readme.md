@@ -1,4 +1,4 @@
-# Interface_Ethernet_KSZ9563RNX by arturo182  
+# interface_ethernet_ksz9563rnx by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Interface_Ethernet |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_interface_ethernet_ksz9563rnx/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_interface_ethernet_ksz9563rnx/working', 'oomp_doc': 'kicad_interface_ethernet_ksz9563rnx/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_ksz9563rnx/working', 'oomp_src_flat': 'symbols_flat/kicad_interface_ethernet_ksz9563rnx/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_ksz9563rnx/working'} |  
-| name | Interface_Ethernet_KSZ9563RNX |  
+| name | interface_ethernet_ksz9563rnx |  
 | oomp_key | oomp_kicad_interface_ethernet_ksz9563rnx |  
 | oomp_key_simple | kicad_interface_ethernet_ksz9563rnx |  
 | owner | arturo182 |  

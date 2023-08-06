@@ -1,4 +1,4 @@
-# Interface_UART_MAX488E by arturo182  
+# interface_uart_max488e by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Interface_UART |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_interface_uart_max488e/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_interface_uart_max488e/working', 'oomp_doc': 'kicad_interface_uart_max488e/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_max488e/working', 'oomp_src_flat': 'symbols_flat/kicad_interface_uart_max488e/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_max488e/working'} |  
-| name | Interface_UART_MAX488E |  
+| name | interface_uart_max488e |  
 | oomp_key | oomp_kicad_interface_uart_max488e |  
 | oomp_key_simple | kicad_interface_uart_max488e |  
 | owner | arturo182 |  

@@ -1,4 +1,4 @@
-# Jumper_Jumper_3_Open by arturo182  
+# jumper_jumper_3_open by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Jumper |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_jumper_jumper_3_open/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_jumper_jumper_3_open/working', 'oomp_doc': 'kicad_jumper_jumper_3_open/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_jumper_jumper_3_open/working', 'oomp_src_flat': 'symbols_flat/kicad_jumper_jumper_3_open/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_jumper_jumper_3_open/working'} |  
-| name | Jumper_Jumper_3_Open |  
+| name | jumper_jumper_3_open |  
 | oomp_key | oomp_kicad_jumper_jumper_3_open |  
 | oomp_key_simple | kicad_jumper_jumper_3_open |  
 | owner | arturo182 |  

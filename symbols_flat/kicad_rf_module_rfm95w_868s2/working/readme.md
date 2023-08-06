@@ -1,4 +1,4 @@
-# RF_Module_RFM95W_868S2 by arturo182  
+# rf_module_rfm95w_868s2 by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | RF_Module |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_rf_module_rfm95w_868s2/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_rf_module_rfm95w_868s2/working', 'oomp_doc': 'kicad_rf_module_rfm95w_868s2/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_rfm95w_868s2/working', 'oomp_src_flat': 'symbols_flat/kicad_rf_module_rfm95w_868s2/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_rfm95w_868s2/working'} |  
-| name | RF_Module_RFM95W_868S2 |  
+| name | rf_module_rfm95w_868s2 |  
 | oomp_key | oomp_kicad_rf_module_rfm95w_868s2 |  
 | oomp_key_simple | kicad_rf_module_rfm95w_868s2 |  
 | owner | arturo182 |  

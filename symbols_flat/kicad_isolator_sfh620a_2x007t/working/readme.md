@@ -1,4 +1,4 @@
-# Isolator_SFH620A_2X007T by arturo182  
+# isolator_sfh620a_2x007t by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Isolator |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_isolator_sfh620a_2x007t/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_isolator_sfh620a_2x007t/working', 'oomp_doc': 'kicad_isolator_sfh620a_2x007t/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_sfh620a_2x007t/working', 'oomp_src_flat': 'symbols_flat/kicad_isolator_sfh620a_2x007t/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_sfh620a_2x007t/working'} |  
-| name | Isolator_SFH620A_2X007T |  
+| name | isolator_sfh620a_2x007t |  
 | oomp_key | oomp_kicad_isolator_sfh620a_2x007t |  
 | oomp_key_simple | kicad_isolator_sfh620a_2x007t |  
 | owner | arturo182 |  

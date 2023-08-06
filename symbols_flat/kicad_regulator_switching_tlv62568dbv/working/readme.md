@@ -1,4 +1,4 @@
-# Regulator_Switching_TLV62568DBV by arturo182  
+# regulator_switching_tlv62568dbv by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Regulator_Switching |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_regulator_switching_tlv62568dbv/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_regulator_switching_tlv62568dbv/working', 'oomp_doc': 'kicad_regulator_switching_tlv62568dbv/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tlv62568dbv/working', 'oomp_src_flat': 'symbols_flat/kicad_regulator_switching_tlv62568dbv/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tlv62568dbv/working'} |  
-| name | Regulator_Switching_TLV62568DBV |  
+| name | regulator_switching_tlv62568dbv |  
 | oomp_key | oomp_kicad_regulator_switching_tlv62568dbv |  
 | oomp_key_simple | kicad_regulator_switching_tlv62568dbv |  
 | owner | arturo182 |  

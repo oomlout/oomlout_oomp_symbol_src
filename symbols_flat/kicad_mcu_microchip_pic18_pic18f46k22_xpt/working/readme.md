@@ -1,4 +1,4 @@
-# MCU_Microchip_PIC18_PIC18F46K22_xPT by arturo182  
+# mcu_microchip_pic18_pic18f46k22_xpt by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | MCU_Microchip_PIC18 |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_mcu_microchip_pic18_pic18f46k22_xpt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_microchip_pic18_pic18f46k22_xpt/working', 'oomp_doc': 'kicad_mcu_microchip_pic18_pic18f46k22_xpt/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic18_pic18f46k22_xpt/working', 'oomp_src_flat': 'symbols_flat/kicad_mcu_microchip_pic18_pic18f46k22_xpt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic18_pic18f46k22_xpt/working'} |  
-| name | MCU_Microchip_PIC18_PIC18F46K22_xPT |  
+| name | mcu_microchip_pic18_pic18f46k22_xpt |  
 | oomp_key | oomp_kicad_mcu_microchip_pic18_pic18f46k22_xpt |  
 | oomp_key_simple | kicad_mcu_microchip_pic18_pic18f46k22_xpt |  
 | owner | arturo182 |  

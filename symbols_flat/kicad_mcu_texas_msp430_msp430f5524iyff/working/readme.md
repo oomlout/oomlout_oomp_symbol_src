@@ -1,4 +1,4 @@
-# MCU_Texas_MSP430_MSP430F5524IYFF by arturo182  
+# mcu_texas_msp430_msp430f5524iyff by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | MCU_Texas_MSP430 |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_mcu_texas_msp430_msp430f5524iyff/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_texas_msp430_msp430f5524iyff/working', 'oomp_doc': 'kicad_mcu_texas_msp430_msp430f5524iyff/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_texas_msp430_msp430f5524iyff/working', 'oomp_src_flat': 'symbols_flat/kicad_mcu_texas_msp430_msp430f5524iyff/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_texas_msp430_msp430f5524iyff/working'} |  
-| name | MCU_Texas_MSP430_MSP430F5524IYFF |  
+| name | mcu_texas_msp430_msp430f5524iyff |  
 | oomp_key | oomp_kicad_mcu_texas_msp430_msp430f5524iyff |  
 | oomp_key_simple | kicad_mcu_texas_msp430_msp430f5524iyff |  
 | owner | arturo182 |  

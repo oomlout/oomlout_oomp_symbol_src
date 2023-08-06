@@ -1,4 +1,4 @@
-# Power_Management_AAT4616IGV_1_T1 by arturo182  
+# power_management_aat4616igv_1_t1 by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Power_Management |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_power_management_aat4616igv_1_t1/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_power_management_aat4616igv_1_t1/working', 'oomp_doc': 'kicad_power_management_aat4616igv_1_t1/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_aat4616igv_1_t1/working', 'oomp_src_flat': 'symbols_flat/kicad_power_management_aat4616igv_1_t1/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_aat4616igv_1_t1/working'} |  
-| name | Power_Management_AAT4616IGV_1_T1 |  
+| name | power_management_aat4616igv_1_t1 |  
 | oomp_key | oomp_kicad_power_management_aat4616igv_1_t1 |  
 | oomp_key_simple | kicad_power_management_aat4616igv_1_t1 |  
 | owner | arturo182 |  

@@ -1,4 +1,4 @@
-# Diode_PMEG40T10ER by arturo182  
+# diode_pmeg40t10er by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Diode |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_diode_pmeg40t10er/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_diode_pmeg40t10er/working', 'oomp_doc': 'kicad_diode_pmeg40t10er/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_pmeg40t10er/working', 'oomp_src_flat': 'symbols_flat/kicad_diode_pmeg40t10er/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_pmeg40t10er/working'} |  
-| name | Diode_PMEG40T10ER |  
+| name | diode_pmeg40t10er |  
 | oomp_key | oomp_kicad_diode_pmeg40t10er |  
 | oomp_key_simple | kicad_diode_pmeg40t10er |  
 | owner | arturo182 |  

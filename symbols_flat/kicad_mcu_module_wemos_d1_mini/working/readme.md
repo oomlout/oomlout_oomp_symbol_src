@@ -1,4 +1,4 @@
-# MCU_Module_WeMos_D1_mini by arturo182  
+# mcu_module_wemos_d1_mini by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | MCU_Module |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_mcu_module_wemos_d1_mini/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_module_wemos_d1_mini/working', 'oomp_doc': 'kicad_mcu_module_wemos_d1_mini/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_module_wemos_d1_mini/working', 'oomp_src_flat': 'symbols_flat/kicad_mcu_module_wemos_d1_mini/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_module_wemos_d1_mini/working'} |  
-| name | MCU_Module_WeMos_D1_mini |  
+| name | mcu_module_wemos_d1_mini |  
 | oomp_key | oomp_kicad_mcu_module_wemos_d1_mini |  
 | oomp_key_simple | kicad_mcu_module_wemos_d1_mini |  
 | owner | arturo182 |  

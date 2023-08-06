@@ -1,4 +1,4 @@
-# MCU_NXP_S08_MC9S08SG32xTL by arturo182  
+# mcu_nxp_s08_mc9s08sg32xtl by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | MCU_NXP_S08 |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_mcu_nxp_s08_mc9s08sg32xtl/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_nxp_s08_mc9s08sg32xtl/working', 'oomp_doc': 'kicad_mcu_nxp_s08_mc9s08sg32xtl/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_s08_mc9s08sg32xtl/working', 'oomp_src_flat': 'symbols_flat/kicad_mcu_nxp_s08_mc9s08sg32xtl/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_s08_mc9s08sg32xtl/working'} |  
-| name | MCU_NXP_S08_MC9S08SG32xTL |  
+| name | mcu_nxp_s08_mc9s08sg32xtl |  
 | oomp_key | oomp_kicad_mcu_nxp_s08_mc9s08sg32xtl |  
 | oomp_key_simple | kicad_mcu_nxp_s08_mc9s08sg32xtl |  
 | owner | arturo182 |  

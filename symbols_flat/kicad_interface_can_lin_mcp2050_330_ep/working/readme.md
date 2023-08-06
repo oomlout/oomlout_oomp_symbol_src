@@ -1,4 +1,4 @@
-# Interface_CAN_LIN_MCP2050_330_EP by arturo182  
+# interface_can_lin_mcp2050_330_ep by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | Interface_CAN_LIN |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_interface_can_lin_mcp2050_330_ep/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_interface_can_lin_mcp2050_330_ep/working', 'oomp_doc': 'kicad_interface_can_lin_mcp2050_330_ep/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_mcp2050_330_ep/working', 'oomp_src_flat': 'symbols_flat/kicad_interface_can_lin_mcp2050_330_ep/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_mcp2050_330_ep/working'} |  
-| name | Interface_CAN_LIN_MCP2050_330_EP |  
+| name | interface_can_lin_mcp2050_330_ep |  
 | oomp_key | oomp_kicad_interface_can_lin_mcp2050_330_ep |  
 | oomp_key_simple | kicad_interface_can_lin_mcp2050_330_ep |  
 | owner | arturo182 |  

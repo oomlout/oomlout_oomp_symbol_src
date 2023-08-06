@@ -1,4 +1,4 @@
-# MCU_ST_STM32F3_STM32F334C_4_6_8_Tx by arturo182  
+# mcu_st_stm32f3_stm32f334c_4_6_8_tx by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | MCU_ST_STM32F3 |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_mcu_st_stm32f3_stm32f334c_4_6_8_tx/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_st_stm32f3_stm32f334c_4_6_8_tx/working', 'oomp_doc': 'kicad_mcu_st_stm32f3_stm32f334c_4_6_8_tx/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32f3_stm32f334c_4_6_8_tx/working', 'oomp_src_flat': 'symbols_flat/kicad_mcu_st_stm32f3_stm32f334c_4_6_8_tx/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32f3_stm32f334c_4_6_8_tx/working'} |  
-| name | MCU_ST_STM32F3_STM32F334C_4_6_8_Tx |  
+| name | mcu_st_stm32f3_stm32f334c_4_6_8_tx |  
 | oomp_key | oomp_kicad_mcu_st_stm32f3_stm32f334c_4_6_8_tx |  
 | oomp_key_simple | kicad_mcu_st_stm32f3_stm32f334c_4_6_8_tx |  
 | owner | arturo182 |  

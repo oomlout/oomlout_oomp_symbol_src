@@ -1,4 +1,4 @@
-# LED_QLS6A_FKW by arturo182  
+# led_qls6a_fkw by arturo182  
 This is a harvested standardized copy of a symbol from github.  
 The original project can be found at:  
 https://gitlab.com/kicad/libraries/kicad-symbols  
@@ -10,7 +10,7 @@ Please consult that link for additional, details, files, and license information
 | --- | --- |  
 | library_name | LED |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_led_qls6a_fkw/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_led_qls6a_fkw/working', 'oomp_doc': 'kicad_led_qls6a_fkw/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_qls6a_fkw/working', 'oomp_src_flat': 'symbols_flat/kicad_led_qls6a_fkw/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_qls6a_fkw/working'} |  
-| name | LED_QLS6A_FKW |  
+| name | led_qls6a_fkw |  
 | oomp_key | oomp_kicad_led_qls6a_fkw |  
 | oomp_key_simple | kicad_led_qls6a_fkw |  
 | owner | arturo182 |  
