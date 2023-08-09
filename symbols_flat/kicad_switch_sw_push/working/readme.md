@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Switch |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_switch_sw_push/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_switch_sw_push/working', 'oomp_doc': 'kicad_switch_sw_push/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_push/working', 'oomp_src_flat': 'symbols_flat/kicad_switch_sw_push/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_push/working'} |  
 | name | switch_sw_push |  
+| oomp | {'library_name': 'switch', 'owner_name': 'kicad', 'symbol_name': 'switch_sw_push'} |  
 | oomp_key | oomp_kicad_switch_sw_push |  
 | oomp_key_simple | kicad_switch_sw_push |  
 | owner | arturo182 |  

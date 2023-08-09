@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | MCU_Microchip_ATmega |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_mcu_microchip_atmega_atmega164pv_10a/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_microchip_atmega_atmega164pv_10a/working', 'oomp_doc': 'kicad_mcu_microchip_atmega_atmega164pv_10a/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_atmega_atmega164pv_10a/working', 'oomp_src_flat': 'symbols_flat/kicad_mcu_microchip_atmega_atmega164pv_10a/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_atmega_atmega164pv_10a/working'} |  
 | name | mcu_microchip_atmega_atmega164pv_10a |  
+| oomp | {'library_name': 'mcu_microchip_atmega', 'owner_name': 'kicad', 'symbol_name': 'mcu_microchip_atmega_atmega164pv_10a'} |  
 | oomp_key | oomp_kicad_mcu_microchip_atmega_atmega164pv_10a |  
 | oomp_key_simple | kicad_mcu_microchip_atmega_atmega164pv_10a |  
 | owner | arturo182 |  

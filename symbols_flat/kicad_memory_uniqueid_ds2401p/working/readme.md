@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Memory_UniqueID |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_memory_uniqueid_ds2401p/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_memory_uniqueid_ds2401p/working', 'oomp_doc': 'kicad_memory_uniqueid_ds2401p/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_uniqueid_ds2401p/working', 'oomp_src_flat': 'symbols_flat/kicad_memory_uniqueid_ds2401p/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_uniqueid_ds2401p/working'} |  
 | name | memory_uniqueid_ds2401p |  
+| oomp | {'library_name': 'memory_uniqueid', 'owner_name': 'kicad', 'symbol_name': 'memory_uniqueid_ds2401p'} |  
 | oomp_key | oomp_kicad_memory_uniqueid_ds2401p |  
 | oomp_key_simple | kicad_memory_uniqueid_ds2401p |  
 | owner | arturo182 |  

@@ -9,6 +9,7 @@ Please consult that link for additional, details, files, and license information
 | Key | Value |  
 | --- | --- |  
 | library_name | MCU_Microchip_SAML |  
+| oomp | {'library_name': 'mcu_microchip_saml', 'owner_name': 'kicad', 'symbol_name': 'mcu_microchip_saml_atsaml21e18b_aut'} |  
 | repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
 | repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
 

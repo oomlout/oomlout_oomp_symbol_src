@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Power_Supervisor |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_power_supervisor_max16050xti/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_power_supervisor_max16050xti/working', 'oomp_doc': 'kicad_power_supervisor_max16050xti/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_max16050xti/working', 'oomp_src_flat': 'symbols_flat/kicad_power_supervisor_max16050xti/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_max16050xti/working'} |  
 | name | power_supervisor_max16050xti |  
+| oomp | {'library_name': 'power_supervisor', 'owner_name': 'kicad', 'symbol_name': 'power_supervisor_max16050xti'} |  
 | oomp_key | oomp_kicad_power_supervisor_max16050xti |  
 | oomp_key_simple | kicad_power_supervisor_max16050xti |  
 | owner | arturo182 |  

@@ -9,6 +9,7 @@ Please consult that link for additional, details, files, and license information
 | Key | Value |  
 | --- | --- |  
 | library_name | Diode_Bridge |  
+| oomp | {'library_name': 'diode_bridge', 'owner_name': 'kicad', 'symbol_name': 'diode_bridge_b380c1500g'} |  
 | repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
 | repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
 

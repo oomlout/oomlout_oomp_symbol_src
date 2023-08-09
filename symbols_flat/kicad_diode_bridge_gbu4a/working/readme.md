@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Diode_Bridge |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_diode_bridge_gbu4a/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_diode_bridge_gbu4a/working', 'oomp_doc': 'kicad_diode_bridge_gbu4a/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bridge_gbu4a/working', 'oomp_src_flat': 'symbols_flat/kicad_diode_bridge_gbu4a/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bridge_gbu4a/working'} |  
 | name | diode_bridge_gbu4a |  
+| oomp | {'library_name': 'diode_bridge', 'owner_name': 'kicad', 'symbol_name': 'diode_bridge_gbu4a'} |  
 | oomp_key | oomp_kicad_diode_bridge_gbu4a |  
 | oomp_key_simple | kicad_diode_bridge_gbu4a |  
 | owner | arturo182 |  

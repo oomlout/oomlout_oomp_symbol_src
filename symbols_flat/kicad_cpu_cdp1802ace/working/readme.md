@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | CPU |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_cpu_cdp1802ace/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_cpu_cdp1802ace/working', 'oomp_doc': 'kicad_cpu_cdp1802ace/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpu_cdp1802ace/working', 'oomp_src_flat': 'symbols_flat/kicad_cpu_cdp1802ace/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpu_cdp1802ace/working'} |  
 | name | cpu_cdp1802ace |  
+| oomp | {'library_name': 'cpu', 'owner_name': 'kicad', 'symbol_name': 'cpu_cdp1802ace'} |  
 | oomp_key | oomp_kicad_cpu_cdp1802ace |  
 | oomp_key_simple | kicad_cpu_cdp1802ace |  
 | owner | arturo182 |  

@@ -9,6 +9,7 @@ Please consult that link for additional, details, files, and license information
 | Key | Value |  
 | --- | --- |  
 | library_name | Timer_PLL |  
+| oomp | {'library_name': 'timer_pll', 'owner_name': 'kicad', 'symbol_name': 'timer_pll_si5342c_d'} |  
 | repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
 | repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
 

@@ -9,6 +9,7 @@ Please consult that link for additional, details, files, and license information
 | Key | Value |  
 | --- | --- |  
 | library_name | Interface_USB |  
+| oomp | {'library_name': 'interface_usb', 'owner_name': 'kicad', 'symbol_name': 'interface_usb_fusb302b10mpx'} |  
 | repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
 | repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
 

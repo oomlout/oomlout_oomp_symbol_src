@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Oscillator |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_oscillator_ocxo_14/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_oscillator_ocxo_14/working', 'oomp_doc': 'kicad_oscillator_ocxo_14/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_ocxo_14/working', 'oomp_src_flat': 'symbols_flat/kicad_oscillator_ocxo_14/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_ocxo_14/working'} |  
 | name | oscillator_ocxo_14 |  
+| oomp | {'library_name': 'oscillator', 'owner_name': 'kicad', 'symbol_name': 'oscillator_ocxo_14'} |  
 | oomp_key | oomp_kicad_oscillator_ocxo_14 |  
 | oomp_key_simple | kicad_oscillator_ocxo_14 |  
 | owner | arturo182 |  

@@ -359,6 +359,32 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         #remove symbol from symb
         symb2.pop('symbol')
 
+        oomp_deets = {}
+
+        import oom_base
+
+        symbol_name = current_entry_name
+
+        library_name = symb2.get('library_name', "")
+        ## remove special characters and lower using oom_base
+        library_name = oom_base.remove_special_characters(library_name)
+        library_name = library_name.lower()
+
+        owner_name = ""
+        repo = symb2.get('repo', "")
+        if repo != "":
+            owner_name = repo.get('owner', "")
+        
+
+        oomp_deets["symbol_name"] = symbol_name
+        oomp_deets["library_name"] = library_name
+        oomp_deets["owner_name"] = owner_name
+
+
+        symb2["oomp"] = oomp_deets
+
+        pass
+
         with open(f'{directory_name}/working.yaml', 'w') as f:
             yaml.dump(symb2, f)
 

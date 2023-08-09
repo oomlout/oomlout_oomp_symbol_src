@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Device |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_device_c_polarized/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_device_c_polarized/working', 'oomp_doc': 'kicad_device_c_polarized/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_c_polarized/working', 'oomp_src_flat': 'symbols_flat/kicad_device_c_polarized/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_c_polarized/working'} |  
 | name | device_c_polarized |  
+| oomp | {'library_name': 'device', 'owner_name': 'kicad', 'symbol_name': 'device_c_polarized'} |  
 | oomp_key | oomp_kicad_device_c_polarized |  
 | oomp_key_simple | kicad_device_c_polarized |  
 | owner | arturo182 |  

@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Reference_Voltage |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_reference_voltage_mcp1501_10xch/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_reference_voltage_mcp1501_10xch/working', 'oomp_doc': 'kicad_reference_voltage_mcp1501_10xch/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_mcp1501_10xch/working', 'oomp_src_flat': 'symbols_flat/kicad_reference_voltage_mcp1501_10xch/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_mcp1501_10xch/working'} |  
 | name | reference_voltage_mcp1501_10xch |  
+| oomp | {'library_name': 'reference_voltage', 'owner_name': 'kicad', 'symbol_name': 'reference_voltage_mcp1501_10xch'} |  
 | oomp_key | oomp_kicad_reference_voltage_mcp1501_10xch |  
 | oomp_key_simple | kicad_reference_voltage_mcp1501_10xch |  
 | owner | arturo182 |  

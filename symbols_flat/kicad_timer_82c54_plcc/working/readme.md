@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Timer |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_timer_82c54_plcc/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_timer_82c54_plcc/working', 'oomp_doc': 'kicad_timer_82c54_plcc/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_82c54_plcc/working', 'oomp_src_flat': 'symbols_flat/kicad_timer_82c54_plcc/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_82c54_plcc/working'} |  
 | name | timer_82c54_plcc |  
+| oomp | {'library_name': 'timer', 'owner_name': 'kicad', 'symbol_name': 'timer_82c54_plcc'} |  
 | oomp_key | oomp_kicad_timer_82c54_plcc |  
 | oomp_key_simple | kicad_timer_82c54_plcc |  
 | owner | arturo182 |  

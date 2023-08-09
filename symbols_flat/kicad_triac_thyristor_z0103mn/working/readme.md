@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Triac_Thyristor |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_triac_thyristor_z0103mn/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_triac_thyristor_z0103mn/working', 'oomp_doc': 'kicad_triac_thyristor_z0103mn/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_triac_thyristor_z0103mn/working', 'oomp_src_flat': 'symbols_flat/kicad_triac_thyristor_z0103mn/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_triac_thyristor_z0103mn/working'} |  
 | name | triac_thyristor_z0103mn |  
+| oomp | {'library_name': 'triac_thyristor', 'owner_name': 'kicad', 'symbol_name': 'triac_thyristor_z0103mn'} |  
 | oomp_key | oomp_kicad_triac_thyristor_z0103mn |  
 | oomp_key_simple | kicad_triac_thyristor_z0103mn |  
 | owner | arturo182 |  

@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Regulator_Controller |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_regulator_controller_uc3525/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_regulator_controller_uc3525/working', 'oomp_doc': 'kicad_regulator_controller_uc3525/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_uc3525/working', 'oomp_src_flat': 'symbols_flat/kicad_regulator_controller_uc3525/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_uc3525/working'} |  
 | name | regulator_controller_uc3525 |  
+| oomp | {'library_name': 'regulator_controller', 'owner_name': 'kicad', 'symbol_name': 'regulator_controller_uc3525'} |  
 | oomp_key | oomp_kicad_regulator_controller_uc3525 |  
 | oomp_key_simple | kicad_regulator_controller_uc3525 |  
 | owner | arturo182 |  

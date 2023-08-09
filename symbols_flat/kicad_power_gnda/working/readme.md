@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | power |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_power_gnda/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_power_gnda/working', 'oomp_doc': 'kicad_power_gnda/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_gnda/working', 'oomp_src_flat': 'symbols_flat/kicad_power_gnda/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_gnda/working'} |  
 | name | power_gnda |  
+| oomp | {'library_name': 'power', 'owner_name': 'kicad', 'symbol_name': 'power_gnda'} |  
 | oomp_key | oomp_kicad_power_gnda |  
 | oomp_key_simple | kicad_power_gnda |  
 | owner | arturo182 |  

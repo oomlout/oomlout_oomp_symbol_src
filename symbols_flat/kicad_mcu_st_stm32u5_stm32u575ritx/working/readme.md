@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | MCU_ST_STM32U5 |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_mcu_st_stm32u5_stm32u575ritx/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_st_stm32u5_stm32u575ritx/working', 'oomp_doc': 'kicad_mcu_st_stm32u5_stm32u575ritx/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32u5_stm32u575ritx/working', 'oomp_src_flat': 'symbols_flat/kicad_mcu_st_stm32u5_stm32u575ritx/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32u5_stm32u575ritx/working'} |  
 | name | mcu_st_stm32u5_stm32u575ritx |  
+| oomp | {'library_name': 'mcu_st_stm32u5', 'owner_name': 'kicad', 'symbol_name': 'mcu_st_stm32u5_stm32u575ritx'} |  
 | oomp_key | oomp_kicad_mcu_st_stm32u5_stm32u575ritx |  
 | oomp_key_simple | kicad_mcu_st_stm32u5_stm32u575ritx |  
 | owner | arturo182 |  

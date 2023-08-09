@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | RF_GSM |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_rf_gsm_sim800c/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_rf_gsm_sim800c/working', 'oomp_doc': 'kicad_rf_gsm_sim800c/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_gsm_sim800c/working', 'oomp_src_flat': 'symbols_flat/kicad_rf_gsm_sim800c/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_gsm_sim800c/working'} |  
 | name | rf_gsm_sim800c |  
+| oomp | {'library_name': 'rf_gsm', 'owner_name': 'kicad', 'symbol_name': 'rf_gsm_sim800c'} |  
 | oomp_key | oomp_kicad_rf_gsm_sim800c |  
 | oomp_key_simple | kicad_rf_gsm_sim800c |  
 | owner | arturo182 |  

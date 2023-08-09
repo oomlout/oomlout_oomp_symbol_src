@@ -11,6 +11,7 @@ Please consult that link for additional, details, files, and license information
 | library_name | Interface |  
 | links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_interface_tb5r1dw/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_interface_tb5r1dw/working', 'oomp_doc': 'kicad_interface_tb5r1dw/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_tb5r1dw/working', 'oomp_src_flat': 'symbols_flat/kicad_interface_tb5r1dw/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_tb5r1dw/working'} |  
 | name | interface_tb5r1dw |  
+| oomp | {'library_name': 'interface', 'owner_name': 'kicad', 'symbol_name': 'interface_tb5r1dw'} |  
 | oomp_key | oomp_kicad_interface_tb5r1dw |  
 | oomp_key_simple | kicad_interface_tb5r1dw |  
 | owner | arturo182 |  
