@@ -240,6 +240,10 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         symbol = symb['symbol']
         current_owner = symb['repo']['owner']
         current_entry_name = symbol.entryName.replace(f'{current_owner}_', '')
+        #if it's part of oomp_part_symbols
+        if 'oomp_part_symbols' in current_entry_name:
+            #replace oomp_part_symbols with oomp
+            current_entry_name = current_entry_name.replace('oomp_part_symbols', 'oomp')
         symbol_name = f'{current_owner}_{current_entry_name}'
         #replace / with _
         #lower case
@@ -338,7 +342,7 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         
             symb['oomp_key'] = f'oomp_{symbol_name}'
             symb['oomp_key_simple'] = f'{symbol_name}'
-            symb['owner'] = owner
+            symb['owner'] = current_owner
             symb['name'] = current_entry_name
         
         else:
@@ -359,27 +363,44 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         #remove symbol from symb
         symb2.pop('symbol')
 
-        oomp_deets = {}
+        
 
         import oom_base
 
         symbol_name = current_entry_name
 
-        library_name = symb2.get('library_name', "")
-        ## remove special characters and lower using oom_base
-        library_name = oom_base.remove_special_characters(library_name)
-        library_name = library_name.lower()
+        
 
         owner_name = ""
         repo = symb2.get('repo', "")
         if repo != "":
             owner_name = repo.get('owner', "")
         
+        library_name = symb2.get('library_name', "")
+        ## remove special characters and lower using oom_base
+        library_name = oom_base.remove_special_characters(library_name)
+        library_name = library_name.lower()
+
+        #add a md5 hash of the id as a keyed item to kwargs
+        oomp_deets = {}
+        import hashlib
+        md5 = hashlib.md5(current_entry_name.encode()).hexdigest() 
+        oomp_deets["md5"] = md5
+        #trim md5 to 6 and add it as md5_6
+        oomp_deets["md5_5"] = md5[0:5]
+        #add to md5_5 dict
+        md5_6 = md5[0:6]
+        oomp_deets["md5_6"] = md5_6
+        oomp_deets["md5_10"] = md5[0:10]
 
         oomp_deets["symbol_name"] = symbol_name
         oomp_deets["library_name"] = library_name
         oomp_deets["owner_name"] = owner_name
 
+        oomp_deets['oomp_key'] = f'oomp_{symbol_name}'
+        oomp_deets['oomp_key_extra'] = f'oomp_symbol_{symbol_name}'
+        oomp_deets['oomp_key_full'] = f'oomp_symbol_{symbol_name}_{md5_6}'
+        oomp_deets['oomp_key_simple'] = f'{symbol_name}'
 
         symb2["oomp"] = oomp_deets
 

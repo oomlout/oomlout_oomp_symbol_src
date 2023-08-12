@@ -11,11 +11,19 @@ links:
 name: sensor_humidity_ens210
 oomp:
   library_name: sensor_humidity
+  md5: 0ff4722580af2a3bf71c9961de23f502
+  md5_10: 0ff4722580
+  md5_5: 0ff47
+  md5_6: 0ff472
+  oomp_key: oomp_sensor_humidity_ens210
+  oomp_key_extra: oomp_symbol_sensor_humidity_ens210
+  oomp_key_full: oomp_symbol_sensor_humidity_ens210_0ff472
+  oomp_key_simple: sensor_humidity_ens210
   owner_name: kicad
   symbol_name: sensor_humidity_ens210
 oomp_key: oomp_kicad_sensor_humidity_ens210
 oomp_key_simple: kicad_sensor_humidity_ens210
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

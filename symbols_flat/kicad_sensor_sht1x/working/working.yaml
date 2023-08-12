@@ -11,11 +11,19 @@ links:
 name: sensor_sht1x
 oomp:
   library_name: sensor
+  md5: ae5236c580d047623d12afcb6e1d32f7
+  md5_10: ae5236c580
+  md5_5: ae523
+  md5_6: ae5236
+  oomp_key: oomp_sensor_sht1x
+  oomp_key_extra: oomp_symbol_sensor_sht1x
+  oomp_key_full: oomp_symbol_sensor_sht1x_ae5236
+  oomp_key_simple: sensor_sht1x
   owner_name: kicad
   symbol_name: sensor_sht1x
 oomp_key: oomp_kicad_sensor_sht1x
 oomp_key_simple: kicad_sensor_sht1x
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

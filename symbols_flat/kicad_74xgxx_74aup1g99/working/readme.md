@@ -9,7 +9,7 @@ Please consult that link for additional, details, files, and license information
 | Key | Value |  
 | --- | --- |  
 | library_name | 74xGxx |  
-| oomp | {'library_name': '74xgxx', 'owner_name': 'kicad', 'symbol_name': '74xgxx_74aup1g99'} |  
+| oomp | {'library_name': '74xgxx', 'md5': '5a8f02b8e7681ddca5b1e405f18e7f58', 'md5_10': '5a8f02b8e7', 'md5_5': '5a8f0', 'md5_6': '5a8f02', 'oomp_key': 'oomp_74xgxx_74aup1g99', 'oomp_key_extra': 'oomp_symbol_74xgxx_74aup1g99', 'oomp_key_full': 'oomp_symbol_74xgxx_74aup1g99_5a8f02', 'oomp_key_simple': '74xgxx_74aup1g99', 'owner_name': 'kicad', 'symbol_name': '74xgxx_74aup1g99'} |  
 | repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
-| repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
+| repo_github | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
 
