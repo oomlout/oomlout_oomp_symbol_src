@@ -205,7 +205,8 @@ def make_mega_library(**kwargs):
             if counter >= symbols_per:
                 #extra check because was making a mistake with diodes
                 if 'diode' not in test_string_current.lower():
-                    library_file = f'symbols_all_the_symbols_one_library/all_the_symbols_one_library_{counter_file}.kicad_sym'
+                    #library_file = f'symbols_all_the_symbols_one_library/all_the_symbols_one_library_{counter_file}.kicad_sym'
+                    library_file = f"C:/GH/oomlout_oomp_symbol_all_the_kicad_symbols/all_the_symbols_one_library_{counter_file}.kicad_sym"
                     #create directories if needed
                     os.makedirs(os.path.dirname(library_file), exist_ok=True)
                     print(f'Writing {library_file}')
