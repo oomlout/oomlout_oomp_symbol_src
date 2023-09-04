@@ -6,7 +6,7 @@
     (property "Value" "ADA4807-2ACP" (at 3.81 -5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm" (at 0 0 0)
+    (property "Footprint" "Package_CSP:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf" (at 0 0 0)
@@ -21,7 +21,7 @@
     (property "ki_description" "Dual Rail-to-Rail Input/Output Amplifiers, with disable, SC-70-6/SOT-23-6" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "DFN*3x3mm*P0.5mm*" (at 0 0 0)
+    (property "ki_fp_filters" "*LFCSP*1EP*3x3mm*P0.5mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "kicad_amplifier_operational_ada4807_2acp_1_1"
