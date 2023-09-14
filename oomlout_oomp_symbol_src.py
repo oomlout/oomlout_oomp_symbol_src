@@ -43,9 +43,20 @@ def load_symbols_from_files(**kwargs):
     repos = kwargs['repos']
     #clone repos
     for repo in repos:
-        owner = repo['owner']
-        name = repo['name']
+        url = repo['url']
+        #get from repo github address https://github.com/oomlout/oomlout_oomp_part_templates
+        #get owner from url
+        if "github" in url:
+            owner = url.split('/')[-2]
+            name = url.split('/')[-1]
+        elif "gitlab" in url:
+            owner = url.split('/')[-3]
+            name = url.split('/')[-1]
         #print what you're doing
+        import oom_git
+        oom_git.clone_repo(repo=repo, directory = f'tmp/')
+        dir_full = f'tmp/{name}'
+        oom_git.pull(directory=dir_full)
         print('Cloning {} from {}'.format(name, owner))
         #clone the repo into tmp/
         os.system(f'git clone {repo["url"]} tmp/{name}')
@@ -74,8 +85,15 @@ def copy_symbol_libraries_to_new_directories(**kwargs):
     for ks in kicad_syms:
         kicad_sym = ks["kicad_sym"]
         repo = ks["repo"]
-        owner = repo["owner"]
-        name = repo["name"]
+        url = repo['url']
+        #get from repo github address https://github.com/oomlout/oomlout_oomp_part_templates
+        #get owner from url
+        if "github" in url:
+            owner = url.split('/')[-2]
+            name = url.split('/')[-1]
+        elif "gitlab" in url:
+            owner = url.split('/')[-3]
+            name = url.split('/')[-1]
         #copy using shutil
         import shutil
 
@@ -130,8 +148,16 @@ def get_all_symbols_from_kicad_syms(**kwargs):
         print(f"loading symbol from {kicad_sym}")
         repo = ks["repo"]
         #get reponame from repo
-        
-        repo["github_src"] = repo['url'] + kicad_sym.replace('tmp/', '').replace(repo['name'], '')
+        url = repo['url']
+        #get from repo github address https://github.com/oomlout/oomlout_oomp_part_templates
+        #get owner from url
+        if "github" in url:
+            owner = url.split('/')[-2]
+            name = url.split('/')[-1]
+        elif "gitlab" in url:
+            owner = url.split('/')[-3]
+            name = url.split('/')[-1]
+        repo["github_src"] = f"{url}{kicad_sym.replace('tmp/', '').replace(name, '')}"
 
         owner = repo["owner"]
         
