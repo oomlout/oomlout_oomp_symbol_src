@@ -10,6 +10,9 @@ empty_library_file = 'templates/empty.kicad_sym'
 github_repos = {}
 
 def clone_and_copy_symbols(**kwargs):
+    dir_base = kwargs.get('dir_base', 'tmp/data/oomlout_oomp_symbol_src')
+    #set cwd
+    os.chdir(dir_base)
     test = kwargs.get('test', False)
     #load repos from repos.yaml and repos_manual.yaml
     repos = []
@@ -27,7 +30,20 @@ def clone_and_copy_symbols(**kwargs):
             new = yaml.load(f, Loader=yaml.FullLoader)
             if new != None:
                 repos += new
-        
+    # add name and owner from repo extract from the url
+    for repo in repos:
+        url = repo['url']
+        #get from repo github address https://github.com/oomlout/oomlout_oomp_part_templates
+        #get owner from url
+        if "github" in url:
+            owner = url.split('/')[-2]
+            name = url.split('/')[-1]
+        elif "gitlab" in url:
+            owner = url.split('/')[-3]
+            name = url.split('/')[-1]
+        repo['owner'] = owner
+        repo['name'] = name
+    
     kicad_syms = load_symbols_from_files(repos=repos)    
     copy_symbol_libraries_to_new_directories(kicad_syms=kicad_syms)
 
@@ -35,7 +51,8 @@ def clone_and_copy_symbols(**kwargs):
     symbols_all = get_all_symbols_from_kicad_syms(kicad_syms=kicad_syms)
     make_mega_library(symbols_all=symbols_all)
     make_a_flat_representation_with_one_simple_per_directory(symbols_all=symbols_all)
-
+    #return cwd to normal
+    os.chdir('..')
 
 def load_symbols_from_files(**kwargs):
     print("Cloning repos and loading kicad_syms from files")
@@ -54,13 +71,9 @@ def load_symbols_from_files(**kwargs):
             name = url.split('/')[-1]
         #print what you're doing
         import oom_git
-        oom_git.clone_repo(repo=repo, directory = f'tmp/')
+        oom_git.clone(repo=url, directory = f'tmp/')
         dir_full = f'tmp/{name}'
         oom_git.pull(directory=dir_full)
-        print('Cloning {} from {}'.format(name, owner))
-        #clone the repo into tmp/
-        os.system(f'git clone {repo["url"]} tmp/{name}')
-        #get a list of all the files that end in kicad_sym
         
         for root, dirs, files in os.walk(f'tmp/{name}'):
             for file in files:
@@ -86,17 +99,10 @@ def copy_symbol_libraries_to_new_directories(**kwargs):
         kicad_sym = ks["kicad_sym"]
         repo = ks["repo"]
         url = repo['url']
-        #get from repo github address https://github.com/oomlout/oomlout_oomp_part_templates
-        #get owner from url
-        if "github" in url:
-            owner = url.split('/')[-2]
-            name = url.split('/')[-1]
-        elif "gitlab" in url:
-            owner = url.split('/')[-3]
-            name = url.split('/')[-1]
-        #copy using shutil
+        name = repo['name']
+        owner = repo['owner']
         import shutil
-
+        """
         ###### symbols_folder_library
         src = kicad_sym
         #replace \\ with / for windows
@@ -116,7 +122,8 @@ def copy_symbol_libraries_to_new_directories(**kwargs):
         #make sure the directory exists
         os.makedirs(os.path.dirname(dst), exist_ok=True)
         shutil.copy(src, dst)
-    
+        """
+    """
         ###### symbols_flat_library
         src = kicad_sym
         #replace \\ with / for windows
@@ -134,6 +141,7 @@ def copy_symbol_libraries_to_new_directories(**kwargs):
         print('.', end='')
     print()
     print("Done copying symbol libraries to new directories")
+    """
 
 def get_all_symbols_from_kicad_syms(**kwargs):
     
@@ -159,10 +167,11 @@ def get_all_symbols_from_kicad_syms(**kwargs):
             name = url.split('/')[-1]
         repo["github_src"] = f"{url}{kicad_sym.replace('tmp/', '').replace(name, '')}"
 
-        owner = repo["owner"]
+        
         
         #loa#d the symbol
         try:
+            cwd = os.getcwd()
             sym = SymbolLib().from_file(kicad_sym.replace('/', '\\'))
         
             if sym != None:
@@ -266,12 +275,17 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
     for symb in symbols_all:
         symbol = symb['symbol']
         current_owner = symb['repo']['owner']
+        library_name = symb['library_name']
         current_entry_name = symbol.entryName.replace(f'{current_owner}_', '')
         #if it's part of oomp_part_symbols
         if 'oomp_part_symbols' in current_entry_name:
             #replace oomp_part_symbols with oomp
             current_entry_name = current_entry_name.replace('oomp_part_symbols', 'oomp')
-        symbol_name = f'{current_owner}_{current_entry_name}'
+        if current_owner != "kicad":
+            symbol_name = symbol.libId
+            #symbol_name = f'{current_owner}_{library_name}_{current_entry_name}'
+        else: #old stylle of naming
+            symbol_name = f'{current_owner}_{current_entry_name}'
         #replace / with _
         #lower case
         symbol_name = symbol_name.lower()
