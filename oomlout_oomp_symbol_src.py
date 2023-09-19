@@ -12,6 +12,7 @@ github_repos = {}
 def clone_and_copy_symbols(**kwargs):
     dir_base = kwargs.get('dir_base', 'tmp/data/oomlout_oomp_symbol_src')
     #set cwd
+    old_cwd = os.getcwd()
     os.chdir(dir_base)
     test = kwargs.get('test', False)
     #load repos from repos.yaml and repos_manual.yaml
@@ -52,7 +53,7 @@ def clone_and_copy_symbols(**kwargs):
     make_mega_library(symbols_all=symbols_all)
     make_a_flat_representation_with_one_simple_per_directory(symbols_all=symbols_all)
     #return cwd to normal
-    os.chdir('..')
+    os.chdir(old_cwd)
 
 def load_symbols_from_files(**kwargs):
     print("Cloning repos and loading kicad_syms from files")
@@ -72,8 +73,7 @@ def load_symbols_from_files(**kwargs):
         #print what you're doing
         import oom_git
         oom_git.clone(repo=url, directory = f'tmp/')
-        dir_full = f'tmp/{name}'
-        oom_git.pull(directory=dir_full)
+        dir_full = f'tmp/{name}'        
         
         for root, dirs, files in os.walk(f'tmp/{name}'):
             for file in files:
@@ -189,6 +189,17 @@ def get_all_symbols_from_kicad_syms(**kwargs):
                     deets['repo'] = repo
                     deets["library_name"] = library_name
                     deets["repo_github"] = get_repo_from_github(repo=repo)
+                    #symbol_name = f'{current_owner}_{library_name}_{current_entry_name}'
+                    owner = repo['owner']
+                    deets["owner"] = owner
+                    library = library_name.lower()
+                    deets["library"] = library
+                    name = symbol.entryName.replace(f'{repo["owner"]}_', '').replace(f'{library}_', '')
+                    deets["name"] = symbol.entryName.replace(f'{repo["owner"]}_', '')
+                    id = f'{owner}_{library}_{name}'
+                    deets["id"] = id
+                    print(f"loading symbol {id}")
+
                     symbols.append(deets)                    
         except Exception as e:
             print(f'Failed to load {kicad_sym}')
@@ -241,7 +252,7 @@ def make_mega_library(**kwargs):
                 #extra check because was making a mistake with diodes
                 if 'diode' not in test_string_current.lower():
                     #library_file = f'symbols_all_the_symbols_one_library/all_the_symbols_one_library_{counter_file}.kicad_sym'
-                    library_file = f"C:/GH/oomlout_oomp_symbol_all_the_kicad_symbols/all_the_symbols_one_library_{counter_file}.kicad_sym"
+                    library_file = f"tmp/generated/oomlout_oomp_symbol_all_the_kicad_symbols/all_the_symbols_one_library_{counter_file}.kicad_sym"
                     #create directories if needed
                     os.makedirs(os.path.dirname(library_file), exist_ok=True)
                     print(f'Writing {library_file}')
@@ -260,8 +271,9 @@ def make_mega_library(**kwargs):
         
         test_string_last = test_string_current
 
-    library_file = f"C:/GH/oomlout_oomp_symbol_all_the_kicad_symbols/all_the_symbols_one_library_{counter_file}.kicad_sym"
+    library_file = f"tmp/generated/oomlout_oomp_symbol_all_the_kicad_symbols/all_the_symbols_one_library_{counter_file}.kicad_sym"
     #create directories if needed
+    cwd = os.getcwd()
     os.makedirs(os.path.dirname(library_file), exist_ok=True)
     sym.to_file(library_file)
     return symbols_all
@@ -274,19 +286,15 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
     count = 0
     for symb in symbols_all:
         symbol = symb['symbol']
-        current_owner = symb['repo']['owner']
-        library_name = symb['library_name']
-        current_entry_name = symbol.entryName.replace(f'{current_owner}_', '')
-        #if it's part of oomp_part_symbols
-        if 'oomp_part_symbols' in current_entry_name:
-            #replace oomp_part_symbols with oomp
-            current_entry_name = current_entry_name.replace('oomp_part_symbols', 'oomp')
-        if current_owner != "kicad":
-            symbol_name = symbol.libId
-            #symbol_name = f'{current_owner}_{library_name}_{current_entry_name}'
-        else: #old stylle of naming
-            symbol_name = f'{current_owner}_{current_entry_name}'
+        #id = symb['repo']['owner']
+        id = symb['id']
+        
+
+        symbol_name = id
         #replace / with _
+        #if "not symbol_name.startswith("arturo182"): 
+        if "ina219xidc" in symbol_name:
+            pass
         #lower case
         symbol_name = symbol_name.lower()
         symbol_name = symbol_name.replace('.kicad_mod', '')
@@ -308,6 +316,9 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         symbol_name = symbol_name.replace('__', '_')
         symbol_name = symbol_name.replace('__', '_')
         directory_name = f'symbols_flat/{symbol_name}/working'
+        #create if it doesn't exist
+        os.makedirs(os.path.dirname(directory_name), exist_ok=True)
+        
         folder = f'{symbol_name}/working'
         library_name = f'{directory_name}/working.kicad_sym'
         #skip if extends not in symbol[symbol] or if it doesn't equal none
@@ -383,8 +394,8 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         
             symb['oomp_key'] = f'oomp_{symbol_name}'
             symb['oomp_key_simple'] = f'{symbol_name}'
-            symb['owner'] = current_owner
-            symb['name'] = current_entry_name
+            
+            
         
         else:
             #might just need to include the extension
@@ -408,6 +419,7 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
 
         import oom_base
 
+        current_entry_name = symb["name"]
         symbol_name = current_entry_name
 
         
