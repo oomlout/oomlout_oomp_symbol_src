@@ -1,19 +1,19 @@
 id: kicad_power_management_fpf2005
 library: power_management
 library_name: Power_Management
-name: power_management_fpf2005
+name: fpf2005
 oomp:
   library_name: power_management
-  md5: ec3fd73e1661deef8f83dbf095b6b753
-  md5_10: ec3fd73e16
-  md5_5: ec3fd
-  md5_6: ec3fd7
-  oomp_key: oomp_power_management_fpf2005
-  oomp_key_extra: oomp_symbol_power_management_fpf2005
-  oomp_key_full: oomp_symbol_power_management_fpf2005_ec3fd7
-  oomp_key_simple: power_management_fpf2005
+  md5: 56aa763eaa58d7f15bb1dfe3582d38e2
+  md5_10: 56aa763eaa
+  md5_5: 56aa7
+  md5_6: 56aa76
+  oomp_key: oomp_fpf2005
+  oomp_key_extra: oomp_symbol_fpf2005
+  oomp_key_full: oomp_symbol_fpf2005_56aa76
+  oomp_key_simple: fpf2005
   owner_name: kicad
-  symbol_name: power_management_fpf2005
+  symbol_name: fpf2005
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_touch_cap1206_x_aia/working
   oomp_src_flat: symbols_flat/kicad_sensor_touch_cap1206_x_aia/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_touch_cap1206_x_aia/working
-name: sensor_touch_cap1206_x_aia
+name: cap1206_x_aia
 oomp:
   library_name: sensor_touch
-  md5: 81f01ef778bd6a8006182cef48a24a93
-  md5_10: 81f01ef778
-  md5_5: 81f01
-  md5_6: 81f01e
-  oomp_key: oomp_sensor_touch_cap1206_x_aia
-  oomp_key_extra: oomp_symbol_sensor_touch_cap1206_x_aia
-  oomp_key_full: oomp_symbol_sensor_touch_cap1206_x_aia_81f01e
-  oomp_key_simple: sensor_touch_cap1206_x_aia
+  md5: 2ba210e288f6b498fe5053a6e98956a9
+  md5_10: 2ba210e288
+  md5_5: 2ba21
+  md5_6: 2ba210
+  oomp_key: oomp_cap1206_x_aia
+  oomp_key_extra: oomp_symbol_cap1206_x_aia
+  oomp_key_full: oomp_symbol_cap1206_x_aia_2ba210
+  oomp_key_simple: cap1206_x_aia
   owner_name: kicad
-  symbol_name: sensor_touch_cap1206_x_aia
+  symbol_name: cap1206_x_aia
 oomp_key: oomp_kicad_sensor_touch_cap1206_x_aia
 oomp_key_simple: kicad_sensor_touch_cap1206_x_aia
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

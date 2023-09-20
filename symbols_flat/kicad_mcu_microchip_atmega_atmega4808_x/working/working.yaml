@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_atmega_atmega4808_x
 library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
-name: mcu_microchip_atmega_atmega4808_x
+name: atmega4808_x
 oomp:
   library_name: mcu_microchip_atmega
-  md5: f605ab3dd032baf51990bcdc9164cf6f
-  md5_10: f605ab3dd0
-  md5_5: f605a
-  md5_6: f605ab
-  oomp_key: oomp_mcu_microchip_atmega_atmega4808_x
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega4808_x
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega4808_x_f605ab
-  oomp_key_simple: mcu_microchip_atmega_atmega4808_x
+  md5: 6c088f26f09271e455a0e5b1a38e0d6f
+  md5_10: 6c088f26f0
+  md5_5: 6c088
+  md5_6: 6c088f
+  oomp_key: oomp_atmega4808_x
+  oomp_key_extra: oomp_symbol_atmega4808_x
+  oomp_key_full: oomp_symbol_atmega4808_x_6c088f
+  oomp_key_simple: atmega4808_x
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega4808_x
+  symbol_name: atmega4808_x
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lm675/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lm675/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lm675/working
-name: amplifier_operational_lm675
+name: lm675
 oomp:
   library_name: amplifier_operational
-  md5: d8fd9fec99f4cef7049cf7cc8485e05c
-  md5_10: d8fd9fec99
-  md5_5: d8fd9
-  md5_6: d8fd9f
-  oomp_key: oomp_amplifier_operational_lm675
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm675
-  oomp_key_full: oomp_symbol_amplifier_operational_lm675_d8fd9f
-  oomp_key_simple: amplifier_operational_lm675
+  md5: fee1c9ad9a885c2a524bde8cb0e15ad2
+  md5_10: fee1c9ad9a
+  md5_5: fee1c
+  md5_6: fee1c9
+  oomp_key: oomp_lm675
+  oomp_key_extra: oomp_symbol_lm675
+  oomp_key_full: oomp_symbol_lm675_fee1c9
+  oomp_key_simple: lm675
   owner_name: kicad
-  symbol_name: amplifier_operational_lm675
+  symbol_name: lm675
 oomp_key: oomp_kicad_amplifier_operational_lm675
 oomp_key_simple: kicad_amplifier_operational_lm675
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_de15_plug_highdensity/working
   oomp_src_flat: symbols_flat/kicad_connector_de15_plug_highdensity/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_de15_plug_highdensity/working
-name: connector_de15_plug_highdensity
+name: de15_plug_highdensity
 oomp:
   library_name: connector
-  md5: 1ff7bbc0d215cf7ecdfd9f5a0c97630d
-  md5_10: 1ff7bbc0d2
-  md5_5: 1ff7b
-  md5_6: 1ff7bb
-  oomp_key: oomp_connector_de15_plug_highdensity
-  oomp_key_extra: oomp_symbol_connector_de15_plug_highdensity
-  oomp_key_full: oomp_symbol_connector_de15_plug_highdensity_1ff7bb
-  oomp_key_simple: connector_de15_plug_highdensity
+  md5: 78b27f47c5e7c0c7a468ccbf9bc0922d
+  md5_10: 78b27f47c5
+  md5_5: 78b27
+  md5_6: 78b27f
+  oomp_key: oomp_de15_plug_highdensity
+  oomp_key_extra: oomp_symbol_de15_plug_highdensity
+  oomp_key_full: oomp_symbol_de15_plug_highdensity_78b27f
+  oomp_key_simple: de15_plug_highdensity
   owner_name: kicad
-  symbol_name: connector_de15_plug_highdensity
+  symbol_name: de15_plug_highdensity
 oomp_key: oomp_kicad_connector_de15_plug_highdensity
 oomp_key_simple: kicad_connector_de15_plug_highdensity
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_scart_f/working
   oomp_src_flat: symbols_flat/kicad_connector_scart_f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_scart_f/working
-name: connector_scart_f
+name: scart_f
 oomp:
   library_name: connector
-  md5: a614dc9689d09519c3b3dbd48aa22e7a
-  md5_10: a614dc9689
-  md5_5: a614d
-  md5_6: a614dc
-  oomp_key: oomp_connector_scart_f
-  oomp_key_extra: oomp_symbol_connector_scart_f
-  oomp_key_full: oomp_symbol_connector_scart_f_a614dc
-  oomp_key_simple: connector_scart_f
+  md5: 5424b0af8953d64157eeaeb52885fad1
+  md5_10: 5424b0af89
+  md5_5: 5424b
+  md5_6: 5424b0
+  oomp_key: oomp_scart_f
+  oomp_key_extra: oomp_symbol_scart_f
+  oomp_key_full: oomp_symbol_scart_f_5424b0
+  oomp_key_simple: scart_f
   owner_name: kicad
-  symbol_name: connector_scart_f
+  symbol_name: scart_f
 oomp_key: oomp_kicad_connector_scart_f
 oomp_key_simple: kicad_connector_scart_f
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

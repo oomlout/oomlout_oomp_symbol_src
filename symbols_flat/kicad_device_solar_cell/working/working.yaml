@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_solar_cell/working
   oomp_src_flat: symbols_flat/kicad_device_solar_cell/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_solar_cell/working
-name: device_solar_cell
+name: solar_cell
 oomp:
   library_name: device
-  md5: cd11fda21d32801b923d699501cee81a
-  md5_10: cd11fda21d
-  md5_5: cd11f
-  md5_6: cd11fd
-  oomp_key: oomp_device_solar_cell
-  oomp_key_extra: oomp_symbol_device_solar_cell
-  oomp_key_full: oomp_symbol_device_solar_cell_cd11fd
-  oomp_key_simple: device_solar_cell
+  md5: 24b08624ffddf747343247f9c200d545
+  md5_10: 24b08624ff
+  md5_5: 24b08
+  md5_6: 24b086
+  oomp_key: oomp_solar_cell
+  oomp_key_extra: oomp_symbol_solar_cell
+  oomp_key_full: oomp_symbol_solar_cell_24b086
+  oomp_key_simple: solar_cell
   owner_name: kicad
-  symbol_name: device_solar_cell
+  symbol_name: solar_cell
 oomp_key: oomp_kicad_device_solar_cell
 oomp_key_simple: kicad_device_solar_cell
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_photo_npn_ec/working
   oomp_src_flat: symbols_flat/kicad_device_q_photo_npn_ec/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_photo_npn_ec/working
-name: device_q_photo_npn_ec
+name: q_photo_npn_ec
 oomp:
   library_name: device
-  md5: 03abfa96a067ae2844b7e26d0a7841fa
-  md5_10: 03abfa96a0
-  md5_5: 03abf
-  md5_6: 03abfa
-  oomp_key: oomp_device_q_photo_npn_ec
-  oomp_key_extra: oomp_symbol_device_q_photo_npn_ec
-  oomp_key_full: oomp_symbol_device_q_photo_npn_ec_03abfa
-  oomp_key_simple: device_q_photo_npn_ec
+  md5: c08f53ee5ea3cd1a5e425a30bb824a13
+  md5_10: c08f53ee5e
+  md5_5: c08f5
+  md5_6: c08f53
+  oomp_key: oomp_q_photo_npn_ec
+  oomp_key_extra: oomp_symbol_q_photo_npn_ec
+  oomp_key_full: oomp_symbol_q_photo_npn_ec_c08f53
+  oomp_key_simple: q_photo_npn_ec
   owner_name: kicad
-  symbol_name: device_q_photo_npn_ec
+  symbol_name: q_photo_npn_ec
 oomp_key: oomp_kicad_device_q_photo_npn_ec
 oomp_key_simple: kicad_device_q_photo_npn_ec
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

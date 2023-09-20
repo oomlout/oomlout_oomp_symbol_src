@@ -1,19 +1,19 @@
 id: kicad_potentiometer_digital_mcp41050
 library: potentiometer_digital
 library_name: Potentiometer_Digital
-name: potentiometer_digital_mcp41050
+name: mcp41050
 oomp:
   library_name: potentiometer_digital
-  md5: 87dc1ad46d9f8f866dba45b93edac541
-  md5_10: 87dc1ad46d
-  md5_5: 87dc1
-  md5_6: 87dc1a
-  oomp_key: oomp_potentiometer_digital_mcp41050
-  oomp_key_extra: oomp_symbol_potentiometer_digital_mcp41050
-  oomp_key_full: oomp_symbol_potentiometer_digital_mcp41050_87dc1a
-  oomp_key_simple: potentiometer_digital_mcp41050
+  md5: c5e544bd9283d853240545378e67d82b
+  md5_10: c5e544bd92
+  md5_5: c5e54
+  md5_6: c5e544
+  oomp_key: oomp_mcp41050
+  oomp_key_extra: oomp_symbol_mcp41050
+  oomp_key_full: oomp_symbol_mcp41050_c5e544
+  oomp_key_simple: mcp41050
   owner_name: kicad
-  symbol_name: potentiometer_digital_mcp41050
+  symbol_name: mcp41050
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

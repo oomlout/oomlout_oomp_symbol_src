@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_viper22adip_e/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_viper22adip_e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_viper22adip_e/working
-name: regulator_switching_viper22adip_e
+name: viper22adip_e
 oomp:
   library_name: regulator_switching
-  md5: f829b89df8140870aefbeee765c2171b
-  md5_10: f829b89df8
-  md5_5: f829b
-  md5_6: f829b8
-  oomp_key: oomp_regulator_switching_viper22adip_e
-  oomp_key_extra: oomp_symbol_regulator_switching_viper22adip_e
-  oomp_key_full: oomp_symbol_regulator_switching_viper22adip_e_f829b8
-  oomp_key_simple: regulator_switching_viper22adip_e
+  md5: ad51b93c872756f506933d4b918e78da
+  md5_10: ad51b93c87
+  md5_5: ad51b
+  md5_6: ad51b9
+  oomp_key: oomp_viper22adip_e
+  oomp_key_extra: oomp_symbol_viper22adip_e
+  oomp_key_full: oomp_symbol_viper22adip_e_ad51b9
+  oomp_key_simple: viper22adip_e
   owner_name: kicad
-  symbol_name: regulator_switching_viper22adip_e
+  symbol_name: viper22adip_e
 oomp_key: oomp_kicad_regulator_switching_viper22adip_e
 oomp_key_simple: kicad_regulator_switching_viper22adip_e
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

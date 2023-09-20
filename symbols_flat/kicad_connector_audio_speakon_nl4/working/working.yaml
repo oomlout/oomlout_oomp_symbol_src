@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_speakon_nl4/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_speakon_nl4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_speakon_nl4/working
-name: connector_audio_speakon_nl4
+name: speakon_nl4
 oomp:
   library_name: connector_audio
-  md5: b67fa5fcc97ec71edf27b1aec6531d34
-  md5_10: b67fa5fcc9
-  md5_5: b67fa
-  md5_6: b67fa5
-  oomp_key: oomp_connector_audio_speakon_nl4
-  oomp_key_extra: oomp_symbol_connector_audio_speakon_nl4
-  oomp_key_full: oomp_symbol_connector_audio_speakon_nl4_b67fa5
-  oomp_key_simple: connector_audio_speakon_nl4
+  md5: 445d66e89555f7420bb671e58716f26d
+  md5_10: 445d66e895
+  md5_5: 445d6
+  md5_6: 445d66
+  oomp_key: oomp_speakon_nl4
+  oomp_key_extra: oomp_symbol_speakon_nl4
+  oomp_key_full: oomp_symbol_speakon_nl4_445d66
+  oomp_key_simple: speakon_nl4
   owner_name: kicad
-  symbol_name: connector_audio_speakon_nl4
+  symbol_name: speakon_nl4
 oomp_key: oomp_kicad_connector_audio_speakon_nl4
 oomp_key_simple: kicad_connector_audio_speakon_nl4
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

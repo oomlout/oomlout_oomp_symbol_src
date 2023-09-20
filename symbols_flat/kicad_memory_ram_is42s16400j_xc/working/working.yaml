@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_is42s16400j_xc/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_is42s16400j_xc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_is42s16400j_xc/working
-name: memory_ram_is42s16400j_xc
+name: is42s16400j_xc
 oomp:
   library_name: memory_ram
-  md5: a4a9d0edac0fa0b9c9e755a72b2aa759
-  md5_10: a4a9d0edac
-  md5_5: a4a9d
-  md5_6: a4a9d0
-  oomp_key: oomp_memory_ram_is42s16400j_xc
-  oomp_key_extra: oomp_symbol_memory_ram_is42s16400j_xc
-  oomp_key_full: oomp_symbol_memory_ram_is42s16400j_xc_a4a9d0
-  oomp_key_simple: memory_ram_is42s16400j_xc
+  md5: d9803a58a07099ce6b4b42729b0f4753
+  md5_10: d9803a58a0
+  md5_5: d9803
+  md5_6: d9803a
+  oomp_key: oomp_is42s16400j_xc
+  oomp_key_extra: oomp_symbol_is42s16400j_xc
+  oomp_key_full: oomp_symbol_is42s16400j_xc_d9803a
+  oomp_key_simple: is42s16400j_xc
   owner_name: kicad
-  symbol_name: memory_ram_is42s16400j_xc
+  symbol_name: is42s16400j_xc
 oomp_key: oomp_kicad_memory_ram_is42s16400j_xc
 oomp_key_simple: kicad_memory_ram_is42s16400j_xc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

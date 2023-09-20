@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic32_pic32mm0064gpl028x_ml/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic32_pic32mm0064gpl028x_ml/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic32_pic32mm0064gpl028x_ml/working
-name: mcu_microchip_pic32_pic32mm0064gpl028x_ml
+name: pic32mm0064gpl028x_ml
 oomp:
   library_name: mcu_microchip_pic32
-  md5: fc522c5ef643d7aa484e78b1534ab4b0
-  md5_10: fc522c5ef6
-  md5_5: fc522
-  md5_6: fc522c
-  oomp_key: oomp_mcu_microchip_pic32_pic32mm0064gpl028x_ml
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic32_pic32mm0064gpl028x_ml
-  oomp_key_full: oomp_symbol_mcu_microchip_pic32_pic32mm0064gpl028x_ml_fc522c
-  oomp_key_simple: mcu_microchip_pic32_pic32mm0064gpl028x_ml
+  md5: 11a0b6b17f52c7dfbaa78eee30d2a9fd
+  md5_10: 11a0b6b17f
+  md5_5: 11a0b
+  md5_6: 11a0b6
+  oomp_key: oomp_pic32mm0064gpl028x_ml
+  oomp_key_extra: oomp_symbol_pic32mm0064gpl028x_ml
+  oomp_key_full: oomp_symbol_pic32mm0064gpl028x_ml_11a0b6
+  oomp_key_simple: pic32mm0064gpl028x_ml
   owner_name: kicad
-  symbol_name: mcu_microchip_pic32_pic32mm0064gpl028x_ml
+  symbol_name: pic32mm0064gpl028x_ml
 oomp_key: oomp_kicad_mcu_microchip_pic32_pic32mm0064gpl028x_ml
 oomp_key_simple: kicad_mcu_microchip_pic32_pic32mm0064gpl028x_ml
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

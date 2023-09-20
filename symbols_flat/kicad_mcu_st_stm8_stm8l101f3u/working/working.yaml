@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm8_stm8l101f3u
 library: mcu_st_stm8
 library_name: MCU_ST_STM8
-name: mcu_st_stm8_stm8l101f3u
+name: stm8l101f3u
 oomp:
   library_name: mcu_st_stm8
-  md5: ec165a08c75f802d3ebb60a352653a1c
-  md5_10: ec165a08c7
-  md5_5: ec165
-  md5_6: ec165a
-  oomp_key: oomp_mcu_st_stm8_stm8l101f3u
-  oomp_key_extra: oomp_symbol_mcu_st_stm8_stm8l101f3u
-  oomp_key_full: oomp_symbol_mcu_st_stm8_stm8l101f3u_ec165a
-  oomp_key_simple: mcu_st_stm8_stm8l101f3u
+  md5: 4a2dfebb16080cc2eaf6133f6bc1fd26
+  md5_10: 4a2dfebb16
+  md5_5: 4a2df
+  md5_6: 4a2dfe
+  oomp_key: oomp_stm8l101f3u
+  oomp_key_extra: oomp_symbol_stm8l101f3u
+  oomp_key_full: oomp_symbol_stm8l101f3u_4a2dfe
+  oomp_key_simple: stm8l101f3u
   owner_name: kicad
-  symbol_name: mcu_st_stm8_stm8l101f3u
+  symbol_name: stm8l101f3u
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_interface_uart_adm222
 library: interface_uart
 library_name: Interface_UART
-name: interface_uart_adm222
+name: adm222
 oomp:
   library_name: interface_uart
-  md5: 27ced6508d63b97e78794c1f95a3af10
-  md5_10: 27ced6508d
-  md5_5: 27ced
-  md5_6: 27ced6
-  oomp_key: oomp_interface_uart_adm222
-  oomp_key_extra: oomp_symbol_interface_uart_adm222
-  oomp_key_full: oomp_symbol_interface_uart_adm222_27ced6
-  oomp_key_simple: interface_uart_adm222
+  md5: 859a5f59dbfbe18e48debfb8eeded078
+  md5_10: 859a5f59db
+  md5_5: 859a5
+  md5_6: 859a5f
+  oomp_key: oomp_adm222
+  oomp_key_extra: oomp_symbol_adm222
+  oomp_key_full: oomp_symbol_adm222_859a5f
+  oomp_key_simple: adm222
   owner_name: kicad
-  symbol_name: interface_uart_adm222
+  symbol_name: adm222
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_as5047d/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_as5047d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_as5047d/working
-name: sensor_magnetic_as5047d
+name: as5047d
 oomp:
   library_name: sensor_magnetic
-  md5: 935fe5ac48076747bded69a54d2b83eb
-  md5_10: 935fe5ac48
-  md5_5: 935fe
-  md5_6: 935fe5
-  oomp_key: oomp_sensor_magnetic_as5047d
-  oomp_key_extra: oomp_symbol_sensor_magnetic_as5047d
-  oomp_key_full: oomp_symbol_sensor_magnetic_as5047d_935fe5
-  oomp_key_simple: sensor_magnetic_as5047d
+  md5: ab5b03ffe12a152424623930c057c9aa
+  md5_10: ab5b03ffe1
+  md5_5: ab5b0
+  md5_6: ab5b03
+  oomp_key: oomp_as5047d
+  oomp_key_extra: oomp_symbol_as5047d
+  oomp_key_full: oomp_symbol_as5047d_ab5b03
+  oomp_key_simple: as5047d
   owner_name: kicad
-  symbol_name: sensor_magnetic_as5047d
+  symbol_name: as5047d
 oomp_key: oomp_kicad_sensor_magnetic_as5047d
 oomp_key_simple: kicad_sensor_magnetic_as5047d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

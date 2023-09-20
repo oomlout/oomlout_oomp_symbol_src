@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_rak811_hf_eu868/working
   oomp_src_flat: symbols_flat/kicad_rf_module_rak811_hf_eu868/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_rak811_hf_eu868/working
-name: rf_module_rak811_hf_eu868
+name: rak811_hf_eu868
 oomp:
   library_name: rf_module
-  md5: 67f39a4423ee473c2c8691e2e9e8c52b
-  md5_10: 67f39a4423
-  md5_5: 67f39
-  md5_6: 67f39a
-  oomp_key: oomp_rf_module_rak811_hf_eu868
-  oomp_key_extra: oomp_symbol_rf_module_rak811_hf_eu868
-  oomp_key_full: oomp_symbol_rf_module_rak811_hf_eu868_67f39a
-  oomp_key_simple: rf_module_rak811_hf_eu868
+  md5: 2251a923ee610d1695b3cb3abf5423aa
+  md5_10: 2251a923ee
+  md5_5: 2251a
+  md5_6: 2251a9
+  oomp_key: oomp_rak811_hf_eu868
+  oomp_key_extra: oomp_symbol_rak811_hf_eu868
+  oomp_key_full: oomp_symbol_rak811_hf_eu868_2251a9
+  oomp_key_simple: rak811_hf_eu868
   owner_name: kicad
-  symbol_name: rf_module_rak811_hf_eu868
+  symbol_name: rak811_hf_eu868
 oomp_key: oomp_kicad_rf_module_rak811_hf_eu868
 oomp_key_simple: kicad_rf_module_rak811_hf_eu868
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

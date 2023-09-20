@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_proximity_sfh9206/working
   oomp_src_flat: symbols_flat/kicad_sensor_proximity_sfh9206/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_proximity_sfh9206/working
-name: sensor_proximity_sfh9206
+name: sfh9206
 oomp:
   library_name: sensor_proximity
-  md5: be8c0525e3546da567b2ec35180c7273
-  md5_10: be8c0525e3
-  md5_5: be8c0
-  md5_6: be8c05
-  oomp_key: oomp_sensor_proximity_sfh9206
-  oomp_key_extra: oomp_symbol_sensor_proximity_sfh9206
-  oomp_key_full: oomp_symbol_sensor_proximity_sfh9206_be8c05
-  oomp_key_simple: sensor_proximity_sfh9206
+  md5: bb08af4f49002fd2d02aae963fa9b2ea
+  md5_10: bb08af4f49
+  md5_5: bb08a
+  md5_6: bb08af
+  oomp_key: oomp_sfh9206
+  oomp_key_extra: oomp_symbol_sfh9206
+  oomp_key_full: oomp_symbol_sfh9206_bb08af
+  oomp_key_simple: sfh9206
   owner_name: kicad
-  symbol_name: sensor_proximity_sfh9206
+  symbol_name: sfh9206
 oomp_key: oomp_kicad_sensor_proximity_sfh9206
 oomp_key_simple: kicad_sensor_proximity_sfh9206
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

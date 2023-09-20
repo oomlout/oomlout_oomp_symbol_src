@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_flash_am29pdl128g/working
   oomp_src_flat: symbols_flat/kicad_memory_flash_am29pdl128g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_flash_am29pdl128g/working
-name: memory_flash_am29pdl128g
+name: am29pdl128g
 oomp:
   library_name: memory_flash
-  md5: 031293101d004e01fc23ff02af1ddac1
-  md5_10: 031293101d
-  md5_5: 03129
-  md5_6: 031293
-  oomp_key: oomp_memory_flash_am29pdl128g
-  oomp_key_extra: oomp_symbol_memory_flash_am29pdl128g
-  oomp_key_full: oomp_symbol_memory_flash_am29pdl128g_031293
-  oomp_key_simple: memory_flash_am29pdl128g
+  md5: 29aa95148fde96468d110edcbd059f9c
+  md5_10: 29aa95148f
+  md5_5: 29aa9
+  md5_6: 29aa95
+  oomp_key: oomp_am29pdl128g
+  oomp_key_extra: oomp_symbol_am29pdl128g
+  oomp_key_full: oomp_symbol_am29pdl128g_29aa95
+  oomp_key_simple: am29pdl128g
   owner_name: kicad
-  symbol_name: memory_flash_am29pdl128g
+  symbol_name: am29pdl128g
 oomp_key: oomp_kicad_memory_flash_am29pdl128g
 oomp_key_simple: kicad_memory_flash_am29pdl128g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

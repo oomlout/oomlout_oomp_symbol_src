@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_bd33fc0fp/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_bd33fc0fp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_bd33fc0fp/working
-name: regulator_linear_bd33fc0fp
+name: bd33fc0fp
 oomp:
   library_name: regulator_linear
-  md5: 4493da7e337026a893229c1e44d55378
-  md5_10: 4493da7e33
-  md5_5: 4493d
-  md5_6: 4493da
-  oomp_key: oomp_regulator_linear_bd33fc0fp
-  oomp_key_extra: oomp_symbol_regulator_linear_bd33fc0fp
-  oomp_key_full: oomp_symbol_regulator_linear_bd33fc0fp_4493da
-  oomp_key_simple: regulator_linear_bd33fc0fp
+  md5: 0e210d0a8ffc510dc716b43aef0e82a6
+  md5_10: 0e210d0a8f
+  md5_5: 0e210
+  md5_6: 0e210d
+  oomp_key: oomp_bd33fc0fp
+  oomp_key_extra: oomp_symbol_bd33fc0fp
+  oomp_key_full: oomp_symbol_bd33fc0fp_0e210d
+  oomp_key_simple: bd33fc0fp
   owner_name: kicad
-  symbol_name: regulator_linear_bd33fc0fp
+  symbol_name: bd33fc0fp
 oomp_key: oomp_kicad_regulator_linear_bd33fc0fp
 oomp_key_simple: kicad_regulator_linear_bd33fc0fp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

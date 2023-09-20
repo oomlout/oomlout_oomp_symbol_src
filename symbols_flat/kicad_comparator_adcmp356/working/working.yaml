@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_adcmp356/working
   oomp_src_flat: symbols_flat/kicad_comparator_adcmp356/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_adcmp356/working
-name: comparator_adcmp356
+name: adcmp356
 oomp:
   library_name: comparator
-  md5: 11c22f85b86c03012183db8e51ccdebd
-  md5_10: 11c22f85b8
-  md5_5: 11c22
-  md5_6: 11c22f
-  oomp_key: oomp_comparator_adcmp356
-  oomp_key_extra: oomp_symbol_comparator_adcmp356
-  oomp_key_full: oomp_symbol_comparator_adcmp356_11c22f
-  oomp_key_simple: comparator_adcmp356
+  md5: c290857245f4458fb266c1303be78018
+  md5_10: c290857245
+  md5_5: c2908
+  md5_6: c29085
+  oomp_key: oomp_adcmp356
+  oomp_key_extra: oomp_symbol_adcmp356
+  oomp_key_full: oomp_symbol_adcmp356_c29085
+  oomp_key_simple: adcmp356
   owner_name: kicad
-  symbol_name: comparator_adcmp356
+  symbol_name: adcmp356
 oomp_key: oomp_kicad_comparator_adcmp356
 oomp_key_simple: kicad_comparator_adcmp356
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

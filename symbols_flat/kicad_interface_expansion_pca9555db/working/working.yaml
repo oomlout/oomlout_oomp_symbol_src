@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_pca9555db/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_pca9555db/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_pca9555db/working
-name: interface_expansion_pca9555db
+name: pca9555db
 oomp:
   library_name: interface_expansion
-  md5: 9cead094f3f82a24e7d82fc7d880c7d5
-  md5_10: 9cead094f3
-  md5_5: 9cead
-  md5_6: 9cead0
-  oomp_key: oomp_interface_expansion_pca9555db
-  oomp_key_extra: oomp_symbol_interface_expansion_pca9555db
-  oomp_key_full: oomp_symbol_interface_expansion_pca9555db_9cead0
-  oomp_key_simple: interface_expansion_pca9555db
+  md5: 5294c94d0a50784abb3f6aa7405b0543
+  md5_10: 5294c94d0a
+  md5_5: 5294c
+  md5_6: 5294c9
+  oomp_key: oomp_pca9555db
+  oomp_key_extra: oomp_symbol_pca9555db
+  oomp_key_full: oomp_symbol_pca9555db_5294c9
+  oomp_key_simple: pca9555db
   owner_name: kicad
-  symbol_name: interface_expansion_pca9555db
+  symbol_name: pca9555db
 oomp_key: oomp_kicad_interface_expansion_pca9555db
 oomp_key_simple: kicad_interface_expansion_pca9555db
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

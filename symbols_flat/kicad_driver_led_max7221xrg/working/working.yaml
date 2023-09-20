@@ -1,19 +1,19 @@
 id: kicad_driver_led_max7221xrg
 library: driver_led
 library_name: Driver_LED
-name: driver_led_max7221xrg
+name: max7221xrg
 oomp:
   library_name: driver_led
-  md5: ddcdcf3eb6a251d69062f0c6dec43843
-  md5_10: ddcdcf3eb6
-  md5_5: ddcdc
-  md5_6: ddcdcf
-  oomp_key: oomp_driver_led_max7221xrg
-  oomp_key_extra: oomp_symbol_driver_led_max7221xrg
-  oomp_key_full: oomp_symbol_driver_led_max7221xrg_ddcdcf
-  oomp_key_simple: driver_led_max7221xrg
+  md5: 302e2cb7c7a536a795d78d0b987b9deb
+  md5_10: 302e2cb7c7
+  md5_5: 302e2
+  md5_6: 302e2c
+  oomp_key: oomp_max7221xrg
+  oomp_key_extra: oomp_symbol_max7221xrg
+  oomp_key_full: oomp_symbol_max7221xrg_302e2c
+  oomp_key_simple: max7221xrg
   owner_name: kicad
-  symbol_name: driver_led_max7221xrg
+  symbol_name: max7221xrg
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

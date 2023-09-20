@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_din41612_02x10_ab/working
   oomp_src_flat: symbols_flat/kicad_connector_din41612_02x10_ab/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_din41612_02x10_ab/working
-name: connector_din41612_02x10_ab
+name: din41612_02x10_ab
 oomp:
   library_name: connector
-  md5: 086e6ccea64cfa0ec454e8f559b9bd7b
-  md5_10: 086e6ccea6
-  md5_5: 086e6
-  md5_6: 086e6c
-  oomp_key: oomp_connector_din41612_02x10_ab
-  oomp_key_extra: oomp_symbol_connector_din41612_02x10_ab
-  oomp_key_full: oomp_symbol_connector_din41612_02x10_ab_086e6c
-  oomp_key_simple: connector_din41612_02x10_ab
+  md5: 130aeeb69d50666ec31889f04ccac5d8
+  md5_10: 130aeeb69d
+  md5_5: 130ae
+  md5_6: 130aee
+  oomp_key: oomp_din41612_02x10_ab
+  oomp_key_extra: oomp_symbol_din41612_02x10_ab
+  oomp_key_full: oomp_symbol_din41612_02x10_ab_130aee
+  oomp_key_simple: din41612_02x10_ab
   owner_name: kicad
-  symbol_name: connector_din41612_02x10_ab
+  symbol_name: din41612_02x10_ab
 oomp_key: oomp_kicad_connector_din41612_02x10_ab
 oomp_key_simple: kicad_connector_din41612_02x10_ab
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

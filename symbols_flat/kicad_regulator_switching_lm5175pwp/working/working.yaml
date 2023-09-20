@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lm5175pwp/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lm5175pwp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lm5175pwp/working
-name: regulator_switching_lm5175pwp
+name: lm5175pwp
 oomp:
   library_name: regulator_switching
-  md5: eba3a4f6793c1fcb92c75c98eb85235c
-  md5_10: eba3a4f679
-  md5_5: eba3a
-  md5_6: eba3a4
-  oomp_key: oomp_regulator_switching_lm5175pwp
-  oomp_key_extra: oomp_symbol_regulator_switching_lm5175pwp
-  oomp_key_full: oomp_symbol_regulator_switching_lm5175pwp_eba3a4
-  oomp_key_simple: regulator_switching_lm5175pwp
+  md5: 7a560646b3d65ece3fc2351785e41126
+  md5_10: 7a560646b3
+  md5_5: 7a560
+  md5_6: 7a5606
+  oomp_key: oomp_lm5175pwp
+  oomp_key_extra: oomp_symbol_lm5175pwp
+  oomp_key_full: oomp_symbol_lm5175pwp_7a5606
+  oomp_key_simple: lm5175pwp
   owner_name: kicad
-  symbol_name: regulator_switching_lm5175pwp
+  symbol_name: lm5175pwp
 oomp_key: oomp_kicad_regulator_switching_lm5175pwp
 oomp_key_simple: kicad_regulator_switching_lm5175pwp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

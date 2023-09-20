@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_proximity_itr8307_f43/working
   oomp_src_flat: symbols_flat/kicad_sensor_proximity_itr8307_f43/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_proximity_itr8307_f43/working
-name: sensor_proximity_itr8307_f43
+name: itr8307_f43
 oomp:
   library_name: sensor_proximity
-  md5: d1c8309935af3250669d4d622982674e
-  md5_10: d1c8309935
-  md5_5: d1c83
-  md5_6: d1c830
-  oomp_key: oomp_sensor_proximity_itr8307_f43
-  oomp_key_extra: oomp_symbol_sensor_proximity_itr8307_f43
-  oomp_key_full: oomp_symbol_sensor_proximity_itr8307_f43_d1c830
-  oomp_key_simple: sensor_proximity_itr8307_f43
+  md5: 66b8c7ab3cb644b3f04ad968281217d5
+  md5_10: 66b8c7ab3c
+  md5_5: 66b8c
+  md5_6: 66b8c7
+  oomp_key: oomp_itr8307_f43
+  oomp_key_extra: oomp_symbol_itr8307_f43
+  oomp_key_full: oomp_symbol_itr8307_f43_66b8c7
+  oomp_key_simple: itr8307_f43
   owner_name: kicad
-  symbol_name: sensor_proximity_itr8307_f43
+  symbol_name: itr8307_f43
 oomp_key: oomp_kicad_sensor_proximity_itr8307_f43
 oomp_key_simple: kicad_sensor_proximity_itr8307_f43
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

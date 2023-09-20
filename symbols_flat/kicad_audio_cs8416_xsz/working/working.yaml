@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_cs8416_xsz/working
   oomp_src_flat: symbols_flat/kicad_audio_cs8416_xsz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_cs8416_xsz/working
-name: audio_cs8416_xsz
+name: cs8416_xsz
 oomp:
   library_name: audio
-  md5: 871a2c6fdff75dbd7ebbae4c25015d9e
-  md5_10: 871a2c6fdf
-  md5_5: 871a2
-  md5_6: 871a2c
-  oomp_key: oomp_audio_cs8416_xsz
-  oomp_key_extra: oomp_symbol_audio_cs8416_xsz
-  oomp_key_full: oomp_symbol_audio_cs8416_xsz_871a2c
-  oomp_key_simple: audio_cs8416_xsz
+  md5: 5e141ce670b2d5914f3ca66b2d49e273
+  md5_10: 5e141ce670
+  md5_5: 5e141
+  md5_6: 5e141c
+  oomp_key: oomp_cs8416_xsz
+  oomp_key_extra: oomp_symbol_cs8416_xsz
+  oomp_key_full: oomp_symbol_cs8416_xsz_5e141c
+  oomp_key_simple: cs8416_xsz
   owner_name: kicad
-  symbol_name: audio_cs8416_xsz
+  symbol_name: cs8416_xsz
 oomp_key: oomp_kicad_audio_cs8416_xsz
 oomp_key_simple: kicad_audio_cs8416_xsz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

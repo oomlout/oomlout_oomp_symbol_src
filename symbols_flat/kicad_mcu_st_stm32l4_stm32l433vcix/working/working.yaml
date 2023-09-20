@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l4_stm32l433vcix/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l4_stm32l433vcix/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l4_stm32l433vcix/working
-name: mcu_st_stm32l4_stm32l433vcix
+name: stm32l433vcix
 oomp:
   library_name: mcu_st_stm32l4
-  md5: 4b04f53d6fb16ab03d88b7534ea581f7
-  md5_10: 4b04f53d6f
-  md5_5: 4b04f
-  md5_6: 4b04f5
-  oomp_key: oomp_mcu_st_stm32l4_stm32l433vcix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l433vcix
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l433vcix_4b04f5
-  oomp_key_simple: mcu_st_stm32l4_stm32l433vcix
+  md5: 487df881679dd7ef17b5a75ead336cc7
+  md5_10: 487df88167
+  md5_5: 487df
+  md5_6: 487df8
+  oomp_key: oomp_stm32l433vcix
+  oomp_key_extra: oomp_symbol_stm32l433vcix
+  oomp_key_full: oomp_symbol_stm32l433vcix_487df8
+  oomp_key_simple: stm32l433vcix
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l433vcix
+  symbol_name: stm32l433vcix
 oomp_key: oomp_kicad_mcu_st_stm32l4_stm32l433vcix
 oomp_key_simple: kicad_mcu_st_stm32l4_stm32l433vcix
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

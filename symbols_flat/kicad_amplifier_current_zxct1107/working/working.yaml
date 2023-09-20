@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_zxct1107/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_zxct1107/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_zxct1107/working
-name: amplifier_current_zxct1107
+name: zxct1107
 oomp:
   library_name: amplifier_current
-  md5: e4663d9e741f1a2557d0e537877bb263
-  md5_10: e4663d9e74
-  md5_5: e4663
-  md5_6: e4663d
-  oomp_key: oomp_amplifier_current_zxct1107
-  oomp_key_extra: oomp_symbol_amplifier_current_zxct1107
-  oomp_key_full: oomp_symbol_amplifier_current_zxct1107_e4663d
-  oomp_key_simple: amplifier_current_zxct1107
+  md5: 26378d92b6ea65f04b8e9286b2eb1736
+  md5_10: 26378d92b6
+  md5_5: '26378'
+  md5_6: 26378d
+  oomp_key: oomp_zxct1107
+  oomp_key_extra: oomp_symbol_zxct1107
+  oomp_key_full: oomp_symbol_zxct1107_26378d
+  oomp_key_simple: zxct1107
   owner_name: kicad
-  symbol_name: amplifier_current_zxct1107
+  symbol_name: zxct1107
 oomp_key: oomp_kicad_amplifier_current_zxct1107
 oomp_key_simple: kicad_amplifier_current_zxct1107
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

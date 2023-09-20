@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_irf6718l2/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_irf6718l2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_irf6718l2/working
-name: transistor_fet_irf6718l2
+name: irf6718l2
 oomp:
   library_name: transistor_fet
-  md5: 2e1d77ff1c2c8a7c1b483281b93aa582
-  md5_10: 2e1d77ff1c
-  md5_5: 2e1d7
-  md5_6: 2e1d77
-  oomp_key: oomp_transistor_fet_irf6718l2
-  oomp_key_extra: oomp_symbol_transistor_fet_irf6718l2
-  oomp_key_full: oomp_symbol_transistor_fet_irf6718l2_2e1d77
-  oomp_key_simple: transistor_fet_irf6718l2
+  md5: b55b0a72b6581575b0ee197535ae0ffd
+  md5_10: b55b0a72b6
+  md5_5: b55b0
+  md5_6: b55b0a
+  oomp_key: oomp_irf6718l2
+  oomp_key_extra: oomp_symbol_irf6718l2
+  oomp_key_full: oomp_symbol_irf6718l2_b55b0a
+  oomp_key_simple: irf6718l2
   owner_name: kicad
-  symbol_name: transistor_fet_irf6718l2
+  symbol_name: irf6718l2
 oomp_key: oomp_kicad_transistor_fet_irf6718l2
 oomp_key_simple: kicad_transistor_fet_irf6718l2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

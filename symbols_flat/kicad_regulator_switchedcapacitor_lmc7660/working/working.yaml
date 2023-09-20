@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switchedcapacitor_lmc7660/working
   oomp_src_flat: symbols_flat/kicad_regulator_switchedcapacitor_lmc7660/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switchedcapacitor_lmc7660/working
-name: regulator_switchedcapacitor_lmc7660
+name: lmc7660
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: fa888fb1442d787a928369522b3e3924
-  md5_10: fa888fb144
-  md5_5: fa888
-  md5_6: fa888f
-  oomp_key: oomp_regulator_switchedcapacitor_lmc7660
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_lmc7660
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_lmc7660_fa888f
-  oomp_key_simple: regulator_switchedcapacitor_lmc7660
+  md5: 82abd868690a9a4028d4da43499cef8c
+  md5_10: 82abd86869
+  md5_5: 82abd
+  md5_6: 82abd8
+  oomp_key: oomp_lmc7660
+  oomp_key_extra: oomp_symbol_lmc7660
+  oomp_key_full: oomp_symbol_lmc7660_82abd8
+  oomp_key_simple: lmc7660
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_lmc7660
+  symbol_name: lmc7660
 oomp_key: oomp_kicad_regulator_switchedcapacitor_lmc7660
 oomp_key_simple: kicad_regulator_switchedcapacitor_lmc7660
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

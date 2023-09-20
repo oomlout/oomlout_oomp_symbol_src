@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_tja1051t_e/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_tja1051t_e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_tja1051t_e/working
-name: interface_can_lin_tja1051t_e
+name: tja1051t_e
 oomp:
   library_name: interface_can_lin
-  md5: eb7e12c8ac73870230049e5738f3f153
-  md5_10: eb7e12c8ac
-  md5_5: eb7e1
-  md5_6: eb7e12
-  oomp_key: oomp_interface_can_lin_tja1051t_e
-  oomp_key_extra: oomp_symbol_interface_can_lin_tja1051t_e
-  oomp_key_full: oomp_symbol_interface_can_lin_tja1051t_e_eb7e12
-  oomp_key_simple: interface_can_lin_tja1051t_e
+  md5: fbdde6539eaf52fcdfcd867276a3639a
+  md5_10: fbdde6539e
+  md5_5: fbdde
+  md5_6: fbdde6
+  oomp_key: oomp_tja1051t_e
+  oomp_key_extra: oomp_symbol_tja1051t_e
+  oomp_key_full: oomp_symbol_tja1051t_e_fbdde6
+  oomp_key_simple: tja1051t_e
   owner_name: kicad
-  symbol_name: interface_can_lin_tja1051t_e
+  symbol_name: tja1051t_e
 oomp_key: oomp_kicad_interface_can_lin_tja1051t_e
 oomp_key_simple: kicad_interface_can_lin_tja1051t_e
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_74xx_74hc123
 library: 74xx
 library_name: 74xx
-name: 74xx_74hc123
+name: 74hc123
 oomp:
   library_name: 74xx
-  md5: 1bf729b5aeca3427123dba444ad8ae7e
-  md5_10: 1bf729b5ae
-  md5_5: 1bf72
-  md5_6: 1bf729
-  oomp_key: oomp_74xx_74hc123
-  oomp_key_extra: oomp_symbol_74xx_74hc123
-  oomp_key_full: oomp_symbol_74xx_74hc123_1bf729
-  oomp_key_simple: 74xx_74hc123
+  md5: 72cc61479d649b226bc40bafbc3fb54a
+  md5_10: 72cc61479d
+  md5_5: 72cc6
+  md5_6: 72cc61
+  oomp_key: oomp_74hc123
+  oomp_key_extra: oomp_symbol_74hc123
+  oomp_key_full: oomp_symbol_74hc123_72cc61
+  oomp_key_simple: 74hc123
   owner_name: kicad
-  symbol_name: 74xx_74hc123
+  symbol_name: 74hc123
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

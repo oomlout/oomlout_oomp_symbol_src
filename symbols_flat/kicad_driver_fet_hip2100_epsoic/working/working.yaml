@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_hip2100_epsoic/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_hip2100_epsoic/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_hip2100_epsoic/working
-name: driver_fet_hip2100_epsoic
+name: hip2100_epsoic
 oomp:
   library_name: driver_fet
-  md5: fca9adbd43af6686f72680014b444558
-  md5_10: fca9adbd43
-  md5_5: fca9a
-  md5_6: fca9ad
-  oomp_key: oomp_driver_fet_hip2100_epsoic
-  oomp_key_extra: oomp_symbol_driver_fet_hip2100_epsoic
-  oomp_key_full: oomp_symbol_driver_fet_hip2100_epsoic_fca9ad
-  oomp_key_simple: driver_fet_hip2100_epsoic
+  md5: 44bb9e1760371389f986db375559e93c
+  md5_10: 44bb9e1760
+  md5_5: 44bb9
+  md5_6: 44bb9e
+  oomp_key: oomp_hip2100_epsoic
+  oomp_key_extra: oomp_symbol_hip2100_epsoic
+  oomp_key_full: oomp_symbol_hip2100_epsoic_44bb9e
+  oomp_key_simple: hip2100_epsoic
   owner_name: kicad
-  symbol_name: driver_fet_hip2100_epsoic
+  symbol_name: hip2100_epsoic
 oomp_key: oomp_kicad_driver_fet_hip2100_epsoic
 oomp_key_simple: kicad_driver_fet_hip2100_epsoic
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

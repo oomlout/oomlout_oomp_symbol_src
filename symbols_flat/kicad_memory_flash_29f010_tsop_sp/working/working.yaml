@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_flash_29f010_tsop_sp/working
   oomp_src_flat: symbols_flat/kicad_memory_flash_29f010_tsop_sp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_flash_29f010_tsop_sp/working
-name: memory_flash_29f010_tsop_sp
+name: 29f010_tsop_sp
 oomp:
   library_name: memory_flash
-  md5: 30f2f2ea81afccdf647cee2927e9c481
-  md5_10: 30f2f2ea81
-  md5_5: 30f2f
-  md5_6: 30f2f2
-  oomp_key: oomp_memory_flash_29f010_tsop_sp
-  oomp_key_extra: oomp_symbol_memory_flash_29f010_tsop_sp
-  oomp_key_full: oomp_symbol_memory_flash_29f010_tsop_sp_30f2f2
-  oomp_key_simple: memory_flash_29f010_tsop_sp
+  md5: 8f3b9375e807c8e168b56e5b00d2b503
+  md5_10: 8f3b9375e8
+  md5_5: 8f3b9
+  md5_6: 8f3b93
+  oomp_key: oomp_29f010_tsop_sp
+  oomp_key_extra: oomp_symbol_29f010_tsop_sp
+  oomp_key_full: oomp_symbol_29f010_tsop_sp_8f3b93
+  oomp_key_simple: 29f010_tsop_sp
   owner_name: kicad
-  symbol_name: memory_flash_29f010_tsop_sp
+  symbol_name: 29f010_tsop_sp
 oomp_key: oomp_kicad_memory_flash_29f010_tsop_sp
 oomp_key_simple: kicad_memory_flash_29f010_tsop_sp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

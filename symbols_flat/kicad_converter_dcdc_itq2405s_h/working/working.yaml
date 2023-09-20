@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_itq2405s_h/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_itq2405s_h/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_itq2405s_h/working
-name: converter_dcdc_itq2405s_h
+name: itq2405s_h
 oomp:
   library_name: converter_dcdc
-  md5: c6e3ad60a7c794373c5a56b94f58e8c6
-  md5_10: c6e3ad60a7
-  md5_5: c6e3a
-  md5_6: c6e3ad
-  oomp_key: oomp_converter_dcdc_itq2405s_h
-  oomp_key_extra: oomp_symbol_converter_dcdc_itq2405s_h
-  oomp_key_full: oomp_symbol_converter_dcdc_itq2405s_h_c6e3ad
-  oomp_key_simple: converter_dcdc_itq2405s_h
+  md5: 2e15157fa14eb807b2719735c8b43f41
+  md5_10: 2e15157fa1
+  md5_5: 2e151
+  md5_6: 2e1515
+  oomp_key: oomp_itq2405s_h
+  oomp_key_extra: oomp_symbol_itq2405s_h
+  oomp_key_full: oomp_symbol_itq2405s_h_2e1515
+  oomp_key_simple: itq2405s_h
   owner_name: kicad
-  symbol_name: converter_dcdc_itq2405s_h
+  symbol_name: itq2405s_h
 oomp_key: oomp_kicad_converter_dcdc_itq2405s_h
 oomp_key_simple: kicad_converter_dcdc_itq2405s_h
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_avr_pdi_6/working
   oomp_src_flat: symbols_flat/kicad_connector_avr_pdi_6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_avr_pdi_6/working
-name: connector_avr_pdi_6
+name: avr_pdi_6
 oomp:
   library_name: connector
-  md5: c88b3b3f44c927b101e9679a40f3af5a
-  md5_10: c88b3b3f44
-  md5_5: c88b3
-  md5_6: c88b3b
-  oomp_key: oomp_connector_avr_pdi_6
-  oomp_key_extra: oomp_symbol_connector_avr_pdi_6
-  oomp_key_full: oomp_symbol_connector_avr_pdi_6_c88b3b
-  oomp_key_simple: connector_avr_pdi_6
+  md5: c3c9041026e81d43a784f7a709d04818
+  md5_10: c3c9041026
+  md5_5: c3c90
+  md5_6: c3c904
+  oomp_key: oomp_avr_pdi_6
+  oomp_key_extra: oomp_symbol_avr_pdi_6
+  oomp_key_full: oomp_symbol_avr_pdi_6_c3c904
+  oomp_key_simple: avr_pdi_6
   owner_name: kicad
-  symbol_name: connector_avr_pdi_6
+  symbol_name: avr_pdi_6
 oomp_key: oomp_kicad_connector_avr_pdi_6
 oomp_key_simple: kicad_connector_avr_pdi_6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

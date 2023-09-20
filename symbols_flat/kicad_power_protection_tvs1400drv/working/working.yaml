@@ -1,19 +1,19 @@
 id: kicad_power_protection_tvs1400drv
 library: power_protection
 library_name: Power_Protection
-name: power_protection_tvs1400drv
+name: tvs1400drv
 oomp:
   library_name: power_protection
-  md5: 9af302746abbf4da7527f5bbf35e5b3b
-  md5_10: 9af302746a
-  md5_5: 9af30
-  md5_6: 9af302
-  oomp_key: oomp_power_protection_tvs1400drv
-  oomp_key_extra: oomp_symbol_power_protection_tvs1400drv
-  oomp_key_full: oomp_symbol_power_protection_tvs1400drv_9af302
-  oomp_key_simple: power_protection_tvs1400drv
+  md5: 7ee7a15cfccc7713686b42da68c430ff
+  md5_10: 7ee7a15cfc
+  md5_5: 7ee7a
+  md5_6: 7ee7a1
+  oomp_key: oomp_tvs1400drv
+  oomp_key_extra: oomp_symbol_tvs1400drv
+  oomp_key_full: oomp_symbol_tvs1400drv_7ee7a1
+  oomp_key_simple: tvs1400drv
   owner_name: kicad
-  symbol_name: power_protection_tvs1400drv
+  symbol_name: tvs1400drv
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

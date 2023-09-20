@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin/working
-name: connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin
+name: conn_02x10_row_letter_last_mountingpin
 oomp:
   library_name: connector_generic_mountingpin
-  md5: 21733698074b17ec6d819e83cd2d5585
-  md5_10: '2173369807'
-  md5_5: '21733'
-  md5_6: '217336'
-  oomp_key: oomp_connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin
-  oomp_key_extra: oomp_symbol_connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin
-  oomp_key_full: oomp_symbol_connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin_217336
-  oomp_key_simple: connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin
+  md5: fa787bd7018c938032f35af5083ead9d
+  md5_10: fa787bd701
+  md5_5: fa787
+  md5_6: fa787b
+  oomp_key: oomp_conn_02x10_row_letter_last_mountingpin
+  oomp_key_extra: oomp_symbol_conn_02x10_row_letter_last_mountingpin
+  oomp_key_full: oomp_symbol_conn_02x10_row_letter_last_mountingpin_fa787b
+  oomp_key_simple: conn_02x10_row_letter_last_mountingpin
   owner_name: kicad
-  symbol_name: connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin
+  symbol_name: conn_02x10_row_letter_last_mountingpin
 oomp_key: oomp_kicad_connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin
 oomp_key_simple: kicad_connector_generic_mountingpin_conn_02x10_row_letter_last_mountingpin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

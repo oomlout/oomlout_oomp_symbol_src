@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_logic_programmable_pal24/working
   oomp_src_flat: symbols_flat/kicad_logic_programmable_pal24/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_logic_programmable_pal24/working
-name: logic_programmable_pal24
+name: pal24
 oomp:
   library_name: logic_programmable
-  md5: da96a2bd5a71430bdb05b3dc70c1b238
-  md5_10: da96a2bd5a
-  md5_5: da96a
-  md5_6: da96a2
-  oomp_key: oomp_logic_programmable_pal24
-  oomp_key_extra: oomp_symbol_logic_programmable_pal24
-  oomp_key_full: oomp_symbol_logic_programmable_pal24_da96a2
-  oomp_key_simple: logic_programmable_pal24
+  md5: 28789b8394d66630a0c9bcfceef1577e
+  md5_10: 28789b8394
+  md5_5: '28789'
+  md5_6: 28789b
+  oomp_key: oomp_pal24
+  oomp_key_extra: oomp_symbol_pal24
+  oomp_key_full: oomp_symbol_pal24_28789b
+  oomp_key_simple: pal24
   owner_name: kicad
-  symbol_name: logic_programmable_pal24
+  symbol_name: pal24
 oomp_key: oomp_kicad_logic_programmable_pal24
 oomp_key_simple: kicad_logic_programmable_pal24
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

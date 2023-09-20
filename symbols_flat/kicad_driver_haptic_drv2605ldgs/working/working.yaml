@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_haptic_drv2605ldgs/working
   oomp_src_flat: symbols_flat/kicad_driver_haptic_drv2605ldgs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_haptic_drv2605ldgs/working
-name: driver_haptic_drv2605ldgs
+name: drv2605ldgs
 oomp:
   library_name: driver_haptic
-  md5: 28cdf248855c27ca466480d1a0f23f89
-  md5_10: 28cdf24885
-  md5_5: 28cdf
-  md5_6: 28cdf2
-  oomp_key: oomp_driver_haptic_drv2605ldgs
-  oomp_key_extra: oomp_symbol_driver_haptic_drv2605ldgs
-  oomp_key_full: oomp_symbol_driver_haptic_drv2605ldgs_28cdf2
-  oomp_key_simple: driver_haptic_drv2605ldgs
+  md5: 4abafcc72a89da19b75be671feec7587
+  md5_10: 4abafcc72a
+  md5_5: 4abaf
+  md5_6: 4abafc
+  oomp_key: oomp_drv2605ldgs
+  oomp_key_extra: oomp_symbol_drv2605ldgs
+  oomp_key_full: oomp_symbol_drv2605ldgs_4abafc
+  oomp_key_simple: drv2605ldgs
   owner_name: kicad
-  symbol_name: driver_haptic_drv2605ldgs
+  symbol_name: drv2605ldgs
 oomp_key: oomp_kicad_driver_haptic_drv2605ldgs
 oomp_key_simple: kicad_driver_haptic_drv2605ldgs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpu_nxp_imx_mcimx6qp7cvt/working
   oomp_src_flat: symbols_flat/kicad_cpu_nxp_imx_mcimx6qp7cvt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpu_nxp_imx_mcimx6qp7cvt/working
-name: cpu_nxp_imx_mcimx6qp7cvt
+name: mcimx6qp7cvt
 oomp:
   library_name: cpu_nxp_imx
-  md5: 9f02a76328c0d2a0d8afbd160c8ce2dc
-  md5_10: 9f02a76328
-  md5_5: 9f02a
-  md5_6: 9f02a7
-  oomp_key: oomp_cpu_nxp_imx_mcimx6qp7cvt
-  oomp_key_extra: oomp_symbol_cpu_nxp_imx_mcimx6qp7cvt
-  oomp_key_full: oomp_symbol_cpu_nxp_imx_mcimx6qp7cvt_9f02a7
-  oomp_key_simple: cpu_nxp_imx_mcimx6qp7cvt
+  md5: 5d5b5da2b307e9011884ef33b6df694c
+  md5_10: 5d5b5da2b3
+  md5_5: 5d5b5
+  md5_6: 5d5b5d
+  oomp_key: oomp_mcimx6qp7cvt
+  oomp_key_extra: oomp_symbol_mcimx6qp7cvt
+  oomp_key_full: oomp_symbol_mcimx6qp7cvt_5d5b5d
+  oomp_key_simple: mcimx6qp7cvt
   owner_name: kicad
-  symbol_name: cpu_nxp_imx_mcimx6qp7cvt
+  symbol_name: mcimx6qp7cvt
 oomp_key: oomp_kicad_cpu_nxp_imx_mcimx6qp7cvt
 oomp_key_simple: kicad_cpu_nxp_imx_mcimx6qp7cvt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

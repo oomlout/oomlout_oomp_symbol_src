@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_linedriver_el7242c/working
   oomp_src_flat: symbols_flat/kicad_interface_linedriver_el7242c/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_linedriver_el7242c/working
-name: interface_linedriver_el7242c
+name: el7242c
 oomp:
   library_name: interface_linedriver
-  md5: 11099dd70c964d87fc8bf55f38effb6f
-  md5_10: 11099dd70c
-  md5_5: '11099'
-  md5_6: 11099d
-  oomp_key: oomp_interface_linedriver_el7242c
-  oomp_key_extra: oomp_symbol_interface_linedriver_el7242c
-  oomp_key_full: oomp_symbol_interface_linedriver_el7242c_11099d
-  oomp_key_simple: interface_linedriver_el7242c
+  md5: 0056ab0acf71e78801a068b3cf3de05f
+  md5_10: 0056ab0acf
+  md5_5: 0056a
+  md5_6: 0056ab
+  oomp_key: oomp_el7242c
+  oomp_key_extra: oomp_symbol_el7242c
+  oomp_key_full: oomp_symbol_el7242c_0056ab
+  oomp_key_simple: el7242c
   owner_name: kicad
-  symbol_name: interface_linedriver_el7242c
+  symbol_name: el7242c
 oomp_key: oomp_kicad_interface_linedriver_el7242c
 oomp_key_simple: kicad_interface_linedriver_el7242c
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

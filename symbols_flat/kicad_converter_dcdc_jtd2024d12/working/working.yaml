@@ -1,19 +1,19 @@
 id: kicad_converter_dcdc_jtd2024d12
 library: converter_dcdc
 library_name: Converter_DCDC
-name: converter_dcdc_jtd2024d12
+name: jtd2024d12
 oomp:
   library_name: converter_dcdc
-  md5: 6e345e59022293bbcf7b730b2cb08d82
-  md5_10: 6e345e5902
-  md5_5: 6e345
-  md5_6: 6e345e
-  oomp_key: oomp_converter_dcdc_jtd2024d12
-  oomp_key_extra: oomp_symbol_converter_dcdc_jtd2024d12
-  oomp_key_full: oomp_symbol_converter_dcdc_jtd2024d12_6e345e
-  oomp_key_simple: converter_dcdc_jtd2024d12
+  md5: abcb042cee8d8cb97598c3731fba2aae
+  md5_10: abcb042cee
+  md5_5: abcb0
+  md5_6: abcb04
+  oomp_key: oomp_jtd2024d12
+  oomp_key_extra: oomp_symbol_jtd2024d12
+  oomp_key_full: oomp_symbol_jtd2024d12_abcb04
+  oomp_key_simple: jtd2024d12
   owner_name: kicad
-  symbol_name: converter_dcdc_jtd2024d12
+  symbol_name: jtd2024d12
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

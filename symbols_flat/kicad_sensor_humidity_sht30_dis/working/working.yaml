@@ -1,19 +1,19 @@
 id: kicad_sensor_humidity_sht30_dis
 library: sensor_humidity
 library_name: Sensor_Humidity
-name: sensor_humidity_sht30_dis
+name: sht30_dis
 oomp:
   library_name: sensor_humidity
-  md5: 540be06bcd64f4f7cbffcaa0a9b1484d
-  md5_10: 540be06bcd
-  md5_5: 540be
-  md5_6: 540be0
-  oomp_key: oomp_sensor_humidity_sht30_dis
-  oomp_key_extra: oomp_symbol_sensor_humidity_sht30_dis
-  oomp_key_full: oomp_symbol_sensor_humidity_sht30_dis_540be0
-  oomp_key_simple: sensor_humidity_sht30_dis
+  md5: d5115eaf3298ad6c4d0572d5414ca55c
+  md5_10: d5115eaf32
+  md5_5: d5115
+  md5_6: d5115e
+  oomp_key: oomp_sht30_dis
+  oomp_key_extra: oomp_symbol_sht30_dis
+  oomp_key_full: oomp_symbol_sht30_dis_d5115e
+  oomp_key_simple: sht30_dis
   owner_name: kicad
-  symbol_name: sensor_humidity_sht30_dis
+  symbol_name: sht30_dis
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

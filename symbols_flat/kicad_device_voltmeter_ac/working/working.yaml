@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_voltmeter_ac/working
   oomp_src_flat: symbols_flat/kicad_device_voltmeter_ac/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_voltmeter_ac/working
-name: device_voltmeter_ac
+name: voltmeter_ac
 oomp:
   library_name: device
-  md5: 86fe3d8a93486cd3b759b7cfe130fb55
-  md5_10: 86fe3d8a93
-  md5_5: 86fe3
-  md5_6: 86fe3d
-  oomp_key: oomp_device_voltmeter_ac
-  oomp_key_extra: oomp_symbol_device_voltmeter_ac
-  oomp_key_full: oomp_symbol_device_voltmeter_ac_86fe3d
-  oomp_key_simple: device_voltmeter_ac
+  md5: 65a8c6aec2f20f64f5e93a320c54fd95
+  md5_10: 65a8c6aec2
+  md5_5: 65a8c
+  md5_6: 65a8c6
+  oomp_key: oomp_voltmeter_ac
+  oomp_key_extra: oomp_symbol_voltmeter_ac
+  oomp_key_full: oomp_symbol_voltmeter_ac_65a8c6
+  oomp_key_simple: voltmeter_ac
   owner_name: kicad
-  symbol_name: device_voltmeter_ac
+  symbol_name: voltmeter_ac
 oomp_key: oomp_kicad_device_voltmeter_ac
 oomp_key_simple: kicad_device_voltmeter_ac
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

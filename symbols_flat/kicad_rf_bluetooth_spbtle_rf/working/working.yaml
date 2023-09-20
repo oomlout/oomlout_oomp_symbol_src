@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_bluetooth_spbtle_rf/working
   oomp_src_flat: symbols_flat/kicad_rf_bluetooth_spbtle_rf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_bluetooth_spbtle_rf/working
-name: rf_bluetooth_spbtle_rf
+name: spbtle_rf
 oomp:
   library_name: rf_bluetooth
-  md5: ba96f1b7ca61fdfa99dcc12d8fbcc376
-  md5_10: ba96f1b7ca
-  md5_5: ba96f
-  md5_6: ba96f1
-  oomp_key: oomp_rf_bluetooth_spbtle_rf
-  oomp_key_extra: oomp_symbol_rf_bluetooth_spbtle_rf
-  oomp_key_full: oomp_symbol_rf_bluetooth_spbtle_rf_ba96f1
-  oomp_key_simple: rf_bluetooth_spbtle_rf
+  md5: 6d72280f58486c6c615c8824d737e42e
+  md5_10: 6d72280f58
+  md5_5: 6d722
+  md5_6: 6d7228
+  oomp_key: oomp_spbtle_rf
+  oomp_key_extra: oomp_symbol_spbtle_rf
+  oomp_key_full: oomp_symbol_spbtle_rf_6d7228
+  oomp_key_simple: spbtle_rf
   owner_name: kicad
-  symbol_name: rf_bluetooth_spbtle_rf
+  symbol_name: spbtle_rf
 oomp_key: oomp_kicad_rf_bluetooth_spbtle_rf
 oomp_key_simple: kicad_rf_bluetooth_spbtle_rf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

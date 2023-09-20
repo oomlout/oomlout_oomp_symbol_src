@@ -1,19 +1,19 @@
 id: kicad_driver_fet_hip2101_dfn
 library: driver_fet
 library_name: Driver_FET
-name: driver_fet_hip2101_dfn
+name: hip2101_dfn
 oomp:
   library_name: driver_fet
-  md5: 43f73a234bcbc0942141ff16bbf3b333
-  md5_10: 43f73a234b
-  md5_5: 43f73
-  md5_6: 43f73a
-  oomp_key: oomp_driver_fet_hip2101_dfn
-  oomp_key_extra: oomp_symbol_driver_fet_hip2101_dfn
-  oomp_key_full: oomp_symbol_driver_fet_hip2101_dfn_43f73a
-  oomp_key_simple: driver_fet_hip2101_dfn
+  md5: 669e9cb0bab4c0bf5b391433622001d0
+  md5_10: 669e9cb0ba
+  md5_5: 669e9
+  md5_6: 669e9c
+  oomp_key: oomp_hip2101_dfn
+  oomp_key_extra: oomp_symbol_hip2101_dfn
+  oomp_key_full: oomp_symbol_hip2101_dfn_669e9c
+  oomp_key_simple: hip2101_dfn
   owner_name: kicad
-  symbol_name: driver_fet_hip2101_dfn
+  symbol_name: hip2101_dfn
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

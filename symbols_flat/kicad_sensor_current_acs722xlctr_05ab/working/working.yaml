@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_acs722xlctr_05ab/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_acs722xlctr_05ab/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_acs722xlctr_05ab/working
-name: sensor_current_acs722xlctr_05ab
+name: acs722xlctr_05ab
 oomp:
   library_name: sensor_current
-  md5: 808b99971fc95b64a9c908a48dde79ff
-  md5_10: 808b99971f
-  md5_5: 808b9
-  md5_6: 808b99
-  oomp_key: oomp_sensor_current_acs722xlctr_05ab
-  oomp_key_extra: oomp_symbol_sensor_current_acs722xlctr_05ab
-  oomp_key_full: oomp_symbol_sensor_current_acs722xlctr_05ab_808b99
-  oomp_key_simple: sensor_current_acs722xlctr_05ab
+  md5: bdd589fae78bc1962852be9c701eea6a
+  md5_10: bdd589fae7
+  md5_5: bdd58
+  md5_6: bdd589
+  oomp_key: oomp_acs722xlctr_05ab
+  oomp_key_extra: oomp_symbol_acs722xlctr_05ab
+  oomp_key_full: oomp_symbol_acs722xlctr_05ab_bdd589
+  oomp_key_simple: acs722xlctr_05ab
   owner_name: kicad
-  symbol_name: sensor_current_acs722xlctr_05ab
+  symbol_name: acs722xlctr_05ab
 oomp_key: oomp_kicad_sensor_current_acs722xlctr_05ab
 oomp_key_simple: kicad_sensor_current_acs722xlctr_05ab
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

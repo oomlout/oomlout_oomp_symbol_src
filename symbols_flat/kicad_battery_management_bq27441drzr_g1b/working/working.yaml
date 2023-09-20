@@ -1,19 +1,19 @@
 id: kicad_battery_management_bq27441drzr_g1b
 library: battery_management
 library_name: Battery_Management
-name: battery_management_bq27441drzr_g1b
+name: bq27441drzr_g1b
 oomp:
   library_name: battery_management
-  md5: 4a9643104945a6df9c7cc584490ddd42
-  md5_10: 4a96431049
-  md5_5: 4a964
-  md5_6: 4a9643
-  oomp_key: oomp_battery_management_bq27441drzr_g1b
-  oomp_key_extra: oomp_symbol_battery_management_bq27441drzr_g1b
-  oomp_key_full: oomp_symbol_battery_management_bq27441drzr_g1b_4a9643
-  oomp_key_simple: battery_management_bq27441drzr_g1b
+  md5: f63f14f7736efbd00e1dd89b11f4d03b
+  md5_10: f63f14f773
+  md5_5: f63f1
+  md5_6: f63f14
+  oomp_key: oomp_bq27441drzr_g1b
+  oomp_key_extra: oomp_symbol_bq27441drzr_g1b
+  oomp_key_full: oomp_symbol_bq27441drzr_g1b_f63f14
+  oomp_key_simple: bq27441drzr_g1b
   owner_name: kicad
-  symbol_name: battery_management_bq27441drzr_g1b
+  symbol_name: bq27441drzr_g1b
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_interface_optical_tsop382xx
 library: interface_optical
 library_name: Interface_Optical
-name: interface_optical_tsop382xx
+name: tsop382xx
 oomp:
   library_name: interface_optical
-  md5: 0728756e13e76acc7f21f7789ebf8dee
-  md5_10: 0728756e13
-  md5_5: 07287
-  md5_6: 072875
-  oomp_key: oomp_interface_optical_tsop382xx
-  oomp_key_extra: oomp_symbol_interface_optical_tsop382xx
-  oomp_key_full: oomp_symbol_interface_optical_tsop382xx_072875
-  oomp_key_simple: interface_optical_tsop382xx
+  md5: 726f662a2364d003981ed3fb20d639d7
+  md5_10: 726f662a23
+  md5_5: 726f6
+  md5_6: 726f66
+  oomp_key: oomp_tsop382xx
+  oomp_key_extra: oomp_symbol_tsop382xx
+  oomp_key_full: oomp_symbol_tsop382xx_726f66
+  oomp_key_simple: tsop382xx
   owner_name: kicad
-  symbol_name: interface_optical_tsop382xx
+  symbol_name: tsop382xx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

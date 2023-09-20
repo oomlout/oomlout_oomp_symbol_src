@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_mic5355_scymme
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_mic5355_scymme
+name: mic5355_scymme
 oomp:
   library_name: regulator_linear
-  md5: 0fed13c25a968034b015ea02453f831c
-  md5_10: 0fed13c25a
-  md5_5: 0fed1
-  md5_6: 0fed13
-  oomp_key: oomp_regulator_linear_mic5355_scymme
-  oomp_key_extra: oomp_symbol_regulator_linear_mic5355_scymme
-  oomp_key_full: oomp_symbol_regulator_linear_mic5355_scymme_0fed13
-  oomp_key_simple: regulator_linear_mic5355_scymme
+  md5: 81477c318c2ad1c9a91bcf3c00886726
+  md5_10: 81477c318c
+  md5_5: '81477'
+  md5_6: 81477c
+  oomp_key: oomp_mic5355_scymme
+  oomp_key_extra: oomp_symbol_mic5355_scymme
+  oomp_key_full: oomp_symbol_mic5355_scymme_81477c
+  oomp_key_simple: mic5355_scymme
   owner_name: kicad
-  symbol_name: regulator_linear_mic5355_scymme
+  symbol_name: mic5355_scymme
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

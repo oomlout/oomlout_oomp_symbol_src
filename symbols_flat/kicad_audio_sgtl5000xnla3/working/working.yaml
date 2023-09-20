@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_sgtl5000xnla3/working
   oomp_src_flat: symbols_flat/kicad_audio_sgtl5000xnla3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_sgtl5000xnla3/working
-name: audio_sgtl5000xnla3
+name: sgtl5000xnla3
 oomp:
   library_name: audio
-  md5: 7b81e4225e5902eab5e38b88de5e8392
-  md5_10: 7b81e4225e
-  md5_5: 7b81e
-  md5_6: 7b81e4
-  oomp_key: oomp_audio_sgtl5000xnla3
-  oomp_key_extra: oomp_symbol_audio_sgtl5000xnla3
-  oomp_key_full: oomp_symbol_audio_sgtl5000xnla3_7b81e4
-  oomp_key_simple: audio_sgtl5000xnla3
+  md5: bb1ea30bdb31af6dce77dad9b3a5e18a
+  md5_10: bb1ea30bdb
+  md5_5: bb1ea
+  md5_6: bb1ea3
+  oomp_key: oomp_sgtl5000xnla3
+  oomp_key_extra: oomp_symbol_sgtl5000xnla3
+  oomp_key_full: oomp_symbol_sgtl5000xnla3_bb1ea3
+  oomp_key_simple: sgtl5000xnla3
   owner_name: kicad
-  symbol_name: audio_sgtl5000xnla3
+  symbol_name: sgtl5000xnla3
 oomp_key: oomp_kicad_audio_sgtl5000xnla3
 oomp_key_simple: kicad_audio_sgtl5000xnla3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_solidstate_tlp161g/working
   oomp_src_flat: symbols_flat/kicad_relay_solidstate_tlp161g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_solidstate_tlp161g/working
-name: relay_solidstate_tlp161g
+name: tlp161g
 oomp:
   library_name: relay_solidstate
-  md5: db2bf2d6334bec0f178cf59101a1dbe3
-  md5_10: db2bf2d633
-  md5_5: db2bf
-  md5_6: db2bf2
-  oomp_key: oomp_relay_solidstate_tlp161g
-  oomp_key_extra: oomp_symbol_relay_solidstate_tlp161g
-  oomp_key_full: oomp_symbol_relay_solidstate_tlp161g_db2bf2
-  oomp_key_simple: relay_solidstate_tlp161g
+  md5: 5275e9645ce253eafaed112ac93ffda0
+  md5_10: 5275e9645c
+  md5_5: 5275e
+  md5_6: 5275e9
+  oomp_key: oomp_tlp161g
+  oomp_key_extra: oomp_symbol_tlp161g
+  oomp_key_full: oomp_symbol_tlp161g_5275e9
+  oomp_key_simple: tlp161g
   owner_name: kicad
-  symbol_name: relay_solidstate_tlp161g
+  symbol_name: tlp161g
 oomp_key: oomp_kicad_relay_solidstate_tlp161g
 oomp_key_simple: kicad_relay_solidstate_tlp161g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

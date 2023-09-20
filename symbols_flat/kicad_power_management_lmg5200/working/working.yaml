@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_lmg5200/working
   oomp_src_flat: symbols_flat/kicad_power_management_lmg5200/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_lmg5200/working
-name: power_management_lmg5200
+name: lmg5200
 oomp:
   library_name: power_management
-  md5: 3e5f4c96a3f25f93b52bdf15bba9e3ab
-  md5_10: 3e5f4c96a3
-  md5_5: 3e5f4
-  md5_6: 3e5f4c
-  oomp_key: oomp_power_management_lmg5200
-  oomp_key_extra: oomp_symbol_power_management_lmg5200
-  oomp_key_full: oomp_symbol_power_management_lmg5200_3e5f4c
-  oomp_key_simple: power_management_lmg5200
+  md5: c84164be38022bb550ed934c6b58797f
+  md5_10: c84164be38
+  md5_5: c8416
+  md5_6: c84164
+  oomp_key: oomp_lmg5200
+  oomp_key_extra: oomp_symbol_lmg5200
+  oomp_key_full: oomp_symbol_lmg5200_c84164
+  oomp_key_simple: lmg5200
   owner_name: kicad
-  symbol_name: power_management_lmg5200
+  symbol_name: lmg5200
 oomp_key: oomp_kicad_power_management_lmg5200
 oomp_key_simple: kicad_power_management_lmg5200
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32wb_stm32wb15ccuxe/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32wb_stm32wb15ccuxe/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32wb_stm32wb15ccuxe/working
-name: mcu_st_stm32wb_stm32wb15ccuxe
+name: stm32wb15ccuxe
 oomp:
   library_name: mcu_st_stm32wb
-  md5: 2926a41d654b821eae9e186f752a2931
-  md5_10: 2926a41d65
-  md5_5: 2926a
-  md5_6: 2926a4
-  oomp_key: oomp_mcu_st_stm32wb_stm32wb15ccuxe
-  oomp_key_extra: oomp_symbol_mcu_st_stm32wb_stm32wb15ccuxe
-  oomp_key_full: oomp_symbol_mcu_st_stm32wb_stm32wb15ccuxe_2926a4
-  oomp_key_simple: mcu_st_stm32wb_stm32wb15ccuxe
+  md5: 8081a5c6f101d050337c5eaa255382f2
+  md5_10: 8081a5c6f1
+  md5_5: 8081a
+  md5_6: 8081a5
+  oomp_key: oomp_stm32wb15ccuxe
+  oomp_key_extra: oomp_symbol_stm32wb15ccuxe
+  oomp_key_full: oomp_symbol_stm32wb15ccuxe_8081a5
+  oomp_key_simple: stm32wb15ccuxe
   owner_name: kicad
-  symbol_name: mcu_st_stm32wb_stm32wb15ccuxe
+  symbol_name: stm32wb15ccuxe
 oomp_key: oomp_kicad_mcu_st_stm32wb_stm32wb15ccuxe
 oomp_key_simple: kicad_mcu_st_stm32wb_stm32wb15ccuxe
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

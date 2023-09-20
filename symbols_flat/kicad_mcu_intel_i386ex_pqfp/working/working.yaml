@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_intel_i386ex_pqfp/working
   oomp_src_flat: symbols_flat/kicad_mcu_intel_i386ex_pqfp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_intel_i386ex_pqfp/working
-name: mcu_intel_i386ex_pqfp
+name: i386ex_pqfp
 oomp:
   library_name: mcu_intel
-  md5: c16cc5e6c4d9bd40c53cc181354971d2
-  md5_10: c16cc5e6c4
-  md5_5: c16cc
-  md5_6: c16cc5
-  oomp_key: oomp_mcu_intel_i386ex_pqfp
-  oomp_key_extra: oomp_symbol_mcu_intel_i386ex_pqfp
-  oomp_key_full: oomp_symbol_mcu_intel_i386ex_pqfp_c16cc5
-  oomp_key_simple: mcu_intel_i386ex_pqfp
+  md5: e7f2857be3299396a9055cc62a9a344c
+  md5_10: e7f2857be3
+  md5_5: e7f28
+  md5_6: e7f285
+  oomp_key: oomp_i386ex_pqfp
+  oomp_key_extra: oomp_symbol_i386ex_pqfp
+  oomp_key_full: oomp_symbol_i386ex_pqfp_e7f285
+  oomp_key_simple: i386ex_pqfp
   owner_name: kicad
-  symbol_name: mcu_intel_i386ex_pqfp
+  symbol_name: i386ex_pqfp
 oomp_key: oomp_kicad_mcu_intel_i386ex_pqfp
 oomp_key_simple: kicad_mcu_intel_i386ex_pqfp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

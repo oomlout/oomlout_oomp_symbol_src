@@ -1,19 +1,19 @@
 id: kicad_converter_acdc_hlk_pm03
 library: converter_acdc
 library_name: Converter_ACDC
-name: converter_acdc_hlk_pm03
+name: hlk_pm03
 oomp:
   library_name: converter_acdc
-  md5: 20651e303b17aa8b863dc321bc59117d
-  md5_10: 20651e303b
-  md5_5: '20651'
-  md5_6: 20651e
-  oomp_key: oomp_converter_acdc_hlk_pm03
-  oomp_key_extra: oomp_symbol_converter_acdc_hlk_pm03
-  oomp_key_full: oomp_symbol_converter_acdc_hlk_pm03_20651e
-  oomp_key_simple: converter_acdc_hlk_pm03
+  md5: a8400f2622dbcc85e6401c5bb9cf207a
+  md5_10: a8400f2622
+  md5_5: a8400
+  md5_6: a8400f
+  oomp_key: oomp_hlk_pm03
+  oomp_key_extra: oomp_symbol_hlk_pm03
+  oomp_key_full: oomp_symbol_hlk_pm03_a8400f
+  oomp_key_simple: hlk_pm03
   owner_name: kicad
-  symbol_name: converter_acdc_hlk_pm03
+  symbol_name: hlk_pm03
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_ft5hn/working
   oomp_src_flat: symbols_flat/kicad_oscillator_ft5hn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_ft5hn/working
-name: oscillator_ft5hn
+name: ft5hn
 oomp:
   library_name: oscillator
-  md5: 356c25bff277495876a5006b20c79df1
-  md5_10: 356c25bff2
-  md5_5: 356c2
-  md5_6: 356c25
-  oomp_key: oomp_oscillator_ft5hn
-  oomp_key_extra: oomp_symbol_oscillator_ft5hn
-  oomp_key_full: oomp_symbol_oscillator_ft5hn_356c25
-  oomp_key_simple: oscillator_ft5hn
+  md5: 6fefe76b16ed7c0f79be6b60876a999b
+  md5_10: 6fefe76b16
+  md5_5: 6fefe
+  md5_6: 6fefe7
+  oomp_key: oomp_ft5hn
+  oomp_key_extra: oomp_symbol_ft5hn
+  oomp_key_full: oomp_symbol_ft5hn_6fefe7
+  oomp_key_simple: ft5hn
   owner_name: kicad
-  symbol_name: oscillator_ft5hn
+  symbol_name: ft5hn
 oomp_key: oomp_kicad_oscillator_ft5hn
 oomp_key_simple: kicad_oscillator_ft5hn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_pbo_3_s3_3/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_pbo_3_s3_3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_pbo_3_s3_3/working
-name: converter_acdc_pbo_3_s3_3
+name: pbo_3_s3_3
 oomp:
   library_name: converter_acdc
-  md5: 6a2b76b18de00ecc7bb844e814c192a5
-  md5_10: 6a2b76b18d
-  md5_5: 6a2b7
-  md5_6: 6a2b76
-  oomp_key: oomp_converter_acdc_pbo_3_s3_3
-  oomp_key_extra: oomp_symbol_converter_acdc_pbo_3_s3_3
-  oomp_key_full: oomp_symbol_converter_acdc_pbo_3_s3_3_6a2b76
-  oomp_key_simple: converter_acdc_pbo_3_s3_3
+  md5: 1025c609b7706b35c1ea8e8260622f9e
+  md5_10: 1025c609b7
+  md5_5: 1025c
+  md5_6: 1025c6
+  oomp_key: oomp_pbo_3_s3_3
+  oomp_key_extra: oomp_symbol_pbo_3_s3_3
+  oomp_key_full: oomp_symbol_pbo_3_s3_3_1025c6
+  oomp_key_simple: pbo_3_s3_3
   owner_name: kicad
-  symbol_name: converter_acdc_pbo_3_s3_3
+  symbol_name: pbo_3_s3_3
 oomp_key: oomp_kicad_converter_acdc_pbo_3_s3_3
 oomp_key_simple: kicad_converter_acdc_pbo_3_s3_3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

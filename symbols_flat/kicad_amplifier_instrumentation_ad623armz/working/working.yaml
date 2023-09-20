@@ -1,19 +1,19 @@
 id: kicad_amplifier_instrumentation_ad623armz
 library: amplifier_instrumentation
 library_name: Amplifier_Instrumentation
-name: amplifier_instrumentation_ad623armz
+name: ad623armz
 oomp:
   library_name: amplifier_instrumentation
-  md5: 5a41b4027bc7832d5a1b966dfc4bd900
-  md5_10: 5a41b4027b
-  md5_5: 5a41b
-  md5_6: 5a41b4
-  oomp_key: oomp_amplifier_instrumentation_ad623armz
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ad623armz
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ad623armz_5a41b4
-  oomp_key_simple: amplifier_instrumentation_ad623armz
+  md5: 24809158f9688e946763f1f6c9b60d7e
+  md5_10: 24809158f9
+  md5_5: '24809'
+  md5_6: '248091'
+  oomp_key: oomp_ad623armz
+  oomp_key_extra: oomp_symbol_ad623armz
+  oomp_key_full: oomp_symbol_ad623armz_248091
+  oomp_key_simple: ad623armz
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ad623armz
+  symbol_name: ad623armz
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

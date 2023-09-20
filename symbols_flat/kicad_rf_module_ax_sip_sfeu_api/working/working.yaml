@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_ax_sip_sfeu_api/working
   oomp_src_flat: symbols_flat/kicad_rf_module_ax_sip_sfeu_api/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_ax_sip_sfeu_api/working
-name: rf_module_ax_sip_sfeu_api
+name: ax_sip_sfeu_api
 oomp:
   library_name: rf_module
-  md5: 5daf66b619e04f4cf7a7072299ac428d
-  md5_10: 5daf66b619
-  md5_5: 5daf6
-  md5_6: 5daf66
-  oomp_key: oomp_rf_module_ax_sip_sfeu_api
-  oomp_key_extra: oomp_symbol_rf_module_ax_sip_sfeu_api
-  oomp_key_full: oomp_symbol_rf_module_ax_sip_sfeu_api_5daf66
-  oomp_key_simple: rf_module_ax_sip_sfeu_api
+  md5: d555d72688162698c193d3108e9c2cd1
+  md5_10: d555d72688
+  md5_5: d555d
+  md5_6: d555d7
+  oomp_key: oomp_ax_sip_sfeu_api
+  oomp_key_extra: oomp_symbol_ax_sip_sfeu_api
+  oomp_key_full: oomp_symbol_ax_sip_sfeu_api_d555d7
+  oomp_key_simple: ax_sip_sfeu_api
   owner_name: kicad
-  symbol_name: rf_module_ax_sip_sfeu_api
+  symbol_name: ax_sip_sfeu_api
 oomp_key: oomp_kicad_rf_module_ax_sip_sfeu_api
 oomp_key_simple: kicad_rf_module_ax_sip_sfeu_api
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

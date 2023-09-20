@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_solidstate_s102s02/working
   oomp_src_flat: symbols_flat/kicad_relay_solidstate_s102s02/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_solidstate_s102s02/working
-name: relay_solidstate_s102s02
+name: s102s02
 oomp:
   library_name: relay_solidstate
-  md5: a22d68011a45dd036776ef83f2c92089
-  md5_10: a22d68011a
-  md5_5: a22d6
-  md5_6: a22d68
-  oomp_key: oomp_relay_solidstate_s102s02
-  oomp_key_extra: oomp_symbol_relay_solidstate_s102s02
-  oomp_key_full: oomp_symbol_relay_solidstate_s102s02_a22d68
-  oomp_key_simple: relay_solidstate_s102s02
+  md5: 561ad0590f46d1b5bfa18f9bd118ff09
+  md5_10: 561ad0590f
+  md5_5: 561ad
+  md5_6: 561ad0
+  oomp_key: oomp_s102s02
+  oomp_key_extra: oomp_symbol_s102s02
+  oomp_key_full: oomp_symbol_s102s02_561ad0
+  oomp_key_simple: s102s02
   owner_name: kicad
-  symbol_name: relay_solidstate_s102s02
+  symbol_name: s102s02
 oomp_key: oomp_kicad_relay_solidstate_s102s02
 oomp_key_simple: kicad_relay_solidstate_s102s02
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_idt7006pf/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_idt7006pf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_idt7006pf/working
-name: memory_ram_idt7006pf
+name: idt7006pf
 oomp:
   library_name: memory_ram
-  md5: 86034d1c66fe50688c6dba4ee28536f0
-  md5_10: 86034d1c66
-  md5_5: '86034'
-  md5_6: 86034d
-  oomp_key: oomp_memory_ram_idt7006pf
-  oomp_key_extra: oomp_symbol_memory_ram_idt7006pf
-  oomp_key_full: oomp_symbol_memory_ram_idt7006pf_86034d
-  oomp_key_simple: memory_ram_idt7006pf
+  md5: 38b181f202f496d22cc5bcd7596212e9
+  md5_10: 38b181f202
+  md5_5: 38b18
+  md5_6: 38b181
+  oomp_key: oomp_idt7006pf
+  oomp_key_extra: oomp_symbol_idt7006pf
+  oomp_key_full: oomp_symbol_idt7006pf_38b181
+  oomp_key_simple: idt7006pf
   owner_name: kicad
-  symbol_name: memory_ram_idt7006pf
+  symbol_name: idt7006pf
 oomp_key: oomp_kicad_memory_ram_idt7006pf
 oomp_key_simple: kicad_memory_ram_idt7006pf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

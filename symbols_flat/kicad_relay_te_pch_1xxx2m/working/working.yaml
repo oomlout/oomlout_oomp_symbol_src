@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_te_pch_1xxx2m/working
   oomp_src_flat: symbols_flat/kicad_relay_te_pch_1xxx2m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_te_pch_1xxx2m/working
-name: relay_te_pch_1xxx2m
+name: te_pch_1xxx2m
 oomp:
   library_name: relay
-  md5: 1b22873dda86fe353ee6ab5315f4c07b
-  md5_10: 1b22873dda
-  md5_5: 1b228
-  md5_6: 1b2287
-  oomp_key: oomp_relay_te_pch_1xxx2m
-  oomp_key_extra: oomp_symbol_relay_te_pch_1xxx2m
-  oomp_key_full: oomp_symbol_relay_te_pch_1xxx2m_1b2287
-  oomp_key_simple: relay_te_pch_1xxx2m
+  md5: b68e87a1fffde45f6bad9ea3032f7419
+  md5_10: b68e87a1ff
+  md5_5: b68e8
+  md5_6: b68e87
+  oomp_key: oomp_te_pch_1xxx2m
+  oomp_key_extra: oomp_symbol_te_pch_1xxx2m
+  oomp_key_full: oomp_symbol_te_pch_1xxx2m_b68e87
+  oomp_key_simple: te_pch_1xxx2m
   owner_name: kicad
-  symbol_name: relay_te_pch_1xxx2m
+  symbol_name: te_pch_1xxx2m
 oomp_key: oomp_kicad_relay_te_pch_1xxx2m
 oomp_key_simple: kicad_relay_te_pch_1xxx2m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

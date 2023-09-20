@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_dip_x06/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_dip_x06/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_dip_x06/working
-name: switch_sw_dip_x06
+name: sw_dip_x06
 oomp:
   library_name: switch
-  md5: eb58aa23c77ae33aa06e8c3900518d5d
-  md5_10: eb58aa23c7
-  md5_5: eb58a
-  md5_6: eb58aa
-  oomp_key: oomp_switch_sw_dip_x06
-  oomp_key_extra: oomp_symbol_switch_sw_dip_x06
-  oomp_key_full: oomp_symbol_switch_sw_dip_x06_eb58aa
-  oomp_key_simple: switch_sw_dip_x06
+  md5: b2cfc6a113945c5212d53e529043917f
+  md5_10: b2cfc6a113
+  md5_5: b2cfc
+  md5_6: b2cfc6
+  oomp_key: oomp_sw_dip_x06
+  oomp_key_extra: oomp_symbol_sw_dip_x06
+  oomp_key_full: oomp_symbol_sw_dip_x06_b2cfc6
+  oomp_key_simple: sw_dip_x06
   owner_name: kicad
-  symbol_name: switch_sw_dip_x06
+  symbol_name: sw_dip_x06
 oomp_key: oomp_kicad_switch_sw_dip_x06
 oomp_key_simple: kicad_switch_sw_dip_x06
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

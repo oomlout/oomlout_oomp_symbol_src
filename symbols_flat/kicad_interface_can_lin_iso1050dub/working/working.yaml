@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_iso1050dub/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_iso1050dub/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_iso1050dub/working
-name: interface_can_lin_iso1050dub
+name: iso1050dub
 oomp:
   library_name: interface_can_lin
-  md5: 2d144eb1cd218ad8ba6b78f1a56683f1
-  md5_10: 2d144eb1cd
-  md5_5: 2d144
-  md5_6: 2d144e
-  oomp_key: oomp_interface_can_lin_iso1050dub
-  oomp_key_extra: oomp_symbol_interface_can_lin_iso1050dub
-  oomp_key_full: oomp_symbol_interface_can_lin_iso1050dub_2d144e
-  oomp_key_simple: interface_can_lin_iso1050dub
+  md5: 09b507ab661328d40cbfebe05e7df7ac
+  md5_10: 09b507ab66
+  md5_5: 09b50
+  md5_6: 09b507
+  oomp_key: oomp_iso1050dub
+  oomp_key_extra: oomp_symbol_iso1050dub
+  oomp_key_full: oomp_symbol_iso1050dub_09b507
+  oomp_key_simple: iso1050dub
   owner_name: kicad
-  symbol_name: interface_can_lin_iso1050dub
+  symbol_name: iso1050dub
 oomp_key: oomp_kicad_interface_can_lin_iso1050dub
 oomp_key_simple: kicad_interface_can_lin_iso1050dub
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

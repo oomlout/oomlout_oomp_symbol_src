@@ -1,19 +1,19 @@
 id: kicad_amplifier_instrumentation_ad8429
 library: amplifier_instrumentation
 library_name: Amplifier_Instrumentation
-name: amplifier_instrumentation_ad8429
+name: ad8429
 oomp:
   library_name: amplifier_instrumentation
-  md5: 0a094c777399bec2539bb45c769e2d87
-  md5_10: 0a094c7773
-  md5_5: 0a094
-  md5_6: 0a094c
-  oomp_key: oomp_amplifier_instrumentation_ad8429
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ad8429
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ad8429_0a094c
-  oomp_key_simple: amplifier_instrumentation_ad8429
+  md5: 09ab5417a21d9274820608abff2a7dc8
+  md5_10: 09ab5417a2
+  md5_5: 09ab5
+  md5_6: 09ab54
+  oomp_key: oomp_ad8429
+  oomp_key_extra: oomp_symbol_ad8429
+  oomp_key_full: oomp_symbol_ad8429_09ab54
+  oomp_key_simple: ad8429
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ad8429
+  symbol_name: ad8429
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

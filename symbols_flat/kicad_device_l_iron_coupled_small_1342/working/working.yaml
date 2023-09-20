@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_l_iron_coupled_small_1342/working
   oomp_src_flat: symbols_flat/kicad_device_l_iron_coupled_small_1342/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_l_iron_coupled_small_1342/working
-name: device_l_iron_coupled_small_1342
+name: l_iron_coupled_small_1342
 oomp:
   library_name: device
-  md5: fd146937c6a79d47b31114f6ac8c5d34
-  md5_10: fd146937c6
-  md5_5: fd146
-  md5_6: fd1469
-  oomp_key: oomp_device_l_iron_coupled_small_1342
-  oomp_key_extra: oomp_symbol_device_l_iron_coupled_small_1342
-  oomp_key_full: oomp_symbol_device_l_iron_coupled_small_1342_fd1469
-  oomp_key_simple: device_l_iron_coupled_small_1342
+  md5: 4158eec10a1d60f53293ef86f6bdee47
+  md5_10: 4158eec10a
+  md5_5: 4158e
+  md5_6: 4158ee
+  oomp_key: oomp_l_iron_coupled_small_1342
+  oomp_key_extra: oomp_symbol_l_iron_coupled_small_1342
+  oomp_key_full: oomp_symbol_l_iron_coupled_small_1342_4158ee
+  oomp_key_simple: l_iron_coupled_small_1342
   owner_name: kicad
-  symbol_name: device_l_iron_coupled_small_1342
+  symbol_name: l_iron_coupled_small_1342
 oomp_key: oomp_kicad_device_l_iron_coupled_small_1342
 oomp_key_simple: kicad_device_l_iron_coupled_small_1342
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

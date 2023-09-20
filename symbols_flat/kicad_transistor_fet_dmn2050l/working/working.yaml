@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_dmn2050l
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_dmn2050l
+name: dmn2050l
 oomp:
   library_name: transistor_fet
-  md5: 87fd806308752c61abbecfb2bfbdf254
-  md5_10: 87fd806308
-  md5_5: 87fd8
-  md5_6: 87fd80
-  oomp_key: oomp_transistor_fet_dmn2050l
-  oomp_key_extra: oomp_symbol_transistor_fet_dmn2050l
-  oomp_key_full: oomp_symbol_transistor_fet_dmn2050l_87fd80
-  oomp_key_simple: transistor_fet_dmn2050l
+  md5: 837114b2198884f46a3737c5647fab00
+  md5_10: 837114b219
+  md5_5: '83711'
+  md5_6: '837114'
+  oomp_key: oomp_dmn2050l
+  oomp_key_extra: oomp_symbol_dmn2050l
+  oomp_key_full: oomp_symbol_dmn2050l_837114
+  oomp_key_simple: dmn2050l
   owner_name: kicad
-  symbol_name: transistor_fet_dmn2050l
+  symbol_name: dmn2050l
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

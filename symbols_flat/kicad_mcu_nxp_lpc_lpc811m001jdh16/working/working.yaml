@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_lpc_lpc811m001jdh16/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_lpc_lpc811m001jdh16/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_lpc_lpc811m001jdh16/working
-name: mcu_nxp_lpc_lpc811m001jdh16
+name: lpc811m001jdh16
 oomp:
   library_name: mcu_nxp_lpc
-  md5: 7652e59d0d308f2a77c82cdb99720664
-  md5_10: 7652e59d0d
-  md5_5: 7652e
-  md5_6: 7652e5
-  oomp_key: oomp_mcu_nxp_lpc_lpc811m001jdh16
-  oomp_key_extra: oomp_symbol_mcu_nxp_lpc_lpc811m001jdh16
-  oomp_key_full: oomp_symbol_mcu_nxp_lpc_lpc811m001jdh16_7652e5
-  oomp_key_simple: mcu_nxp_lpc_lpc811m001jdh16
+  md5: 22843aaec7802eb884258583521ef7ba
+  md5_10: 22843aaec7
+  md5_5: '22843'
+  md5_6: 22843a
+  oomp_key: oomp_lpc811m001jdh16
+  oomp_key_extra: oomp_symbol_lpc811m001jdh16
+  oomp_key_full: oomp_symbol_lpc811m001jdh16_22843a
+  oomp_key_simple: lpc811m001jdh16
   owner_name: kicad
-  symbol_name: mcu_nxp_lpc_lpc811m001jdh16
+  symbol_name: lpc811m001jdh16
 oomp_key: oomp_kicad_mcu_nxp_lpc_lpc811m001jdh16
 oomp_key_simple: kicad_mcu_nxp_lpc_lpc811m001jdh16
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

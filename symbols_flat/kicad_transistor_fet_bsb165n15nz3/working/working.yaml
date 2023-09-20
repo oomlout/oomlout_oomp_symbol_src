@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_bsb165n15nz3/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_bsb165n15nz3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_bsb165n15nz3/working
-name: transistor_fet_bsb165n15nz3
+name: bsb165n15nz3
 oomp:
   library_name: transistor_fet
-  md5: ddac0090614a9a3a7deeb309f5dc20e5
-  md5_10: ddac009061
-  md5_5: ddac0
-  md5_6: ddac00
-  oomp_key: oomp_transistor_fet_bsb165n15nz3
-  oomp_key_extra: oomp_symbol_transistor_fet_bsb165n15nz3
-  oomp_key_full: oomp_symbol_transistor_fet_bsb165n15nz3_ddac00
-  oomp_key_simple: transistor_fet_bsb165n15nz3
+  md5: 1e58904ffa75f0bca3af896b88d47590
+  md5_10: 1e58904ffa
+  md5_5: 1e589
+  md5_6: 1e5890
+  oomp_key: oomp_bsb165n15nz3
+  oomp_key_extra: oomp_symbol_bsb165n15nz3
+  oomp_key_full: oomp_symbol_bsb165n15nz3_1e5890
+  oomp_key_simple: bsb165n15nz3
   owner_name: kicad
-  symbol_name: transistor_fet_bsb165n15nz3
+  symbol_name: bsb165n15nz3
 oomp_key: oomp_kicad_transistor_fet_bsb165n15nz3
 oomp_key_simple: kicad_transistor_fet_bsb165n15nz3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

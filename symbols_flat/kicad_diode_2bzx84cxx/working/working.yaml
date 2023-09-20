@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_2bzx84cxx/working
   oomp_src_flat: symbols_flat/kicad_diode_2bzx84cxx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_2bzx84cxx/working
-name: diode_2bzx84cxx
+name: 2bzx84cxx
 oomp:
   library_name: diode
-  md5: cb882f0de72bc981f4e1595c07212993
-  md5_10: cb882f0de7
-  md5_5: cb882
-  md5_6: cb882f
-  oomp_key: oomp_diode_2bzx84cxx
-  oomp_key_extra: oomp_symbol_diode_2bzx84cxx
-  oomp_key_full: oomp_symbol_diode_2bzx84cxx_cb882f
-  oomp_key_simple: diode_2bzx84cxx
+  md5: 480b8319e77e03125c85d2e40a65f06f
+  md5_10: 480b8319e7
+  md5_5: 480b8
+  md5_6: 480b83
+  oomp_key: oomp_2bzx84cxx
+  oomp_key_extra: oomp_symbol_2bzx84cxx
+  oomp_key_full: oomp_symbol_2bzx84cxx_480b83
+  oomp_key_simple: 2bzx84cxx
   owner_name: kicad
-  symbol_name: diode_2bzx84cxx
+  symbol_name: 2bzx84cxx
 oomp_key: oomp_kicad_diode_2bzx84cxx
 oomp_key_simple: kicad_diode_2bzx84cxx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

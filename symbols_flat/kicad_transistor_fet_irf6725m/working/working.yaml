@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_irf6725m
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_irf6725m
+name: irf6725m
 oomp:
   library_name: transistor_fet
-  md5: a3ddf88bb945360b646ee4d8bf8bdc57
-  md5_10: a3ddf88bb9
-  md5_5: a3ddf
-  md5_6: a3ddf8
-  oomp_key: oomp_transistor_fet_irf6725m
-  oomp_key_extra: oomp_symbol_transistor_fet_irf6725m
-  oomp_key_full: oomp_symbol_transistor_fet_irf6725m_a3ddf8
-  oomp_key_simple: transistor_fet_irf6725m
+  md5: 012eccb82e46065a3f002e9667d93589
+  md5_10: 012eccb82e
+  md5_5: 012ec
+  md5_6: 012ecc
+  oomp_key: oomp_irf6725m
+  oomp_key_extra: oomp_symbol_irf6725m
+  oomp_key_full: oomp_symbol_irf6725m_012ecc
+  oomp_key_simple: irf6725m
   owner_name: kicad
-  symbol_name: transistor_fet_irf6725m
+  symbol_name: irf6725m
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

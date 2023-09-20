@@ -1,19 +1,19 @@
 id: kicad_analog_adc_ltc2284xup
 library: analog_adc
 library_name: Analog_ADC
-name: analog_adc_ltc2284xup
+name: ltc2284xup
 oomp:
   library_name: analog_adc
-  md5: a366a8228e09865d31a40ead3ec489c4
-  md5_10: a366a8228e
-  md5_5: a366a
-  md5_6: a366a8
-  oomp_key: oomp_analog_adc_ltc2284xup
-  oomp_key_extra: oomp_symbol_analog_adc_ltc2284xup
-  oomp_key_full: oomp_symbol_analog_adc_ltc2284xup_a366a8
-  oomp_key_simple: analog_adc_ltc2284xup
+  md5: 0804b88dc24a58ba699f5ee2a0e335f8
+  md5_10: 0804b88dc2
+  md5_5: 0804b
+  md5_6: 0804b8
+  oomp_key: oomp_ltc2284xup
+  oomp_key_extra: oomp_symbol_ltc2284xup
+  oomp_key_full: oomp_symbol_ltc2284xup_0804b8
+  oomp_key_simple: ltc2284xup
   owner_name: kicad
-  symbol_name: analog_adc_ltc2284xup
+  symbol_name: ltc2284xup
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

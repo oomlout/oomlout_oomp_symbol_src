@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_ada4430_1yksz/working
   oomp_src_flat: symbols_flat/kicad_video_ada4430_1yksz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_ada4430_1yksz/working
-name: video_ada4430_1yksz
+name: ada4430_1yksz
 oomp:
   library_name: video
-  md5: 4117fd7f8af155b8372203c07581749b
-  md5_10: 4117fd7f8a
-  md5_5: 4117f
-  md5_6: 4117fd
-  oomp_key: oomp_video_ada4430_1yksz
-  oomp_key_extra: oomp_symbol_video_ada4430_1yksz
-  oomp_key_full: oomp_symbol_video_ada4430_1yksz_4117fd
-  oomp_key_simple: video_ada4430_1yksz
+  md5: 2536f5c7dc0141a2d0b0a978fc23701c
+  md5_10: 2536f5c7dc
+  md5_5: 2536f
+  md5_6: 2536f5
+  oomp_key: oomp_ada4430_1yksz
+  oomp_key_extra: oomp_symbol_ada4430_1yksz
+  oomp_key_full: oomp_symbol_ada4430_1yksz_2536f5
+  oomp_key_simple: ada4430_1yksz
   owner_name: kicad
-  symbol_name: video_ada4430_1yksz
+  symbol_name: ada4430_1yksz
 oomp_key: oomp_kicad_video_ada4430_1yksz
 oomp_key_simple: kicad_video_ada4430_1yksz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

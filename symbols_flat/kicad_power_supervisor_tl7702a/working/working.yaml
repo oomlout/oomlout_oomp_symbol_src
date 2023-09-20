@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_tl7702a/working
   oomp_src_flat: symbols_flat/kicad_power_supervisor_tl7702a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_tl7702a/working
-name: power_supervisor_tl7702a
+name: tl7702a
 oomp:
   library_name: power_supervisor
-  md5: b97be96a35d20150c78cee9a49e7c867
-  md5_10: b97be96a35
-  md5_5: b97be
-  md5_6: b97be9
-  oomp_key: oomp_power_supervisor_tl7702a
-  oomp_key_extra: oomp_symbol_power_supervisor_tl7702a
-  oomp_key_full: oomp_symbol_power_supervisor_tl7702a_b97be9
-  oomp_key_simple: power_supervisor_tl7702a
+  md5: 4b15403d66e197aefe148e52d3b79231
+  md5_10: 4b15403d66
+  md5_5: 4b154
+  md5_6: 4b1540
+  oomp_key: oomp_tl7702a
+  oomp_key_extra: oomp_symbol_tl7702a
+  oomp_key_full: oomp_symbol_tl7702a_4b1540
+  oomp_key_simple: tl7702a
   owner_name: kicad
-  symbol_name: power_supervisor_tl7702a
+  symbol_name: tl7702a
 oomp_key: oomp_kicad_power_supervisor_tl7702a
 oomp_key_simple: kicad_power_supervisor_tl7702a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

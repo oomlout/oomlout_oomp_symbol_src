@@ -1,19 +1,19 @@
 id: kicad_converter_acdc_rac04_3_3sga
 library: converter_acdc
 library_name: Converter_ACDC
-name: converter_acdc_rac04_3_3sga
+name: rac04_3_3sga
 oomp:
   library_name: converter_acdc
-  md5: 73574fa54a020312a5db77c36912fac5
-  md5_10: 73574fa54a
-  md5_5: '73574'
-  md5_6: 73574f
-  oomp_key: oomp_converter_acdc_rac04_3_3sga
-  oomp_key_extra: oomp_symbol_converter_acdc_rac04_3_3sga
-  oomp_key_full: oomp_symbol_converter_acdc_rac04_3_3sga_73574f
-  oomp_key_simple: converter_acdc_rac04_3_3sga
+  md5: e1de8aadb6e60ef8e23d1ba6f3966dfa
+  md5_10: e1de8aadb6
+  md5_5: e1de8
+  md5_6: e1de8a
+  oomp_key: oomp_rac04_3_3sga
+  oomp_key_extra: oomp_symbol_rac04_3_3sga
+  oomp_key_full: oomp_symbol_rac04_3_3sga_e1de8a
+  oomp_key_simple: rac04_3_3sga
   owner_name: kicad
-  symbol_name: converter_acdc_rac04_3_3sga
+  symbol_name: rac04_3_3sga
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

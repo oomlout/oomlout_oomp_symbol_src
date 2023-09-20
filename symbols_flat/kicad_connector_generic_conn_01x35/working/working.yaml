@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_conn_01x35/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_01x35/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_01x35/working
-name: connector_generic_conn_01x35
+name: conn_01x35
 oomp:
   library_name: connector_generic
-  md5: 08f6aec95ae6ba4fb03160d757caac78
-  md5_10: 08f6aec95a
-  md5_5: 08f6a
-  md5_6: 08f6ae
-  oomp_key: oomp_connector_generic_conn_01x35
-  oomp_key_extra: oomp_symbol_connector_generic_conn_01x35
-  oomp_key_full: oomp_symbol_connector_generic_conn_01x35_08f6ae
-  oomp_key_simple: connector_generic_conn_01x35
+  md5: 66b83daa5199bd77803520bb15e35aaa
+  md5_10: 66b83daa51
+  md5_5: 66b83
+  md5_6: 66b83d
+  oomp_key: oomp_conn_01x35
+  oomp_key_extra: oomp_symbol_conn_01x35
+  oomp_key_full: oomp_symbol_conn_01x35_66b83d
+  oomp_key_simple: conn_01x35
   owner_name: kicad
-  symbol_name: connector_generic_conn_01x35
+  symbol_name: conn_01x35
 oomp_key: oomp_kicad_connector_generic_conn_01x35
 oomp_key_simple: kicad_connector_generic_conn_01x35
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

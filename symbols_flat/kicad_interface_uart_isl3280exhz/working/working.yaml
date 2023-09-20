@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_isl3280exhz/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_isl3280exhz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_isl3280exhz/working
-name: interface_uart_isl3280exhz
+name: isl3280exhz
 oomp:
   library_name: interface_uart
-  md5: 4196401c56a48881ea67f1d02086a9e5
-  md5_10: 4196401c56
-  md5_5: '41964'
-  md5_6: '419640'
-  oomp_key: oomp_interface_uart_isl3280exhz
-  oomp_key_extra: oomp_symbol_interface_uart_isl3280exhz
-  oomp_key_full: oomp_symbol_interface_uart_isl3280exhz_419640
-  oomp_key_simple: interface_uart_isl3280exhz
+  md5: f63291d3f118c08c7f8ff3ff553cf8bc
+  md5_10: f63291d3f1
+  md5_5: f6329
+  md5_6: f63291
+  oomp_key: oomp_isl3280exhz
+  oomp_key_extra: oomp_symbol_isl3280exhz
+  oomp_key_full: oomp_symbol_isl3280exhz_f63291
+  oomp_key_simple: isl3280exhz
   owner_name: kicad
-  symbol_name: interface_uart_isl3280exhz
+  symbol_name: isl3280exhz
 oomp_key: oomp_kicad_interface_uart_isl3280exhz
 oomp_key_simple: kicad_interface_uart_isl3280exhz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

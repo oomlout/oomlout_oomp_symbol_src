@@ -1,19 +1,19 @@
 id: kicad_analog_adc_ads7867
 library: analog_adc
 library_name: Analog_ADC
-name: analog_adc_ads7867
+name: ads7867
 oomp:
   library_name: analog_adc
-  md5: b90daf0faef41cf4e5fa6fc618d692c8
-  md5_10: b90daf0fae
-  md5_5: b90da
-  md5_6: b90daf
-  oomp_key: oomp_analog_adc_ads7867
-  oomp_key_extra: oomp_symbol_analog_adc_ads7867
-  oomp_key_full: oomp_symbol_analog_adc_ads7867_b90daf
-  oomp_key_simple: analog_adc_ads7867
+  md5: b8734578483c9c6473f7d832d17adbe2
+  md5_10: b873457848
+  md5_5: b8734
+  md5_6: b87345
+  oomp_key: oomp_ads7867
+  oomp_key_extra: oomp_symbol_ads7867
+  oomp_key_full: oomp_symbol_ads7867_b87345
+  oomp_key_simple: ads7867
   owner_name: kicad
-  symbol_name: analog_adc_ads7867
+  symbol_name: ads7867
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

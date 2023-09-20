@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_optical_sfp/working
   oomp_src_flat: symbols_flat/kicad_interface_optical_sfp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_optical_sfp/working
-name: interface_optical_sfp
+name: sfp
 oomp:
   library_name: interface_optical
-  md5: 4f9748e29f010b1677c918c9f31d492c
-  md5_10: 4f9748e29f
-  md5_5: 4f974
-  md5_6: 4f9748
-  oomp_key: oomp_interface_optical_sfp
-  oomp_key_extra: oomp_symbol_interface_optical_sfp
-  oomp_key_full: oomp_symbol_interface_optical_sfp_4f9748
-  oomp_key_simple: interface_optical_sfp
+  md5: 75cf98be3d7af2fb6f43e6353ea0afa5
+  md5_10: 75cf98be3d
+  md5_5: 75cf9
+  md5_6: 75cf98
+  oomp_key: oomp_sfp
+  oomp_key_extra: oomp_symbol_sfp
+  oomp_key_full: oomp_symbol_sfp_75cf98
+  oomp_key_simple: sfp
   owner_name: kicad
-  symbol_name: interface_optical_sfp
+  symbol_name: sfp
 oomp_key: oomp_kicad_interface_optical_sfp
 oomp_key_simple: kicad_interface_optical_sfp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

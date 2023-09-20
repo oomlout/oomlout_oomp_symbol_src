@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_bss83p
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_bss83p
+name: bss83p
 oomp:
   library_name: transistor_fet
-  md5: 6520e21106e6dc52d016d2e42b99420a
-  md5_10: 6520e21106
-  md5_5: 6520e
-  md5_6: 6520e2
-  oomp_key: oomp_transistor_fet_bss83p
-  oomp_key_extra: oomp_symbol_transistor_fet_bss83p
-  oomp_key_full: oomp_symbol_transistor_fet_bss83p_6520e2
-  oomp_key_simple: transistor_fet_bss83p
+  md5: 1a8d377da4ed8208f5d1ab606ad1e954
+  md5_10: 1a8d377da4
+  md5_5: 1a8d3
+  md5_6: 1a8d37
+  oomp_key: oomp_bss83p
+  oomp_key_extra: oomp_symbol_bss83p
+  oomp_key_full: oomp_symbol_bss83p_1a8d37
+  oomp_key_simple: bss83p
   owner_name: kicad
-  symbol_name: transistor_fet_bss83p
+  symbol_name: bss83p
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_stc_stc15w201s_35x_sop16/working
   oomp_src_flat: symbols_flat/kicad_mcu_stc_stc15w201s_35x_sop16/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_stc_stc15w201s_35x_sop16/working
-name: mcu_stc_stc15w201s_35x_sop16
+name: stc15w201s_35x_sop16
 oomp:
   library_name: mcu_stc
-  md5: a3597e59247e59f114de17f914e5f34b
-  md5_10: a3597e5924
-  md5_5: a3597
-  md5_6: a3597e
-  oomp_key: oomp_mcu_stc_stc15w201s_35x_sop16
-  oomp_key_extra: oomp_symbol_mcu_stc_stc15w201s_35x_sop16
-  oomp_key_full: oomp_symbol_mcu_stc_stc15w201s_35x_sop16_a3597e
-  oomp_key_simple: mcu_stc_stc15w201s_35x_sop16
+  md5: 9b5b06ab7eaa3462358aeab341d9352f
+  md5_10: 9b5b06ab7e
+  md5_5: 9b5b0
+  md5_6: 9b5b06
+  oomp_key: oomp_stc15w201s_35x_sop16
+  oomp_key_extra: oomp_symbol_stc15w201s_35x_sop16
+  oomp_key_full: oomp_symbol_stc15w201s_35x_sop16_9b5b06
+  oomp_key_simple: stc15w201s_35x_sop16
   owner_name: kicad
-  symbol_name: mcu_stc_stc15w201s_35x_sop16
+  symbol_name: stc15w201s_35x_sop16
 oomp_key: oomp_kicad_mcu_stc_stc15w201s_35x_sop16
 oomp_key_simple: kicad_mcu_stc_stc15w201s_35x_sop16
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

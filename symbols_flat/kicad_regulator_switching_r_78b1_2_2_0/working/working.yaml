@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_r_78b1_2_2_0/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_r_78b1_2_2_0/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_r_78b1_2_2_0/working
-name: regulator_switching_r_78b1_2_2_0
+name: r_78b1_2_2_0
 oomp:
   library_name: regulator_switching
-  md5: e1b5ec78affa5dbea02028838cfa20f1
-  md5_10: e1b5ec78af
-  md5_5: e1b5e
-  md5_6: e1b5ec
-  oomp_key: oomp_regulator_switching_r_78b1_2_2_0
-  oomp_key_extra: oomp_symbol_regulator_switching_r_78b1_2_2_0
-  oomp_key_full: oomp_symbol_regulator_switching_r_78b1_2_2_0_e1b5ec
-  oomp_key_simple: regulator_switching_r_78b1_2_2_0
+  md5: 0ebfed4cd46a9a8ddabdc7ed9c4b1328
+  md5_10: 0ebfed4cd4
+  md5_5: 0ebfe
+  md5_6: 0ebfed
+  oomp_key: oomp_r_78b1_2_2_0
+  oomp_key_extra: oomp_symbol_r_78b1_2_2_0
+  oomp_key_full: oomp_symbol_r_78b1_2_2_0_0ebfed
+  oomp_key_simple: r_78b1_2_2_0
   owner_name: kicad
-  symbol_name: regulator_switching_r_78b1_2_2_0
+  symbol_name: r_78b1_2_2_0
 oomp_key: oomp_kicad_regulator_switching_r_78b1_2_2_0
 oomp_key_simple: kicad_regulator_switching_r_78b1_2_2_0
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

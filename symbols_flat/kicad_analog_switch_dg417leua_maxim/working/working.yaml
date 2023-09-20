@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_dg417leua_maxim/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_dg417leua_maxim/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_dg417leua_maxim/working
-name: analog_switch_dg417leua_maxim
+name: dg417leua_maxim
 oomp:
   library_name: analog_switch
-  md5: 909bc1757053c8ea777f61ec09c7790c
-  md5_10: 909bc17570
-  md5_5: 909bc
-  md5_6: 909bc1
-  oomp_key: oomp_analog_switch_dg417leua_maxim
-  oomp_key_extra: oomp_symbol_analog_switch_dg417leua_maxim
-  oomp_key_full: oomp_symbol_analog_switch_dg417leua_maxim_909bc1
-  oomp_key_simple: analog_switch_dg417leua_maxim
+  md5: 32daaaa94bfaeac87489a75da91c4361
+  md5_10: 32daaaa94b
+  md5_5: 32daa
+  md5_6: 32daaa
+  oomp_key: oomp_dg417leua_maxim
+  oomp_key_extra: oomp_symbol_dg417leua_maxim
+  oomp_key_full: oomp_symbol_dg417leua_maxim_32daaa
+  oomp_key_simple: dg417leua_maxim
   owner_name: kicad
-  symbol_name: analog_switch_dg417leua_maxim
+  symbol_name: dg417leua_maxim
 oomp_key: oomp_kicad_analog_switch_dg417leua_maxim
 oomp_key_simple: kicad_analog_switch_dg417leua_maxim
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

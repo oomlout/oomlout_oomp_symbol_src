@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_tps3702/working
   oomp_src_flat: symbols_flat/kicad_power_supervisor_tps3702/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_tps3702/working
-name: power_supervisor_tps3702
+name: tps3702
 oomp:
   library_name: power_supervisor
-  md5: 27d5d44d78cf85730d05de5e1ee4ca1d
-  md5_10: 27d5d44d78
-  md5_5: 27d5d
-  md5_6: 27d5d4
-  oomp_key: oomp_power_supervisor_tps3702
-  oomp_key_extra: oomp_symbol_power_supervisor_tps3702
-  oomp_key_full: oomp_symbol_power_supervisor_tps3702_27d5d4
-  oomp_key_simple: power_supervisor_tps3702
+  md5: 36c81d4299a3c1f85476004a587e0178
+  md5_10: 36c81d4299
+  md5_5: 36c81
+  md5_6: 36c81d
+  oomp_key: oomp_tps3702
+  oomp_key_extra: oomp_symbol_tps3702
+  oomp_key_full: oomp_symbol_tps3702_36c81d
+  oomp_key_simple: tps3702
   owner_name: kicad
-  symbol_name: power_supervisor_tps3702
+  symbol_name: tps3702
 oomp_key: oomp_kicad_power_supervisor_tps3702
 oomp_key_simple: kicad_power_supervisor_tps3702
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

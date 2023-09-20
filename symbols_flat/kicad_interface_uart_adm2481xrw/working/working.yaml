@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_adm2481xrw/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_adm2481xrw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_adm2481xrw/working
-name: interface_uart_adm2481xrw
+name: adm2481xrw
 oomp:
   library_name: interface_uart
-  md5: 9c2cfca41c112cce36f58468e5c86526
-  md5_10: 9c2cfca41c
-  md5_5: 9c2cf
-  md5_6: 9c2cfc
-  oomp_key: oomp_interface_uart_adm2481xrw
-  oomp_key_extra: oomp_symbol_interface_uart_adm2481xrw
-  oomp_key_full: oomp_symbol_interface_uart_adm2481xrw_9c2cfc
-  oomp_key_simple: interface_uart_adm2481xrw
+  md5: 3ac1cd7bde8faaa0dbd9a64e025be25c
+  md5_10: 3ac1cd7bde
+  md5_5: 3ac1c
+  md5_6: 3ac1cd
+  oomp_key: oomp_adm2481xrw
+  oomp_key_extra: oomp_symbol_adm2481xrw
+  oomp_key_full: oomp_symbol_adm2481xrw_3ac1cd
+  oomp_key_simple: adm2481xrw
   owner_name: kicad
-  symbol_name: interface_uart_adm2481xrw
+  symbol_name: adm2481xrw
 oomp_key: oomp_kicad_interface_uart_adm2481xrw
 oomp_key_simple: kicad_interface_uart_adm2481xrw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

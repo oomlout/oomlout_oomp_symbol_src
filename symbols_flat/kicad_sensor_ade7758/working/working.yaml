@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_ade7758/working
   oomp_src_flat: symbols_flat/kicad_sensor_ade7758/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_ade7758/working
-name: sensor_ade7758
+name: ade7758
 oomp:
   library_name: sensor
-  md5: 0cc31aa2c9b0eee0c9cfe249340ea3f2
-  md5_10: 0cc31aa2c9
-  md5_5: 0cc31
-  md5_6: 0cc31a
-  oomp_key: oomp_sensor_ade7758
-  oomp_key_extra: oomp_symbol_sensor_ade7758
-  oomp_key_full: oomp_symbol_sensor_ade7758_0cc31a
-  oomp_key_simple: sensor_ade7758
+  md5: 73cd3314090ca9622f6ba9b745502267
+  md5_10: 73cd331409
+  md5_5: 73cd3
+  md5_6: 73cd33
+  oomp_key: oomp_ade7758
+  oomp_key_extra: oomp_symbol_ade7758
+  oomp_key_full: oomp_symbol_ade7758_73cd33
+  oomp_key_simple: ade7758
   owner_name: kicad
-  symbol_name: sensor_ade7758
+  symbol_name: ade7758
 oomp_key: oomp_kicad_sensor_ade7758
 oomp_key_simple: kicad_sensor_ade7758
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

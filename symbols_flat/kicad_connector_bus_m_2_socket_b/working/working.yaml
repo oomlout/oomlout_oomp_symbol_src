@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_bus_m_2_socket_b/working
   oomp_src_flat: symbols_flat/kicad_connector_bus_m_2_socket_b/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_bus_m_2_socket_b/working
-name: connector_bus_m_2_socket_b
+name: bus_m_2_socket_b
 oomp:
   library_name: connector
-  md5: 6b703f213894b1f038b08e4712051267
-  md5_10: 6b703f2138
-  md5_5: 6b703
-  md5_6: 6b703f
-  oomp_key: oomp_connector_bus_m_2_socket_b
-  oomp_key_extra: oomp_symbol_connector_bus_m_2_socket_b
-  oomp_key_full: oomp_symbol_connector_bus_m_2_socket_b_6b703f
-  oomp_key_simple: connector_bus_m_2_socket_b
+  md5: 08421045682cf00c7862e37b9c85b81a
+  md5_10: 0842104568
+  md5_5: 08421
+  md5_6: 084210
+  oomp_key: oomp_bus_m_2_socket_b
+  oomp_key_extra: oomp_symbol_bus_m_2_socket_b
+  oomp_key_full: oomp_symbol_bus_m_2_socket_b_084210
+  oomp_key_simple: bus_m_2_socket_b
   owner_name: kicad
-  symbol_name: connector_bus_m_2_socket_b
+  symbol_name: bus_m_2_socket_b
 oomp_key: oomp_kicad_connector_bus_m_2_socket_b
 oomp_key_simple: kicad_connector_bus_m_2_socket_b
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

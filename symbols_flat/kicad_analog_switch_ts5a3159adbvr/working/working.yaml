@@ -1,19 +1,19 @@
 id: kicad_analog_switch_ts5a3159adbvr
 library: analog_switch
 library_name: Analog_Switch
-name: analog_switch_ts5a3159adbvr
+name: ts5a3159adbvr
 oomp:
   library_name: analog_switch
-  md5: 300fb968b092abc71e2ee5835675978b
-  md5_10: 300fb968b0
-  md5_5: 300fb
-  md5_6: 300fb9
-  oomp_key: oomp_analog_switch_ts5a3159adbvr
-  oomp_key_extra: oomp_symbol_analog_switch_ts5a3159adbvr
-  oomp_key_full: oomp_symbol_analog_switch_ts5a3159adbvr_300fb9
-  oomp_key_simple: analog_switch_ts5a3159adbvr
+  md5: fdda745f6bad91fd1af6e928d118f8da
+  md5_10: fdda745f6b
+  md5_5: fdda7
+  md5_6: fdda74
+  oomp_key: oomp_ts5a3159adbvr
+  oomp_key_extra: oomp_symbol_ts5a3159adbvr
+  oomp_key_full: oomp_symbol_ts5a3159adbvr_fdda74
+  oomp_key_simple: ts5a3159adbvr
   owner_name: kicad
-  symbol_name: analog_switch_ts5a3159adbvr
+  symbol_name: ts5a3159adbvr
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

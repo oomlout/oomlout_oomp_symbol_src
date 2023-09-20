@@ -1,19 +1,19 @@
 id: kicad_interface_am26ls31cdb
 library: interface
 library_name: Interface
-name: interface_am26ls31cdb
+name: am26ls31cdb
 oomp:
   library_name: interface
-  md5: 4577cee22e5cdf804ca562affa7bb1d8
-  md5_10: 4577cee22e
-  md5_5: 4577c
-  md5_6: 4577ce
-  oomp_key: oomp_interface_am26ls31cdb
-  oomp_key_extra: oomp_symbol_interface_am26ls31cdb
-  oomp_key_full: oomp_symbol_interface_am26ls31cdb_4577ce
-  oomp_key_simple: interface_am26ls31cdb
+  md5: a83c9d710531898570044e2fc377203d
+  md5_10: a83c9d7105
+  md5_5: a83c9
+  md5_6: a83c9d
+  oomp_key: oomp_am26ls31cdb
+  oomp_key_extra: oomp_symbol_am26ls31cdb
+  oomp_key_full: oomp_symbol_am26ls31cdb_a83c9d
+  oomp_key_simple: am26ls31cdb
   owner_name: kicad
-  symbol_name: interface_am26ls31cdb
+  symbol_name: am26ls31cdb
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

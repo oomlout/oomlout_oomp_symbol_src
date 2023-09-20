@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_opa2695xrgt/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_opa2695xrgt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_opa2695xrgt/working
-name: amplifier_operational_opa2695xrgt
+name: opa2695xrgt
 oomp:
   library_name: amplifier_operational
-  md5: 7e7fd0ec10edefdd9bb3f507e1ac05e9
-  md5_10: 7e7fd0ec10
-  md5_5: 7e7fd
-  md5_6: 7e7fd0
-  oomp_key: oomp_amplifier_operational_opa2695xrgt
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa2695xrgt
-  oomp_key_full: oomp_symbol_amplifier_operational_opa2695xrgt_7e7fd0
-  oomp_key_simple: amplifier_operational_opa2695xrgt
+  md5: 38ddb82dc36144010c19ff4d2dce3fd3
+  md5_10: 38ddb82dc3
+  md5_5: 38ddb
+  md5_6: 38ddb8
+  oomp_key: oomp_opa2695xrgt
+  oomp_key_extra: oomp_symbol_opa2695xrgt
+  oomp_key_full: oomp_symbol_opa2695xrgt_38ddb8
+  oomp_key_simple: opa2695xrgt
   owner_name: kicad
-  symbol_name: amplifier_operational_opa2695xrgt
+  symbol_name: opa2695xrgt
 oomp_key: oomp_kicad_amplifier_operational_opa2695xrgt
 oomp_key_simple: kicad_amplifier_operational_opa2695xrgt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_rayex_l90b/working
   oomp_src_flat: symbols_flat/kicad_relay_rayex_l90b/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_rayex_l90b/working
-name: relay_rayex_l90b
+name: rayex_l90b
 oomp:
   library_name: relay
-  md5: ea239cdebb8bd2b06592e22c25d09a6a
-  md5_10: ea239cdebb
-  md5_5: ea239
-  md5_6: ea239c
-  oomp_key: oomp_relay_rayex_l90b
-  oomp_key_extra: oomp_symbol_relay_rayex_l90b
-  oomp_key_full: oomp_symbol_relay_rayex_l90b_ea239c
-  oomp_key_simple: relay_rayex_l90b
+  md5: b9895673b60d9a31442243c32e84756a
+  md5_10: b9895673b6
+  md5_5: b9895
+  md5_6: b98956
+  oomp_key: oomp_rayex_l90b
+  oomp_key_extra: oomp_symbol_rayex_l90b
+  oomp_key_full: oomp_symbol_rayex_l90b_b98956
+  oomp_key_simple: rayex_l90b
   owner_name: kicad
-  symbol_name: relay_rayex_l90b
+  symbol_name: rayex_l90b
 oomp_key: oomp_kicad_relay_rayex_l90b
 oomp_key_simple: kicad_relay_rayex_l90b
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

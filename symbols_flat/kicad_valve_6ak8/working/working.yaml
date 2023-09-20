@@ -1,19 +1,19 @@
 id: kicad_valve_6ak8
 library: valve
 library_name: Valve
-name: valve_6ak8
+name: 6ak8
 oomp:
   library_name: valve
-  md5: 95046ae9690c979fee818edb9c8694c2
-  md5_10: 95046ae969
-  md5_5: '95046'
-  md5_6: 95046a
-  oomp_key: oomp_valve_6ak8
-  oomp_key_extra: oomp_symbol_valve_6ak8
-  oomp_key_full: oomp_symbol_valve_6ak8_95046a
-  oomp_key_simple: valve_6ak8
+  md5: 583e5b8d5e5d4c1b945f83e47d5e1116
+  md5_10: 583e5b8d5e
+  md5_5: 583e5
+  md5_6: 583e5b
+  oomp_key: oomp_6ak8
+  oomp_key_extra: oomp_symbol_6ak8
+  oomp_key_full: oomp_symbol_6ak8_583e5b
+  oomp_key_simple: 6ak8
   owner_name: kicad
-  symbol_name: valve_6ak8
+  symbol_name: 6ak8
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

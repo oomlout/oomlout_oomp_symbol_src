@@ -1,19 +1,19 @@
 id: kicad_power_supervisor_mcp130_xxxxtt
 library: power_supervisor
 library_name: Power_Supervisor
-name: power_supervisor_mcp130_xxxxtt
+name: mcp130_xxxxtt
 oomp:
   library_name: power_supervisor
-  md5: 1213ccbcfcf6ee902e785eca1983e682
-  md5_10: 1213ccbcfc
-  md5_5: 1213c
-  md5_6: 1213cc
-  oomp_key: oomp_power_supervisor_mcp130_xxxxtt
-  oomp_key_extra: oomp_symbol_power_supervisor_mcp130_xxxxtt
-  oomp_key_full: oomp_symbol_power_supervisor_mcp130_xxxxtt_1213cc
-  oomp_key_simple: power_supervisor_mcp130_xxxxtt
+  md5: 4d809b034521e0e92898e122cc12dc1c
+  md5_10: 4d809b0345
+  md5_5: 4d809
+  md5_6: 4d809b
+  oomp_key: oomp_mcp130_xxxxtt
+  oomp_key_extra: oomp_symbol_mcp130_xxxxtt
+  oomp_key_full: oomp_symbol_mcp130_xxxxtt_4d809b
+  oomp_key_simple: mcp130_xxxxtt
   owner_name: kicad
-  symbol_name: power_supervisor_mcp130_xxxxtt
+  symbol_name: mcp130_xxxxtt
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

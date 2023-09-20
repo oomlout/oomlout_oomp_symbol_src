@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_max311/working
   oomp_src_flat: symbols_flat/kicad_video_max311/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_max311/working
-name: video_max311
+name: max311
 oomp:
   library_name: video
-  md5: 89ceb01f26fe12ad1f08f816b0538168
-  md5_10: 89ceb01f26
-  md5_5: 89ceb
-  md5_6: 89ceb0
-  oomp_key: oomp_video_max311
-  oomp_key_extra: oomp_symbol_video_max311
-  oomp_key_full: oomp_symbol_video_max311_89ceb0
-  oomp_key_simple: video_max311
+  md5: 7808b7931c2d63583251097ec07d647d
+  md5_10: 7808b7931c
+  md5_5: 7808b
+  md5_6: 7808b7
+  oomp_key: oomp_max311
+  oomp_key_extra: oomp_symbol_max311
+  oomp_key_full: oomp_symbol_max311_7808b7
+  oomp_key_simple: max311
   owner_name: kicad
-  symbol_name: video_max311
+  symbol_name: max311
 oomp_key: oomp_kicad_video_max311
 oomp_key_simple: kicad_video_max311
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

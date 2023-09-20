@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_potentiometer_digital_x9250/working
   oomp_src_flat: symbols_flat/kicad_potentiometer_digital_x9250/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_potentiometer_digital_x9250/working
-name: potentiometer_digital_x9250
+name: x9250
 oomp:
   library_name: potentiometer_digital
-  md5: 059685f82ea8fd7b7e81594128053d24
-  md5_10: 059685f82e
-  md5_5: 05968
-  md5_6: 059685
-  oomp_key: oomp_potentiometer_digital_x9250
-  oomp_key_extra: oomp_symbol_potentiometer_digital_x9250
-  oomp_key_full: oomp_symbol_potentiometer_digital_x9250_059685
-  oomp_key_simple: potentiometer_digital_x9250
+  md5: 1a5ee725e2b705ec9b7e068829673749
+  md5_10: 1a5ee725e2
+  md5_5: 1a5ee
+  md5_6: 1a5ee7
+  oomp_key: oomp_x9250
+  oomp_key_extra: oomp_symbol_x9250
+  oomp_key_full: oomp_symbol_x9250_1a5ee7
+  oomp_key_simple: x9250
   owner_name: kicad
-  symbol_name: potentiometer_digital_x9250
+  symbol_name: x9250
 oomp_key: oomp_kicad_potentiometer_digital_x9250
 oomp_key_simple: kicad_potentiometer_digital_x9250
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

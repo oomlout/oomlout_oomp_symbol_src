@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_lm4125aim5_2_5/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_lm4125aim5_2_5/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_lm4125aim5_2_5/working
-name: reference_voltage_lm4125aim5_2_5
+name: lm4125aim5_2_5
 oomp:
   library_name: reference_voltage
-  md5: ac708edf3899a6979c743f68df0ee211
-  md5_10: ac708edf38
-  md5_5: ac708
-  md5_6: ac708e
-  oomp_key: oomp_reference_voltage_lm4125aim5_2_5
-  oomp_key_extra: oomp_symbol_reference_voltage_lm4125aim5_2_5
-  oomp_key_full: oomp_symbol_reference_voltage_lm4125aim5_2_5_ac708e
-  oomp_key_simple: reference_voltage_lm4125aim5_2_5
+  md5: 68b4ea1b137bdd0ef61c15626b510210
+  md5_10: 68b4ea1b13
+  md5_5: 68b4e
+  md5_6: 68b4ea
+  oomp_key: oomp_lm4125aim5_2_5
+  oomp_key_extra: oomp_symbol_lm4125aim5_2_5
+  oomp_key_full: oomp_symbol_lm4125aim5_2_5_68b4ea
+  oomp_key_simple: lm4125aim5_2_5
   owner_name: kicad
-  symbol_name: reference_voltage_lm4125aim5_2_5
+  symbol_name: lm4125aim5_2_5
 oomp_key: oomp_kicad_reference_voltage_lm4125aim5_2_5
 oomp_key_simple: kicad_reference_voltage_lm4125aim5_2_5
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

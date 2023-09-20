@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_motor_fan_tacho_pwm/working
   oomp_src_flat: symbols_flat/kicad_motor_fan_tacho_pwm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_motor_fan_tacho_pwm/working
-name: motor_fan_tacho_pwm
+name: fan_tacho_pwm
 oomp:
   library_name: motor
-  md5: 7c160f7670c5b3e155927a5757f1b3e3
-  md5_10: 7c160f7670
-  md5_5: 7c160
-  md5_6: 7c160f
-  oomp_key: oomp_motor_fan_tacho_pwm
-  oomp_key_extra: oomp_symbol_motor_fan_tacho_pwm
-  oomp_key_full: oomp_symbol_motor_fan_tacho_pwm_7c160f
-  oomp_key_simple: motor_fan_tacho_pwm
+  md5: 373f2b21706a1cc4730d431650889ce9
+  md5_10: 373f2b2170
+  md5_5: 373f2
+  md5_6: 373f2b
+  oomp_key: oomp_fan_tacho_pwm
+  oomp_key_extra: oomp_symbol_fan_tacho_pwm
+  oomp_key_full: oomp_symbol_fan_tacho_pwm_373f2b
+  oomp_key_simple: fan_tacho_pwm
   owner_name: kicad
-  symbol_name: motor_fan_tacho_pwm
+  symbol_name: fan_tacho_pwm
 oomp_key: oomp_kicad_motor_fan_tacho_pwm
 oomp_key_simple: kicad_motor_fan_tacho_pwm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

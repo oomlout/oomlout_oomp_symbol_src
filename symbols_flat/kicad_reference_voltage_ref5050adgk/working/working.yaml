@@ -1,19 +1,19 @@
 id: kicad_reference_voltage_ref5050adgk
 library: reference_voltage
 library_name: Reference_Voltage
-name: reference_voltage_ref5050adgk
+name: ref5050adgk
 oomp:
   library_name: reference_voltage
-  md5: de5be9f080cf3f4090ffd8ffe8ccc143
-  md5_10: de5be9f080
-  md5_5: de5be
-  md5_6: de5be9
-  oomp_key: oomp_reference_voltage_ref5050adgk
-  oomp_key_extra: oomp_symbol_reference_voltage_ref5050adgk
-  oomp_key_full: oomp_symbol_reference_voltage_ref5050adgk_de5be9
-  oomp_key_simple: reference_voltage_ref5050adgk
+  md5: 33aa6052a42f254d68db2757315d2ebf
+  md5_10: 33aa6052a4
+  md5_5: 33aa6
+  md5_6: 33aa60
+  oomp_key: oomp_ref5050adgk
+  oomp_key_extra: oomp_symbol_ref5050adgk
+  oomp_key_full: oomp_symbol_ref5050adgk_33aa60
+  oomp_key_simple: ref5050adgk
   owner_name: kicad
-  symbol_name: reference_voltage_ref5050adgk
+  symbol_name: ref5050adgk
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

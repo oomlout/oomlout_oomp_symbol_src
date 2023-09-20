@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_triac_a1a2g/working
   oomp_src_flat: symbols_flat/kicad_device_q_triac_a1a2g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_triac_a1a2g/working
-name: device_q_triac_a1a2g
+name: q_triac_a1a2g
 oomp:
   library_name: device
-  md5: c76acac90a28fba7e23543f63d50a946
-  md5_10: c76acac90a
-  md5_5: c76ac
-  md5_6: c76aca
-  oomp_key: oomp_device_q_triac_a1a2g
-  oomp_key_extra: oomp_symbol_device_q_triac_a1a2g
-  oomp_key_full: oomp_symbol_device_q_triac_a1a2g_c76aca
-  oomp_key_simple: device_q_triac_a1a2g
+  md5: af2c4395f180fe889f8007840168ea73
+  md5_10: af2c4395f1
+  md5_5: af2c4
+  md5_6: af2c43
+  oomp_key: oomp_q_triac_a1a2g
+  oomp_key_extra: oomp_symbol_q_triac_a1a2g
+  oomp_key_full: oomp_symbol_q_triac_a1a2g_af2c43
+  oomp_key_simple: q_triac_a1a2g
   owner_name: kicad
-  symbol_name: device_q_triac_a1a2g
+  symbol_name: q_triac_a1a2g
 oomp_key: oomp_kicad_device_q_triac_a1a2g
 oomp_key_simple: kicad_device_q_triac_a1a2g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

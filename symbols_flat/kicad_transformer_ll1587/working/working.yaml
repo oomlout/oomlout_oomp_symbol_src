@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_ll1587/working
   oomp_src_flat: symbols_flat/kicad_transformer_ll1587/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_ll1587/working
-name: transformer_ll1587
+name: ll1587
 oomp:
   library_name: transformer
-  md5: 7d77d2e52494d76d10071c43ce5b8181
-  md5_10: 7d77d2e524
-  md5_5: 7d77d
-  md5_6: 7d77d2
-  oomp_key: oomp_transformer_ll1587
-  oomp_key_extra: oomp_symbol_transformer_ll1587
-  oomp_key_full: oomp_symbol_transformer_ll1587_7d77d2
-  oomp_key_simple: transformer_ll1587
+  md5: 34d27fe683f59815794fe338c21dab81
+  md5_10: 34d27fe683
+  md5_5: 34d27
+  md5_6: 34d27f
+  oomp_key: oomp_ll1587
+  oomp_key_extra: oomp_symbol_ll1587
+  oomp_key_full: oomp_symbol_ll1587_34d27f
+  oomp_key_simple: ll1587
   owner_name: kicad
-  symbol_name: transformer_ll1587
+  symbol_name: ll1587
 oomp_key: oomp_kicad_transformer_ll1587
 oomp_key_simple: kicad_transformer_ll1587
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

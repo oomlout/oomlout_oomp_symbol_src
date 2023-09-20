@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_tdn_5_2413wism
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_tdn_5_2413wism
+name: tdn_5_2413wism
 oomp:
   library_name: regulator_switching
-  md5: 3589406d7cf069a7d6be4d66384f5345
-  md5_10: 3589406d7c
-  md5_5: '35894'
-  md5_6: '358940'
-  oomp_key: oomp_regulator_switching_tdn_5_2413wism
-  oomp_key_extra: oomp_symbol_regulator_switching_tdn_5_2413wism
-  oomp_key_full: oomp_symbol_regulator_switching_tdn_5_2413wism_358940
-  oomp_key_simple: regulator_switching_tdn_5_2413wism
+  md5: d4f48592bfa6b52944dfda54f1a1011f
+  md5_10: d4f48592bf
+  md5_5: d4f48
+  md5_6: d4f485
+  oomp_key: oomp_tdn_5_2413wism
+  oomp_key_extra: oomp_symbol_tdn_5_2413wism
+  oomp_key_full: oomp_symbol_tdn_5_2413wism_d4f485
+  oomp_key_simple: tdn_5_2413wism
   owner_name: kicad
-  symbol_name: regulator_switching_tdn_5_2413wism
+  symbol_name: tdn_5_2413wism
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_rbkg/working
   oomp_src_flat: symbols_flat/kicad_device_led_rbkg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_rbkg/working
-name: device_led_rbkg
+name: led_rbkg
 oomp:
   library_name: device
-  md5: 4f290ec6b0a09e031975fb6f03e29ef6
-  md5_10: 4f290ec6b0
-  md5_5: 4f290
-  md5_6: 4f290e
-  oomp_key: oomp_device_led_rbkg
-  oomp_key_extra: oomp_symbol_device_led_rbkg
-  oomp_key_full: oomp_symbol_device_led_rbkg_4f290e
-  oomp_key_simple: device_led_rbkg
+  md5: 69434aa9698ad95ffeb17571cb8d1a90
+  md5_10: 69434aa969
+  md5_5: '69434'
+  md5_6: 69434a
+  oomp_key: oomp_led_rbkg
+  oomp_key_extra: oomp_symbol_led_rbkg
+  oomp_key_full: oomp_symbol_led_rbkg_69434a
+  oomp_key_simple: led_rbkg
   owner_name: kicad
-  symbol_name: device_led_rbkg
+  symbol_name: led_rbkg
 oomp_key: oomp_kicad_device_led_rbkg
 oomp_key_simple: kicad_device_led_rbkg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

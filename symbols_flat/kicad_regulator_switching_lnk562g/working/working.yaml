@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lnk562g/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lnk562g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lnk562g/working
-name: regulator_switching_lnk562g
+name: lnk562g
 oomp:
   library_name: regulator_switching
-  md5: 42a583b6660d6d997d2f6f120f9d3d12
-  md5_10: 42a583b666
-  md5_5: 42a58
-  md5_6: 42a583
-  oomp_key: oomp_regulator_switching_lnk562g
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk562g
-  oomp_key_full: oomp_symbol_regulator_switching_lnk562g_42a583
-  oomp_key_simple: regulator_switching_lnk562g
+  md5: a3a1e9beb049be4b0dbd128a788c7051
+  md5_10: a3a1e9beb0
+  md5_5: a3a1e
+  md5_6: a3a1e9
+  oomp_key: oomp_lnk562g
+  oomp_key_extra: oomp_symbol_lnk562g
+  oomp_key_full: oomp_symbol_lnk562g_a3a1e9
+  oomp_key_simple: lnk562g
   owner_name: kicad
-  symbol_name: regulator_switching_lnk562g
+  symbol_name: lnk562g
 oomp_key: oomp_kicad_regulator_switching_lnk562g
 oomp_key_simple: kicad_regulator_switching_lnk562g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

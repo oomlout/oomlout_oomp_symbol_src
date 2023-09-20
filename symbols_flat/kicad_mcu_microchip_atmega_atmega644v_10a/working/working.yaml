@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_atmega_atmega644v_10a/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_atmega_atmega644v_10a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_atmega_atmega644v_10a/working
-name: mcu_microchip_atmega_atmega644v_10a
+name: atmega644v_10a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 671f4db66c94fe89cfaedc1b449d725c
-  md5_10: 671f4db66c
-  md5_5: 671f4
-  md5_6: 671f4d
-  oomp_key: oomp_mcu_microchip_atmega_atmega644v_10a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega644v_10a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega644v_10a_671f4d
-  oomp_key_simple: mcu_microchip_atmega_atmega644v_10a
+  md5: 8b2bab68832889698a0a7a8ba88ea9c2
+  md5_10: 8b2bab6883
+  md5_5: 8b2ba
+  md5_6: 8b2bab
+  oomp_key: oomp_atmega644v_10a
+  oomp_key_extra: oomp_symbol_atmega644v_10a
+  oomp_key_full: oomp_symbol_atmega644v_10a_8b2bab
+  oomp_key_simple: atmega644v_10a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega644v_10a
+  symbol_name: atmega644v_10a
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega644v_10a
 oomp_key_simple: kicad_mcu_microchip_atmega_atmega644v_10a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

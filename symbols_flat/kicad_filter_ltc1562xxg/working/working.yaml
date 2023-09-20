@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_filter_ltc1562xxg/working
   oomp_src_flat: symbols_flat/kicad_filter_ltc1562xxg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_filter_ltc1562xxg/working
-name: filter_ltc1562xxg
+name: ltc1562xxg
 oomp:
   library_name: filter
-  md5: e145f074f8547e49371b7c9ce58b653d
-  md5_10: e145f074f8
-  md5_5: e145f
-  md5_6: e145f0
-  oomp_key: oomp_filter_ltc1562xxg
-  oomp_key_extra: oomp_symbol_filter_ltc1562xxg
-  oomp_key_full: oomp_symbol_filter_ltc1562xxg_e145f0
-  oomp_key_simple: filter_ltc1562xxg
+  md5: e914e740741b663b5fe7edae51a6c60a
+  md5_10: e914e74074
+  md5_5: e914e
+  md5_6: e914e7
+  oomp_key: oomp_ltc1562xxg
+  oomp_key_extra: oomp_symbol_ltc1562xxg
+  oomp_key_full: oomp_symbol_ltc1562xxg_e914e7
+  oomp_key_simple: ltc1562xxg
   owner_name: kicad
-  symbol_name: filter_ltc1562xxg
+  symbol_name: ltc1562xxg
 oomp_key: oomp_kicad_filter_ltc1562xxg
 oomp_key_simple: kicad_filter_ltc1562xxg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_lmp8640/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_lmp8640/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_lmp8640/working
-name: amplifier_current_lmp8640
+name: lmp8640
 oomp:
   library_name: amplifier_current
-  md5: 92eb3cb35101d82389439bdf2cc5bcc3
-  md5_10: 92eb3cb351
-  md5_5: 92eb3
-  md5_6: 92eb3c
-  oomp_key: oomp_amplifier_current_lmp8640
-  oomp_key_extra: oomp_symbol_amplifier_current_lmp8640
-  oomp_key_full: oomp_symbol_amplifier_current_lmp8640_92eb3c
-  oomp_key_simple: amplifier_current_lmp8640
+  md5: bcc205f2b1b31d7cd25785e93ada70a6
+  md5_10: bcc205f2b1
+  md5_5: bcc20
+  md5_6: bcc205
+  oomp_key: oomp_lmp8640
+  oomp_key_extra: oomp_symbol_lmp8640
+  oomp_key_full: oomp_symbol_lmp8640_bcc205
+  oomp_key_simple: lmp8640
   owner_name: kicad
-  symbol_name: amplifier_current_lmp8640
+  symbol_name: lmp8640
 oomp_key: oomp_kicad_amplifier_current_lmp8640
 oomp_key_simple: kicad_amplifier_current_lmp8640
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_flash_mx25r3235fm1xx0/working
   oomp_src_flat: symbols_flat/kicad_memory_flash_mx25r3235fm1xx0/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_flash_mx25r3235fm1xx0/working
-name: memory_flash_mx25r3235fm1xx0
+name: mx25r3235fm1xx0
 oomp:
   library_name: memory_flash
-  md5: 41b92e9ebaf82067fdf6a420adbf6415
-  md5_10: 41b92e9eba
-  md5_5: 41b92
-  md5_6: 41b92e
-  oomp_key: oomp_memory_flash_mx25r3235fm1xx0
-  oomp_key_extra: oomp_symbol_memory_flash_mx25r3235fm1xx0
-  oomp_key_full: oomp_symbol_memory_flash_mx25r3235fm1xx0_41b92e
-  oomp_key_simple: memory_flash_mx25r3235fm1xx0
+  md5: c14dcaab0d1074a22eb31f5547b10333
+  md5_10: c14dcaab0d
+  md5_5: c14dc
+  md5_6: c14dca
+  oomp_key: oomp_mx25r3235fm1xx0
+  oomp_key_extra: oomp_symbol_mx25r3235fm1xx0
+  oomp_key_full: oomp_symbol_mx25r3235fm1xx0_c14dca
+  oomp_key_simple: mx25r3235fm1xx0
   owner_name: kicad
-  symbol_name: memory_flash_mx25r3235fm1xx0
+  symbol_name: mx25r3235fm1xx0
 oomp_key: oomp_kicad_memory_flash_mx25r3235fm1xx0
 oomp_key_simple: kicad_memory_flash_mx25r3235fm1xx0
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

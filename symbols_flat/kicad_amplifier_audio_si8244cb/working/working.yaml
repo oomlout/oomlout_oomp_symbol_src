@@ -1,19 +1,19 @@
 id: kicad_amplifier_audio_si8244cb
 library: amplifier_audio
 library_name: Amplifier_Audio
-name: amplifier_audio_si8244cb
+name: si8244cb
 oomp:
   library_name: amplifier_audio
-  md5: caba6c9c2b2594b7ee59d67a662524d3
-  md5_10: caba6c9c2b
-  md5_5: caba6
-  md5_6: caba6c
-  oomp_key: oomp_amplifier_audio_si8244cb
-  oomp_key_extra: oomp_symbol_amplifier_audio_si8244cb
-  oomp_key_full: oomp_symbol_amplifier_audio_si8244cb_caba6c
-  oomp_key_simple: amplifier_audio_si8244cb
+  md5: 73423589547c627051ed5a63e1df7373
+  md5_10: '7342358954'
+  md5_5: '73423'
+  md5_6: '734235'
+  oomp_key: oomp_si8244cb
+  oomp_key_extra: oomp_symbol_si8244cb
+  oomp_key_full: oomp_symbol_si8244cb_734235
+  oomp_key_simple: si8244cb
   owner_name: kicad
-  symbol_name: amplifier_audio_si8244cb
+  symbol_name: si8244cb
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

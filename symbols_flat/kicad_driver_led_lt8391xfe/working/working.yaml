@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_lt8391xfe/working
   oomp_src_flat: symbols_flat/kicad_driver_led_lt8391xfe/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_lt8391xfe/working
-name: driver_led_lt8391xfe
+name: lt8391xfe
 oomp:
   library_name: driver_led
-  md5: a76a23612c3203cc01d352019b0af0a6
-  md5_10: a76a23612c
-  md5_5: a76a2
-  md5_6: a76a23
-  oomp_key: oomp_driver_led_lt8391xfe
-  oomp_key_extra: oomp_symbol_driver_led_lt8391xfe
-  oomp_key_full: oomp_symbol_driver_led_lt8391xfe_a76a23
-  oomp_key_simple: driver_led_lt8391xfe
+  md5: 83dfa864d57097d9c019efff5f0d393e
+  md5_10: 83dfa864d5
+  md5_5: 83dfa
+  md5_6: 83dfa8
+  oomp_key: oomp_lt8391xfe
+  oomp_key_extra: oomp_symbol_lt8391xfe
+  oomp_key_full: oomp_symbol_lt8391xfe_83dfa8
+  oomp_key_simple: lt8391xfe
   owner_name: kicad
-  symbol_name: driver_led_lt8391xfe
+  symbol_name: lt8391xfe
 oomp_key: oomp_kicad_driver_led_lt8391xfe
 oomp_key_simple: kicad_driver_led_lt8391xfe
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

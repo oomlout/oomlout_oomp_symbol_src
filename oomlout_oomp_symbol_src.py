@@ -175,6 +175,7 @@ def get_all_symbols_from_kicad_syms(**kwargs):
             sym = SymbolLib().from_file(kicad_sym.replace('/', '\\'))
         
             if sym != None:
+                
                 #libaryr name is just the filename of kicad_sym
                 library_name = kicad_sym.split('/')[-1]
                 library_name = library_name.replace('.kicad_sym', '').replace('tmp/', '')
@@ -182,7 +183,10 @@ def get_all_symbols_from_kicad_syms(**kwargs):
                 library_name = library_name.replace('/', '_')
                 library_name = library_name.replace('-', '_')
                 #add owner and name to each symbol
+                
+                
                 for symbol in sym.symbols: 
+
                     symbol = oom_kiutils.symbol_change_name_oomp(symbol=symbol, library_name=library_name, repo=repo)
                     deets = {}
                     deets['symbol'] = symbol
@@ -190,15 +194,21 @@ def get_all_symbols_from_kicad_syms(**kwargs):
                     deets["library_name"] = library_name
                     deets["repo_github"] = get_repo_from_github(repo=repo)
                     #symbol_name = f'{current_owner}_{library_name}_{current_entry_name}'
+                    
+
+
                     owner = repo['owner']
                     deets["owner"] = owner
                     library = library_name.lower()
                     deets["library"] = library
-                    name = symbol.entryName.replace(f'{repo["owner"]}_', '').replace(f'{library}_', '')
-                    deets["name"] = symbol.entryName.replace(f'{repo["owner"]}_', '')
+                    name = symbol.entryName.replace(f'{library}_', '').replace(f'{repo["owner"]}_', '')
+                    deets["name"] = name
                     id = f'{owner}_{library}_{name}'
                     deets["id"] = id
                     print(f"loading symbol {id}")
+
+                    if "h4pra" in name:
+                        pass
 
                     symbols.append(deets)                    
         except Exception as e:
@@ -318,7 +328,7 @@ def make_a_flat_representation_with_one_simple_per_directory(**kwargs):
         directory_name = f'symbols_flat/{symbol_name}/working'
         #create if it doesn't exist
         os.makedirs(os.path.dirname(directory_name), exist_ok=True)
-        
+
         folder = f'{symbol_name}/working'
         library_name = f'{directory_name}/working.kicad_sym'
         #skip if extends not in symbol[symbol] or if it doesn't equal none

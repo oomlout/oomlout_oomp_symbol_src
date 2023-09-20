@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lt1964_sd/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lt1964_sd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lt1964_sd/working
-name: regulator_linear_lt1964_sd
+name: lt1964_sd
 oomp:
   library_name: regulator_linear
-  md5: 627d1a40998104f47d1e6aa35585dccc
-  md5_10: 627d1a4099
-  md5_5: 627d1
-  md5_6: 627d1a
-  oomp_key: oomp_regulator_linear_lt1964_sd
-  oomp_key_extra: oomp_symbol_regulator_linear_lt1964_sd
-  oomp_key_full: oomp_symbol_regulator_linear_lt1964_sd_627d1a
-  oomp_key_simple: regulator_linear_lt1964_sd
+  md5: 8169b83c5be8368a505cdc3e5cc4b914
+  md5_10: 8169b83c5b
+  md5_5: 8169b
+  md5_6: 8169b8
+  oomp_key: oomp_lt1964_sd
+  oomp_key_extra: oomp_symbol_lt1964_sd
+  oomp_key_full: oomp_symbol_lt1964_sd_8169b8
+  oomp_key_simple: lt1964_sd
   owner_name: kicad
-  symbol_name: regulator_linear_lt1964_sd
+  symbol_name: lt1964_sd
 oomp_key: oomp_kicad_regulator_linear_lt1964_sd
 oomp_key_simple: kicad_regulator_linear_lt1964_sd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

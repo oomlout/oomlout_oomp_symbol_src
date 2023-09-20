@@ -1,19 +1,19 @@
 id: kicad_connector_rj31
 library: connector
 library_name: Connector
-name: connector_rj31
+name: rj31
 oomp:
   library_name: connector
-  md5: 7dd4b276cb91b2842d0c35ce3a6c82a9
-  md5_10: 7dd4b276cb
-  md5_5: 7dd4b
-  md5_6: 7dd4b2
-  oomp_key: oomp_connector_rj31
-  oomp_key_extra: oomp_symbol_connector_rj31
-  oomp_key_full: oomp_symbol_connector_rj31_7dd4b2
-  oomp_key_simple: connector_rj31
+  md5: 976427f0db006f4a7bca9ce7832d8bf9
+  md5_10: 976427f0db
+  md5_5: '97642'
+  md5_6: '976427'
+  oomp_key: oomp_rj31
+  oomp_key_extra: oomp_symbol_rj31
+  oomp_key_full: oomp_symbol_rj31_976427
+  oomp_key_simple: rj31
   owner_name: kicad
-  symbol_name: connector_rj31
+  symbol_name: rj31
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

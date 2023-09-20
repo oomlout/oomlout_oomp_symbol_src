@@ -1,19 +1,19 @@
 id: kicad_sensor_pressure_mpxaz6115a
 library: sensor_pressure
 library_name: Sensor_Pressure
-name: sensor_pressure_mpxaz6115a
+name: mpxaz6115a
 oomp:
   library_name: sensor_pressure
-  md5: 74668a7f2e1a85a49daceac8302f48bf
-  md5_10: 74668a7f2e
-  md5_5: '74668'
-  md5_6: 74668a
-  oomp_key: oomp_sensor_pressure_mpxaz6115a
-  oomp_key_extra: oomp_symbol_sensor_pressure_mpxaz6115a
-  oomp_key_full: oomp_symbol_sensor_pressure_mpxaz6115a_74668a
-  oomp_key_simple: sensor_pressure_mpxaz6115a
+  md5: 7bf8b893cc5c2427de828242230dd50c
+  md5_10: 7bf8b893cc
+  md5_5: 7bf8b
+  md5_6: 7bf8b8
+  oomp_key: oomp_mpxaz6115a
+  oomp_key_extra: oomp_symbol_mpxaz6115a
+  oomp_key_full: oomp_symbol_mpxaz6115a_7bf8b8
+  oomp_key_simple: mpxaz6115a
   owner_name: kicad
-  symbol_name: sensor_pressure_mpxaz6115a
+  symbol_name: mpxaz6115a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

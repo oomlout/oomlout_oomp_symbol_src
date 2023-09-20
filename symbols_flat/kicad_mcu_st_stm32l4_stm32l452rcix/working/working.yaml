@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32l4_stm32l452rcix
 library: mcu_st_stm32l4
 library_name: MCU_ST_STM32L4
-name: mcu_st_stm32l4_stm32l452rcix
+name: stm32l452rcix
 oomp:
   library_name: mcu_st_stm32l4
-  md5: 868bb96c33081998db10e9c6138f4ff7
-  md5_10: 868bb96c33
-  md5_5: 868bb
-  md5_6: 868bb9
-  oomp_key: oomp_mcu_st_stm32l4_stm32l452rcix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l452rcix
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l452rcix_868bb9
-  oomp_key_simple: mcu_st_stm32l4_stm32l452rcix
+  md5: 06ea88d787b0e4495c62ebb7bc1541d7
+  md5_10: 06ea88d787
+  md5_5: 06ea8
+  md5_6: 06ea88
+  oomp_key: oomp_stm32l452rcix
+  oomp_key_extra: oomp_symbol_stm32l452rcix
+  oomp_key_full: oomp_symbol_stm32l452rcix_06ea88
+  oomp_key_simple: stm32l452rcix
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l452rcix
+  symbol_name: stm32l452rcix
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

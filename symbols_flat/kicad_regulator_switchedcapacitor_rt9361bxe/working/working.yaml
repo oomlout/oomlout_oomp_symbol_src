@@ -1,19 +1,19 @@
 id: kicad_regulator_switchedcapacitor_rt9361bxe
 library: regulator_switchedcapacitor
 library_name: Regulator_SwitchedCapacitor
-name: regulator_switchedcapacitor_rt9361bxe
+name: rt9361bxe
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: 75e1883f4244fcdc926867a38429784e
-  md5_10: 75e1883f42
-  md5_5: 75e18
-  md5_6: 75e188
-  oomp_key: oomp_regulator_switchedcapacitor_rt9361bxe
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_rt9361bxe
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_rt9361bxe_75e188
-  oomp_key_simple: regulator_switchedcapacitor_rt9361bxe
+  md5: 41f0f0cd9b0dc97f6c948eb3b350e550
+  md5_10: 41f0f0cd9b
+  md5_5: 41f0f
+  md5_6: 41f0f0
+  oomp_key: oomp_rt9361bxe
+  oomp_key_extra: oomp_symbol_rt9361bxe
+  oomp_key_full: oomp_symbol_rt9361bxe_41f0f0
+  oomp_key_simple: rt9361bxe
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_rt9361bxe
+  symbol_name: rt9361bxe
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

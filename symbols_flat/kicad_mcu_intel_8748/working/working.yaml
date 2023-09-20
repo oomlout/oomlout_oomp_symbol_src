@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_intel_8748/working
   oomp_src_flat: symbols_flat/kicad_mcu_intel_8748/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_intel_8748/working
-name: mcu_intel_8748
+name: '8748'
 oomp:
   library_name: mcu_intel
-  md5: 11090b08dd5cbd30411acd61b0a93a52
-  md5_10: 11090b08dd
-  md5_5: '11090'
-  md5_6: 11090b
-  oomp_key: oomp_mcu_intel_8748
-  oomp_key_extra: oomp_symbol_mcu_intel_8748
-  oomp_key_full: oomp_symbol_mcu_intel_8748_11090b
-  oomp_key_simple: mcu_intel_8748
+  md5: 29c08a4baebd25af6a2acf659cf834e8
+  md5_10: 29c08a4bae
+  md5_5: 29c08
+  md5_6: 29c08a
+  oomp_key: oomp_8748
+  oomp_key_extra: oomp_symbol_8748
+  oomp_key_full: oomp_symbol_8748_29c08a
+  oomp_key_simple: '8748'
   owner_name: kicad
-  symbol_name: mcu_intel_8748
+  symbol_name: '8748'
 oomp_key: oomp_kicad_mcu_intel_8748
 oomp_key_simple: kicad_mcu_intel_8748
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

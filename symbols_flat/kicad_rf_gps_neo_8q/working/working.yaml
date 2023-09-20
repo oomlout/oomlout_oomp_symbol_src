@@ -1,19 +1,19 @@
 id: kicad_rf_gps_neo_8q
 library: rf_gps
 library_name: RF_GPS
-name: rf_gps_neo_8q
+name: neo_8q
 oomp:
   library_name: rf_gps
-  md5: a5913e0319c5b25bb4d2da1f8c6e55f7
-  md5_10: a5913e0319
-  md5_5: a5913
-  md5_6: a5913e
-  oomp_key: oomp_rf_gps_neo_8q
-  oomp_key_extra: oomp_symbol_rf_gps_neo_8q
-  oomp_key_full: oomp_symbol_rf_gps_neo_8q_a5913e
-  oomp_key_simple: rf_gps_neo_8q
+  md5: 17ae080c5883c3a9e260168f3368b833
+  md5_10: 17ae080c58
+  md5_5: 17ae0
+  md5_6: 17ae08
+  oomp_key: oomp_neo_8q
+  oomp_key_extra: oomp_symbol_neo_8q
+  oomp_key_full: oomp_symbol_neo_8q_17ae08
+  oomp_key_simple: neo_8q
   owner_name: kicad
-  symbol_name: rf_gps_neo_8q
+  symbol_name: neo_8q
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

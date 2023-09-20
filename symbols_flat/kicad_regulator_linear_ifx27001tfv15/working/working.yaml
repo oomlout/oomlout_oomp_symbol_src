@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ifx27001tfv15/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ifx27001tfv15/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ifx27001tfv15/working
-name: regulator_linear_ifx27001tfv15
+name: ifx27001tfv15
 oomp:
   library_name: regulator_linear
-  md5: aab88f389c71573a5fc5b8d0ddfb3624
-  md5_10: aab88f389c
-  md5_5: aab88
-  md5_6: aab88f
-  oomp_key: oomp_regulator_linear_ifx27001tfv15
-  oomp_key_extra: oomp_symbol_regulator_linear_ifx27001tfv15
-  oomp_key_full: oomp_symbol_regulator_linear_ifx27001tfv15_aab88f
-  oomp_key_simple: regulator_linear_ifx27001tfv15
+  md5: 5e4cb85ca2a05dc5be77a59b47592f25
+  md5_10: 5e4cb85ca2
+  md5_5: 5e4cb
+  md5_6: 5e4cb8
+  oomp_key: oomp_ifx27001tfv15
+  oomp_key_extra: oomp_symbol_ifx27001tfv15
+  oomp_key_full: oomp_symbol_ifx27001tfv15_5e4cb8
+  oomp_key_simple: ifx27001tfv15
   owner_name: kicad
-  symbol_name: regulator_linear_ifx27001tfv15
+  symbol_name: ifx27001tfv15
 oomp_key: oomp_kicad_regulator_linear_ifx27001tfv15
 oomp_key_simple: kicad_regulator_linear_ifx27001tfv15
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

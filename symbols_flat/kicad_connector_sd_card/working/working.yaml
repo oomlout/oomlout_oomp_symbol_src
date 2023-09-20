@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_sd_card/working
   oomp_src_flat: symbols_flat/kicad_connector_sd_card/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_sd_card/working
-name: connector_sd_card
+name: sd_card
 oomp:
   library_name: connector
-  md5: 22cae79401af45466e6ae3a218008a04
-  md5_10: 22cae79401
-  md5_5: 22cae
-  md5_6: 22cae7
-  oomp_key: oomp_connector_sd_card
-  oomp_key_extra: oomp_symbol_connector_sd_card
-  oomp_key_full: oomp_symbol_connector_sd_card_22cae7
-  oomp_key_simple: connector_sd_card
+  md5: 17834848ba71209199d56658cdd488eb
+  md5_10: 17834848ba
+  md5_5: '17834'
+  md5_6: '178348'
+  oomp_key: oomp_sd_card
+  oomp_key_extra: oomp_symbol_sd_card
+  oomp_key_full: oomp_symbol_sd_card_178348
+  oomp_key_simple: sd_card
   owner_name: kicad
-  symbol_name: connector_sd_card
+  symbol_name: sd_card
 oomp_key: oomp_kicad_connector_sd_card
 oomp_key_simple: kicad_connector_sd_card
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

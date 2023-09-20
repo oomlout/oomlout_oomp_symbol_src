@@ -1,19 +1,19 @@
 id: kicad_mcu_intel_8039
 library: mcu_intel
 library_name: MCU_Intel
-name: mcu_intel_8039
+name: '8039'
 oomp:
   library_name: mcu_intel
-  md5: 4d278b69604c51bb4af6cf2364f56971
-  md5_10: 4d278b6960
-  md5_5: 4d278
-  md5_6: 4d278b
-  oomp_key: oomp_mcu_intel_8039
-  oomp_key_extra: oomp_symbol_mcu_intel_8039
-  oomp_key_full: oomp_symbol_mcu_intel_8039_4d278b
-  oomp_key_simple: mcu_intel_8039
+  md5: 0919b5c38396c3f0c41f1112d538e42c
+  md5_10: 0919b5c383
+  md5_5: 0919b
+  md5_6: 0919b5
+  oomp_key: oomp_8039
+  oomp_key_extra: oomp_symbol_8039
+  oomp_key_full: oomp_symbol_8039_0919b5
+  oomp_key_simple: '8039'
   owner_name: kicad
-  symbol_name: mcu_intel_8039
+  symbol_name: '8039'
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

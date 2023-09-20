@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_gps_lea_m8s/working
   oomp_src_flat: symbols_flat/kicad_rf_gps_lea_m8s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_gps_lea_m8s/working
-name: rf_gps_lea_m8s
+name: lea_m8s
 oomp:
   library_name: rf_gps
-  md5: d5e2d94848bc605ad1b391d291b38654
-  md5_10: d5e2d94848
-  md5_5: d5e2d
-  md5_6: d5e2d9
-  oomp_key: oomp_rf_gps_lea_m8s
-  oomp_key_extra: oomp_symbol_rf_gps_lea_m8s
-  oomp_key_full: oomp_symbol_rf_gps_lea_m8s_d5e2d9
-  oomp_key_simple: rf_gps_lea_m8s
+  md5: cc6e585d4795eb39cbb215ed18a15c4b
+  md5_10: cc6e585d47
+  md5_5: cc6e5
+  md5_6: cc6e58
+  oomp_key: oomp_lea_m8s
+  oomp_key_extra: oomp_symbol_lea_m8s
+  oomp_key_full: oomp_symbol_lea_m8s_cc6e58
+  oomp_key_simple: lea_m8s
   owner_name: kicad
-  symbol_name: rf_gps_lea_m8s
+  symbol_name: lea_m8s
 oomp_key: oomp_kicad_rf_gps_lea_m8s
 oomp_key_simple: kicad_rf_gps_lea_m8s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

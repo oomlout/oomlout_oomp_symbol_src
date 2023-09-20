@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_conn_02x39_row_letter_first/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_02x39_row_letter_first/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_02x39_row_letter_first/working
-name: connector_generic_conn_02x39_row_letter_first
+name: conn_02x39_row_letter_first
 oomp:
   library_name: connector_generic
-  md5: a0397b616461876edaaf4b35379db78c
-  md5_10: a0397b6164
-  md5_5: a0397
-  md5_6: a0397b
-  oomp_key: oomp_connector_generic_conn_02x39_row_letter_first
-  oomp_key_extra: oomp_symbol_connector_generic_conn_02x39_row_letter_first
-  oomp_key_full: oomp_symbol_connector_generic_conn_02x39_row_letter_first_a0397b
-  oomp_key_simple: connector_generic_conn_02x39_row_letter_first
+  md5: 7133fe819f051c91e5029af6fb1dce50
+  md5_10: 7133fe819f
+  md5_5: 7133f
+  md5_6: 7133fe
+  oomp_key: oomp_conn_02x39_row_letter_first
+  oomp_key_extra: oomp_symbol_conn_02x39_row_letter_first
+  oomp_key_full: oomp_symbol_conn_02x39_row_letter_first_7133fe
+  oomp_key_simple: conn_02x39_row_letter_first
   owner_name: kicad
-  symbol_name: connector_generic_conn_02x39_row_letter_first
+  symbol_name: conn_02x39_row_letter_first
 oomp_key: oomp_kicad_connector_generic_conn_02x39_row_letter_first
 oomp_key_simple: kicad_connector_generic_conn_02x39_row_letter_first
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

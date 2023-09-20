@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_dg308axy/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_dg308axy/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_dg308axy/working
-name: analog_switch_dg308axy
+name: dg308axy
 oomp:
   library_name: analog_switch
-  md5: fe83ddf93360e1ed29c61bdcd7bad368
-  md5_10: fe83ddf933
-  md5_5: fe83d
-  md5_6: fe83dd
-  oomp_key: oomp_analog_switch_dg308axy
-  oomp_key_extra: oomp_symbol_analog_switch_dg308axy
-  oomp_key_full: oomp_symbol_analog_switch_dg308axy_fe83dd
-  oomp_key_simple: analog_switch_dg308axy
+  md5: d84d213529988c564e4d4ecb30955458
+  md5_10: d84d213529
+  md5_5: d84d2
+  md5_6: d84d21
+  oomp_key: oomp_dg308axy
+  oomp_key_extra: oomp_symbol_dg308axy
+  oomp_key_full: oomp_symbol_dg308axy_d84d21
+  oomp_key_simple: dg308axy
   owner_name: kicad
-  symbol_name: analog_switch_dg308axy
+  symbol_name: dg308axy
 oomp_key: oomp_kicad_analog_switch_dg308axy
 oomp_key_simple: kicad_analog_switch_dg308axy
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

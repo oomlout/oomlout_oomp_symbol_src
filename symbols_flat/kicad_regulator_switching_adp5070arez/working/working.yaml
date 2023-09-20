@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_adp5070arez/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_adp5070arez/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_adp5070arez/working
-name: regulator_switching_adp5070arez
+name: adp5070arez
 oomp:
   library_name: regulator_switching
-  md5: 16a7ce43699fb2ae897cfd8e942d4364
-  md5_10: 16a7ce4369
-  md5_5: 16a7c
-  md5_6: 16a7ce
-  oomp_key: oomp_regulator_switching_adp5070arez
-  oomp_key_extra: oomp_symbol_regulator_switching_adp5070arez
-  oomp_key_full: oomp_symbol_regulator_switching_adp5070arez_16a7ce
-  oomp_key_simple: regulator_switching_adp5070arez
+  md5: 4d2781afb12c507dbf9fe9431d7d5355
+  md5_10: 4d2781afb1
+  md5_5: 4d278
+  md5_6: 4d2781
+  oomp_key: oomp_adp5070arez
+  oomp_key_extra: oomp_symbol_adp5070arez
+  oomp_key_full: oomp_symbol_adp5070arez_4d2781
+  oomp_key_simple: adp5070arez
   owner_name: kicad
-  symbol_name: regulator_switching_adp5070arez
+  symbol_name: adp5070arez
 oomp_key: oomp_kicad_regulator_switching_adp5070arez
 oomp_key_simple: kicad_regulator_switching_adp5070arez
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

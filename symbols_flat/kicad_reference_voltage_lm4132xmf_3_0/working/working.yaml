@@ -1,19 +1,19 @@
 id: kicad_reference_voltage_lm4132xmf_3_0
 library: reference_voltage
 library_name: Reference_Voltage
-name: reference_voltage_lm4132xmf_3_0
+name: lm4132xmf_3_0
 oomp:
   library_name: reference_voltage
-  md5: 2499e861ebf926cd6c394c59e2fc353c
-  md5_10: 2499e861eb
-  md5_5: 2499e
-  md5_6: 2499e8
-  oomp_key: oomp_reference_voltage_lm4132xmf_3_0
-  oomp_key_extra: oomp_symbol_reference_voltage_lm4132xmf_3_0
-  oomp_key_full: oomp_symbol_reference_voltage_lm4132xmf_3_0_2499e8
-  oomp_key_simple: reference_voltage_lm4132xmf_3_0
+  md5: 5aa847232358fce76c8e82216631e457
+  md5_10: 5aa8472323
+  md5_5: 5aa84
+  md5_6: 5aa847
+  oomp_key: oomp_lm4132xmf_3_0
+  oomp_key_extra: oomp_symbol_lm4132xmf_3_0
+  oomp_key_full: oomp_symbol_lm4132xmf_3_0_5aa847
+  oomp_key_simple: lm4132xmf_3_0
   owner_name: kicad
-  symbol_name: reference_voltage_lm4132xmf_3_0
+  symbol_name: lm4132xmf_3_0
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

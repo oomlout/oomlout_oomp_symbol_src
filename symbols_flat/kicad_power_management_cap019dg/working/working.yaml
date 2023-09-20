@@ -1,19 +1,19 @@
 id: kicad_power_management_cap019dg
 library: power_management
 library_name: Power_Management
-name: power_management_cap019dg
+name: cap019dg
 oomp:
   library_name: power_management
-  md5: 98269e751dd0dd4d94e5576d831532c5
-  md5_10: 98269e751d
-  md5_5: '98269'
-  md5_6: 98269e
-  oomp_key: oomp_power_management_cap019dg
-  oomp_key_extra: oomp_symbol_power_management_cap019dg
-  oomp_key_full: oomp_symbol_power_management_cap019dg_98269e
-  oomp_key_simple: power_management_cap019dg
+  md5: 9911d5a377eb03ab4b0bd26759c030a5
+  md5_10: 9911d5a377
+  md5_5: 9911d
+  md5_6: 9911d5
+  oomp_key: oomp_cap019dg
+  oomp_key_extra: oomp_symbol_cap019dg
+  oomp_key_full: oomp_symbol_cap019dg_9911d5
+  oomp_key_simple: cap019dg
   owner_name: kicad
-  symbol_name: power_management_cap019dg
+  symbol_name: cap019dg
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

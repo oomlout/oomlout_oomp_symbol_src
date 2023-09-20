@@ -1,19 +1,19 @@
 id: kicad_interface_uart_sc16is762ipw
 library: interface_uart
 library_name: Interface_UART
-name: interface_uart_sc16is762ipw
+name: sc16is762ipw
 oomp:
   library_name: interface_uart
-  md5: 70db192b9ccb7cdfa2a0cebec8a6971c
-  md5_10: 70db192b9c
-  md5_5: 70db1
-  md5_6: 70db19
-  oomp_key: oomp_interface_uart_sc16is762ipw
-  oomp_key_extra: oomp_symbol_interface_uart_sc16is762ipw
-  oomp_key_full: oomp_symbol_interface_uart_sc16is762ipw_70db19
-  oomp_key_simple: interface_uart_sc16is762ipw
+  md5: 4b27a5b6c5de80f670a3c72670a3711c
+  md5_10: 4b27a5b6c5
+  md5_5: 4b27a
+  md5_6: 4b27a5
+  oomp_key: oomp_sc16is762ipw
+  oomp_key_extra: oomp_symbol_sc16is762ipw
+  oomp_key_full: oomp_symbol_sc16is762ipw_4b27a5
+  oomp_key_simple: sc16is762ipw
   owner_name: kicad
-  symbol_name: interface_uart_sc16is762ipw
+  symbol_name: sc16is762ipw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

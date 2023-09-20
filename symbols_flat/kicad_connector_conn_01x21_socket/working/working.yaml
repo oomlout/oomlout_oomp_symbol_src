@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_01x21_socket/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_01x21_socket/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_01x21_socket/working
-name: connector_conn_01x21_socket
+name: conn_01x21_socket
 oomp:
   library_name: connector
-  md5: 53c8700fd5fa39d18a7a4e9658e296b1
-  md5_10: 53c8700fd5
-  md5_5: 53c87
-  md5_6: 53c870
-  oomp_key: oomp_connector_conn_01x21_socket
-  oomp_key_extra: oomp_symbol_connector_conn_01x21_socket
-  oomp_key_full: oomp_symbol_connector_conn_01x21_socket_53c870
-  oomp_key_simple: connector_conn_01x21_socket
+  md5: 876f9f4e80d95402c2b2915ab09174fa
+  md5_10: 876f9f4e80
+  md5_5: 876f9
+  md5_6: 876f9f
+  oomp_key: oomp_conn_01x21_socket
+  oomp_key_extra: oomp_symbol_conn_01x21_socket
+  oomp_key_full: oomp_symbol_conn_01x21_socket_876f9f
+  oomp_key_simple: conn_01x21_socket
   owner_name: kicad
-  symbol_name: connector_conn_01x21_socket
+  symbol_name: conn_01x21_socket
 oomp_key: oomp_kicad_connector_conn_01x21_socket
 oomp_key_simple: kicad_connector_conn_01x21_socket
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_dwm1001/working
   oomp_src_flat: symbols_flat/kicad_rf_module_dwm1001/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_dwm1001/working
-name: rf_module_dwm1001
+name: dwm1001
 oomp:
   library_name: rf_module
-  md5: cb7bd90b56b43d90cf6559bbd1882a8b
-  md5_10: cb7bd90b56
-  md5_5: cb7bd
-  md5_6: cb7bd9
-  oomp_key: oomp_rf_module_dwm1001
-  oomp_key_extra: oomp_symbol_rf_module_dwm1001
-  oomp_key_full: oomp_symbol_rf_module_dwm1001_cb7bd9
-  oomp_key_simple: rf_module_dwm1001
+  md5: 05f142556110e2ca3db4ee4b551eba1d
+  md5_10: 05f1425561
+  md5_5: 05f14
+  md5_6: 05f142
+  oomp_key: oomp_dwm1001
+  oomp_key_extra: oomp_symbol_dwm1001
+  oomp_key_full: oomp_symbol_dwm1001_05f142
+  oomp_key_simple: dwm1001
   owner_name: kicad
-  symbol_name: rf_module_dwm1001
+  symbol_name: dwm1001
 oomp_key: oomp_kicad_rf_module_dwm1001
 oomp_key_simple: kicad_rf_module_dwm1001
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

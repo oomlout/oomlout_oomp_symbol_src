@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_sd103atw/working
   oomp_src_flat: symbols_flat/kicad_diode_sd103atw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_sd103atw/working
-name: diode_sd103atw
+name: sd103atw
 oomp:
   library_name: diode
-  md5: f680b7ef64b6074ff664326823a1919e
-  md5_10: f680b7ef64
-  md5_5: f680b
-  md5_6: f680b7
-  oomp_key: oomp_diode_sd103atw
-  oomp_key_extra: oomp_symbol_diode_sd103atw
-  oomp_key_full: oomp_symbol_diode_sd103atw_f680b7
-  oomp_key_simple: diode_sd103atw
+  md5: fb0e4dd61a2447187c8ff3387dc3f561
+  md5_10: fb0e4dd61a
+  md5_5: fb0e4
+  md5_6: fb0e4d
+  oomp_key: oomp_sd103atw
+  oomp_key_extra: oomp_symbol_sd103atw
+  oomp_key_full: oomp_symbol_sd103atw_fb0e4d
+  oomp_key_simple: sd103atw
   owner_name: kicad
-  symbol_name: diode_sd103atw
+  symbol_name: sd103atw
 oomp_key: oomp_kicad_diode_sd103atw
 oomp_key_simple: kicad_diode_sd103atw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

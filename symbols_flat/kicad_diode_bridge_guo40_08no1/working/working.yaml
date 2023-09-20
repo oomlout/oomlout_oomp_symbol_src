@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bridge_guo40_08no1/working
   oomp_src_flat: symbols_flat/kicad_diode_bridge_guo40_08no1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bridge_guo40_08no1/working
-name: diode_bridge_guo40_08no1
+name: guo40_08no1
 oomp:
   library_name: diode_bridge
-  md5: 13593a2c08890059b10620ae13c60822
-  md5_10: 13593a2c08
-  md5_5: '13593'
-  md5_6: 13593a
-  oomp_key: oomp_diode_bridge_guo40_08no1
-  oomp_key_extra: oomp_symbol_diode_bridge_guo40_08no1
-  oomp_key_full: oomp_symbol_diode_bridge_guo40_08no1_13593a
-  oomp_key_simple: diode_bridge_guo40_08no1
+  md5: c969b0d5418275e6af268eb02f5a8535
+  md5_10: c969b0d541
+  md5_5: c969b
+  md5_6: c969b0
+  oomp_key: oomp_guo40_08no1
+  oomp_key_extra: oomp_symbol_guo40_08no1
+  oomp_key_full: oomp_symbol_guo40_08no1_c969b0
+  oomp_key_simple: guo40_08no1
   owner_name: kicad
-  symbol_name: diode_bridge_guo40_08no1
+  symbol_name: guo40_08no1
 oomp_key: oomp_kicad_diode_bridge_guo40_08no1
 oomp_key_simple: kicad_diode_bridge_guo40_08no1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

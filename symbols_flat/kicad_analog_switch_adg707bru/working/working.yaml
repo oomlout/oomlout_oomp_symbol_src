@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_adg707bru/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_adg707bru/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_adg707bru/working
-name: analog_switch_adg707bru
+name: adg707bru
 oomp:
   library_name: analog_switch
-  md5: f71427f42b9e1dcebd58a8c4ef03d2b5
-  md5_10: f71427f42b
-  md5_5: f7142
-  md5_6: f71427
-  oomp_key: oomp_analog_switch_adg707bru
-  oomp_key_extra: oomp_symbol_analog_switch_adg707bru
-  oomp_key_full: oomp_symbol_analog_switch_adg707bru_f71427
-  oomp_key_simple: analog_switch_adg707bru
+  md5: fa9ffdb7460bfa007fe392f8680d7d76
+  md5_10: fa9ffdb746
+  md5_5: fa9ff
+  md5_6: fa9ffd
+  oomp_key: oomp_adg707bru
+  oomp_key_extra: oomp_symbol_adg707bru
+  oomp_key_full: oomp_symbol_adg707bru_fa9ffd
+  oomp_key_simple: adg707bru
   owner_name: kicad
-  symbol_name: analog_switch_adg707bru
+  symbol_name: adg707bru
 oomp_key: oomp_kicad_analog_switch_adg707bru
 oomp_key_simple: kicad_analog_switch_adg707bru
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

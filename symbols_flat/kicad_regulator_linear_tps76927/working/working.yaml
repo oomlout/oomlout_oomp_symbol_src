@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_tps76927
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_tps76927
+name: tps76927
 oomp:
   library_name: regulator_linear
-  md5: 9609873bdad64799d9eb345e0f725449
-  md5_10: 9609873bda
-  md5_5: '96098'
-  md5_6: '960987'
-  oomp_key: oomp_regulator_linear_tps76927
-  oomp_key_extra: oomp_symbol_regulator_linear_tps76927
-  oomp_key_full: oomp_symbol_regulator_linear_tps76927_960987
-  oomp_key_simple: regulator_linear_tps76927
+  md5: 174ff493342f93d78dd948acf6e4557c
+  md5_10: 174ff49334
+  md5_5: 174ff
+  md5_6: 174ff4
+  oomp_key: oomp_tps76927
+  oomp_key_extra: oomp_symbol_tps76927
+  oomp_key_full: oomp_symbol_tps76927_174ff4
+  oomp_key_simple: tps76927
   owner_name: kicad
-  symbol_name: regulator_linear_tps76927
+  symbol_name: tps76927
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

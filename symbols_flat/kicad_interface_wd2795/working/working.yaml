@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_wd2795/working
   oomp_src_flat: symbols_flat/kicad_interface_wd2795/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_wd2795/working
-name: interface_wd2795
+name: wd2795
 oomp:
   library_name: interface
-  md5: a3015f24f59261c61597a8bba5457172
-  md5_10: a3015f24f5
-  md5_5: a3015
-  md5_6: a3015f
-  oomp_key: oomp_interface_wd2795
-  oomp_key_extra: oomp_symbol_interface_wd2795
-  oomp_key_full: oomp_symbol_interface_wd2795_a3015f
-  oomp_key_simple: interface_wd2795
+  md5: 98e602016ebb3c27d3cbd7cea961fde9
+  md5_10: 98e602016e
+  md5_5: 98e60
+  md5_6: 98e602
+  oomp_key: oomp_wd2795
+  oomp_key_extra: oomp_symbol_wd2795
+  oomp_key_full: oomp_symbol_wd2795_98e602
+  oomp_key_simple: wd2795
   owner_name: kicad
-  symbol_name: interface_wd2795
+  symbol_name: wd2795
 oomp_key: oomp_kicad_interface_wd2795
 oomp_key_simple: kicad_interface_wd2795
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

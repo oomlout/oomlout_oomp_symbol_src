@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_pesd3v3l5uy/working
   oomp_src_flat: symbols_flat/kicad_power_protection_pesd3v3l5uy/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_pesd3v3l5uy/working
-name: power_protection_pesd3v3l5uy
+name: pesd3v3l5uy
 oomp:
   library_name: power_protection
-  md5: 582b67bb60a0df5c9f7da5781be0216e
-  md5_10: 582b67bb60
-  md5_5: 582b6
-  md5_6: 582b67
-  oomp_key: oomp_power_protection_pesd3v3l5uy
-  oomp_key_extra: oomp_symbol_power_protection_pesd3v3l5uy
-  oomp_key_full: oomp_symbol_power_protection_pesd3v3l5uy_582b67
-  oomp_key_simple: power_protection_pesd3v3l5uy
+  md5: 4bb97653621c20da18d12d1964f1eb0d
+  md5_10: 4bb9765362
+  md5_5: 4bb97
+  md5_6: 4bb976
+  oomp_key: oomp_pesd3v3l5uy
+  oomp_key_extra: oomp_symbol_pesd3v3l5uy
+  oomp_key_full: oomp_symbol_pesd3v3l5uy_4bb976
+  oomp_key_simple: pesd3v3l5uy
   owner_name: kicad
-  symbol_name: power_protection_pesd3v3l5uy
+  symbol_name: pesd3v3l5uy
 oomp_key: oomp_kicad_power_protection_pesd3v3l5uy
 oomp_key_simple: kicad_power_protection_pesd3v3l5uy
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

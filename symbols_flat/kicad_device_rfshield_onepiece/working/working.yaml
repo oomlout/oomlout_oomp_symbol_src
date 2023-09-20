@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_rfshield_onepiece/working
   oomp_src_flat: symbols_flat/kicad_device_rfshield_onepiece/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_rfshield_onepiece/working
-name: device_rfshield_onepiece
+name: rfshield_onepiece
 oomp:
   library_name: device
-  md5: 786a03b358d78768d9517d2100dbbf29
-  md5_10: 786a03b358
-  md5_5: 786a0
-  md5_6: 786a03
-  oomp_key: oomp_device_rfshield_onepiece
-  oomp_key_extra: oomp_symbol_device_rfshield_onepiece
-  oomp_key_full: oomp_symbol_device_rfshield_onepiece_786a03
-  oomp_key_simple: device_rfshield_onepiece
+  md5: 0067b136a25bdf87e9ab1ea592c6edb1
+  md5_10: 0067b136a2
+  md5_5: 0067b
+  md5_6: 0067b1
+  oomp_key: oomp_rfshield_onepiece
+  oomp_key_extra: oomp_symbol_rfshield_onepiece
+  oomp_key_full: oomp_symbol_rfshield_onepiece_0067b1
+  oomp_key_simple: rfshield_onepiece
   owner_name: kicad
-  symbol_name: device_rfshield_onepiece
+  symbol_name: rfshield_onepiece
 oomp_key: oomp_kicad_device_rfshield_onepiece
 oomp_key_simple: kicad_device_rfshield_onepiece
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

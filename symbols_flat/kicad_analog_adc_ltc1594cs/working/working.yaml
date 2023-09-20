@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ltc1594cs/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ltc1594cs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ltc1594cs/working
-name: analog_adc_ltc1594cs
+name: ltc1594cs
 oomp:
   library_name: analog_adc
-  md5: 7a00d55aa969e91ae4d18ab44ca95657
-  md5_10: 7a00d55aa9
-  md5_5: 7a00d
-  md5_6: 7a00d5
-  oomp_key: oomp_analog_adc_ltc1594cs
-  oomp_key_extra: oomp_symbol_analog_adc_ltc1594cs
-  oomp_key_full: oomp_symbol_analog_adc_ltc1594cs_7a00d5
-  oomp_key_simple: analog_adc_ltc1594cs
+  md5: 7197f8310fc95ff483d26569cfaa006e
+  md5_10: 7197f8310f
+  md5_5: 7197f
+  md5_6: 7197f8
+  oomp_key: oomp_ltc1594cs
+  oomp_key_extra: oomp_symbol_ltc1594cs
+  oomp_key_full: oomp_symbol_ltc1594cs_7197f8
+  oomp_key_simple: ltc1594cs
   owner_name: kicad
-  symbol_name: analog_adc_ltc1594cs
+  symbol_name: ltc1594cs
 oomp_key: oomp_kicad_analog_adc_ltc1594cs
 oomp_key_simple: kicad_analog_adc_ltc1594cs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

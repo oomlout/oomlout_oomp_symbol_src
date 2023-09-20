@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_dtd143t/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_dtd143t/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_dtd143t/working
-name: transistor_bjt_dtd143t
+name: dtd143t
 oomp:
   library_name: transistor_bjt
-  md5: 534c4954606c696583d5d5a7056208cc
-  md5_10: 534c495460
-  md5_5: 534c4
-  md5_6: 534c49
-  oomp_key: oomp_transistor_bjt_dtd143t
-  oomp_key_extra: oomp_symbol_transistor_bjt_dtd143t
-  oomp_key_full: oomp_symbol_transistor_bjt_dtd143t_534c49
-  oomp_key_simple: transistor_bjt_dtd143t
+  md5: 7ba93b08b58c25c8ee80f7e8b39b7a8b
+  md5_10: 7ba93b08b5
+  md5_5: 7ba93
+  md5_6: 7ba93b
+  oomp_key: oomp_dtd143t
+  oomp_key_extra: oomp_symbol_dtd143t
+  oomp_key_full: oomp_symbol_dtd143t_7ba93b
+  oomp_key_simple: dtd143t
   owner_name: kicad
-  symbol_name: transistor_bjt_dtd143t
+  symbol_name: dtd143t
 oomp_key: oomp_kicad_transistor_bjt_dtd143t
 oomp_key_simple: kicad_transistor_bjt_dtd143t
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

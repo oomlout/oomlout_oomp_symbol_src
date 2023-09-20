@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_mxm3_0/working
   oomp_src_flat: symbols_flat/kicad_connector_mxm3_0/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_mxm3_0/working
-name: connector_mxm3_0
+name: mxm3_0
 oomp:
   library_name: connector
-  md5: 4745eb0ff958fe49e1171e4bd103b75d
-  md5_10: 4745eb0ff9
-  md5_5: 4745e
-  md5_6: 4745eb
-  oomp_key: oomp_connector_mxm3_0
-  oomp_key_extra: oomp_symbol_connector_mxm3_0
-  oomp_key_full: oomp_symbol_connector_mxm3_0_4745eb
-  oomp_key_simple: connector_mxm3_0
+  md5: 0dd2f5f384145200c92a851b25a3e09c
+  md5_10: 0dd2f5f384
+  md5_5: 0dd2f
+  md5_6: 0dd2f5
+  oomp_key: oomp_mxm3_0
+  oomp_key_extra: oomp_symbol_mxm3_0
+  oomp_key_full: oomp_symbol_mxm3_0_0dd2f5
+  oomp_key_simple: mxm3_0
   owner_name: kicad
-  symbol_name: connector_mxm3_0
+  symbol_name: mxm3_0
 oomp_key: oomp_kicad_connector_mxm3_0
 oomp_key_simple: kicad_connector_mxm3_0
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

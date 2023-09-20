@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_pca9536dp/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_pca9536dp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_pca9536dp/working
-name: interface_expansion_pca9536dp
+name: pca9536dp
 oomp:
   library_name: interface_expansion
-  md5: a4d106849e2f2f6b0b215d816060903b
-  md5_10: a4d106849e
-  md5_5: a4d10
-  md5_6: a4d106
-  oomp_key: oomp_interface_expansion_pca9536dp
-  oomp_key_extra: oomp_symbol_interface_expansion_pca9536dp
-  oomp_key_full: oomp_symbol_interface_expansion_pca9536dp_a4d106
-  oomp_key_simple: interface_expansion_pca9536dp
+  md5: 5d989bb73ebf8254da2963a96026dbd2
+  md5_10: 5d989bb73e
+  md5_5: 5d989
+  md5_6: 5d989b
+  oomp_key: oomp_pca9536dp
+  oomp_key_extra: oomp_symbol_pca9536dp
+  oomp_key_full: oomp_symbol_pca9536dp_5d989b
+  oomp_key_simple: pca9536dp
   owner_name: kicad
-  symbol_name: interface_expansion_pca9536dp
+  symbol_name: pca9536dp
 oomp_key: oomp_kicad_interface_expansion_pca9536dp
 oomp_key_simple: kicad_interface_expansion_pca9536dp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

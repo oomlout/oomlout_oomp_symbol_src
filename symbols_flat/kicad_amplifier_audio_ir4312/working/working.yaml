@@ -1,19 +1,19 @@
 id: kicad_amplifier_audio_ir4312
 library: amplifier_audio
 library_name: Amplifier_Audio
-name: amplifier_audio_ir4312
+name: ir4312
 oomp:
   library_name: amplifier_audio
-  md5: 32fbf11ab112c4ad07f1e8bf2a571833
-  md5_10: 32fbf11ab1
-  md5_5: 32fbf
-  md5_6: 32fbf1
-  oomp_key: oomp_amplifier_audio_ir4312
-  oomp_key_extra: oomp_symbol_amplifier_audio_ir4312
-  oomp_key_full: oomp_symbol_amplifier_audio_ir4312_32fbf1
-  oomp_key_simple: amplifier_audio_ir4312
+  md5: 6ae8af956686026fdb82eeadaa48d4db
+  md5_10: 6ae8af9566
+  md5_5: 6ae8a
+  md5_6: 6ae8af
+  oomp_key: oomp_ir4312
+  oomp_key_extra: oomp_symbol_ir4312
+  oomp_key_full: oomp_symbol_ir4312_6ae8af
+  oomp_key_simple: ir4312
   owner_name: kicad
-  symbol_name: amplifier_audio_ir4312
+  symbol_name: ir4312
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

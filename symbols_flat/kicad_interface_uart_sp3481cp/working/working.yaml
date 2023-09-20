@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_sp3481cp/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_sp3481cp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_sp3481cp/working
-name: interface_uart_sp3481cp
+name: sp3481cp
 oomp:
   library_name: interface_uart
-  md5: 87dd6ac9c7fe64c778a0cde4046ff3ef
-  md5_10: 87dd6ac9c7
-  md5_5: 87dd6
-  md5_6: 87dd6a
-  oomp_key: oomp_interface_uart_sp3481cp
-  oomp_key_extra: oomp_symbol_interface_uart_sp3481cp
-  oomp_key_full: oomp_symbol_interface_uart_sp3481cp_87dd6a
-  oomp_key_simple: interface_uart_sp3481cp
+  md5: bc63320b0a46a54386264fe2f7a2e8e0
+  md5_10: bc63320b0a
+  md5_5: bc633
+  md5_6: bc6332
+  oomp_key: oomp_sp3481cp
+  oomp_key_extra: oomp_symbol_sp3481cp
+  oomp_key_full: oomp_symbol_sp3481cp_bc6332
+  oomp_key_simple: sp3481cp
   owner_name: kicad
-  symbol_name: interface_uart_sp3481cp
+  symbol_name: sp3481cp
 oomp_key: oomp_kicad_interface_uart_sp3481cp
 oomp_key_simple: kicad_interface_uart_sp3481cp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

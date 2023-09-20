@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_stm6600/working
   oomp_src_flat: symbols_flat/kicad_power_management_stm6600/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_stm6600/working
-name: power_management_stm6600
+name: stm6600
 oomp:
   library_name: power_management
-  md5: 17dc709aba37978701a1efbe02f0e1bb
-  md5_10: 17dc709aba
-  md5_5: 17dc7
-  md5_6: 17dc70
-  oomp_key: oomp_power_management_stm6600
-  oomp_key_extra: oomp_symbol_power_management_stm6600
-  oomp_key_full: oomp_symbol_power_management_stm6600_17dc70
-  oomp_key_simple: power_management_stm6600
+  md5: 4ab06afe4ad58320d5a5281dbf369b3d
+  md5_10: 4ab06afe4a
+  md5_5: 4ab06
+  md5_6: 4ab06a
+  oomp_key: oomp_stm6600
+  oomp_key_extra: oomp_symbol_stm6600
+  oomp_key_full: oomp_symbol_stm6600_4ab06a
+  oomp_key_simple: stm6600
   owner_name: kicad
-  symbol_name: power_management_stm6600
+  symbol_name: stm6600
 oomp_key: oomp_kicad_power_management_stm6600
 oomp_key_simple: kicad_power_management_stm6600
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

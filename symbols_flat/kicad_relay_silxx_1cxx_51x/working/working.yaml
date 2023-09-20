@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_silxx_1cxx_51x/working
   oomp_src_flat: symbols_flat/kicad_relay_silxx_1cxx_51x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_silxx_1cxx_51x/working
-name: relay_silxx_1cxx_51x
+name: silxx_1cxx_51x
 oomp:
   library_name: relay
-  md5: 9d9fdc89b28786cca96bd7972e0ac6f2
-  md5_10: 9d9fdc89b2
-  md5_5: 9d9fd
-  md5_6: 9d9fdc
-  oomp_key: oomp_relay_silxx_1cxx_51x
-  oomp_key_extra: oomp_symbol_relay_silxx_1cxx_51x
-  oomp_key_full: oomp_symbol_relay_silxx_1cxx_51x_9d9fdc
-  oomp_key_simple: relay_silxx_1cxx_51x
+  md5: fcd677115f172c067624191cbff921ae
+  md5_10: fcd677115f
+  md5_5: fcd67
+  md5_6: fcd677
+  oomp_key: oomp_silxx_1cxx_51x
+  oomp_key_extra: oomp_symbol_silxx_1cxx_51x
+  oomp_key_full: oomp_symbol_silxx_1cxx_51x_fcd677
+  oomp_key_simple: silxx_1cxx_51x
   owner_name: kicad
-  symbol_name: relay_silxx_1cxx_51x
+  symbol_name: silxx_1cxx_51x
 oomp_key: oomp_kicad_relay_silxx_1cxx_51x
 oomp_key_simple: kicad_relay_silxx_1cxx_51x
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

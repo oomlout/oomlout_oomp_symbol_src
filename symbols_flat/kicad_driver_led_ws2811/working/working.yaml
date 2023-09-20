@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_ws2811/working
   oomp_src_flat: symbols_flat/kicad_driver_led_ws2811/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_ws2811/working
-name: driver_led_ws2811
+name: ws2811
 oomp:
   library_name: driver_led
-  md5: 509ed17ebc83030c34de4392bd7e080f
-  md5_10: 509ed17ebc
-  md5_5: 509ed
-  md5_6: 509ed1
-  oomp_key: oomp_driver_led_ws2811
-  oomp_key_extra: oomp_symbol_driver_led_ws2811
-  oomp_key_full: oomp_symbol_driver_led_ws2811_509ed1
-  oomp_key_simple: driver_led_ws2811
+  md5: e1362a3ac76900e602a3c4ffe61bf276
+  md5_10: e1362a3ac7
+  md5_5: e1362
+  md5_6: e1362a
+  oomp_key: oomp_ws2811
+  oomp_key_extra: oomp_symbol_ws2811
+  oomp_key_full: oomp_symbol_ws2811_e1362a
+  oomp_key_simple: ws2811
   owner_name: kicad
-  symbol_name: driver_led_ws2811
+  symbol_name: ws2811
 oomp_key: oomp_kicad_driver_led_ws2811
 oomp_key_simple: kicad_driver_led_ws2811
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

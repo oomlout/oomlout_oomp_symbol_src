@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_amplifier_qpl9547/working
   oomp_src_flat: symbols_flat/kicad_rf_amplifier_qpl9547/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_amplifier_qpl9547/working
-name: rf_amplifier_qpl9547
+name: qpl9547
 oomp:
   library_name: rf_amplifier
-  md5: 76311b6bb53a2fb33a627c609ea5c415
-  md5_10: 76311b6bb5
-  md5_5: '76311'
-  md5_6: 76311b
-  oomp_key: oomp_rf_amplifier_qpl9547
-  oomp_key_extra: oomp_symbol_rf_amplifier_qpl9547
-  oomp_key_full: oomp_symbol_rf_amplifier_qpl9547_76311b
-  oomp_key_simple: rf_amplifier_qpl9547
+  md5: bcd1ac5771fdd5c6c3a621d40c03be2e
+  md5_10: bcd1ac5771
+  md5_5: bcd1a
+  md5_6: bcd1ac
+  oomp_key: oomp_qpl9547
+  oomp_key_extra: oomp_symbol_qpl9547
+  oomp_key_full: oomp_symbol_qpl9547_bcd1ac
+  oomp_key_simple: qpl9547
   owner_name: kicad
-  symbol_name: rf_amplifier_qpl9547
+  symbol_name: qpl9547
 oomp_key: oomp_kicad_rf_amplifier_qpl9547
 oomp_key_simple: kicad_rf_amplifier_qpl9547
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

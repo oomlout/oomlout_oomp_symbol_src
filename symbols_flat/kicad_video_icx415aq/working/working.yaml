@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_icx415aq/working
   oomp_src_flat: symbols_flat/kicad_video_icx415aq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_icx415aq/working
-name: video_icx415aq
+name: icx415aq
 oomp:
   library_name: video
-  md5: bb4d6c9c4f6c5cb60fb2e5271f40c070
-  md5_10: bb4d6c9c4f
-  md5_5: bb4d6
-  md5_6: bb4d6c
-  oomp_key: oomp_video_icx415aq
-  oomp_key_extra: oomp_symbol_video_icx415aq
-  oomp_key_full: oomp_symbol_video_icx415aq_bb4d6c
-  oomp_key_simple: video_icx415aq
+  md5: fdb8208585fd81fb2ec9b68a129b154b
+  md5_10: fdb8208585
+  md5_5: fdb82
+  md5_6: fdb820
+  oomp_key: oomp_icx415aq
+  oomp_key_extra: oomp_symbol_icx415aq
+  oomp_key_full: oomp_symbol_icx415aq_fdb820
+  oomp_key_simple: icx415aq
   owner_name: kicad
-  symbol_name: video_icx415aq
+  symbol_name: icx415aq
 oomp_key: oomp_kicad_video_icx415aq
 oomp_key_simple: kicad_video_icx415aq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

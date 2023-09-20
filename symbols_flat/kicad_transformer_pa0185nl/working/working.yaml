@@ -1,19 +1,19 @@
 id: kicad_transformer_pa0185nl
 library: transformer
 library_name: Transformer
-name: transformer_pa0185nl
+name: pa0185nl
 oomp:
   library_name: transformer
-  md5: aaaa8c44790257b16fd7c02939b0886e
-  md5_10: aaaa8c4479
-  md5_5: aaaa8
-  md5_6: aaaa8c
-  oomp_key: oomp_transformer_pa0185nl
-  oomp_key_extra: oomp_symbol_transformer_pa0185nl
-  oomp_key_full: oomp_symbol_transformer_pa0185nl_aaaa8c
-  oomp_key_simple: transformer_pa0185nl
+  md5: f3c9c0243fdc76bf15dd8bf03ff4afb4
+  md5_10: f3c9c0243f
+  md5_5: f3c9c
+  md5_6: f3c9c0
+  oomp_key: oomp_pa0185nl
+  oomp_key_extra: oomp_symbol_pa0185nl
+  oomp_key_full: oomp_symbol_pa0185nl_f3c9c0
+  oomp_key_simple: pa0185nl
   owner_name: kicad
-  symbol_name: transformer_pa0185nl
+  symbol_name: pa0185nl
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

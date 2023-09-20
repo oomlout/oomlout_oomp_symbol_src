@@ -1,19 +1,19 @@
 id: kicad_sensor_optical_tept4400
 library: sensor_optical
 library_name: Sensor_Optical
-name: sensor_optical_tept4400
+name: tept4400
 oomp:
   library_name: sensor_optical
-  md5: 0b0510b63c5e3f10e9b0620245cb3daa
-  md5_10: 0b0510b63c
-  md5_5: 0b051
-  md5_6: 0b0510
-  oomp_key: oomp_sensor_optical_tept4400
-  oomp_key_extra: oomp_symbol_sensor_optical_tept4400
-  oomp_key_full: oomp_symbol_sensor_optical_tept4400_0b0510
-  oomp_key_simple: sensor_optical_tept4400
+  md5: 23e75752bdbb03ff8d9742b9972523dc
+  md5_10: 23e75752bd
+  md5_5: 23e75
+  md5_6: 23e757
+  oomp_key: oomp_tept4400
+  oomp_key_extra: oomp_symbol_tept4400
+  oomp_key_full: oomp_symbol_tept4400_23e757
+  oomp_key_simple: tept4400
   owner_name: kicad
-  symbol_name: sensor_optical_tept4400
+  symbol_name: tept4400
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_ia4803s/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_ia4803s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_ia4803s/working
-name: converter_dcdc_ia4803s
+name: ia4803s
 oomp:
   library_name: converter_dcdc
-  md5: d15b1ff365f78ab18fa534581215bbc7
-  md5_10: d15b1ff365
-  md5_5: d15b1
-  md5_6: d15b1f
-  oomp_key: oomp_converter_dcdc_ia4803s
-  oomp_key_extra: oomp_symbol_converter_dcdc_ia4803s
-  oomp_key_full: oomp_symbol_converter_dcdc_ia4803s_d15b1f
-  oomp_key_simple: converter_dcdc_ia4803s
+  md5: 97384c5b85312bf61c820f0d947a7c82
+  md5_10: 97384c5b85
+  md5_5: '97384'
+  md5_6: 97384c
+  oomp_key: oomp_ia4803s
+  oomp_key_extra: oomp_symbol_ia4803s
+  oomp_key_full: oomp_symbol_ia4803s_97384c
+  oomp_key_simple: ia4803s
   owner_name: kicad
-  symbol_name: converter_dcdc_ia4803s
+  symbol_name: ia4803s
 oomp_key: oomp_kicad_converter_dcdc_ia4803s
 oomp_key_simple: kicad_converter_dcdc_ia4803s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

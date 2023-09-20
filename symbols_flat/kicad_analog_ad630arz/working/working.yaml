@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_ad630arz/working
   oomp_src_flat: symbols_flat/kicad_analog_ad630arz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_ad630arz/working
-name: analog_ad630arz
+name: ad630arz
 oomp:
   library_name: analog
-  md5: 75ece5f20be426adb49dd3571ae0964e
-  md5_10: 75ece5f20b
-  md5_5: 75ece
-  md5_6: 75ece5
-  oomp_key: oomp_analog_ad630arz
-  oomp_key_extra: oomp_symbol_analog_ad630arz
-  oomp_key_full: oomp_symbol_analog_ad630arz_75ece5
-  oomp_key_simple: analog_ad630arz
+  md5: f6bdd27ab289f9d23d3d97d4e5c06061
+  md5_10: f6bdd27ab2
+  md5_5: f6bdd
+  md5_6: f6bdd2
+  oomp_key: oomp_ad630arz
+  oomp_key_extra: oomp_symbol_ad630arz
+  oomp_key_full: oomp_symbol_ad630arz_f6bdd2
+  oomp_key_simple: ad630arz
   owner_name: kicad
-  symbol_name: analog_ad630arz
+  symbol_name: ad630arz
 oomp_key: oomp_kicad_analog_ad630arz
 oomp_key_simple: kicad_analog_ad630arz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_lm809/working
   oomp_src_flat: symbols_flat/kicad_power_supervisor_lm809/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_lm809/working
-name: power_supervisor_lm809
+name: lm809
 oomp:
   library_name: power_supervisor
-  md5: 91a089028e651b1d77d65a712a8f18a3
-  md5_10: 91a089028e
-  md5_5: 91a08
-  md5_6: 91a089
-  oomp_key: oomp_power_supervisor_lm809
-  oomp_key_extra: oomp_symbol_power_supervisor_lm809
-  oomp_key_full: oomp_symbol_power_supervisor_lm809_91a089
-  oomp_key_simple: power_supervisor_lm809
+  md5: 07c10f694bdc01b6ab02fb7dc6bee50d
+  md5_10: 07c10f694b
+  md5_5: 07c10
+  md5_6: 07c10f
+  oomp_key: oomp_lm809
+  oomp_key_extra: oomp_symbol_lm809
+  oomp_key_full: oomp_symbol_lm809_07c10f
+  oomp_key_simple: lm809
   owner_name: kicad
-  symbol_name: power_supervisor_lm809
+  symbol_name: lm809
 oomp_key: oomp_kicad_power_supervisor_lm809
 oomp_key_simple: kicad_power_supervisor_lm809
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

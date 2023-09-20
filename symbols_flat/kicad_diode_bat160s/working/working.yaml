@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bat160s/working
   oomp_src_flat: symbols_flat/kicad_diode_bat160s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bat160s/working
-name: diode_bat160s
+name: bat160s
 oomp:
   library_name: diode
-  md5: 036bbe12ea13da733cf05cf127c4a767
-  md5_10: 036bbe12ea
-  md5_5: 036bb
-  md5_6: 036bbe
-  oomp_key: oomp_diode_bat160s
-  oomp_key_extra: oomp_symbol_diode_bat160s
-  oomp_key_full: oomp_symbol_diode_bat160s_036bbe
-  oomp_key_simple: diode_bat160s
+  md5: 155d2794aaa855bfc36afabdcb9c9ff7
+  md5_10: 155d2794aa
+  md5_5: 155d2
+  md5_6: 155d27
+  oomp_key: oomp_bat160s
+  oomp_key_extra: oomp_symbol_bat160s
+  oomp_key_full: oomp_symbol_bat160s_155d27
+  oomp_key_simple: bat160s
   owner_name: kicad
-  symbol_name: diode_bat160s
+  symbol_name: bat160s
 oomp_key: oomp_kicad_diode_bat160s
 oomp_key_simple: kicad_diode_bat160s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

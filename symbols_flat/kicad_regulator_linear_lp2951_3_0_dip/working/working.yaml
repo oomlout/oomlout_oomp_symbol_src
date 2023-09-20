@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lp2951_3_0_dip/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lp2951_3_0_dip/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lp2951_3_0_dip/working
-name: regulator_linear_lp2951_3_0_dip
+name: lp2951_3_0_dip
 oomp:
   library_name: regulator_linear
-  md5: 6de4499ba44c6f8507c853bc6f5eb2ce
-  md5_10: 6de4499ba4
-  md5_5: 6de44
-  md5_6: 6de449
-  oomp_key: oomp_regulator_linear_lp2951_3_0_dip
-  oomp_key_extra: oomp_symbol_regulator_linear_lp2951_3_0_dip
-  oomp_key_full: oomp_symbol_regulator_linear_lp2951_3_0_dip_6de449
-  oomp_key_simple: regulator_linear_lp2951_3_0_dip
+  md5: 8886d96e9b958118dab3356f6b894011
+  md5_10: 8886d96e9b
+  md5_5: 8886d
+  md5_6: 8886d9
+  oomp_key: oomp_lp2951_3_0_dip
+  oomp_key_extra: oomp_symbol_lp2951_3_0_dip
+  oomp_key_full: oomp_symbol_lp2951_3_0_dip_8886d9
+  oomp_key_simple: lp2951_3_0_dip
   owner_name: kicad
-  symbol_name: regulator_linear_lp2951_3_0_dip
+  symbol_name: lp2951_3_0_dip
 oomp_key: oomp_kicad_regulator_linear_lp2951_3_0_dip
 oomp_key_simple: kicad_regulator_linear_lp2951_3_0_dip
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

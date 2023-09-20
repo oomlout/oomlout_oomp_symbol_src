@@ -1,19 +1,19 @@
 id: kicad_driver_motor_l293d
 library: driver_motor
 library_name: Driver_Motor
-name: driver_motor_l293d
+name: l293d
 oomp:
   library_name: driver_motor
-  md5: a44ad29c9c45cb67fa4ccf2fae24fd28
-  md5_10: a44ad29c9c
-  md5_5: a44ad
-  md5_6: a44ad2
-  oomp_key: oomp_driver_motor_l293d
-  oomp_key_extra: oomp_symbol_driver_motor_l293d
-  oomp_key_full: oomp_symbol_driver_motor_l293d_a44ad2
-  oomp_key_simple: driver_motor_l293d
+  md5: 00762e75e36cd99f640dcddd4a17d002
+  md5_10: 00762e75e3
+  md5_5: '00762'
+  md5_6: 00762e
+  oomp_key: oomp_l293d
+  oomp_key_extra: oomp_symbol_l293d
+  oomp_key_full: oomp_symbol_l293d_00762e
+  oomp_key_simple: l293d
   owner_name: kicad
-  symbol_name: driver_motor_l293d
+  symbol_name: l293d
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_rf_amplifier_gali_5
 library: rf_amplifier
 library_name: RF_Amplifier
-name: rf_amplifier_gali_5
+name: gali_5
 oomp:
   library_name: rf_amplifier
-  md5: cd81d691c43c2a5168a5d94cc661fc09
-  md5_10: cd81d691c4
-  md5_5: cd81d
-  md5_6: cd81d6
-  oomp_key: oomp_rf_amplifier_gali_5
-  oomp_key_extra: oomp_symbol_rf_amplifier_gali_5
-  oomp_key_full: oomp_symbol_rf_amplifier_gali_5_cd81d6
-  oomp_key_simple: rf_amplifier_gali_5
+  md5: 57053e1a760365b945ab8774e50f23fe
+  md5_10: 57053e1a76
+  md5_5: '57053'
+  md5_6: 57053e
+  oomp_key: oomp_gali_5
+  oomp_key_extra: oomp_symbol_gali_5
+  oomp_key_full: oomp_symbol_gali_5_57053e
+  oomp_key_simple: gali_5
   owner_name: kicad
-  symbol_name: rf_amplifier_gali_5
+  symbol_name: gali_5
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

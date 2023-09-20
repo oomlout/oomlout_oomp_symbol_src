@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_avr_at90usb646_m/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_avr_at90usb646_m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_avr_at90usb646_m/working
-name: mcu_microchip_avr_at90usb646_m
+name: at90usb646_m
 oomp:
   library_name: mcu_microchip_avr
-  md5: 56cee17c3602f8b1af8d36fc9f68dca0
-  md5_10: 56cee17c36
-  md5_5: 56cee
-  md5_6: 56cee1
-  oomp_key: oomp_mcu_microchip_avr_at90usb646_m
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_at90usb646_m
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_at90usb646_m_56cee1
-  oomp_key_simple: mcu_microchip_avr_at90usb646_m
+  md5: e1a6cefa83d921a26749772071725c1d
+  md5_10: e1a6cefa83
+  md5_5: e1a6c
+  md5_6: e1a6ce
+  oomp_key: oomp_at90usb646_m
+  oomp_key_extra: oomp_symbol_at90usb646_m
+  oomp_key_full: oomp_symbol_at90usb646_m_e1a6ce
+  oomp_key_simple: at90usb646_m
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_at90usb646_m
+  symbol_name: at90usb646_m
 oomp_key: oomp_kicad_mcu_microchip_avr_at90usb646_m
 oomp_key_simple: kicad_mcu_microchip_avr_at90usb646_m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_bs107/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_bs107/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_bs107/working
-name: transistor_fet_bs107
+name: bs107
 oomp:
   library_name: transistor_fet
-  md5: cd0f8d256f71d6a785fcfb74c7eb367d
-  md5_10: cd0f8d256f
-  md5_5: cd0f8
-  md5_6: cd0f8d
-  oomp_key: oomp_transistor_fet_bs107
-  oomp_key_extra: oomp_symbol_transistor_fet_bs107
-  oomp_key_full: oomp_symbol_transistor_fet_bs107_cd0f8d
-  oomp_key_simple: transistor_fet_bs107
+  md5: 596d2e46a5a6d71692d96183e12df7d7
+  md5_10: 596d2e46a5
+  md5_5: 596d2
+  md5_6: 596d2e
+  oomp_key: oomp_bs107
+  oomp_key_extra: oomp_symbol_bs107
+  oomp_key_full: oomp_symbol_bs107_596d2e
+  oomp_key_simple: bs107
   owner_name: kicad
-  symbol_name: transistor_fet_bs107
+  symbol_name: bs107
 oomp_key: oomp_kicad_transistor_fet_bs107
 oomp_key_simple: kicad_transistor_fet_bs107
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

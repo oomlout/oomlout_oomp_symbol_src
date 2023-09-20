@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_attiny_attiny84a_cc
 library: mcu_microchip_attiny
 library_name: MCU_Microchip_ATtiny
-name: mcu_microchip_attiny_attiny84a_cc
+name: attiny84a_cc
 oomp:
   library_name: mcu_microchip_attiny
-  md5: dcab957b6b11089fda162e0db2e44bf9
-  md5_10: dcab957b6b
-  md5_5: dcab9
-  md5_6: dcab95
-  oomp_key: oomp_mcu_microchip_attiny_attiny84a_cc
-  oomp_key_extra: oomp_symbol_mcu_microchip_attiny_attiny84a_cc
-  oomp_key_full: oomp_symbol_mcu_microchip_attiny_attiny84a_cc_dcab95
-  oomp_key_simple: mcu_microchip_attiny_attiny84a_cc
+  md5: 005f373d72bb54310bafdb70a665b0bf
+  md5_10: 005f373d72
+  md5_5: 005f3
+  md5_6: 005f37
+  oomp_key: oomp_attiny84a_cc
+  oomp_key_extra: oomp_symbol_attiny84a_cc
+  oomp_key_full: oomp_symbol_attiny84a_cc_005f37
+  oomp_key_simple: attiny84a_cc
   owner_name: kicad
-  symbol_name: mcu_microchip_attiny_attiny84a_cc
+  symbol_name: attiny84a_cc
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

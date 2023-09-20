@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_xc6220b331mr/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_xc6220b331mr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_xc6220b331mr/working
-name: regulator_linear_xc6220b331mr
+name: xc6220b331mr
 oomp:
   library_name: regulator_linear
-  md5: 6eaab05bf2f0172411090f5414bbf1d8
-  md5_10: 6eaab05bf2
-  md5_5: 6eaab
-  md5_6: 6eaab0
-  oomp_key: oomp_regulator_linear_xc6220b331mr
-  oomp_key_extra: oomp_symbol_regulator_linear_xc6220b331mr
-  oomp_key_full: oomp_symbol_regulator_linear_xc6220b331mr_6eaab0
-  oomp_key_simple: regulator_linear_xc6220b331mr
+  md5: a3b29d18fc74dbf94ce6a9cf8873f897
+  md5_10: a3b29d18fc
+  md5_5: a3b29
+  md5_6: a3b29d
+  oomp_key: oomp_xc6220b331mr
+  oomp_key_extra: oomp_symbol_xc6220b331mr
+  oomp_key_full: oomp_symbol_xc6220b331mr_a3b29d
+  oomp_key_simple: xc6220b331mr
   owner_name: kicad
-  symbol_name: regulator_linear_xc6220b331mr
+  symbol_name: xc6220b331mr
 oomp_key: oomp_kicad_regulator_linear_xc6220b331mr
 oomp_key_simple: kicad_regulator_linear_xc6220b331mr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

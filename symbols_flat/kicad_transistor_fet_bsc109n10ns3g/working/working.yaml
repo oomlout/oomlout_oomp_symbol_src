@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_bsc109n10ns3g
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_bsc109n10ns3g
+name: bsc109n10ns3g
 oomp:
   library_name: transistor_fet
-  md5: f18a24c2b3a0cf74b51b8fa61b489bc0
-  md5_10: f18a24c2b3
-  md5_5: f18a2
-  md5_6: f18a24
-  oomp_key: oomp_transistor_fet_bsc109n10ns3g
-  oomp_key_extra: oomp_symbol_transistor_fet_bsc109n10ns3g
-  oomp_key_full: oomp_symbol_transistor_fet_bsc109n10ns3g_f18a24
-  oomp_key_simple: transistor_fet_bsc109n10ns3g
+  md5: 02d05901a0ff5f3c6aa6d54dfd63fa2e
+  md5_10: 02d05901a0
+  md5_5: 02d05
+  md5_6: 02d059
+  oomp_key: oomp_bsc109n10ns3g
+  oomp_key_extra: oomp_symbol_bsc109n10ns3g
+  oomp_key_full: oomp_symbol_bsc109n10ns3g_02d059
+  oomp_key_simple: bsc109n10ns3g
   owner_name: kicad
-  symbol_name: transistor_fet_bsc109n10ns3g
+  symbol_name: bsc109n10ns3g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

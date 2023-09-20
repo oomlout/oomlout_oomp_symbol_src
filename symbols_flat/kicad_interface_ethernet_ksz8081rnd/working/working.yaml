@@ -1,19 +1,19 @@
 id: kicad_interface_ethernet_ksz8081rnd
 library: interface_ethernet
 library_name: Interface_Ethernet
-name: interface_ethernet_ksz8081rnd
+name: ksz8081rnd
 oomp:
   library_name: interface_ethernet
-  md5: 0e802e82e3b572753fc387b7db5537a4
-  md5_10: 0e802e82e3
-  md5_5: 0e802
-  md5_6: 0e802e
-  oomp_key: oomp_interface_ethernet_ksz8081rnd
-  oomp_key_extra: oomp_symbol_interface_ethernet_ksz8081rnd
-  oomp_key_full: oomp_symbol_interface_ethernet_ksz8081rnd_0e802e
-  oomp_key_simple: interface_ethernet_ksz8081rnd
+  md5: aa55c3c82016160601049db84b48eb45
+  md5_10: aa55c3c820
+  md5_5: aa55c
+  md5_6: aa55c3
+  oomp_key: oomp_ksz8081rnd
+  oomp_key_extra: oomp_symbol_ksz8081rnd
+  oomp_key_full: oomp_symbol_ksz8081rnd_aa55c3
+  oomp_key_simple: ksz8081rnd
   owner_name: kicad
-  symbol_name: interface_ethernet_ksz8081rnd
+  symbol_name: ksz8081rnd
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_usblc6_2p6/working
   oomp_src_flat: symbols_flat/kicad_power_protection_usblc6_2p6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_usblc6_2p6/working
-name: power_protection_usblc6_2p6
+name: usblc6_2p6
 oomp:
   library_name: power_protection
-  md5: 61b0287f3d965250be2a22b868d402b0
-  md5_10: 61b0287f3d
-  md5_5: 61b02
-  md5_6: 61b028
-  oomp_key: oomp_power_protection_usblc6_2p6
-  oomp_key_extra: oomp_symbol_power_protection_usblc6_2p6
-  oomp_key_full: oomp_symbol_power_protection_usblc6_2p6_61b028
-  oomp_key_simple: power_protection_usblc6_2p6
+  md5: 01de6916e20d5baa62ec6ab1e88ab2bd
+  md5_10: 01de6916e2
+  md5_5: 01de6
+  md5_6: 01de69
+  oomp_key: oomp_usblc6_2p6
+  oomp_key_extra: oomp_symbol_usblc6_2p6
+  oomp_key_full: oomp_symbol_usblc6_2p6_01de69
+  oomp_key_simple: usblc6_2p6
   owner_name: kicad
-  symbol_name: power_protection_usblc6_2p6
+  symbol_name: usblc6_2p6
 oomp_key: oomp_kicad_power_protection_usblc6_2p6
 oomp_key_simple: kicad_power_protection_usblc6_2p6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

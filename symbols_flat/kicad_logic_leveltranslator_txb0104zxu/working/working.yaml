@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_logic_leveltranslator_txb0104zxu/working
   oomp_src_flat: symbols_flat/kicad_logic_leveltranslator_txb0104zxu/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_logic_leveltranslator_txb0104zxu/working
-name: logic_leveltranslator_txb0104zxu
+name: txb0104zxu
 oomp:
   library_name: logic_leveltranslator
-  md5: ee5ce400723212949fcae4b61e041745
-  md5_10: ee5ce40072
-  md5_5: ee5ce
-  md5_6: ee5ce4
-  oomp_key: oomp_logic_leveltranslator_txb0104zxu
-  oomp_key_extra: oomp_symbol_logic_leveltranslator_txb0104zxu
-  oomp_key_full: oomp_symbol_logic_leveltranslator_txb0104zxu_ee5ce4
-  oomp_key_simple: logic_leveltranslator_txb0104zxu
+  md5: eca804d8b79af1adc642d584e26c8afb
+  md5_10: eca804d8b7
+  md5_5: eca80
+  md5_6: eca804
+  oomp_key: oomp_txb0104zxu
+  oomp_key_extra: oomp_symbol_txb0104zxu
+  oomp_key_full: oomp_symbol_txb0104zxu_eca804
+  oomp_key_simple: txb0104zxu
   owner_name: kicad
-  symbol_name: logic_leveltranslator_txb0104zxu
+  symbol_name: txb0104zxu
 oomp_key: oomp_kicad_logic_leveltranslator_txb0104zxu
 oomp_key_simple: kicad_logic_leveltranslator_txb0104zxu
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

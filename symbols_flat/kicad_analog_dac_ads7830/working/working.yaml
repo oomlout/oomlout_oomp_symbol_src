@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_ads7830/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_ads7830/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_ads7830/working
-name: analog_dac_ads7830
+name: ads7830
 oomp:
   library_name: analog_dac
-  md5: 232826ff5e1e674ea3b02a0d8eee749d
-  md5_10: 232826ff5e
-  md5_5: '23282'
-  md5_6: '232826'
-  oomp_key: oomp_analog_dac_ads7830
-  oomp_key_extra: oomp_symbol_analog_dac_ads7830
-  oomp_key_full: oomp_symbol_analog_dac_ads7830_232826
-  oomp_key_simple: analog_dac_ads7830
+  md5: b687faaf5e2f9eb79f05d17bccd76819
+  md5_10: b687faaf5e
+  md5_5: b687f
+  md5_6: b687fa
+  oomp_key: oomp_ads7830
+  oomp_key_extra: oomp_symbol_ads7830
+  oomp_key_full: oomp_symbol_ads7830_b687fa
+  oomp_key_simple: ads7830
   owner_name: kicad
-  symbol_name: analog_dac_ads7830
+  symbol_name: ads7830
 oomp_key: oomp_kicad_analog_dac_ads7830
 oomp_key_simple: kicad_analog_dac_ads7830
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

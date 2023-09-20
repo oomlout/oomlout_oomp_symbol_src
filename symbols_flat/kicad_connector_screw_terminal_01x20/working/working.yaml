@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_screw_terminal_01x20/working
   oomp_src_flat: symbols_flat/kicad_connector_screw_terminal_01x20/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_screw_terminal_01x20/working
-name: connector_screw_terminal_01x20
+name: screw_terminal_01x20
 oomp:
   library_name: connector
-  md5: b0eb8e8cedfec01806f52ad897aa78d2
-  md5_10: b0eb8e8ced
-  md5_5: b0eb8
-  md5_6: b0eb8e
-  oomp_key: oomp_connector_screw_terminal_01x20
-  oomp_key_extra: oomp_symbol_connector_screw_terminal_01x20
-  oomp_key_full: oomp_symbol_connector_screw_terminal_01x20_b0eb8e
-  oomp_key_simple: connector_screw_terminal_01x20
+  md5: 53ded5e40bba27fa70e1b32470ac5a40
+  md5_10: 53ded5e40b
+  md5_5: 53ded
+  md5_6: 53ded5
+  oomp_key: oomp_screw_terminal_01x20
+  oomp_key_extra: oomp_symbol_screw_terminal_01x20
+  oomp_key_full: oomp_symbol_screw_terminal_01x20_53ded5
+  oomp_key_simple: screw_terminal_01x20
   owner_name: kicad
-  symbol_name: connector_screw_terminal_01x20
+  symbol_name: screw_terminal_01x20
 oomp_key: oomp_kicad_connector_screw_terminal_01x20
 oomp_key_simple: kicad_connector_screw_terminal_01x20
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

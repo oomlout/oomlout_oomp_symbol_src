@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_ah1806_w/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_ah1806_w/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_ah1806_w/working
-name: sensor_magnetic_ah1806_w
+name: ah1806_w
 oomp:
   library_name: sensor_magnetic
-  md5: d458221f4f7780d7f80024ce08e4b907
-  md5_10: d458221f4f
-  md5_5: d4582
-  md5_6: d45822
-  oomp_key: oomp_sensor_magnetic_ah1806_w
-  oomp_key_extra: oomp_symbol_sensor_magnetic_ah1806_w
-  oomp_key_full: oomp_symbol_sensor_magnetic_ah1806_w_d45822
-  oomp_key_simple: sensor_magnetic_ah1806_w
+  md5: 397c2dcff519cd30baa08c32882ede2d
+  md5_10: 397c2dcff5
+  md5_5: 397c2
+  md5_6: 397c2d
+  oomp_key: oomp_ah1806_w
+  oomp_key_extra: oomp_symbol_ah1806_w
+  oomp_key_full: oomp_symbol_ah1806_w_397c2d
+  oomp_key_simple: ah1806_w
   owner_name: kicad
-  symbol_name: sensor_magnetic_ah1806_w
+  symbol_name: ah1806_w
 oomp_key: oomp_kicad_sensor_magnetic_ah1806_w
 oomp_key_simple: kicad_sensor_magnetic_ah1806_w
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

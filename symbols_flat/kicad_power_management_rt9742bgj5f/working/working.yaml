@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_rt9742bgj5f/working
   oomp_src_flat: symbols_flat/kicad_power_management_rt9742bgj5f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_rt9742bgj5f/working
-name: power_management_rt9742bgj5f
+name: rt9742bgj5f
 oomp:
   library_name: power_management
-  md5: 1eceeab94f518a7b9b61a399ce3f8da7
-  md5_10: 1eceeab94f
-  md5_5: 1ecee
-  md5_6: 1eceea
-  oomp_key: oomp_power_management_rt9742bgj5f
-  oomp_key_extra: oomp_symbol_power_management_rt9742bgj5f
-  oomp_key_full: oomp_symbol_power_management_rt9742bgj5f_1eceea
-  oomp_key_simple: power_management_rt9742bgj5f
+  md5: a199876b960f179dd0a354b5ea941308
+  md5_10: a199876b96
+  md5_5: a1998
+  md5_6: a19987
+  oomp_key: oomp_rt9742bgj5f
+  oomp_key_extra: oomp_symbol_rt9742bgj5f
+  oomp_key_full: oomp_symbol_rt9742bgj5f_a19987
+  oomp_key_simple: rt9742bgj5f
   owner_name: kicad
-  symbol_name: power_management_rt9742bgj5f
+  symbol_name: rt9742bgj5f
 oomp_key: oomp_kicad_power_management_rt9742bgj5f
 oomp_key_simple: kicad_power_management_rt9742bgj5f
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

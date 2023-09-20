@@ -1,19 +1,19 @@
 id: kicad_driver_motor_l298n
 library: driver_motor
 library_name: Driver_Motor
-name: driver_motor_l298n
+name: l298n
 oomp:
   library_name: driver_motor
-  md5: 4386ba78edf507f2a831dbb320c329a3
-  md5_10: 4386ba78ed
-  md5_5: 4386b
-  md5_6: 4386ba
-  oomp_key: oomp_driver_motor_l298n
-  oomp_key_extra: oomp_symbol_driver_motor_l298n
-  oomp_key_full: oomp_symbol_driver_motor_l298n_4386ba
-  oomp_key_simple: driver_motor_l298n
+  md5: 96d37407649d7c18d0ff4c26acb29802
+  md5_10: 96d3740764
+  md5_5: 96d37
+  md5_6: 96d374
+  oomp_key: oomp_l298n
+  oomp_key_extra: oomp_symbol_l298n
+  oomp_key_full: oomp_symbol_l298n_96d374
+  oomp_key_simple: l298n
   owner_name: kicad
-  symbol_name: driver_motor_l298n
+  symbol_name: l298n
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

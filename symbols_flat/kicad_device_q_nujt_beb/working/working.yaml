@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_nujt_beb/working
   oomp_src_flat: symbols_flat/kicad_device_q_nujt_beb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_nujt_beb/working
-name: device_q_nujt_beb
+name: q_nujt_beb
 oomp:
   library_name: device
-  md5: 70a880eac64fc8c23b14419140bf6cca
-  md5_10: 70a880eac6
-  md5_5: 70a88
-  md5_6: 70a880
-  oomp_key: oomp_device_q_nujt_beb
-  oomp_key_extra: oomp_symbol_device_q_nujt_beb
-  oomp_key_full: oomp_symbol_device_q_nujt_beb_70a880
-  oomp_key_simple: device_q_nujt_beb
+  md5: cd2ad107f5626f3f77ac8b03364b52e1
+  md5_10: cd2ad107f5
+  md5_5: cd2ad
+  md5_6: cd2ad1
+  oomp_key: oomp_q_nujt_beb
+  oomp_key_extra: oomp_symbol_q_nujt_beb
+  oomp_key_full: oomp_symbol_q_nujt_beb_cd2ad1
+  oomp_key_simple: q_nujt_beb
   owner_name: kicad
-  symbol_name: device_q_nujt_beb
+  symbol_name: q_nujt_beb
 oomp_key: oomp_kicad_device_q_nujt_beb
 oomp_key_simple: kicad_device_q_nujt_beb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

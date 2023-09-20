@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_mbi5252gp/working
   oomp_src_flat: symbols_flat/kicad_driver_led_mbi5252gp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_mbi5252gp/working
-name: driver_led_mbi5252gp
+name: mbi5252gp
 oomp:
   library_name: driver_led
-  md5: 3fc70860084e9f384d5a314924f31422
-  md5_10: 3fc7086008
-  md5_5: 3fc70
-  md5_6: 3fc708
-  oomp_key: oomp_driver_led_mbi5252gp
-  oomp_key_extra: oomp_symbol_driver_led_mbi5252gp
-  oomp_key_full: oomp_symbol_driver_led_mbi5252gp_3fc708
-  oomp_key_simple: driver_led_mbi5252gp
+  md5: 6bc84a8fedb4c50893e2491f58e6fcd3
+  md5_10: 6bc84a8fed
+  md5_5: 6bc84
+  md5_6: 6bc84a
+  oomp_key: oomp_mbi5252gp
+  oomp_key_extra: oomp_symbol_mbi5252gp
+  oomp_key_full: oomp_symbol_mbi5252gp_6bc84a
+  oomp_key_simple: mbi5252gp
   owner_name: kicad
-  symbol_name: driver_led_mbi5252gp
+  symbol_name: mbi5252gp
 oomp_key: oomp_kicad_driver_led_mbi5252gp
 oomp_key_simple: kicad_driver_led_mbi5252gp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_sn75160bn/working
   oomp_src_flat: symbols_flat/kicad_interface_sn75160bn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_sn75160bn/working
-name: interface_sn75160bn
+name: sn75160bn
 oomp:
   library_name: interface
-  md5: 27000c6ce1c706fa078332f22d411979
-  md5_10: 27000c6ce1
-  md5_5: '27000'
-  md5_6: 27000c
-  oomp_key: oomp_interface_sn75160bn
-  oomp_key_extra: oomp_symbol_interface_sn75160bn
-  oomp_key_full: oomp_symbol_interface_sn75160bn_27000c
-  oomp_key_simple: interface_sn75160bn
+  md5: 109d1a62cd4d50d900909c7e5dafc4a5
+  md5_10: 109d1a62cd
+  md5_5: 109d1
+  md5_6: 109d1a
+  oomp_key: oomp_sn75160bn
+  oomp_key_extra: oomp_symbol_sn75160bn
+  oomp_key_full: oomp_symbol_sn75160bn_109d1a
+  oomp_key_simple: sn75160bn
   owner_name: kicad
-  symbol_name: interface_sn75160bn
+  symbol_name: sn75160bn
 oomp_key: oomp_kicad_interface_sn75160bn
 oomp_key_simple: kicad_interface_sn75160bn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

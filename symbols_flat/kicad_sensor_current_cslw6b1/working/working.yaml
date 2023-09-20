@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_cslw6b1/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_cslw6b1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_cslw6b1/working
-name: sensor_current_cslw6b1
+name: cslw6b1
 oomp:
   library_name: sensor_current
-  md5: 4c0036107d434ed578082feb7da74a93
-  md5_10: 4c0036107d
-  md5_5: 4c003
-  md5_6: 4c0036
-  oomp_key: oomp_sensor_current_cslw6b1
-  oomp_key_extra: oomp_symbol_sensor_current_cslw6b1
-  oomp_key_full: oomp_symbol_sensor_current_cslw6b1_4c0036
-  oomp_key_simple: sensor_current_cslw6b1
+  md5: 4dc8992e8969f6f6747b831cd2aeec9e
+  md5_10: 4dc8992e89
+  md5_5: 4dc89
+  md5_6: 4dc899
+  oomp_key: oomp_cslw6b1
+  oomp_key_extra: oomp_symbol_cslw6b1
+  oomp_key_full: oomp_symbol_cslw6b1_4dc899
+  oomp_key_simple: cslw6b1
   owner_name: kicad
-  symbol_name: sensor_current_cslw6b1
+  symbol_name: cslw6b1
 oomp_key: oomp_kicad_sensor_current_cslw6b1
 oomp_key_simple: kicad_sensor_current_cslw6b1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

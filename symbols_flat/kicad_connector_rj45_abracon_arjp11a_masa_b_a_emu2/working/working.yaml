@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2/working
   oomp_src_flat: symbols_flat/kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2/working
-name: connector_rj45_abracon_arjp11a_masa_b_a_emu2
+name: rj45_abracon_arjp11a_masa_b_a_emu2
 oomp:
   library_name: connector
-  md5: 542b91b84d68bd2e46a1c97964258809
-  md5_10: 542b91b84d
-  md5_5: 542b9
-  md5_6: 542b91
-  oomp_key: oomp_connector_rj45_abracon_arjp11a_masa_b_a_emu2
-  oomp_key_extra: oomp_symbol_connector_rj45_abracon_arjp11a_masa_b_a_emu2
-  oomp_key_full: oomp_symbol_connector_rj45_abracon_arjp11a_masa_b_a_emu2_542b91
-  oomp_key_simple: connector_rj45_abracon_arjp11a_masa_b_a_emu2
+  md5: e0bee499038d032b283371565bfbe037
+  md5_10: e0bee49903
+  md5_5: e0bee
+  md5_6: e0bee4
+  oomp_key: oomp_rj45_abracon_arjp11a_masa_b_a_emu2
+  oomp_key_extra: oomp_symbol_rj45_abracon_arjp11a_masa_b_a_emu2
+  oomp_key_full: oomp_symbol_rj45_abracon_arjp11a_masa_b_a_emu2_e0bee4
+  oomp_key_simple: rj45_abracon_arjp11a_masa_b_a_emu2
   owner_name: kicad
-  symbol_name: connector_rj45_abracon_arjp11a_masa_b_a_emu2
+  symbol_name: rj45_abracon_arjp11a_masa_b_a_emu2
 oomp_key: oomp_kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2
 oomp_key_simple: kicad_connector_rj45_abracon_arjp11a_masa_b_a_emu2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

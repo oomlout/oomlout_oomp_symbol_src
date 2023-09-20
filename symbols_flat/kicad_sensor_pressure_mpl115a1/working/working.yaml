@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_pressure_mpl115a1/working
   oomp_src_flat: symbols_flat/kicad_sensor_pressure_mpl115a1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_pressure_mpl115a1/working
-name: sensor_pressure_mpl115a1
+name: mpl115a1
 oomp:
   library_name: sensor_pressure
-  md5: acf8d629703857fb8c29377416aa99dd
-  md5_10: acf8d62970
-  md5_5: acf8d
-  md5_6: acf8d6
-  oomp_key: oomp_sensor_pressure_mpl115a1
-  oomp_key_extra: oomp_symbol_sensor_pressure_mpl115a1
-  oomp_key_full: oomp_symbol_sensor_pressure_mpl115a1_acf8d6
-  oomp_key_simple: sensor_pressure_mpl115a1
+  md5: b30f95c3104093b51ab2aec5f0888231
+  md5_10: b30f95c310
+  md5_5: b30f9
+  md5_6: b30f95
+  oomp_key: oomp_mpl115a1
+  oomp_key_extra: oomp_symbol_mpl115a1
+  oomp_key_full: oomp_symbol_mpl115a1_b30f95
+  oomp_key_simple: mpl115a1
   owner_name: kicad
-  symbol_name: sensor_pressure_mpl115a1
+  symbol_name: mpl115a1
 oomp_key: oomp_kicad_sensor_pressure_mpl115a1
 oomp_key_simple: kicad_sensor_pressure_mpl115a1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

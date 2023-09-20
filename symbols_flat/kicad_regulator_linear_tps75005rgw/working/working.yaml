@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tps75005rgw/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tps75005rgw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tps75005rgw/working
-name: regulator_linear_tps75005rgw
+name: tps75005rgw
 oomp:
   library_name: regulator_linear
-  md5: d24c1486984651ba6d7e9e47852f8f0d
-  md5_10: d24c148698
-  md5_5: d24c1
-  md5_6: d24c14
-  oomp_key: oomp_regulator_linear_tps75005rgw
-  oomp_key_extra: oomp_symbol_regulator_linear_tps75005rgw
-  oomp_key_full: oomp_symbol_regulator_linear_tps75005rgw_d24c14
-  oomp_key_simple: regulator_linear_tps75005rgw
+  md5: 352ce44a9aa68362e0539d4cf0326ad4
+  md5_10: 352ce44a9a
+  md5_5: 352ce
+  md5_6: 352ce4
+  oomp_key: oomp_tps75005rgw
+  oomp_key_extra: oomp_symbol_tps75005rgw
+  oomp_key_full: oomp_symbol_tps75005rgw_352ce4
+  oomp_key_simple: tps75005rgw
   owner_name: kicad
-  symbol_name: regulator_linear_tps75005rgw
+  symbol_name: tps75005rgw
 oomp_key: oomp_kicad_regulator_linear_tps75005rgw
 oomp_key_simple: kicad_regulator_linear_tps75005rgw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

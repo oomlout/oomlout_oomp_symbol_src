@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_switch_sky13575_639lf/working
   oomp_src_flat: symbols_flat/kicad_rf_switch_sky13575_639lf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_switch_sky13575_639lf/working
-name: rf_switch_sky13575_639lf
+name: sky13575_639lf
 oomp:
   library_name: rf_switch
-  md5: 23761b3615afa39910918b1cd59ef1a8
-  md5_10: 23761b3615
-  md5_5: '23761'
-  md5_6: 23761b
-  oomp_key: oomp_rf_switch_sky13575_639lf
-  oomp_key_extra: oomp_symbol_rf_switch_sky13575_639lf
-  oomp_key_full: oomp_symbol_rf_switch_sky13575_639lf_23761b
-  oomp_key_simple: rf_switch_sky13575_639lf
+  md5: 8d0958cbf12a743e6572bf7e0ac7ebe7
+  md5_10: 8d0958cbf1
+  md5_5: 8d095
+  md5_6: 8d0958
+  oomp_key: oomp_sky13575_639lf
+  oomp_key_extra: oomp_symbol_sky13575_639lf
+  oomp_key_full: oomp_symbol_sky13575_639lf_8d0958
+  oomp_key_simple: sky13575_639lf
   owner_name: kicad
-  symbol_name: rf_switch_sky13575_639lf
+  symbol_name: sky13575_639lf
 oomp_key: oomp_kicad_rf_switch_sky13575_639lf
 oomp_key_simple: kicad_rf_switch_sky13575_639lf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

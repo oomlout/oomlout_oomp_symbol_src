@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_kxtj3_1057/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_kxtj3_1057/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_kxtj3_1057/working
-name: sensor_motion_kxtj3_1057
+name: kxtj3_1057
 oomp:
   library_name: sensor_motion
-  md5: 56e9ec50ec90f153be6bc8d949b78847
-  md5_10: 56e9ec50ec
-  md5_5: 56e9e
-  md5_6: 56e9ec
-  oomp_key: oomp_sensor_motion_kxtj3_1057
-  oomp_key_extra: oomp_symbol_sensor_motion_kxtj3_1057
-  oomp_key_full: oomp_symbol_sensor_motion_kxtj3_1057_56e9ec
-  oomp_key_simple: sensor_motion_kxtj3_1057
+  md5: fe913b0ad33d5aabd7d11774bbc965b3
+  md5_10: fe913b0ad3
+  md5_5: fe913
+  md5_6: fe913b
+  oomp_key: oomp_kxtj3_1057
+  oomp_key_extra: oomp_symbol_kxtj3_1057
+  oomp_key_full: oomp_symbol_kxtj3_1057_fe913b
+  oomp_key_simple: kxtj3_1057
   owner_name: kicad
-  symbol_name: sensor_motion_kxtj3_1057
+  symbol_name: kxtj3_1057
 oomp_key: oomp_kicad_sensor_motion_kxtj3_1057
 oomp_key_simple: kicad_sensor_motion_kxtj3_1057
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

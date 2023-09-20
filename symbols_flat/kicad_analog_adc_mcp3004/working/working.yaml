@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_mcp3004/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_mcp3004/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_mcp3004/working
-name: analog_adc_mcp3004
+name: mcp3004
 oomp:
   library_name: analog_adc
-  md5: 884b66822ebe07cd75f068b9a72ef955
-  md5_10: 884b66822e
-  md5_5: 884b6
-  md5_6: 884b66
-  oomp_key: oomp_analog_adc_mcp3004
-  oomp_key_extra: oomp_symbol_analog_adc_mcp3004
-  oomp_key_full: oomp_symbol_analog_adc_mcp3004_884b66
-  oomp_key_simple: analog_adc_mcp3004
+  md5: 10408295f24ab31a68b07181aace1949
+  md5_10: 10408295f2
+  md5_5: '10408'
+  md5_6: '104082'
+  oomp_key: oomp_mcp3004
+  oomp_key_extra: oomp_symbol_mcp3004
+  oomp_key_full: oomp_symbol_mcp3004_104082
+  oomp_key_simple: mcp3004
   owner_name: kicad
-  symbol_name: analog_adc_mcp3004
+  symbol_name: mcp3004
 oomp_key: oomp_kicad_analog_adc_mcp3004
 oomp_key_simple: kicad_analog_adc_mcp3004
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

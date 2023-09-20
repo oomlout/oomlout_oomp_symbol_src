@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_samtec_asp_134602_01/working
   oomp_src_flat: symbols_flat/kicad_connector_samtec_asp_134602_01/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_samtec_asp_134602_01/working
-name: connector_samtec_asp_134602_01
+name: samtec_asp_134602_01
 oomp:
   library_name: connector
-  md5: c0f37f52b27ee8f30f0c211b5c2fafc1
-  md5_10: c0f37f52b2
-  md5_5: c0f37
-  md5_6: c0f37f
-  oomp_key: oomp_connector_samtec_asp_134602_01
-  oomp_key_extra: oomp_symbol_connector_samtec_asp_134602_01
-  oomp_key_full: oomp_symbol_connector_samtec_asp_134602_01_c0f37f
-  oomp_key_simple: connector_samtec_asp_134602_01
+  md5: 7843c74d23d08c97747a55455cb6fa20
+  md5_10: 7843c74d23
+  md5_5: 7843c
+  md5_6: 7843c7
+  oomp_key: oomp_samtec_asp_134602_01
+  oomp_key_extra: oomp_symbol_samtec_asp_134602_01
+  oomp_key_full: oomp_symbol_samtec_asp_134602_01_7843c7
+  oomp_key_simple: samtec_asp_134602_01
   owner_name: kicad
-  symbol_name: connector_samtec_asp_134602_01
+  symbol_name: samtec_asp_134602_01
 oomp_key: oomp_kicad_connector_samtec_asp_134602_01
 oomp_key_simple: kicad_connector_samtec_asp_134602_01
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

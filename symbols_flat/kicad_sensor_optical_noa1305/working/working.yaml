@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_noa1305/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_noa1305/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_noa1305/working
-name: sensor_optical_noa1305
+name: noa1305
 oomp:
   library_name: sensor_optical
-  md5: 23f9df52a6b2a461121c2478b77587d2
-  md5_10: 23f9df52a6
-  md5_5: 23f9d
-  md5_6: 23f9df
-  oomp_key: oomp_sensor_optical_noa1305
-  oomp_key_extra: oomp_symbol_sensor_optical_noa1305
-  oomp_key_full: oomp_symbol_sensor_optical_noa1305_23f9df
-  oomp_key_simple: sensor_optical_noa1305
+  md5: e5ff5bfc44affe81c904b5ba905726dc
+  md5_10: e5ff5bfc44
+  md5_5: e5ff5
+  md5_6: e5ff5b
+  oomp_key: oomp_noa1305
+  oomp_key_extra: oomp_symbol_noa1305
+  oomp_key_full: oomp_symbol_noa1305_e5ff5b
+  oomp_key_simple: noa1305
   owner_name: kicad
-  symbol_name: sensor_optical_noa1305
+  symbol_name: noa1305
 oomp_key: oomp_kicad_sensor_optical_noa1305
 oomp_key_simple: kicad_sensor_optical_noa1305
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

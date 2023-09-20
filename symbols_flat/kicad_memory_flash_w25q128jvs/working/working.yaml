@@ -1,19 +1,19 @@
 id: kicad_memory_flash_w25q128jvs
 library: memory_flash
 library_name: Memory_Flash
-name: memory_flash_w25q128jvs
+name: w25q128jvs
 oomp:
   library_name: memory_flash
-  md5: c60ac6ed8393313ad6463bc7094ebe2c
-  md5_10: c60ac6ed83
-  md5_5: c60ac
-  md5_6: c60ac6
-  oomp_key: oomp_memory_flash_w25q128jvs
-  oomp_key_extra: oomp_symbol_memory_flash_w25q128jvs
-  oomp_key_full: oomp_symbol_memory_flash_w25q128jvs_c60ac6
-  oomp_key_simple: memory_flash_w25q128jvs
+  md5: c3f1a2db8748b339b76936509126106f
+  md5_10: c3f1a2db87
+  md5_5: c3f1a
+  md5_6: c3f1a2
+  oomp_key: oomp_w25q128jvs
+  oomp_key_extra: oomp_symbol_w25q128jvs
+  oomp_key_full: oomp_symbol_w25q128jvs_c3f1a2
+  oomp_key_simple: w25q128jvs
   owner_name: kicad
-  symbol_name: memory_flash_w25q128jvs
+  symbol_name: w25q128jvs
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

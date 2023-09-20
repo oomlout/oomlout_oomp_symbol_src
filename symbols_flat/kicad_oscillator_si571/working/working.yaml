@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_si571/working
   oomp_src_flat: symbols_flat/kicad_oscillator_si571/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_si571/working
-name: oscillator_si571
+name: si571
 oomp:
   library_name: oscillator
-  md5: 4e43b401fa51405290f7beb6ed958a06
-  md5_10: 4e43b401fa
-  md5_5: 4e43b
-  md5_6: 4e43b4
-  oomp_key: oomp_oscillator_si571
-  oomp_key_extra: oomp_symbol_oscillator_si571
-  oomp_key_full: oomp_symbol_oscillator_si571_4e43b4
-  oomp_key_simple: oscillator_si571
+  md5: 5209c3a4b74ce176f91f3803ab57a733
+  md5_10: 5209c3a4b7
+  md5_5: 5209c
+  md5_6: 5209c3
+  oomp_key: oomp_si571
+  oomp_key_extra: oomp_symbol_si571
+  oomp_key_full: oomp_symbol_si571_5209c3
+  oomp_key_simple: si571
   owner_name: kicad
-  symbol_name: oscillator_si571
+  symbol_name: si571
 oomp_key: oomp_kicad_oscillator_si571
 oomp_key_simple: kicad_oscillator_si571
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

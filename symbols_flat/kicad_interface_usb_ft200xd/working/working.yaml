@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_ft200xd/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_ft200xd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_ft200xd/working
-name: interface_usb_ft200xd
+name: ft200xd
 oomp:
   library_name: interface_usb
-  md5: c7924d04274533b51e91abce2b144a44
-  md5_10: c7924d0427
-  md5_5: c7924
-  md5_6: c7924d
-  oomp_key: oomp_interface_usb_ft200xd
-  oomp_key_extra: oomp_symbol_interface_usb_ft200xd
-  oomp_key_full: oomp_symbol_interface_usb_ft200xd_c7924d
-  oomp_key_simple: interface_usb_ft200xd
+  md5: c870fee711643e88940f17ea6a0d8f66
+  md5_10: c870fee711
+  md5_5: c870f
+  md5_6: c870fe
+  oomp_key: oomp_ft200xd
+  oomp_key_extra: oomp_symbol_ft200xd
+  oomp_key_full: oomp_symbol_ft200xd_c870fe
+  oomp_key_simple: ft200xd
   owner_name: kicad
-  symbol_name: interface_usb_ft200xd
+  symbol_name: ft200xd
 oomp_key: oomp_kicad_interface_usb_ft200xd
 oomp_key_simple: kicad_interface_usb_ft200xd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

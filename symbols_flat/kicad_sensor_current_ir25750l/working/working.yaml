@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_ir25750l/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_ir25750l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_ir25750l/working
-name: sensor_current_ir25750l
+name: ir25750l
 oomp:
   library_name: sensor_current
-  md5: 552f3dc8ef1c745ac441baf621cde1dd
-  md5_10: 552f3dc8ef
-  md5_5: 552f3
-  md5_6: 552f3d
-  oomp_key: oomp_sensor_current_ir25750l
-  oomp_key_extra: oomp_symbol_sensor_current_ir25750l
-  oomp_key_full: oomp_symbol_sensor_current_ir25750l_552f3d
-  oomp_key_simple: sensor_current_ir25750l
+  md5: b8243e9c28dd0582649afe4829ff2d80
+  md5_10: b8243e9c28
+  md5_5: b8243
+  md5_6: b8243e
+  oomp_key: oomp_ir25750l
+  oomp_key_extra: oomp_symbol_ir25750l
+  oomp_key_full: oomp_symbol_ir25750l_b8243e
+  oomp_key_simple: ir25750l
   owner_name: kicad
-  symbol_name: sensor_current_ir25750l
+  symbol_name: ir25750l
 oomp_key: oomp_kicad_sensor_current_ir25750l
 oomp_key_simple: kicad_sensor_current_ir25750l
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

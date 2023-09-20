@@ -1,19 +1,19 @@
 id: kicad_oscillator_gtxo_14t
 library: oscillator
 library_name: Oscillator
-name: oscillator_gtxo_14t
+name: gtxo_14t
 oomp:
   library_name: oscillator
-  md5: 62fcb754abf6800698ff040d739be76e
-  md5_10: 62fcb754ab
-  md5_5: 62fcb
-  md5_6: 62fcb7
-  oomp_key: oomp_oscillator_gtxo_14t
-  oomp_key_extra: oomp_symbol_oscillator_gtxo_14t
-  oomp_key_full: oomp_symbol_oscillator_gtxo_14t_62fcb7
-  oomp_key_simple: oscillator_gtxo_14t
+  md5: 52bd986022f2a5ac5ca977a9278686d4
+  md5_10: 52bd986022
+  md5_5: 52bd9
+  md5_6: 52bd98
+  oomp_key: oomp_gtxo_14t
+  oomp_key_extra: oomp_symbol_gtxo_14t
+  oomp_key_full: oomp_symbol_gtxo_14t_52bd98
+  oomp_key_simple: gtxo_14t
   owner_name: kicad
-  symbol_name: oscillator_gtxo_14t
+  symbol_name: gtxo_14t
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

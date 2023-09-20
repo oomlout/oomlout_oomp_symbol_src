@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_ina240a1pw/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_ina240a1pw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_ina240a1pw/working
-name: amplifier_current_ina240a1pw
+name: ina240a1pw
 oomp:
   library_name: amplifier_current
-  md5: 94815214b9949a918b53437b3cf56001
-  md5_10: 94815214b9
-  md5_5: '94815'
-  md5_6: '948152'
-  oomp_key: oomp_amplifier_current_ina240a1pw
-  oomp_key_extra: oomp_symbol_amplifier_current_ina240a1pw
-  oomp_key_full: oomp_symbol_amplifier_current_ina240a1pw_948152
-  oomp_key_simple: amplifier_current_ina240a1pw
+  md5: 713b45171791e0b235d940215adad4d1
+  md5_10: 713b451717
+  md5_5: 713b4
+  md5_6: 713b45
+  oomp_key: oomp_ina240a1pw
+  oomp_key_extra: oomp_symbol_ina240a1pw
+  oomp_key_full: oomp_symbol_ina240a1pw_713b45
+  oomp_key_simple: ina240a1pw
   owner_name: kicad
-  symbol_name: amplifier_current_ina240a1pw
+  symbol_name: ina240a1pw
 oomp_key: oomp_kicad_amplifier_current_ina240a1pw
 oomp_key_simple: kicad_amplifier_current_ina240a1pw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

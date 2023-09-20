@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_tsv524xiq4t/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_tsv524xiq4t/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_tsv524xiq4t/working
-name: amplifier_operational_tsv524xiq4t
+name: tsv524xiq4t
 oomp:
   library_name: amplifier_operational
-  md5: 3b8fdc35c3159d8c9317a90d2484030f
-  md5_10: 3b8fdc35c3
-  md5_5: 3b8fd
-  md5_6: 3b8fdc
-  oomp_key: oomp_amplifier_operational_tsv524xiq4t
-  oomp_key_extra: oomp_symbol_amplifier_operational_tsv524xiq4t
-  oomp_key_full: oomp_symbol_amplifier_operational_tsv524xiq4t_3b8fdc
-  oomp_key_simple: amplifier_operational_tsv524xiq4t
+  md5: fb5ab2467968d1b412e6b00375bd6b6d
+  md5_10: fb5ab24679
+  md5_5: fb5ab
+  md5_6: fb5ab2
+  oomp_key: oomp_tsv524xiq4t
+  oomp_key_extra: oomp_symbol_tsv524xiq4t
+  oomp_key_full: oomp_symbol_tsv524xiq4t_fb5ab2
+  oomp_key_simple: tsv524xiq4t
   owner_name: kicad
-  symbol_name: amplifier_operational_tsv524xiq4t
+  symbol_name: tsv524xiq4t
 oomp_key: oomp_kicad_amplifier_operational_tsv524xiq4t
 oomp_key_simple: kicad_amplifier_operational_tsv524xiq4t
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

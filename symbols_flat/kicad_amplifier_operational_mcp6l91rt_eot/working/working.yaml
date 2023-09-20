@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_mcp6l91rt_eot/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_mcp6l91rt_eot/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_mcp6l91rt_eot/working
-name: amplifier_operational_mcp6l91rt_eot
+name: mcp6l91rt_eot
 oomp:
   library_name: amplifier_operational
-  md5: fc4ec87164a638f7daa8bf45c17ef916
-  md5_10: fc4ec87164
-  md5_5: fc4ec
-  md5_6: fc4ec8
-  oomp_key: oomp_amplifier_operational_mcp6l91rt_eot
-  oomp_key_extra: oomp_symbol_amplifier_operational_mcp6l91rt_eot
-  oomp_key_full: oomp_symbol_amplifier_operational_mcp6l91rt_eot_fc4ec8
-  oomp_key_simple: amplifier_operational_mcp6l91rt_eot
+  md5: 3fede400f6505309b60fab2dd1106108
+  md5_10: 3fede400f6
+  md5_5: 3fede
+  md5_6: 3fede4
+  oomp_key: oomp_mcp6l91rt_eot
+  oomp_key_extra: oomp_symbol_mcp6l91rt_eot
+  oomp_key_full: oomp_symbol_mcp6l91rt_eot_3fede4
+  oomp_key_simple: mcp6l91rt_eot
   owner_name: kicad
-  symbol_name: amplifier_operational_mcp6l91rt_eot
+  symbol_name: mcp6l91rt_eot
 oomp_key: oomp_kicad_amplifier_operational_mcp6l91rt_eot
 oomp_key_simple: kicad_amplifier_operational_mcp6l91rt_eot
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

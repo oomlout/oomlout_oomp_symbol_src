@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_touch_cy8cmbr3116/working
   oomp_src_flat: symbols_flat/kicad_sensor_touch_cy8cmbr3116/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_touch_cy8cmbr3116/working
-name: sensor_touch_cy8cmbr3116
+name: cy8cmbr3116
 oomp:
   library_name: sensor_touch
-  md5: 51d8fc5fe2fd65d1484e13069951138c
-  md5_10: 51d8fc5fe2
-  md5_5: 51d8f
-  md5_6: 51d8fc
-  oomp_key: oomp_sensor_touch_cy8cmbr3116
-  oomp_key_extra: oomp_symbol_sensor_touch_cy8cmbr3116
-  oomp_key_full: oomp_symbol_sensor_touch_cy8cmbr3116_51d8fc
-  oomp_key_simple: sensor_touch_cy8cmbr3116
+  md5: 09eda8360dadabfb71ee695006fef386
+  md5_10: 09eda8360d
+  md5_5: 09eda
+  md5_6: 09eda8
+  oomp_key: oomp_cy8cmbr3116
+  oomp_key_extra: oomp_symbol_cy8cmbr3116
+  oomp_key_full: oomp_symbol_cy8cmbr3116_09eda8
+  oomp_key_simple: cy8cmbr3116
   owner_name: kicad
-  symbol_name: sensor_touch_cy8cmbr3116
+  symbol_name: cy8cmbr3116
 oomp_key: oomp_kicad_sensor_touch_cy8cmbr3116
 oomp_key_simple: kicad_sensor_touch_cy8cmbr3116
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

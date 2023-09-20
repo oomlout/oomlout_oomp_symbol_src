@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_motor_stepper_bipolar/working
   oomp_src_flat: symbols_flat/kicad_motor_stepper_bipolar/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_motor_stepper_bipolar/working
-name: motor_stepper_motor_bipolar
+name: stepper_bipolar
 oomp:
   library_name: motor
-  md5: f4f02f8e594a706f00d9246ec2930173
-  md5_10: f4f02f8e59
-  md5_5: f4f02
-  md5_6: f4f02f
-  oomp_key: oomp_motor_stepper_motor_bipolar
-  oomp_key_extra: oomp_symbol_motor_stepper_motor_bipolar
-  oomp_key_full: oomp_symbol_motor_stepper_motor_bipolar_f4f02f
-  oomp_key_simple: motor_stepper_motor_bipolar
+  md5: 814ec32b69cc99c9b27201f442eaa498
+  md5_10: 814ec32b69
+  md5_5: 814ec
+  md5_6: 814ec3
+  oomp_key: oomp_stepper_bipolar
+  oomp_key_extra: oomp_symbol_stepper_bipolar
+  oomp_key_full: oomp_symbol_stepper_bipolar_814ec3
+  oomp_key_simple: stepper_bipolar
   owner_name: kicad
-  symbol_name: motor_stepper_motor_bipolar
+  symbol_name: stepper_bipolar
 oomp_key: oomp_kicad_motor_stepper_bipolar
 oomp_key_simple: kicad_motor_stepper_bipolar
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

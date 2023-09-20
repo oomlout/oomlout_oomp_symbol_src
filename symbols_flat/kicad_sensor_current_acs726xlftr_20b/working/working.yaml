@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_acs726xlftr_20b/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_acs726xlftr_20b/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_acs726xlftr_20b/working
-name: sensor_current_acs726xlftr_20b
+name: acs726xlftr_20b
 oomp:
   library_name: sensor_current
-  md5: 6090acd934d885c1d7091b184783130a
-  md5_10: 6090acd934
-  md5_5: 6090a
-  md5_6: 6090ac
-  oomp_key: oomp_sensor_current_acs726xlftr_20b
-  oomp_key_extra: oomp_symbol_sensor_current_acs726xlftr_20b
-  oomp_key_full: oomp_symbol_sensor_current_acs726xlftr_20b_6090ac
-  oomp_key_simple: sensor_current_acs726xlftr_20b
+  md5: d0603fb8b9c53f7ead41fa63f5dedc1e
+  md5_10: d0603fb8b9
+  md5_5: d0603
+  md5_6: d0603f
+  oomp_key: oomp_acs726xlftr_20b
+  oomp_key_extra: oomp_symbol_acs726xlftr_20b
+  oomp_key_full: oomp_symbol_acs726xlftr_20b_d0603f
+  oomp_key_simple: acs726xlftr_20b
   owner_name: kicad
-  symbol_name: sensor_current_acs726xlftr_20b
+  symbol_name: acs726xlftr_20b
 oomp_key: oomp_kicad_sensor_current_acs726xlftr_20b
 oomp_key_simple: kicad_sensor_current_acs726xlftr_20b
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

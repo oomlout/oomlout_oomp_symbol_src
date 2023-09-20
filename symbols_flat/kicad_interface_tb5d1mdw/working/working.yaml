@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_tb5d1mdw/working
   oomp_src_flat: symbols_flat/kicad_interface_tb5d1mdw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_tb5d1mdw/working
-name: interface_tb5d1mdw
+name: tb5d1mdw
 oomp:
   library_name: interface
-  md5: cb5f53d39c3700456772542fdd172dd7
-  md5_10: cb5f53d39c
-  md5_5: cb5f5
-  md5_6: cb5f53
-  oomp_key: oomp_interface_tb5d1mdw
-  oomp_key_extra: oomp_symbol_interface_tb5d1mdw
-  oomp_key_full: oomp_symbol_interface_tb5d1mdw_cb5f53
-  oomp_key_simple: interface_tb5d1mdw
+  md5: 978493002aef31f1274d2f01b91cc1b6
+  md5_10: 978493002a
+  md5_5: '97849'
+  md5_6: '978493'
+  oomp_key: oomp_tb5d1mdw
+  oomp_key_extra: oomp_symbol_tb5d1mdw
+  oomp_key_full: oomp_symbol_tb5d1mdw_978493
+  oomp_key_simple: tb5d1mdw
   owner_name: kicad
-  symbol_name: interface_tb5d1mdw
+  symbol_name: tb5d1mdw
 oomp_key: oomp_kicad_interface_tb5d1mdw
 oomp_key_simple: kicad_interface_tb5d1mdw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

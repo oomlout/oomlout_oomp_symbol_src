@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_avr_updi_6/working
   oomp_src_flat: symbols_flat/kicad_connector_avr_updi_6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_avr_updi_6/working
-name: connector_avr_updi_6
+name: avr_updi_6
 oomp:
   library_name: connector
-  md5: dff54b1fac9f63b222e8231be3c3fc70
-  md5_10: dff54b1fac
-  md5_5: dff54
-  md5_6: dff54b
-  oomp_key: oomp_connector_avr_updi_6
-  oomp_key_extra: oomp_symbol_connector_avr_updi_6
-  oomp_key_full: oomp_symbol_connector_avr_updi_6_dff54b
-  oomp_key_simple: connector_avr_updi_6
+  md5: 9b61bf51f75a3136cfa851e101e6499f
+  md5_10: 9b61bf51f7
+  md5_5: 9b61b
+  md5_6: 9b61bf
+  oomp_key: oomp_avr_updi_6
+  oomp_key_extra: oomp_symbol_avr_updi_6
+  oomp_key_full: oomp_symbol_avr_updi_6_9b61bf
+  oomp_key_simple: avr_updi_6
   owner_name: kicad
-  symbol_name: connector_avr_updi_6
+  symbol_name: avr_updi_6
 oomp_key: oomp_kicad_connector_avr_updi_6
 oomp_key_simple: kicad_connector_avr_updi_6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

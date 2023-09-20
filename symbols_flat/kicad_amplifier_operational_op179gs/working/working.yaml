@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_op179gs/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_op179gs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_op179gs/working
-name: amplifier_operational_op179gs
+name: op179gs
 oomp:
   library_name: amplifier_operational
-  md5: 9b6d2196fd43d808a1f1b9e605d3efbf
-  md5_10: 9b6d2196fd
-  md5_5: 9b6d2
-  md5_6: 9b6d21
-  oomp_key: oomp_amplifier_operational_op179gs
-  oomp_key_extra: oomp_symbol_amplifier_operational_op179gs
-  oomp_key_full: oomp_symbol_amplifier_operational_op179gs_9b6d21
-  oomp_key_simple: amplifier_operational_op179gs
+  md5: aefcaceb1875ea97b7b2a8df4a565bcc
+  md5_10: aefcaceb18
+  md5_5: aefca
+  md5_6: aefcac
+  oomp_key: oomp_op179gs
+  oomp_key_extra: oomp_symbol_op179gs
+  oomp_key_full: oomp_symbol_op179gs_aefcac
+  oomp_key_simple: op179gs
   owner_name: kicad
-  symbol_name: amplifier_operational_op179gs
+  symbol_name: op179gs
 oomp_key: oomp_kicad_amplifier_operational_op179gs
 oomp_key_simple: kicad_amplifier_operational_op179gs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_25lcxxx/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_25lcxxx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_25lcxxx/working
-name: memory_eeprom_25lcxxx
+name: 25lcxxx
 oomp:
   library_name: memory_eeprom
-  md5: 9e1a09002be0da868efe3d35cf1302c1
-  md5_10: 9e1a09002b
-  md5_5: 9e1a0
-  md5_6: 9e1a09
-  oomp_key: oomp_memory_eeprom_25lcxxx
-  oomp_key_extra: oomp_symbol_memory_eeprom_25lcxxx
-  oomp_key_full: oomp_symbol_memory_eeprom_25lcxxx_9e1a09
-  oomp_key_simple: memory_eeprom_25lcxxx
+  md5: 7552177c90633270098fb3736eba36a3
+  md5_10: 7552177c90
+  md5_5: '75521'
+  md5_6: '755217'
+  oomp_key: oomp_25lcxxx
+  oomp_key_extra: oomp_symbol_25lcxxx
+  oomp_key_full: oomp_symbol_25lcxxx_755217
+  oomp_key_simple: 25lcxxx
   owner_name: kicad
-  symbol_name: memory_eeprom_25lcxxx
+  symbol_name: 25lcxxx
 oomp_key: oomp_kicad_memory_eeprom_25lcxxx
 oomp_key_simple: kicad_memory_eeprom_25lcxxx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

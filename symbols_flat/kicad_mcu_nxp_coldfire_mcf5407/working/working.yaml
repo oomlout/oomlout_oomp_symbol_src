@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_coldfire_mcf5407/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_coldfire_mcf5407/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_coldfire_mcf5407/working
-name: mcu_nxp_coldfire_mcf5407
+name: mcf5407
 oomp:
   library_name: mcu_nxp_coldfire
-  md5: b7ed3e4f9fca1a79406b220456ebbc5b
-  md5_10: b7ed3e4f9f
-  md5_5: b7ed3
-  md5_6: b7ed3e
-  oomp_key: oomp_mcu_nxp_coldfire_mcf5407
-  oomp_key_extra: oomp_symbol_mcu_nxp_coldfire_mcf5407
-  oomp_key_full: oomp_symbol_mcu_nxp_coldfire_mcf5407_b7ed3e
-  oomp_key_simple: mcu_nxp_coldfire_mcf5407
+  md5: 30f77d7764ade4a0f867914a4f916f4a
+  md5_10: 30f77d7764
+  md5_5: 30f77
+  md5_6: 30f77d
+  oomp_key: oomp_mcf5407
+  oomp_key_extra: oomp_symbol_mcf5407
+  oomp_key_full: oomp_symbol_mcf5407_30f77d
+  oomp_key_simple: mcf5407
   owner_name: kicad
-  symbol_name: mcu_nxp_coldfire_mcf5407
+  symbol_name: mcf5407
 oomp_key: oomp_kicad_mcu_nxp_coldfire_mcf5407
 oomp_key_simple: kicad_mcu_nxp_coldfire_mcf5407
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

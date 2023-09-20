@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_dual_commoncathode_aak_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_dual_commoncathode_aak_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_dual_commoncathode_aak_split/working
-name: device_d_schottky_dual_commoncathode_aak_split
+name: d_schottky_dual_commoncathode_aak_split
 oomp:
   library_name: device
-  md5: 82c4968bf18f5625b95ac00c38d9d305
-  md5_10: 82c4968bf1
-  md5_5: 82c49
-  md5_6: 82c496
-  oomp_key: oomp_device_d_schottky_dual_commoncathode_aak_split
-  oomp_key_extra: oomp_symbol_device_d_schottky_dual_commoncathode_aak_split
-  oomp_key_full: oomp_symbol_device_d_schottky_dual_commoncathode_aak_split_82c496
-  oomp_key_simple: device_d_schottky_dual_commoncathode_aak_split
+  md5: 190b13c8d111bcbeae86f4c8f49082f8
+  md5_10: 190b13c8d1
+  md5_5: 190b1
+  md5_6: 190b13
+  oomp_key: oomp_d_schottky_dual_commoncathode_aak_split
+  oomp_key_extra: oomp_symbol_d_schottky_dual_commoncathode_aak_split
+  oomp_key_full: oomp_symbol_d_schottky_dual_commoncathode_aak_split_190b13
+  oomp_key_simple: d_schottky_dual_commoncathode_aak_split
   owner_name: kicad
-  symbol_name: device_d_schottky_dual_commoncathode_aak_split
+  symbol_name: d_schottky_dual_commoncathode_aak_split
 oomp_key: oomp_kicad_device_d_schottky_dual_commoncathode_aak_split
 oomp_key_simple: kicad_device_d_schottky_dual_commoncathode_aak_split
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

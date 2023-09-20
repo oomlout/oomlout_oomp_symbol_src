@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_reed_opener/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_reed_opener/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_reed_opener/working
-name: switch_sw_reed_opener
+name: sw_reed_opener
 oomp:
   library_name: switch
-  md5: ce409e7b12d22f5786fad9548dff3ed8
-  md5_10: ce409e7b12
-  md5_5: ce409
-  md5_6: ce409e
-  oomp_key: oomp_switch_sw_reed_opener
-  oomp_key_extra: oomp_symbol_switch_sw_reed_opener
-  oomp_key_full: oomp_symbol_switch_sw_reed_opener_ce409e
-  oomp_key_simple: switch_sw_reed_opener
+  md5: ad08d9fdf2a63b68dd8d9b2b72c29117
+  md5_10: ad08d9fdf2
+  md5_5: ad08d
+  md5_6: ad08d9
+  oomp_key: oomp_sw_reed_opener
+  oomp_key_extra: oomp_symbol_sw_reed_opener
+  oomp_key_full: oomp_symbol_sw_reed_opener_ad08d9
+  oomp_key_simple: sw_reed_opener
   owner_name: kicad
-  symbol_name: switch_sw_reed_opener
+  symbol_name: sw_reed_opener
 oomp_key: oomp_kicad_switch_sw_reed_opener
 oomp_key_simple: kicad_switch_sw_reed_opener
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

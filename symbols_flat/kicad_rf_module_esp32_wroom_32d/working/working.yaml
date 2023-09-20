@@ -1,19 +1,19 @@
 id: kicad_rf_module_esp32_wroom_32d
 library: rf_module
 library_name: RF_Module
-name: rf_module_esp32_wroom_32d
+name: esp32_wroom_32d
 oomp:
   library_name: rf_module
-  md5: 8be943e0bd148de71d25e1b8249b2b16
-  md5_10: 8be943e0bd
-  md5_5: 8be94
-  md5_6: 8be943
-  oomp_key: oomp_rf_module_esp32_wroom_32d
-  oomp_key_extra: oomp_symbol_rf_module_esp32_wroom_32d
-  oomp_key_full: oomp_symbol_rf_module_esp32_wroom_32d_8be943
-  oomp_key_simple: rf_module_esp32_wroom_32d
+  md5: 47facc42adf60c29d159d25e11f0f494
+  md5_10: 47facc42ad
+  md5_5: 47fac
+  md5_6: 47facc
+  oomp_key: oomp_esp32_wroom_32d
+  oomp_key_extra: oomp_symbol_esp32_wroom_32d
+  oomp_key_full: oomp_symbol_esp32_wroom_32d_47facc
+  oomp_key_simple: esp32_wroom_32d
   owner_name: kicad
-  symbol_name: rf_module_esp32_wroom_32d
+  symbol_name: esp32_wroom_32d
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

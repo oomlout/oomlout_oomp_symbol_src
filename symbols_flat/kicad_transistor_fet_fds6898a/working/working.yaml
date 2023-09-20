@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_fds6898a
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_fds6898a
+name: fds6898a
 oomp:
   library_name: transistor_fet
-  md5: 8636999c843ab31f4edd7b764e723b15
-  md5_10: 8636999c84
-  md5_5: '86369'
-  md5_6: '863699'
-  oomp_key: oomp_transistor_fet_fds6898a
-  oomp_key_extra: oomp_symbol_transistor_fet_fds6898a
-  oomp_key_full: oomp_symbol_transistor_fet_fds6898a_863699
-  oomp_key_simple: transistor_fet_fds6898a
+  md5: 13ae93df5f2bb472071ae9687e941224
+  md5_10: 13ae93df5f
+  md5_5: 13ae9
+  md5_6: 13ae93
+  oomp_key: oomp_fds6898a
+  oomp_key_extra: oomp_symbol_fds6898a
+  oomp_key_full: oomp_symbol_fds6898a_13ae93
+  oomp_key_simple: fds6898a
   owner_name: kicad
-  symbol_name: transistor_fet_fds6898a
+  symbol_name: fds6898a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

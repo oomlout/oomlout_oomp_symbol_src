@@ -1,19 +1,19 @@
 id: kicad_oscillator_tft680
 library: oscillator
 library_name: Oscillator
-name: oscillator_tft680
+name: tft680
 oomp:
   library_name: oscillator
-  md5: a6e51368315e2ce5859b8cff7f4be3f9
-  md5_10: a6e5136831
-  md5_5: a6e51
-  md5_6: a6e513
-  oomp_key: oomp_oscillator_tft680
-  oomp_key_extra: oomp_symbol_oscillator_tft680
-  oomp_key_full: oomp_symbol_oscillator_tft680_a6e513
-  oomp_key_simple: oscillator_tft680
+  md5: 6f21ae61dce3e40a439b901936f39ea8
+  md5_10: 6f21ae61dc
+  md5_5: 6f21a
+  md5_6: 6f21ae
+  oomp_key: oomp_tft680
+  oomp_key_extra: oomp_symbol_tft680
+  oomp_key_full: oomp_symbol_tft680_6f21ae
+  oomp_key_simple: tft680
   owner_name: kicad
-  symbol_name: oscillator_tft680
+  symbol_name: tft680
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

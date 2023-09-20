@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_e18_ms1_pcb/working
   oomp_src_flat: symbols_flat/kicad_rf_module_e18_ms1_pcb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_e18_ms1_pcb/working
-name: rf_module_e18_ms1_pcb
+name: e18_ms1_pcb
 oomp:
   library_name: rf_module
-  md5: 593a1b8e85b112933c02b171230bf33e
-  md5_10: 593a1b8e85
-  md5_5: 593a1
-  md5_6: 593a1b
-  oomp_key: oomp_rf_module_e18_ms1_pcb
-  oomp_key_extra: oomp_symbol_rf_module_e18_ms1_pcb
-  oomp_key_full: oomp_symbol_rf_module_e18_ms1_pcb_593a1b
-  oomp_key_simple: rf_module_e18_ms1_pcb
+  md5: 78b7f87ee0d6e9bec94ef5904e5959af
+  md5_10: 78b7f87ee0
+  md5_5: 78b7f
+  md5_6: 78b7f8
+  oomp_key: oomp_e18_ms1_pcb
+  oomp_key_extra: oomp_symbol_e18_ms1_pcb
+  oomp_key_full: oomp_symbol_e18_ms1_pcb_78b7f8
+  oomp_key_simple: e18_ms1_pcb
   owner_name: kicad
-  symbol_name: rf_module_e18_ms1_pcb
+  symbol_name: e18_ms1_pcb
 oomp_key: oomp_kicad_rf_module_e18_ms1_pcb
 oomp_key_simple: kicad_rf_module_e18_ms1_pcb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

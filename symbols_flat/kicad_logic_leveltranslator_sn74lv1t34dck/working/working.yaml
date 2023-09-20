@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_logic_leveltranslator_sn74lv1t34dck/working
   oomp_src_flat: symbols_flat/kicad_logic_leveltranslator_sn74lv1t34dck/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_logic_leveltranslator_sn74lv1t34dck/working
-name: logic_leveltranslator_sn74lv1t34dck
+name: sn74lv1t34dck
 oomp:
   library_name: logic_leveltranslator
-  md5: 35815ec4baf1b1c6faf81a629c5c08da
-  md5_10: 35815ec4ba
-  md5_5: '35815'
-  md5_6: 35815e
-  oomp_key: oomp_logic_leveltranslator_sn74lv1t34dck
-  oomp_key_extra: oomp_symbol_logic_leveltranslator_sn74lv1t34dck
-  oomp_key_full: oomp_symbol_logic_leveltranslator_sn74lv1t34dck_35815e
-  oomp_key_simple: logic_leveltranslator_sn74lv1t34dck
+  md5: 868c422a2a06e2c6e129bf3f458de06c
+  md5_10: 868c422a2a
+  md5_5: 868c4
+  md5_6: 868c42
+  oomp_key: oomp_sn74lv1t34dck
+  oomp_key_extra: oomp_symbol_sn74lv1t34dck
+  oomp_key_full: oomp_symbol_sn74lv1t34dck_868c42
+  oomp_key_simple: sn74lv1t34dck
   owner_name: kicad
-  symbol_name: logic_leveltranslator_sn74lv1t34dck
+  symbol_name: sn74lv1t34dck
 oomp_key: oomp_kicad_logic_leveltranslator_sn74lv1t34dck
 oomp_key_simple: kicad_logic_leveltranslator_sn74lv1t34dck
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

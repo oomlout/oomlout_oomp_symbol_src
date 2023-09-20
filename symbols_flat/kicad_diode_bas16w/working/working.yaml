@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bas16w/working
   oomp_src_flat: symbols_flat/kicad_diode_bas16w/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bas16w/working
-name: diode_bas16w
+name: bas16w
 oomp:
   library_name: diode
-  md5: 51e6076734a05fdde411fc791724e075
-  md5_10: 51e6076734
-  md5_5: 51e60
-  md5_6: 51e607
-  oomp_key: oomp_diode_bas16w
-  oomp_key_extra: oomp_symbol_diode_bas16w
-  oomp_key_full: oomp_symbol_diode_bas16w_51e607
-  oomp_key_simple: diode_bas16w
+  md5: 19d9bbc2d46ba863cd413850db6db582
+  md5_10: 19d9bbc2d4
+  md5_5: 19d9b
+  md5_6: 19d9bb
+  oomp_key: oomp_bas16w
+  oomp_key_extra: oomp_symbol_bas16w
+  oomp_key_full: oomp_symbol_bas16w_19d9bb
+  oomp_key_simple: bas16w
   owner_name: kicad
-  symbol_name: diode_bas16w
+  symbol_name: bas16w
 oomp_key: oomp_kicad_diode_bas16w
 oomp_key_simple: kicad_diode_bas16w
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

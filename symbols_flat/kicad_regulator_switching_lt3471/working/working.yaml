@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lt3471/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lt3471/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lt3471/working
-name: regulator_switching_lt3471
+name: lt3471
 oomp:
   library_name: regulator_switching
-  md5: 94418af24b4710344d73e0812fb12f74
-  md5_10: 94418af24b
-  md5_5: '94418'
-  md5_6: 94418a
-  oomp_key: oomp_regulator_switching_lt3471
-  oomp_key_extra: oomp_symbol_regulator_switching_lt3471
-  oomp_key_full: oomp_symbol_regulator_switching_lt3471_94418a
-  oomp_key_simple: regulator_switching_lt3471
+  md5: ac28f98ee0f6181833d260ddce3d0200
+  md5_10: ac28f98ee0
+  md5_5: ac28f
+  md5_6: ac28f9
+  oomp_key: oomp_lt3471
+  oomp_key_extra: oomp_symbol_lt3471
+  oomp_key_full: oomp_symbol_lt3471_ac28f9
+  oomp_key_simple: lt3471
   owner_name: kicad
-  symbol_name: regulator_switching_lt3471
+  symbol_name: lt3471
 oomp_key: oomp_kicad_regulator_switching_lt3471
 oomp_key_simple: kicad_regulator_switching_lt3471
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_ref02au/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_ref02au/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_ref02au/working
-name: reference_voltage_ref02au
+name: ref02au
 oomp:
   library_name: reference_voltage
-  md5: 4417266a5d6a20134c11d07ec56b81e5
-  md5_10: 4417266a5d
-  md5_5: '44172'
-  md5_6: '441726'
-  oomp_key: oomp_reference_voltage_ref02au
-  oomp_key_extra: oomp_symbol_reference_voltage_ref02au
-  oomp_key_full: oomp_symbol_reference_voltage_ref02au_441726
-  oomp_key_simple: reference_voltage_ref02au
+  md5: 3eb442a11182c0d32b3023d65b529654
+  md5_10: 3eb442a111
+  md5_5: 3eb44
+  md5_6: 3eb442
+  oomp_key: oomp_ref02au
+  oomp_key_extra: oomp_symbol_ref02au
+  oomp_key_full: oomp_symbol_ref02au_3eb442
+  oomp_key_simple: ref02au
   owner_name: kicad
-  symbol_name: reference_voltage_ref02au
+  symbol_name: ref02au
 oomp_key: oomp_kicad_reference_voltage_ref02au
 oomp_key_simple: kicad_reference_voltage_ref02au
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

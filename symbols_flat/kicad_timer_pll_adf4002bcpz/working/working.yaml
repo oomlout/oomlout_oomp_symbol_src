@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_pll_adf4002bcpz/working
   oomp_src_flat: symbols_flat/kicad_timer_pll_adf4002bcpz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_pll_adf4002bcpz/working
-name: timer_pll_adf4002bcpz
+name: adf4002bcpz
 oomp:
   library_name: timer_pll
-  md5: b6d1abf775dff7a11e109ca77305279a
-  md5_10: b6d1abf775
-  md5_5: b6d1a
-  md5_6: b6d1ab
-  oomp_key: oomp_timer_pll_adf4002bcpz
-  oomp_key_extra: oomp_symbol_timer_pll_adf4002bcpz
-  oomp_key_full: oomp_symbol_timer_pll_adf4002bcpz_b6d1ab
-  oomp_key_simple: timer_pll_adf4002bcpz
+  md5: 40620b84c73618f54485c55b472b4cb3
+  md5_10: 40620b84c7
+  md5_5: '40620'
+  md5_6: 40620b
+  oomp_key: oomp_adf4002bcpz
+  oomp_key_extra: oomp_symbol_adf4002bcpz
+  oomp_key_full: oomp_symbol_adf4002bcpz_40620b
+  oomp_key_simple: adf4002bcpz
   owner_name: kicad
-  symbol_name: timer_pll_adf4002bcpz
+  symbol_name: adf4002bcpz
 oomp_key: oomp_kicad_timer_pll_adf4002bcpz
 oomp_key_simple: kicad_timer_pll_adf4002bcpz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

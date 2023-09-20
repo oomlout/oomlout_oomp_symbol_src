@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_optical_is485/working
   oomp_src_flat: symbols_flat/kicad_interface_optical_is485/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_optical_is485/working
-name: interface_optical_is485
+name: is485
 oomp:
   library_name: interface_optical
-  md5: 094aea0dc7d0722f66e3a25fbb3aa8e9
-  md5_10: 094aea0dc7
-  md5_5: 094ae
-  md5_6: 094aea
-  oomp_key: oomp_interface_optical_is485
-  oomp_key_extra: oomp_symbol_interface_optical_is485
-  oomp_key_full: oomp_symbol_interface_optical_is485_094aea
-  oomp_key_simple: interface_optical_is485
+  md5: 7d02d3c0f64055aca8b153b0d58311bd
+  md5_10: 7d02d3c0f6
+  md5_5: 7d02d
+  md5_6: 7d02d3
+  oomp_key: oomp_is485
+  oomp_key_extra: oomp_symbol_is485
+  oomp_key_full: oomp_symbol_is485_7d02d3
+  oomp_key_simple: is485
   owner_name: kicad
-  symbol_name: interface_optical_is485
+  symbol_name: is485
 oomp_key: oomp_kicad_interface_optical_is485
 oomp_key_simple: kicad_interface_optical_is485
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

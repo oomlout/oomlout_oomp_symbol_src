@@ -1,19 +1,19 @@
 id: kicad_timer_cd4541bpw
 library: timer
 library_name: Timer
-name: timer_cd4541bpw
+name: cd4541bpw
 oomp:
   library_name: timer
-  md5: 39c73dfb01c8a1f865643e883c078ccc
-  md5_10: 39c73dfb01
-  md5_5: 39c73
-  md5_6: 39c73d
-  oomp_key: oomp_timer_cd4541bpw
-  oomp_key_extra: oomp_symbol_timer_cd4541bpw
-  oomp_key_full: oomp_symbol_timer_cd4541bpw_39c73d
-  oomp_key_simple: timer_cd4541bpw
+  md5: e6eb40963b24ec24929931510b2ec9d8
+  md5_10: e6eb40963b
+  md5_5: e6eb4
+  md5_6: e6eb40
+  oomp_key: oomp_cd4541bpw
+  oomp_key_extra: oomp_symbol_cd4541bpw
+  oomp_key_full: oomp_symbol_cd4541bpw_e6eb40
+  oomp_key_simple: cd4541bpw
   owner_name: kicad
-  symbol_name: timer_cd4541bpw
+  symbol_name: cd4541bpw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

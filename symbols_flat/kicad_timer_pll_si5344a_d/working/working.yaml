@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_pll_si5344a_d/working
   oomp_src_flat: symbols_flat/kicad_timer_pll_si5344a_d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_pll_si5344a_d/working
-name: timer_pll_si5344a_d
+name: si5344a_d
 oomp:
   library_name: timer_pll
-  md5: 91ba832088990870c3b1b88e5d87f5d2
-  md5_10: 91ba832088
-  md5_5: 91ba8
-  md5_6: 91ba83
-  oomp_key: oomp_timer_pll_si5344a_d
-  oomp_key_extra: oomp_symbol_timer_pll_si5344a_d
-  oomp_key_full: oomp_symbol_timer_pll_si5344a_d_91ba83
-  oomp_key_simple: timer_pll_si5344a_d
+  md5: a5a0b1afab06d4d2cc7f613ef0dee499
+  md5_10: a5a0b1afab
+  md5_5: a5a0b
+  md5_6: a5a0b1
+  oomp_key: oomp_si5344a_d
+  oomp_key_extra: oomp_symbol_si5344a_d
+  oomp_key_full: oomp_symbol_si5344a_d_a5a0b1
+  oomp_key_simple: si5344a_d
   owner_name: kicad
-  symbol_name: timer_pll_si5344a_d
+  symbol_name: si5344a_d
 oomp_key: oomp_kicad_timer_pll_si5344a_d
 oomp_key_simple: kicad_timer_pll_si5344a_d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_diode_pmeg3010er
 library: diode
 library_name: Diode
-name: diode_pmeg3010er
+name: pmeg3010er
 oomp:
   library_name: diode
-  md5: 6ced76b30a493780e3f64578b0d1b761
-  md5_10: 6ced76b30a
-  md5_5: 6ced7
-  md5_6: 6ced76
-  oomp_key: oomp_diode_pmeg3010er
-  oomp_key_extra: oomp_symbol_diode_pmeg3010er
-  oomp_key_full: oomp_symbol_diode_pmeg3010er_6ced76
-  oomp_key_simple: diode_pmeg3010er
+  md5: 31a6cee1662bf04f50367e276aee2a45
+  md5_10: 31a6cee166
+  md5_5: 31a6c
+  md5_6: 31a6ce
+  oomp_key: oomp_pmeg3010er
+  oomp_key_extra: oomp_symbol_pmeg3010er
+  oomp_key_full: oomp_symbol_pmeg3010er_31a6ce
+  oomp_key_simple: pmeg3010er
   owner_name: kicad
-  symbol_name: diode_pmeg3010er
+  symbol_name: pmeg3010er
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

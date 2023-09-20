@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_az75232m/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_az75232m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_az75232m/working
-name: interface_uart_az75232m
+name: az75232m
 oomp:
   library_name: interface_uart
-  md5: 63755ce276d477380fe36810113a844c
-  md5_10: 63755ce276
-  md5_5: '63755'
-  md5_6: 63755c
-  oomp_key: oomp_interface_uart_az75232m
-  oomp_key_extra: oomp_symbol_interface_uart_az75232m
-  oomp_key_full: oomp_symbol_interface_uart_az75232m_63755c
-  oomp_key_simple: interface_uart_az75232m
+  md5: d1e228634efdc4bcebfeeae25ad431be
+  md5_10: d1e228634e
+  md5_5: d1e22
+  md5_6: d1e228
+  oomp_key: oomp_az75232m
+  oomp_key_extra: oomp_symbol_az75232m
+  oomp_key_full: oomp_symbol_az75232m_d1e228
+  oomp_key_simple: az75232m
   owner_name: kicad
-  symbol_name: interface_uart_az75232m
+  symbol_name: az75232m
 oomp_key: oomp_kicad_interface_uart_az75232m
 oomp_key_simple: kicad_interface_uart_az75232m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

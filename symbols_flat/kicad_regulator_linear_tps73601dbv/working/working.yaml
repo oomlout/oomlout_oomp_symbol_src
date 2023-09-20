@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tps73601dbv/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tps73601dbv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tps73601dbv/working
-name: regulator_linear_tps73601dbv
+name: tps73601dbv
 oomp:
   library_name: regulator_linear
-  md5: f3d320e08f9bbca71b0cb0552e3cb104
-  md5_10: f3d320e08f
-  md5_5: f3d32
-  md5_6: f3d320
-  oomp_key: oomp_regulator_linear_tps73601dbv
-  oomp_key_extra: oomp_symbol_regulator_linear_tps73601dbv
-  oomp_key_full: oomp_symbol_regulator_linear_tps73601dbv_f3d320
-  oomp_key_simple: regulator_linear_tps73601dbv
+  md5: cc10177c8004928ad8cf07e80c56f136
+  md5_10: cc10177c80
+  md5_5: cc101
+  md5_6: cc1017
+  oomp_key: oomp_tps73601dbv
+  oomp_key_extra: oomp_symbol_tps73601dbv
+  oomp_key_full: oomp_symbol_tps73601dbv_cc1017
+  oomp_key_simple: tps73601dbv
   owner_name: kicad
-  symbol_name: regulator_linear_tps73601dbv
+  symbol_name: tps73601dbv
 oomp_key: oomp_kicad_regulator_linear_tps73601dbv
 oomp_key_simple: kicad_regulator_linear_tps73601dbv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

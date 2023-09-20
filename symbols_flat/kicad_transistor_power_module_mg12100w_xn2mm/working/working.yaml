@@ -1,19 +1,19 @@
 id: kicad_transistor_power_module_mg12100w_xn2mm
 library: transistor_power_module
 library_name: Transistor_Power_Module
-name: transistor_power_module_mg12100w_xn2mm
+name: mg12100w_xn2mm
 oomp:
   library_name: transistor_power_module
-  md5: afe6171f328f467a1e289e54f177a7b2
-  md5_10: afe6171f32
-  md5_5: afe61
-  md5_6: afe617
-  oomp_key: oomp_transistor_power_module_mg12100w_xn2mm
-  oomp_key_extra: oomp_symbol_transistor_power_module_mg12100w_xn2mm
-  oomp_key_full: oomp_symbol_transistor_power_module_mg12100w_xn2mm_afe617
-  oomp_key_simple: transistor_power_module_mg12100w_xn2mm
+  md5: 6625578586e029e59024f8a5e1ea19f1
+  md5_10: '6625578586'
+  md5_5: '66255'
+  md5_6: '662557'
+  oomp_key: oomp_mg12100w_xn2mm
+  oomp_key_extra: oomp_symbol_mg12100w_xn2mm
+  oomp_key_full: oomp_symbol_mg12100w_xn2mm_662557
+  oomp_key_simple: mg12100w_xn2mm
   owner_name: kicad
-  symbol_name: transistor_power_module_mg12100w_xn2mm
+  symbol_name: mg12100w_xn2mm
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_ltc4440es6/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_ltc4440es6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_ltc4440es6/working
-name: driver_fet_ltc4440es6
+name: ltc4440es6
 oomp:
   library_name: driver_fet
-  md5: 1aafd13d7d92916c731896ff20825846
-  md5_10: 1aafd13d7d
-  md5_5: 1aafd
-  md5_6: 1aafd1
-  oomp_key: oomp_driver_fet_ltc4440es6
-  oomp_key_extra: oomp_symbol_driver_fet_ltc4440es6
-  oomp_key_full: oomp_symbol_driver_fet_ltc4440es6_1aafd1
-  oomp_key_simple: driver_fet_ltc4440es6
+  md5: 3e10ad24ef4834950ce1e3306454231b
+  md5_10: 3e10ad24ef
+  md5_5: 3e10a
+  md5_6: 3e10ad
+  oomp_key: oomp_ltc4440es6
+  oomp_key_extra: oomp_symbol_ltc4440es6
+  oomp_key_full: oomp_symbol_ltc4440es6_3e10ad
+  oomp_key_simple: ltc4440es6
   owner_name: kicad
-  symbol_name: driver_fet_ltc4440es6
+  symbol_name: ltc4440es6
 oomp_key: oomp_kicad_driver_fet_ltc4440es6
 oomp_key_simple: kicad_driver_fet_ltc4440es6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

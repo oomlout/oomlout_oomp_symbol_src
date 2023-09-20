@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_tmc5130a_ta/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_tmc5130a_ta/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_tmc5130a_ta/working
-name: driver_motor_tmc5130a_ta
+name: tmc5130a_ta
 oomp:
   library_name: driver_motor
-  md5: 86b0e252d3c81b58b0d140f99b831f8e
-  md5_10: 86b0e252d3
-  md5_5: 86b0e
-  md5_6: 86b0e2
-  oomp_key: oomp_driver_motor_tmc5130a_ta
-  oomp_key_extra: oomp_symbol_driver_motor_tmc5130a_ta
-  oomp_key_full: oomp_symbol_driver_motor_tmc5130a_ta_86b0e2
-  oomp_key_simple: driver_motor_tmc5130a_ta
+  md5: d02e43775e602003c916e9635c5ba14c
+  md5_10: d02e43775e
+  md5_5: d02e4
+  md5_6: d02e43
+  oomp_key: oomp_tmc5130a_ta
+  oomp_key_extra: oomp_symbol_tmc5130a_ta
+  oomp_key_full: oomp_symbol_tmc5130a_ta_d02e43
+  oomp_key_simple: tmc5130a_ta
   owner_name: kicad
-  symbol_name: driver_motor_tmc5130a_ta
+  symbol_name: tmc5130a_ta
 oomp_key: oomp_kicad_driver_motor_tmc5130a_ta
 oomp_key_simple: kicad_driver_motor_tmc5130a_ta
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

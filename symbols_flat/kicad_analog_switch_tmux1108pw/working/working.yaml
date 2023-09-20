@@ -1,19 +1,19 @@
 id: kicad_analog_switch_tmux1108pw
 library: analog_switch
 library_name: Analog_Switch
-name: analog_switch_tmux1108pw
+name: tmux1108pw
 oomp:
   library_name: analog_switch
-  md5: 90f06180caf7341ba5eb5436c03584ba
-  md5_10: 90f06180ca
-  md5_5: 90f06
-  md5_6: 90f061
-  oomp_key: oomp_analog_switch_tmux1108pw
-  oomp_key_extra: oomp_symbol_analog_switch_tmux1108pw
-  oomp_key_full: oomp_symbol_analog_switch_tmux1108pw_90f061
-  oomp_key_simple: analog_switch_tmux1108pw
+  md5: aa04ad22dbb2763bd1f7eaef0267f93f
+  md5_10: aa04ad22db
+  md5_5: aa04a
+  md5_6: aa04ad
+  oomp_key: oomp_tmux1108pw
+  oomp_key_extra: oomp_symbol_tmux1108pw
+  oomp_key_full: oomp_symbol_tmux1108pw_aa04ad
+  oomp_key_simple: tmux1108pw
   owner_name: kicad
-  symbol_name: analog_switch_tmux1108pw
+  symbol_name: tmux1108pw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

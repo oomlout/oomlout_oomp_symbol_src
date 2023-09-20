@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_ma12040p/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_ma12040p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_ma12040p/working
-name: amplifier_audio_ma12040p
+name: ma12040p
 oomp:
   library_name: amplifier_audio
-  md5: 5ecc6a0c683cb5e8134f5add341097ba
-  md5_10: 5ecc6a0c68
-  md5_5: 5ecc6
-  md5_6: 5ecc6a
-  oomp_key: oomp_amplifier_audio_ma12040p
-  oomp_key_extra: oomp_symbol_amplifier_audio_ma12040p
-  oomp_key_full: oomp_symbol_amplifier_audio_ma12040p_5ecc6a
-  oomp_key_simple: amplifier_audio_ma12040p
+  md5: 9c41180827c2091874f6b60c007cf579
+  md5_10: 9c41180827
+  md5_5: 9c411
+  md5_6: 9c4118
+  oomp_key: oomp_ma12040p
+  oomp_key_extra: oomp_symbol_ma12040p
+  oomp_key_full: oomp_symbol_ma12040p_9c4118
+  oomp_key_simple: ma12040p
   owner_name: kicad
-  symbol_name: amplifier_audio_ma12040p
+  symbol_name: ma12040p
 oomp_key: oomp_kicad_amplifier_audio_ma12040p
 oomp_key_simple: kicad_amplifier_audio_ma12040p
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

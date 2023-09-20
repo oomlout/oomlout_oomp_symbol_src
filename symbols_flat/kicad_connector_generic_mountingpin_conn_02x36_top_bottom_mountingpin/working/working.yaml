@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin/working
-name: connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin
+name: conn_02x36_top_bottom_mountingpin
 oomp:
   library_name: connector_generic_mountingpin
-  md5: c39bf8f25fd105ed47a96bb7e5e31cfa
-  md5_10: c39bf8f25f
-  md5_5: c39bf
-  md5_6: c39bf8
-  oomp_key: oomp_connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin
-  oomp_key_extra: oomp_symbol_connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin
-  oomp_key_full: oomp_symbol_connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin_c39bf8
-  oomp_key_simple: connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin
+  md5: 2d72ae5a372a0cfdf001ad46526be627
+  md5_10: 2d72ae5a37
+  md5_5: 2d72a
+  md5_6: 2d72ae
+  oomp_key: oomp_conn_02x36_top_bottom_mountingpin
+  oomp_key_extra: oomp_symbol_conn_02x36_top_bottom_mountingpin
+  oomp_key_full: oomp_symbol_conn_02x36_top_bottom_mountingpin_2d72ae
+  oomp_key_simple: conn_02x36_top_bottom_mountingpin
   owner_name: kicad
-  symbol_name: connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin
+  symbol_name: conn_02x36_top_bottom_mountingpin
 oomp_key: oomp_kicad_connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin
 oomp_key_simple: kicad_connector_generic_mountingpin_conn_02x36_top_bottom_mountingpin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_motor_stepper_unipolar_5pin/working
   oomp_src_flat: symbols_flat/kicad_motor_stepper_unipolar_5pin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_motor_stepper_unipolar_5pin/working
-name: motor_stepper_motor_unipolar_5pin
+name: stepper_unipolar_5pin
 oomp:
   library_name: motor
-  md5: eb5ea4ba8c70945448df4eefabf42982
-  md5_10: eb5ea4ba8c
-  md5_5: eb5ea
-  md5_6: eb5ea4
-  oomp_key: oomp_motor_stepper_motor_unipolar_5pin
-  oomp_key_extra: oomp_symbol_motor_stepper_motor_unipolar_5pin
-  oomp_key_full: oomp_symbol_motor_stepper_motor_unipolar_5pin_eb5ea4
-  oomp_key_simple: motor_stepper_motor_unipolar_5pin
+  md5: c0d9f3cd49c47b32fb2af81f393c73eb
+  md5_10: c0d9f3cd49
+  md5_5: c0d9f
+  md5_6: c0d9f3
+  oomp_key: oomp_stepper_unipolar_5pin
+  oomp_key_extra: oomp_symbol_stepper_unipolar_5pin
+  oomp_key_full: oomp_symbol_stepper_unipolar_5pin_c0d9f3
+  oomp_key_simple: stepper_unipolar_5pin
   owner_name: kicad
-  symbol_name: motor_stepper_motor_unipolar_5pin
+  symbol_name: stepper_unipolar_5pin
 oomp_key: oomp_kicad_motor_stepper_unipolar_5pin
 oomp_key_simple: kicad_motor_stepper_unipolar_5pin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

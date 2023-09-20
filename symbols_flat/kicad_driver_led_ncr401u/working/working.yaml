@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_ncr401u/working
   oomp_src_flat: symbols_flat/kicad_driver_led_ncr401u/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_ncr401u/working
-name: driver_led_ncr401u
+name: ncr401u
 oomp:
   library_name: driver_led
-  md5: be931e45f7197e014c1b964edb8141c2
-  md5_10: be931e45f7
-  md5_5: be931
-  md5_6: be931e
-  oomp_key: oomp_driver_led_ncr401u
-  oomp_key_extra: oomp_symbol_driver_led_ncr401u
-  oomp_key_full: oomp_symbol_driver_led_ncr401u_be931e
-  oomp_key_simple: driver_led_ncr401u
+  md5: b29bf6bfac6da07650a3e2d590c3a40e
+  md5_10: b29bf6bfac
+  md5_5: b29bf
+  md5_6: b29bf6
+  oomp_key: oomp_ncr401u
+  oomp_key_extra: oomp_symbol_ncr401u
+  oomp_key_full: oomp_symbol_ncr401u_b29bf6
+  oomp_key_simple: ncr401u
   owner_name: kicad
-  symbol_name: driver_led_ncr401u
+  symbol_name: ncr401u
 oomp_key: oomp_kicad_driver_led_ncr401u
 oomp_key_simple: kicad_driver_led_ncr401u
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

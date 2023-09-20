@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpu_p4080_bga1295/working
   oomp_src_flat: symbols_flat/kicad_cpu_p4080_bga1295/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpu_p4080_bga1295/working
-name: cpu_p4080_bga1295
+name: p4080_bga1295
 oomp:
   library_name: cpu
-  md5: 5e3870e297efdb06212360c809adc873
-  md5_10: 5e3870e297
-  md5_5: 5e387
-  md5_6: 5e3870
-  oomp_key: oomp_cpu_p4080_bga1295
-  oomp_key_extra: oomp_symbol_cpu_p4080_bga1295
-  oomp_key_full: oomp_symbol_cpu_p4080_bga1295_5e3870
-  oomp_key_simple: cpu_p4080_bga1295
+  md5: 0c4b199c342df7cf0f788584c75d3753
+  md5_10: 0c4b199c34
+  md5_5: 0c4b1
+  md5_6: 0c4b19
+  oomp_key: oomp_p4080_bga1295
+  oomp_key_extra: oomp_symbol_p4080_bga1295
+  oomp_key_full: oomp_symbol_p4080_bga1295_0c4b19
+  oomp_key_simple: p4080_bga1295
   owner_name: kicad
-  symbol_name: cpu_p4080_bga1295
+  symbol_name: p4080_bga1295
 oomp_key: oomp_kicad_cpu_p4080_bga1295
 oomp_key_simple: kicad_cpu_p4080_bga1295
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

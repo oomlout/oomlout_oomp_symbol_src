@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_barrel_jack_switch/working
   oomp_src_flat: symbols_flat/kicad_connector_barrel_jack_switch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_barrel_jack_switch/working
-name: connector_barrel_jack_switch
+name: barrel_jack_switch
 oomp:
   library_name: connector
-  md5: 804046ff2383e1d1dcf5758bed887f24
-  md5_10: 804046ff23
-  md5_5: '80404'
-  md5_6: '804046'
-  oomp_key: oomp_connector_barrel_jack_switch
-  oomp_key_extra: oomp_symbol_connector_barrel_jack_switch
-  oomp_key_full: oomp_symbol_connector_barrel_jack_switch_804046
-  oomp_key_simple: connector_barrel_jack_switch
+  md5: 46dbccdd5514615357638cb6430e1b67
+  md5_10: 46dbccdd55
+  md5_5: 46dbc
+  md5_6: 46dbcc
+  oomp_key: oomp_barrel_jack_switch
+  oomp_key_extra: oomp_symbol_barrel_jack_switch
+  oomp_key_full: oomp_symbol_barrel_jack_switch_46dbcc
+  oomp_key_simple: barrel_jack_switch
   owner_name: kicad
-  symbol_name: connector_barrel_jack_switch
+  symbol_name: barrel_jack_switch
 oomp_key: oomp_kicad_connector_barrel_jack_switch
 oomp_key_simple: kicad_connector_barrel_jack_switch
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

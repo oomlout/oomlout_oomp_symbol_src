@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_a1050/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_a1050/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_a1050/working
-name: sensor_optical_a1050
+name: a1050
 oomp:
   library_name: sensor_optical
-  md5: b285d58ad578433124fb35151a69816b
-  md5_10: b285d58ad5
-  md5_5: b285d
-  md5_6: b285d5
-  oomp_key: oomp_sensor_optical_a1050
-  oomp_key_extra: oomp_symbol_sensor_optical_a1050
-  oomp_key_full: oomp_symbol_sensor_optical_a1050_b285d5
-  oomp_key_simple: sensor_optical_a1050
+  md5: de8fc213246d27d77d8caff47f261572
+  md5_10: de8fc21324
+  md5_5: de8fc
+  md5_6: de8fc2
+  oomp_key: oomp_a1050
+  oomp_key_extra: oomp_symbol_a1050
+  oomp_key_full: oomp_symbol_a1050_de8fc2
+  oomp_key_simple: a1050
   owner_name: kicad
-  symbol_name: sensor_optical_a1050
+  symbol_name: a1050
 oomp_key: oomp_kicad_sensor_optical_a1050
 oomp_key_simple: kicad_sensor_optical_a1050
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

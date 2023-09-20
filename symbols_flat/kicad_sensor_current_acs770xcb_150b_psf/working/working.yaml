@@ -1,19 +1,19 @@
 id: kicad_sensor_current_acs770xcb_150b_psf
 library: sensor_current
 library_name: Sensor_Current
-name: sensor_current_acs770xcb_150b_psf
+name: acs770xcb_150b_psf
 oomp:
   library_name: sensor_current
-  md5: 012741055c210ab467e98b4c2b9b8202
-  md5_10: 012741055c
-  md5_5: '01274'
-  md5_6: '012741'
-  oomp_key: oomp_sensor_current_acs770xcb_150b_psf
-  oomp_key_extra: oomp_symbol_sensor_current_acs770xcb_150b_psf
-  oomp_key_full: oomp_symbol_sensor_current_acs770xcb_150b_psf_012741
-  oomp_key_simple: sensor_current_acs770xcb_150b_psf
+  md5: 936964132680ca4b8e1bd82920765140
+  md5_10: '9369641326'
+  md5_5: '93696'
+  md5_6: '936964'
+  oomp_key: oomp_acs770xcb_150b_psf
+  oomp_key_extra: oomp_symbol_acs770xcb_150b_psf
+  oomp_key_full: oomp_symbol_acs770xcb_150b_psf_936964
+  oomp_key_simple: acs770xcb_150b_psf
   owner_name: kicad
-  symbol_name: sensor_current_acs770xcb_150b_psf
+  symbol_name: acs770xcb_150b_psf
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

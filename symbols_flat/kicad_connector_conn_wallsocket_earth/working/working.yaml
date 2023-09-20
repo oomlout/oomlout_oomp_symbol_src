@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_wallsocket_earth/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_wallsocket_earth/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_wallsocket_earth/working
-name: connector_conn_wallsocket_earth
+name: conn_wallsocket_earth
 oomp:
   library_name: connector
-  md5: 5b6613cf440eaea5623e7117dad58d79
-  md5_10: 5b6613cf44
-  md5_5: 5b661
-  md5_6: 5b6613
-  oomp_key: oomp_connector_conn_wallsocket_earth
-  oomp_key_extra: oomp_symbol_connector_conn_wallsocket_earth
-  oomp_key_full: oomp_symbol_connector_conn_wallsocket_earth_5b6613
-  oomp_key_simple: connector_conn_wallsocket_earth
+  md5: ffabb1412618f0489394072c71792586
+  md5_10: ffabb14126
+  md5_5: ffabb
+  md5_6: ffabb1
+  oomp_key: oomp_conn_wallsocket_earth
+  oomp_key_extra: oomp_symbol_conn_wallsocket_earth
+  oomp_key_full: oomp_symbol_conn_wallsocket_earth_ffabb1
+  oomp_key_simple: conn_wallsocket_earth
   owner_name: kicad
-  symbol_name: connector_conn_wallsocket_earth
+  symbol_name: conn_wallsocket_earth
 oomp_key: oomp_kicad_connector_conn_wallsocket_earth
 oomp_key_simple: kicad_connector_conn_wallsocket_earth
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_nmos_gsd/working
   oomp_src_flat: symbols_flat/kicad_device_q_nmos_gsd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_nmos_gsd/working
-name: device_q_nmos_gsd
+name: q_nmos_gsd
 oomp:
   library_name: device
-  md5: 5e3aa9bdd25f55aeb9876bdd24087d0c
-  md5_10: 5e3aa9bdd2
-  md5_5: 5e3aa
-  md5_6: 5e3aa9
-  oomp_key: oomp_device_q_nmos_gsd
-  oomp_key_extra: oomp_symbol_device_q_nmos_gsd
-  oomp_key_full: oomp_symbol_device_q_nmos_gsd_5e3aa9
-  oomp_key_simple: device_q_nmos_gsd
+  md5: 896d06255b79255d82e83e74766be70c
+  md5_10: 896d06255b
+  md5_5: 896d0
+  md5_6: 896d06
+  oomp_key: oomp_q_nmos_gsd
+  oomp_key_extra: oomp_symbol_q_nmos_gsd
+  oomp_key_full: oomp_symbol_q_nmos_gsd_896d06
+  oomp_key_simple: q_nmos_gsd
   owner_name: kicad
-  symbol_name: device_q_nmos_gsd
+  symbol_name: q_nmos_gsd
 oomp_key: oomp_kicad_device_q_nmos_gsd
 oomp_key_simple: kicad_device_q_nmos_gsd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_rf_module_mdbt50q_u512k
 library: rf_module
 library_name: RF_Module
-name: rf_module_mdbt50q_u512k
+name: mdbt50q_u512k
 oomp:
   library_name: rf_module
-  md5: de656a6240e2f8b6d85808358b519411
-  md5_10: de656a6240
-  md5_5: de656
-  md5_6: de656a
-  oomp_key: oomp_rf_module_mdbt50q_u512k
-  oomp_key_extra: oomp_symbol_rf_module_mdbt50q_u512k
-  oomp_key_full: oomp_symbol_rf_module_mdbt50q_u512k_de656a
-  oomp_key_simple: rf_module_mdbt50q_u512k
+  md5: 403306f9fd19ba6d33f21d2f5d9c71fd
+  md5_10: 403306f9fd
+  md5_5: '40330'
+  md5_6: '403306'
+  oomp_key: oomp_mdbt50q_u512k
+  oomp_key_extra: oomp_symbol_mdbt50q_u512k
+  oomp_key_full: oomp_symbol_mdbt50q_u512k_403306
+  oomp_key_simple: mdbt50q_u512k
   owner_name: kicad
-  symbol_name: rf_module_mdbt50q_u512k
+  symbol_name: mdbt50q_u512k
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

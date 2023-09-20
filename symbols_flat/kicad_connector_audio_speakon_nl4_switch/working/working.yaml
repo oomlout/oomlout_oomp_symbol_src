@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_speakon_nl4_switch/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_speakon_nl4_switch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_speakon_nl4_switch/working
-name: connector_audio_speakon_nl4_switch
+name: speakon_nl4_switch
 oomp:
   library_name: connector_audio
-  md5: f4099e94492a86c2c3d449ce3253418b
-  md5_10: f4099e9449
-  md5_5: f4099
-  md5_6: f4099e
-  oomp_key: oomp_connector_audio_speakon_nl4_switch
-  oomp_key_extra: oomp_symbol_connector_audio_speakon_nl4_switch
-  oomp_key_full: oomp_symbol_connector_audio_speakon_nl4_switch_f4099e
-  oomp_key_simple: connector_audio_speakon_nl4_switch
+  md5: 17ce2bfd9dc6d3f3a2418d455ec38a6e
+  md5_10: 17ce2bfd9d
+  md5_5: 17ce2
+  md5_6: 17ce2b
+  oomp_key: oomp_speakon_nl4_switch
+  oomp_key_extra: oomp_symbol_speakon_nl4_switch
+  oomp_key_full: oomp_symbol_speakon_nl4_switch_17ce2b
+  oomp_key_simple: speakon_nl4_switch
   owner_name: kicad
-  symbol_name: connector_audio_speakon_nl4_switch
+  symbol_name: speakon_nl4_switch
 oomp_key: oomp_kicad_connector_audio_speakon_nl4_switch
 oomp_key_simple: kicad_connector_audio_speakon_nl4_switch
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

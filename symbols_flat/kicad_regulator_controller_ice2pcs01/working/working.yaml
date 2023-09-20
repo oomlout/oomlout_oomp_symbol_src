@@ -1,19 +1,19 @@
 id: kicad_regulator_controller_ice2pcs01
 library: regulator_controller
 library_name: Regulator_Controller
-name: regulator_controller_ice2pcs01
+name: ice2pcs01
 oomp:
   library_name: regulator_controller
-  md5: 2b7b7f5b59c59bc92d0d7411962785c4
-  md5_10: 2b7b7f5b59
-  md5_5: 2b7b7
-  md5_6: 2b7b7f
-  oomp_key: oomp_regulator_controller_ice2pcs01
-  oomp_key_extra: oomp_symbol_regulator_controller_ice2pcs01
-  oomp_key_full: oomp_symbol_regulator_controller_ice2pcs01_2b7b7f
-  oomp_key_simple: regulator_controller_ice2pcs01
+  md5: e83eb0dae6c82bf38bc6bef708d0f97e
+  md5_10: e83eb0dae6
+  md5_5: e83eb
+  md5_6: e83eb0
+  oomp_key: oomp_ice2pcs01
+  oomp_key_extra: oomp_symbol_ice2pcs01
+  oomp_key_full: oomp_symbol_ice2pcs01_e83eb0
+  oomp_key_simple: ice2pcs01
   owner_name: kicad
-  symbol_name: regulator_controller_ice2pcs01
+  symbol_name: ice2pcs01
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

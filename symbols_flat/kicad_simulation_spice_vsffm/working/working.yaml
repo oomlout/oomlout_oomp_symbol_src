@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_vsffm/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_vsffm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_vsffm/working
-name: simulation_spice_vsffm
+name: vsffm
 oomp:
   library_name: simulation_spice
-  md5: b47099e4efda4d726e92e4d98bb54080
-  md5_10: b47099e4ef
-  md5_5: b4709
-  md5_6: b47099
-  oomp_key: oomp_simulation_spice_vsffm
-  oomp_key_extra: oomp_symbol_simulation_spice_vsffm
-  oomp_key_full: oomp_symbol_simulation_spice_vsffm_b47099
-  oomp_key_simple: simulation_spice_vsffm
+  md5: 92d4be169ac7a98d8f0a24b6c4d42889
+  md5_10: 92d4be169a
+  md5_5: 92d4b
+  md5_6: 92d4be
+  oomp_key: oomp_vsffm
+  oomp_key_extra: oomp_symbol_vsffm
+  oomp_key_full: oomp_symbol_vsffm_92d4be
+  oomp_key_simple: vsffm
   owner_name: kicad
-  symbol_name: simulation_spice_vsffm
+  symbol_name: vsffm
 oomp_key: oomp_kicad_simulation_spice_vsffm
 oomp_key_simple: kicad_simulation_spice_vsffm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

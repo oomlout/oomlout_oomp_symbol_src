@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ltc1624cs8/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ltc1624cs8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ltc1624cs8/working
-name: regulator_controller_ltc1624cs8
+name: ltc1624cs8
 oomp:
   library_name: regulator_controller
-  md5: 4e66783bf8dfcdc35b6c52cde3a3d632
-  md5_10: 4e66783bf8
-  md5_5: 4e667
-  md5_6: 4e6678
-  oomp_key: oomp_regulator_controller_ltc1624cs8
-  oomp_key_extra: oomp_symbol_regulator_controller_ltc1624cs8
-  oomp_key_full: oomp_symbol_regulator_controller_ltc1624cs8_4e6678
-  oomp_key_simple: regulator_controller_ltc1624cs8
+  md5: 4fe522c86a5753a413b4de98570ecb2f
+  md5_10: 4fe522c86a
+  md5_5: 4fe52
+  md5_6: 4fe522
+  oomp_key: oomp_ltc1624cs8
+  oomp_key_extra: oomp_symbol_ltc1624cs8
+  oomp_key_full: oomp_symbol_ltc1624cs8_4fe522
+  oomp_key_simple: ltc1624cs8
   owner_name: kicad
-  symbol_name: regulator_controller_ltc1624cs8
+  symbol_name: ltc1624cs8
 oomp_key: oomp_kicad_regulator_controller_ltc1624cs8
 oomp_key_simple: kicad_regulator_controller_ltc1624cs8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

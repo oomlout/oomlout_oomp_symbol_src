@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_frequencycounter/working
   oomp_src_flat: symbols_flat/kicad_device_frequencycounter/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_frequencycounter/working
-name: device_frequencycounter
+name: frequencycounter
 oomp:
   library_name: device
-  md5: f305aa5707ecead057792756e8a7edc8
-  md5_10: f305aa5707
-  md5_5: f305a
-  md5_6: f305aa
-  oomp_key: oomp_device_frequencycounter
-  oomp_key_extra: oomp_symbol_device_frequencycounter
-  oomp_key_full: oomp_symbol_device_frequencycounter_f305aa
-  oomp_key_simple: device_frequencycounter
+  md5: 12c77ffe865232c4a15d7a8bc9d93201
+  md5_10: 12c77ffe86
+  md5_5: 12c77
+  md5_6: 12c77f
+  oomp_key: oomp_frequencycounter
+  oomp_key_extra: oomp_symbol_frequencycounter
+  oomp_key_full: oomp_symbol_frequencycounter_12c77f
+  oomp_key_simple: frequencycounter
   owner_name: kicad
-  symbol_name: device_frequencycounter
+  symbol_name: frequencycounter
 oomp_key: oomp_kicad_device_frequencycounter
 oomp_key_simple: kicad_device_frequencycounter
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

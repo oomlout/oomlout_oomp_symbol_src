@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_cs8406/working
   oomp_src_flat: symbols_flat/kicad_audio_cs8406/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_cs8406/working
-name: audio_cs8406
+name: cs8406
 oomp:
   library_name: audio
-  md5: 5aa212815e1653054fad93c7b4a5357b
-  md5_10: 5aa212815e
-  md5_5: 5aa21
-  md5_6: 5aa212
-  oomp_key: oomp_audio_cs8406
-  oomp_key_extra: oomp_symbol_audio_cs8406
-  oomp_key_full: oomp_symbol_audio_cs8406_5aa212
-  oomp_key_simple: audio_cs8406
+  md5: d53f0cde2baa9820aaab9b3e0e0aaf64
+  md5_10: d53f0cde2b
+  md5_5: d53f0
+  md5_6: d53f0c
+  oomp_key: oomp_cs8406
+  oomp_key_extra: oomp_symbol_cs8406
+  oomp_key_full: oomp_symbol_cs8406_d53f0c
+  oomp_key_simple: cs8406
   owner_name: kicad
-  symbol_name: audio_cs8406
+  symbol_name: cs8406
 oomp_key: oomp_kicad_audio_cs8406
 oomp_key_simple: kicad_audio_cs8406
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

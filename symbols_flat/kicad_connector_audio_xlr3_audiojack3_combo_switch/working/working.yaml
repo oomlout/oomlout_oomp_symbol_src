@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_switch/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_xlr3_audiojack3_combo_switch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_switch/working
-name: connector_audio_xlr3_audiojack3_combo_switch
+name: xlr3_audiojack3_combo_switch
 oomp:
   library_name: connector_audio
-  md5: eadd22b9a974751e06caa9f4aa5de99f
-  md5_10: eadd22b9a9
-  md5_5: eadd2
-  md5_6: eadd22
-  oomp_key: oomp_connector_audio_xlr3_audiojack3_combo_switch
-  oomp_key_extra: oomp_symbol_connector_audio_xlr3_audiojack3_combo_switch
-  oomp_key_full: oomp_symbol_connector_audio_xlr3_audiojack3_combo_switch_eadd22
-  oomp_key_simple: connector_audio_xlr3_audiojack3_combo_switch
+  md5: c7e2514dec13bf547e43065f2c0300ea
+  md5_10: c7e2514dec
+  md5_5: c7e25
+  md5_6: c7e251
+  oomp_key: oomp_xlr3_audiojack3_combo_switch
+  oomp_key_extra: oomp_symbol_xlr3_audiojack3_combo_switch
+  oomp_key_full: oomp_symbol_xlr3_audiojack3_combo_switch_c7e251
+  oomp_key_simple: xlr3_audiojack3_combo_switch
   owner_name: kicad
-  symbol_name: connector_audio_xlr3_audiojack3_combo_switch
+  symbol_name: xlr3_audiojack3_combo_switch
 oomp_key: oomp_kicad_connector_audio_xlr3_audiojack3_combo_switch
 oomp_key_simple: kicad_connector_audio_xlr3_audiojack3_combo_switch
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_amplifier_audio_ma12070p
 library: amplifier_audio
 library_name: Amplifier_Audio
-name: amplifier_audio_ma12070p
+name: ma12070p
 oomp:
   library_name: amplifier_audio
-  md5: 2f468affe31f01fbd57f9158aee66e0c
-  md5_10: 2f468affe3
-  md5_5: 2f468
-  md5_6: 2f468a
-  oomp_key: oomp_amplifier_audio_ma12070p
-  oomp_key_extra: oomp_symbol_amplifier_audio_ma12070p
-  oomp_key_full: oomp_symbol_amplifier_audio_ma12070p_2f468a
-  oomp_key_simple: amplifier_audio_ma12070p
+  md5: 45ce8e23dfb588a06db8780483b6d586
+  md5_10: 45ce8e23df
+  md5_5: 45ce8
+  md5_6: 45ce8e
+  oomp_key: oomp_ma12070p
+  oomp_key_extra: oomp_symbol_ma12070p
+  oomp_key_full: oomp_symbol_ma12070p_45ce8e
+  oomp_key_simple: ma12070p
   owner_name: kicad
-  symbol_name: amplifier_audio_ma12070p
+  symbol_name: ma12070p
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

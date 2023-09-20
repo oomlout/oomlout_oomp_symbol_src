@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_mc34064p/working
   oomp_src_flat: symbols_flat/kicad_power_supervisor_mc34064p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_mc34064p/working
-name: power_supervisor_mc34064p
+name: mc34064p
 oomp:
   library_name: power_supervisor
-  md5: b6659bcfe7e15b0b238c5d4a7417406b
-  md5_10: b6659bcfe7
-  md5_5: b6659
-  md5_6: b6659b
-  oomp_key: oomp_power_supervisor_mc34064p
-  oomp_key_extra: oomp_symbol_power_supervisor_mc34064p
-  oomp_key_full: oomp_symbol_power_supervisor_mc34064p_b6659b
-  oomp_key_simple: power_supervisor_mc34064p
+  md5: ad49d956c657b64cb12e3b5f4c46961e
+  md5_10: ad49d956c6
+  md5_5: ad49d
+  md5_6: ad49d9
+  oomp_key: oomp_mc34064p
+  oomp_key_extra: oomp_symbol_mc34064p
+  oomp_key_full: oomp_symbol_mc34064p_ad49d9
+  oomp_key_simple: mc34064p
   owner_name: kicad
-  symbol_name: power_supervisor_mc34064p
+  symbol_name: mc34064p
 oomp_key: oomp_kicad_power_supervisor_mc34064p
 oomp_key_simple: kicad_power_supervisor_mc34064p
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

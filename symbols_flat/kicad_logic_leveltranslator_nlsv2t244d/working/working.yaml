@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_logic_leveltranslator_nlsv2t244d/working
   oomp_src_flat: symbols_flat/kicad_logic_leveltranslator_nlsv2t244d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_logic_leveltranslator_nlsv2t244d/working
-name: logic_leveltranslator_nlsv2t244d
+name: nlsv2t244d
 oomp:
   library_name: logic_leveltranslator
-  md5: 26eb2ee634363c24ebc9b640bd709173
-  md5_10: 26eb2ee634
-  md5_5: 26eb2
-  md5_6: 26eb2e
-  oomp_key: oomp_logic_leveltranslator_nlsv2t244d
-  oomp_key_extra: oomp_symbol_logic_leveltranslator_nlsv2t244d
-  oomp_key_full: oomp_symbol_logic_leveltranslator_nlsv2t244d_26eb2e
-  oomp_key_simple: logic_leveltranslator_nlsv2t244d
+  md5: 399dca4a9f2d16afd885e0fc8bde8ccf
+  md5_10: 399dca4a9f
+  md5_5: 399dc
+  md5_6: 399dca
+  oomp_key: oomp_nlsv2t244d
+  oomp_key_extra: oomp_symbol_nlsv2t244d
+  oomp_key_full: oomp_symbol_nlsv2t244d_399dca
+  oomp_key_simple: nlsv2t244d
   owner_name: kicad
-  symbol_name: logic_leveltranslator_nlsv2t244d
+  symbol_name: nlsv2t244d
 oomp_key: oomp_kicad_logic_leveltranslator_nlsv2t244d
 oomp_key_simple: kicad_logic_leveltranslator_nlsv2t244d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

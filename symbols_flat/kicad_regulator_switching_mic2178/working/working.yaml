@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_mic2178/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_mic2178/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_mic2178/working
-name: regulator_switching_mic2178
+name: mic2178
 oomp:
   library_name: regulator_switching
-  md5: 30b56b78b889502bf42fba0d1b352c07
-  md5_10: 30b56b78b8
-  md5_5: 30b56
-  md5_6: 30b56b
-  oomp_key: oomp_regulator_switching_mic2178
-  oomp_key_extra: oomp_symbol_regulator_switching_mic2178
-  oomp_key_full: oomp_symbol_regulator_switching_mic2178_30b56b
-  oomp_key_simple: regulator_switching_mic2178
+  md5: a06b733461a41ba565081e40d9dbf9a9
+  md5_10: a06b733461
+  md5_5: a06b7
+  md5_6: a06b73
+  oomp_key: oomp_mic2178
+  oomp_key_extra: oomp_symbol_mic2178
+  oomp_key_full: oomp_symbol_mic2178_a06b73
+  oomp_key_simple: mic2178
   owner_name: kicad
-  symbol_name: regulator_switching_mic2178
+  symbol_name: mic2178
 oomp_key: oomp_kicad_regulator_switching_mic2178
 oomp_key_simple: kicad_regulator_switching_mic2178
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

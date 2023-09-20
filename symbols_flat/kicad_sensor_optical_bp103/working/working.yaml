@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_bp103/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_bp103/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_bp103/working
-name: sensor_optical_bp103
+name: bp103
 oomp:
   library_name: sensor_optical
-  md5: 69cb9f1f9d47bd013a504e91ad666f9d
-  md5_10: 69cb9f1f9d
-  md5_5: 69cb9
-  md5_6: 69cb9f
-  oomp_key: oomp_sensor_optical_bp103
-  oomp_key_extra: oomp_symbol_sensor_optical_bp103
-  oomp_key_full: oomp_symbol_sensor_optical_bp103_69cb9f
-  oomp_key_simple: sensor_optical_bp103
+  md5: baefd93dfa29dd00d1880a681800b265
+  md5_10: baefd93dfa
+  md5_5: baefd
+  md5_6: baefd9
+  oomp_key: oomp_bp103
+  oomp_key_extra: oomp_symbol_bp103
+  oomp_key_full: oomp_symbol_bp103_baefd9
+  oomp_key_simple: bp103
   owner_name: kicad
-  symbol_name: sensor_optical_bp103
+  symbol_name: bp103
 oomp_key: oomp_kicad_sensor_optical_bp103
 oomp_key_simple: kicad_sensor_optical_bp103
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

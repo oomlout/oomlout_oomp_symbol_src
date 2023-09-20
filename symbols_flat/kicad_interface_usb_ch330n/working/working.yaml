@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_ch330n/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_ch330n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_ch330n/working
-name: interface_usb_ch330n
+name: ch330n
 oomp:
   library_name: interface_usb
-  md5: c17501d8ebcdffa46c3f0f8cd2fd868e
-  md5_10: c17501d8eb
-  md5_5: c1750
-  md5_6: c17501
-  oomp_key: oomp_interface_usb_ch330n
-  oomp_key_extra: oomp_symbol_interface_usb_ch330n
-  oomp_key_full: oomp_symbol_interface_usb_ch330n_c17501
-  oomp_key_simple: interface_usb_ch330n
+  md5: 6ab200ca8cd3354d5a44fc54df9bb91f
+  md5_10: 6ab200ca8c
+  md5_5: 6ab20
+  md5_6: 6ab200
+  oomp_key: oomp_ch330n
+  oomp_key_extra: oomp_symbol_ch330n
+  oomp_key_full: oomp_symbol_ch330n_6ab200
+  oomp_key_simple: ch330n
   owner_name: kicad
-  symbol_name: interface_usb_ch330n
+  symbol_name: ch330n
 oomp_key: oomp_kicad_interface_usb_ch330n
 oomp_key_simple: kicad_interface_usb_ch330n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

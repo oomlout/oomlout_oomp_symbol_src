@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_15x4/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_15x4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_15x4/working
-name: connector_conn_15x4
+name: conn_15x4
 oomp:
   library_name: connector
-  md5: c25123fe3fb127565016a506b77b2e19
-  md5_10: c25123fe3f
-  md5_5: c2512
-  md5_6: c25123
-  oomp_key: oomp_connector_conn_15x4
-  oomp_key_extra: oomp_symbol_connector_conn_15x4
-  oomp_key_full: oomp_symbol_connector_conn_15x4_c25123
-  oomp_key_simple: connector_conn_15x4
+  md5: 129e419eb8f8428326e7082c6af94da9
+  md5_10: 129e419eb8
+  md5_5: 129e4
+  md5_6: 129e41
+  oomp_key: oomp_conn_15x4
+  oomp_key_extra: oomp_symbol_conn_15x4
+  oomp_key_full: oomp_symbol_conn_15x4_129e41
+  oomp_key_simple: conn_15x4
   owner_name: kicad
-  symbol_name: connector_conn_15x4
+  symbol_name: conn_15x4
 oomp_key: oomp_kicad_connector_conn_15x4
 oomp_key_simple: kicad_connector_conn_15x4
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_tc2014_5_0vxcttr
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_tc2014_5_0vxcttr
+name: tc2014_5_0vxcttr
 oomp:
   library_name: regulator_linear
-  md5: 139513ea6701a54f541d0dd737dbbe8c
-  md5_10: 139513ea67
-  md5_5: '13951'
-  md5_6: '139513'
-  oomp_key: oomp_regulator_linear_tc2014_5_0vxcttr
-  oomp_key_extra: oomp_symbol_regulator_linear_tc2014_5_0vxcttr
-  oomp_key_full: oomp_symbol_regulator_linear_tc2014_5_0vxcttr_139513
-  oomp_key_simple: regulator_linear_tc2014_5_0vxcttr
+  md5: a6148b3d95167fa2b405cf5e1e6e8d6e
+  md5_10: a6148b3d95
+  md5_5: a6148
+  md5_6: a6148b
+  oomp_key: oomp_tc2014_5_0vxcttr
+  oomp_key_extra: oomp_symbol_tc2014_5_0vxcttr
+  oomp_key_full: oomp_symbol_tc2014_5_0vxcttr_a6148b
+  oomp_key_simple: tc2014_5_0vxcttr
   owner_name: kicad
-  symbol_name: regulator_linear_tc2014_5_0vxcttr
+  symbol_name: tc2014_5_0vxcttr
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

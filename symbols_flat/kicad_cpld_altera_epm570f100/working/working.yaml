@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpld_altera_epm570f100/working
   oomp_src_flat: symbols_flat/kicad_cpld_altera_epm570f100/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpld_altera_epm570f100/working
-name: cpld_altera_epm570f100
+name: epm570f100
 oomp:
   library_name: cpld_altera
-  md5: 9fe1a4598adf0b02da582cd9aff409fe
-  md5_10: 9fe1a4598a
-  md5_5: 9fe1a
-  md5_6: 9fe1a4
-  oomp_key: oomp_cpld_altera_epm570f100
-  oomp_key_extra: oomp_symbol_cpld_altera_epm570f100
-  oomp_key_full: oomp_symbol_cpld_altera_epm570f100_9fe1a4
-  oomp_key_simple: cpld_altera_epm570f100
+  md5: 20d320db089c74f985b7018faa84ac68
+  md5_10: 20d320db08
+  md5_5: 20d32
+  md5_6: 20d320
+  oomp_key: oomp_epm570f100
+  oomp_key_extra: oomp_symbol_epm570f100
+  oomp_key_full: oomp_symbol_epm570f100_20d320
+  oomp_key_simple: epm570f100
   owner_name: kicad
-  symbol_name: cpld_altera_epm570f100
+  symbol_name: epm570f100
 oomp_key: oomp_kicad_cpld_altera_epm570f100
 oomp_key_simple: kicad_cpld_altera_epm570f100
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

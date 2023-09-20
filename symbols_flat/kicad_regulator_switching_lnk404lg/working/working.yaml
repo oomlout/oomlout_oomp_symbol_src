@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_lnk404lg
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_lnk404lg
+name: lnk404lg
 oomp:
   library_name: regulator_switching
-  md5: b19ff31a0365ec342bbc808d8927d217
-  md5_10: b19ff31a03
-  md5_5: b19ff
-  md5_6: b19ff3
-  oomp_key: oomp_regulator_switching_lnk404lg
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk404lg
-  oomp_key_full: oomp_symbol_regulator_switching_lnk404lg_b19ff3
-  oomp_key_simple: regulator_switching_lnk404lg
+  md5: f23ac8598c0269e97c73fe987479b8ec
+  md5_10: f23ac8598c
+  md5_5: f23ac
+  md5_6: f23ac8
+  oomp_key: oomp_lnk404lg
+  oomp_key_extra: oomp_symbol_lnk404lg
+  oomp_key_full: oomp_symbol_lnk404lg_f23ac8
+  oomp_key_simple: lnk404lg
   owner_name: kicad
-  symbol_name: regulator_switching_lnk404lg
+  symbol_name: lnk404lg
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

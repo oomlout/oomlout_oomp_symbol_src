@@ -1,19 +1,19 @@
 id: kicad_analog_pga113
 library: analog
 library_name: Analog
-name: analog_pga113
+name: pga113
 oomp:
   library_name: analog
-  md5: 925b2f05039be7f5d6d973db10bab5de
-  md5_10: 925b2f0503
-  md5_5: 925b2
-  md5_6: 925b2f
-  oomp_key: oomp_analog_pga113
-  oomp_key_extra: oomp_symbol_analog_pga113
-  oomp_key_full: oomp_symbol_analog_pga113_925b2f
-  oomp_key_simple: analog_pga113
+  md5: d9f68a3afa48863ceb40d3756235f6d3
+  md5_10: d9f68a3afa
+  md5_5: d9f68
+  md5_6: d9f68a
+  oomp_key: oomp_pga113
+  oomp_key_extra: oomp_symbol_pga113
+  oomp_key_full: oomp_symbol_pga113_d9f68a
+  oomp_key_simple: pga113
   owner_name: kicad
-  symbol_name: analog_pga113
+  symbol_name: pga113
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

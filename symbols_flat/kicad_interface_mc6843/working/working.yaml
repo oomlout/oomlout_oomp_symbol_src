@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_mc6843/working
   oomp_src_flat: symbols_flat/kicad_interface_mc6843/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_mc6843/working
-name: interface_mc6843
+name: mc6843
 oomp:
   library_name: interface
-  md5: db96679bdefa21f2aa98a359b1609d95
-  md5_10: db96679bde
-  md5_5: db966
-  md5_6: db9667
-  oomp_key: oomp_interface_mc6843
-  oomp_key_extra: oomp_symbol_interface_mc6843
-  oomp_key_full: oomp_symbol_interface_mc6843_db9667
-  oomp_key_simple: interface_mc6843
+  md5: 7e47534bc16013fa0cea2d50c3909588
+  md5_10: 7e47534bc1
+  md5_5: 7e475
+  md5_6: 7e4753
+  oomp_key: oomp_mc6843
+  oomp_key_extra: oomp_symbol_mc6843
+  oomp_key_full: oomp_symbol_mc6843_7e4753
+  oomp_key_simple: mc6843
   owner_name: kicad
-  symbol_name: interface_mc6843
+  symbol_name: mc6843
 oomp_key: oomp_kicad_interface_mc6843
 oomp_key_simple: kicad_interface_mc6843
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

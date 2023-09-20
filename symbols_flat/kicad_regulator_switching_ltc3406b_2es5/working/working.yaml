@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_ltc3406b_2es5
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_ltc3406b_2es5
+name: ltc3406b_2es5
 oomp:
   library_name: regulator_switching
-  md5: e0066735b6c95181c525d2456fab770d
-  md5_10: e0066735b6
-  md5_5: e0066
-  md5_6: e00667
-  oomp_key: oomp_regulator_switching_ltc3406b_2es5
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc3406b_2es5
-  oomp_key_full: oomp_symbol_regulator_switching_ltc3406b_2es5_e00667
-  oomp_key_simple: regulator_switching_ltc3406b_2es5
+  md5: 81456b5cbffbea31d296d48a6e313394
+  md5_10: 81456b5cbf
+  md5_5: '81456'
+  md5_6: 81456b
+  oomp_key: oomp_ltc3406b_2es5
+  oomp_key_extra: oomp_symbol_ltc3406b_2es5
+  oomp_key_full: oomp_symbol_ltc3406b_2es5_81456b
+  oomp_key_simple: ltc3406b_2es5
   owner_name: kicad
-  symbol_name: regulator_switching_ltc3406b_2es5
+  symbol_name: ltc3406b_2es5
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps5430dda/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps5430dda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps5430dda/working
-name: regulator_switching_tps5430dda
+name: tps5430dda
 oomp:
   library_name: regulator_switching
-  md5: 8c4342df3ac45de9bf93bf06de63e047
-  md5_10: 8c4342df3a
-  md5_5: 8c434
-  md5_6: 8c4342
-  oomp_key: oomp_regulator_switching_tps5430dda
-  oomp_key_extra: oomp_symbol_regulator_switching_tps5430dda
-  oomp_key_full: oomp_symbol_regulator_switching_tps5430dda_8c4342
-  oomp_key_simple: regulator_switching_tps5430dda
+  md5: deb2904da2f6507251961d2929b140d8
+  md5_10: deb2904da2
+  md5_5: deb29
+  md5_6: deb290
+  oomp_key: oomp_tps5430dda
+  oomp_key_extra: oomp_symbol_tps5430dda
+  oomp_key_full: oomp_symbol_tps5430dda_deb290
+  oomp_key_simple: tps5430dda
   owner_name: kicad
-  symbol_name: regulator_switching_tps5430dda
+  symbol_name: tps5430dda
 oomp_key: oomp_kicad_regulator_switching_tps5430dda
 oomp_key_simple: kicad_regulator_switching_tps5430dda
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_tlp250/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_tlp250/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_tlp250/working
-name: driver_fet_tlp250
+name: tlp250
 oomp:
   library_name: driver_fet
-  md5: 42c32e84e435b60b9d24ccd4f5f5d545
-  md5_10: 42c32e84e4
-  md5_5: 42c32
-  md5_6: 42c32e
-  oomp_key: oomp_driver_fet_tlp250
-  oomp_key_extra: oomp_symbol_driver_fet_tlp250
-  oomp_key_full: oomp_symbol_driver_fet_tlp250_42c32e
-  oomp_key_simple: driver_fet_tlp250
+  md5: fc678664994e5bfa73f9b13fead02b58
+  md5_10: fc67866499
+  md5_5: fc678
+  md5_6: fc6786
+  oomp_key: oomp_tlp250
+  oomp_key_extra: oomp_symbol_tlp250
+  oomp_key_full: oomp_symbol_tlp250_fc6786
+  oomp_key_simple: tlp250
   owner_name: kicad
-  symbol_name: driver_fet_tlp250
+  symbol_name: tlp250
 oomp_key: oomp_kicad_driver_fet_tlp250
 oomp_key_simple: kicad_driver_fet_tlp250
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

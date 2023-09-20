@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_sg_210stf/working
   oomp_src_flat: symbols_flat/kicad_oscillator_sg_210stf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_sg_210stf/working
-name: oscillator_sg_210stf
+name: sg_210stf
 oomp:
   library_name: oscillator
-  md5: 780a04c0799a783ab1e8b506824fd12d
-  md5_10: 780a04c079
-  md5_5: 780a0
-  md5_6: 780a04
-  oomp_key: oomp_oscillator_sg_210stf
-  oomp_key_extra: oomp_symbol_oscillator_sg_210stf
-  oomp_key_full: oomp_symbol_oscillator_sg_210stf_780a04
-  oomp_key_simple: oscillator_sg_210stf
+  md5: e12b3b48498e042f83eeeb14a2123f6e
+  md5_10: e12b3b4849
+  md5_5: e12b3
+  md5_6: e12b3b
+  oomp_key: oomp_sg_210stf
+  oomp_key_extra: oomp_symbol_sg_210stf
+  oomp_key_full: oomp_symbol_sg_210stf_e12b3b
+  oomp_key_simple: sg_210stf
   owner_name: kicad
-  symbol_name: oscillator_sg_210stf
+  symbol_name: sg_210stf
 oomp_key: oomp_kicad_oscillator_sg_210stf
 oomp_key_simple: kicad_oscillator_sg_210stf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

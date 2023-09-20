@@ -1,19 +1,19 @@
 id: kicad_interface_uart_sn65lbc176d
 library: interface_uart
 library_name: Interface_UART
-name: interface_uart_sn65lbc176d
+name: sn65lbc176d
 oomp:
   library_name: interface_uart
-  md5: 2c16c8e6dcd31e5b095d5843e0ebb85b
-  md5_10: 2c16c8e6dc
-  md5_5: 2c16c
-  md5_6: 2c16c8
-  oomp_key: oomp_interface_uart_sn65lbc176d
-  oomp_key_extra: oomp_symbol_interface_uart_sn65lbc176d
-  oomp_key_full: oomp_symbol_interface_uart_sn65lbc176d_2c16c8
-  oomp_key_simple: interface_uart_sn65lbc176d
+  md5: a3b6123a8cf4c93706b2b29821223783
+  md5_10: a3b6123a8c
+  md5_5: a3b61
+  md5_6: a3b612
+  oomp_key: oomp_sn65lbc176d
+  oomp_key_extra: oomp_symbol_sn65lbc176d
+  oomp_key_full: oomp_symbol_sn65lbc176d_a3b612
+  oomp_key_simple: sn65lbc176d
   owner_name: kicad
-  symbol_name: interface_uart_sn65lbc176d
+  symbol_name: sn65lbc176d
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_finder_30_22/working
   oomp_src_flat: symbols_flat/kicad_relay_finder_30_22/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_finder_30_22/working
-name: relay_finder_30_22
+name: finder_30_22
 oomp:
   library_name: relay
-  md5: 74a5810d76ef0556e6252208d8a5a348
-  md5_10: 74a5810d76
-  md5_5: 74a58
-  md5_6: 74a581
-  oomp_key: oomp_relay_finder_30_22
-  oomp_key_extra: oomp_symbol_relay_finder_30_22
-  oomp_key_full: oomp_symbol_relay_finder_30_22_74a581
-  oomp_key_simple: relay_finder_30_22
+  md5: 6c0cb0ec95d921af044a15478c3bf04b
+  md5_10: 6c0cb0ec95
+  md5_5: 6c0cb
+  md5_6: 6c0cb0
+  oomp_key: oomp_finder_30_22
+  oomp_key_extra: oomp_symbol_finder_30_22
+  oomp_key_full: oomp_symbol_finder_30_22_6c0cb0
+  oomp_key_simple: finder_30_22
   owner_name: kicad
-  symbol_name: relay_finder_30_22
+  symbol_name: finder_30_22
 oomp_key: oomp_kicad_relay_finder_30_22
 oomp_key_simple: kicad_relay_finder_30_22
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

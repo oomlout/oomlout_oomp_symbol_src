@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_zener_dual_commoncathode_aka_parallel/working
   oomp_src_flat: symbols_flat/kicad_device_d_zener_dual_commoncathode_aka_parallel/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_zener_dual_commoncathode_aka_parallel/working
-name: device_d_zener_dual_commoncathode_aka_parallel
+name: d_zener_dual_commoncathode_aka_parallel
 oomp:
   library_name: device
-  md5: b714adf771cc7efd69081335d07b6002
-  md5_10: b714adf771
-  md5_5: b714a
-  md5_6: b714ad
-  oomp_key: oomp_device_d_zener_dual_commoncathode_aka_parallel
-  oomp_key_extra: oomp_symbol_device_d_zener_dual_commoncathode_aka_parallel
-  oomp_key_full: oomp_symbol_device_d_zener_dual_commoncathode_aka_parallel_b714ad
-  oomp_key_simple: device_d_zener_dual_commoncathode_aka_parallel
+  md5: 23673c99b435345fed0156fa2a68cd7b
+  md5_10: 23673c99b4
+  md5_5: '23673'
+  md5_6: 23673c
+  oomp_key: oomp_d_zener_dual_commoncathode_aka_parallel
+  oomp_key_extra: oomp_symbol_d_zener_dual_commoncathode_aka_parallel
+  oomp_key_full: oomp_symbol_d_zener_dual_commoncathode_aka_parallel_23673c
+  oomp_key_simple: d_zener_dual_commoncathode_aka_parallel
   owner_name: kicad
-  symbol_name: device_d_zener_dual_commoncathode_aka_parallel
+  symbol_name: d_zener_dual_commoncathode_aka_parallel
 oomp_key: oomp_kicad_device_d_zener_dual_commoncathode_aka_parallel
 oomp_key_simple: kicad_device_d_zener_dual_commoncathode_aka_parallel
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

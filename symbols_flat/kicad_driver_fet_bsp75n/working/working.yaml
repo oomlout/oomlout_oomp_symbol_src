@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_bsp75n/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_bsp75n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_bsp75n/working
-name: driver_fet_bsp75n
+name: bsp75n
 oomp:
   library_name: driver_fet
-  md5: 42a87957cef93bf34a087f73d80fa516
-  md5_10: 42a87957ce
-  md5_5: 42a87
-  md5_6: 42a879
-  oomp_key: oomp_driver_fet_bsp75n
-  oomp_key_extra: oomp_symbol_driver_fet_bsp75n
-  oomp_key_full: oomp_symbol_driver_fet_bsp75n_42a879
-  oomp_key_simple: driver_fet_bsp75n
+  md5: 2459dda0dad21b76ac9fc1c7bca4d635
+  md5_10: 2459dda0da
+  md5_5: 2459d
+  md5_6: 2459dd
+  oomp_key: oomp_bsp75n
+  oomp_key_extra: oomp_symbol_bsp75n
+  oomp_key_full: oomp_symbol_bsp75n_2459dd
+  oomp_key_simple: bsp75n
   owner_name: kicad
-  symbol_name: driver_fet_bsp75n
+  symbol_name: bsp75n
 oomp_key: oomp_kicad_driver_fet_bsp75n
 oomp_key_simple: kicad_driver_fet_bsp75n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

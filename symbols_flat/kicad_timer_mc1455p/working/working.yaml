@@ -1,19 +1,19 @@
 id: kicad_timer_mc1455p
 library: timer
 library_name: Timer
-name: timer_mc1455p
+name: mc1455p
 oomp:
   library_name: timer
-  md5: 958cf6092d746c7a9c04bd4c41a19a44
-  md5_10: 958cf6092d
-  md5_5: 958cf
-  md5_6: 958cf6
-  oomp_key: oomp_timer_mc1455p
-  oomp_key_extra: oomp_symbol_timer_mc1455p
-  oomp_key_full: oomp_symbol_timer_mc1455p_958cf6
-  oomp_key_simple: timer_mc1455p
+  md5: 70b970b62dea29433cc731a19bea5e41
+  md5_10: 70b970b62d
+  md5_5: 70b97
+  md5_6: 70b970
+  oomp_key: oomp_mc1455p
+  oomp_key_extra: oomp_symbol_mc1455p
+  oomp_key_full: oomp_symbol_mc1455p_70b970
+  oomp_key_simple: mc1455p
   owner_name: kicad
-  symbol_name: timer_mc1455p
+  symbol_name: mc1455p
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

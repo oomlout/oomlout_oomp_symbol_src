@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_lt3652emse/working
   oomp_src_flat: symbols_flat/kicad_battery_management_lt3652emse/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_lt3652emse/working
-name: battery_management_lt3652emse
+name: lt3652emse
 oomp:
   library_name: battery_management
-  md5: 8d292b1bfdc9be0b4e07275efa13b141
-  md5_10: 8d292b1bfd
-  md5_5: 8d292
-  md5_6: 8d292b
-  oomp_key: oomp_battery_management_lt3652emse
-  oomp_key_extra: oomp_symbol_battery_management_lt3652emse
-  oomp_key_full: oomp_symbol_battery_management_lt3652emse_8d292b
-  oomp_key_simple: battery_management_lt3652emse
+  md5: 559ff1ad6e58d690da2340d9f1b93978
+  md5_10: 559ff1ad6e
+  md5_5: 559ff
+  md5_6: 559ff1
+  oomp_key: oomp_lt3652emse
+  oomp_key_extra: oomp_symbol_lt3652emse
+  oomp_key_full: oomp_symbol_lt3652emse_559ff1
+  oomp_key_simple: lt3652emse
   owner_name: kicad
-  symbol_name: battery_management_lt3652emse
+  symbol_name: lt3652emse
 oomp_key: oomp_kicad_battery_management_lt3652emse
 oomp_key_simple: kicad_battery_management_lt3652emse
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

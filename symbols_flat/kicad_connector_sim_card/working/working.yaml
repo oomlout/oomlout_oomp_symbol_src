@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_sim_card/working
   oomp_src_flat: symbols_flat/kicad_connector_sim_card/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_sim_card/working
-name: connector_sim_card
+name: sim_card
 oomp:
   library_name: connector
-  md5: da666d55aa18414fe38f04ee1512a228
-  md5_10: da666d55aa
-  md5_5: da666
-  md5_6: da666d
-  oomp_key: oomp_connector_sim_card
-  oomp_key_extra: oomp_symbol_connector_sim_card
-  oomp_key_full: oomp_symbol_connector_sim_card_da666d
-  oomp_key_simple: connector_sim_card
+  md5: e06a67871c95065ecad65d66ccaa5ffe
+  md5_10: e06a67871c
+  md5_5: e06a6
+  md5_6: e06a67
+  oomp_key: oomp_sim_card
+  oomp_key_extra: oomp_symbol_sim_card
+  oomp_key_full: oomp_symbol_sim_card_e06a67
+  oomp_key_simple: sim_card
   owner_name: kicad
-  symbol_name: connector_sim_card
+  symbol_name: sim_card
 oomp_key: oomp_kicad_connector_sim_card
 oomp_key_simple: kicad_connector_sim_card
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_inolux_in_pi556fch/working
   oomp_src_flat: symbols_flat/kicad_led_inolux_in_pi556fch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_inolux_in_pi556fch/working
-name: led_inolux_in_pi556fch
+name: inolux_in_pi556fch
 oomp:
   library_name: led
-  md5: 4bf3aa70c143ca1ddcf27da2f0ef216b
-  md5_10: 4bf3aa70c1
-  md5_5: 4bf3a
-  md5_6: 4bf3aa
-  oomp_key: oomp_led_inolux_in_pi556fch
-  oomp_key_extra: oomp_symbol_led_inolux_in_pi556fch
-  oomp_key_full: oomp_symbol_led_inolux_in_pi556fch_4bf3aa
-  oomp_key_simple: led_inolux_in_pi556fch
+  md5: 313fd6b8e744daba6086b0e4cd1ed023
+  md5_10: 313fd6b8e7
+  md5_5: 313fd
+  md5_6: 313fd6
+  oomp_key: oomp_inolux_in_pi556fch
+  oomp_key_extra: oomp_symbol_inolux_in_pi556fch
+  oomp_key_full: oomp_symbol_inolux_in_pi556fch_313fd6
+  oomp_key_simple: inolux_in_pi556fch
   owner_name: kicad
-  symbol_name: led_inolux_in_pi556fch
+  symbol_name: inolux_in_pi556fch
 oomp_key: oomp_kicad_led_inolux_in_pi556fch
 oomp_key_simple: kicad_led_inolux_in_pi556fch
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_dual_series_kac_parallel/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_dual_series_kac_parallel/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_dual_series_kac_parallel/working
-name: device_d_schottky_dual_series_kac_parallel
+name: d_schottky_dual_series_kac_parallel
 oomp:
   library_name: device
-  md5: a8a7993162a24e0734610286377a242d
-  md5_10: a8a7993162
-  md5_5: a8a79
-  md5_6: a8a799
-  oomp_key: oomp_device_d_schottky_dual_series_kac_parallel
-  oomp_key_extra: oomp_symbol_device_d_schottky_dual_series_kac_parallel
-  oomp_key_full: oomp_symbol_device_d_schottky_dual_series_kac_parallel_a8a799
-  oomp_key_simple: device_d_schottky_dual_series_kac_parallel
+  md5: 83a73fd4ee432c7b3ce2c21307cddf93
+  md5_10: 83a73fd4ee
+  md5_5: 83a73
+  md5_6: 83a73f
+  oomp_key: oomp_d_schottky_dual_series_kac_parallel
+  oomp_key_extra: oomp_symbol_d_schottky_dual_series_kac_parallel
+  oomp_key_full: oomp_symbol_d_schottky_dual_series_kac_parallel_83a73f
+  oomp_key_simple: d_schottky_dual_series_kac_parallel
   owner_name: kicad
-  symbol_name: device_d_schottky_dual_series_kac_parallel
+  symbol_name: d_schottky_dual_series_kac_parallel
 oomp_key: oomp_kicad_device_d_schottky_dual_series_kac_parallel
 oomp_key_simple: kicad_device_d_schottky_dual_series_kac_parallel
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

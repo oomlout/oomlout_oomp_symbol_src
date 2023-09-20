@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_ncp163afct180t2g
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_ncp163afct180t2g
+name: ncp163afct180t2g
 oomp:
   library_name: regulator_linear
-  md5: 3b81d285f65a9effd642e377c28ca158
-  md5_10: 3b81d285f6
-  md5_5: 3b81d
-  md5_6: 3b81d2
-  oomp_key: oomp_regulator_linear_ncp163afct180t2g
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp163afct180t2g
-  oomp_key_full: oomp_symbol_regulator_linear_ncp163afct180t2g_3b81d2
-  oomp_key_simple: regulator_linear_ncp163afct180t2g
+  md5: 1ecc0c1f8796dc432f62de503bf2dd6d
+  md5_10: 1ecc0c1f87
+  md5_5: 1ecc0
+  md5_6: 1ecc0c
+  oomp_key: oomp_ncp163afct180t2g
+  oomp_key_extra: oomp_symbol_ncp163afct180t2g
+  oomp_key_full: oomp_symbol_ncp163afct180t2g_1ecc0c
+  oomp_key_simple: ncp163afct180t2g
   owner_name: kicad
-  symbol_name: regulator_linear_ncp163afct180t2g
+  symbol_name: ncp163afct180t2g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

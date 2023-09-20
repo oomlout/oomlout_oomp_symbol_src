@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_ma730/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_ma730/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_ma730/working
-name: sensor_magnetic_ma730
+name: ma730
 oomp:
   library_name: sensor_magnetic
-  md5: 595c45d33c1970922dcc1e281cb3ca89
-  md5_10: 595c45d33c
-  md5_5: 595c4
-  md5_6: 595c45
-  oomp_key: oomp_sensor_magnetic_ma730
-  oomp_key_extra: oomp_symbol_sensor_magnetic_ma730
-  oomp_key_full: oomp_symbol_sensor_magnetic_ma730_595c45
-  oomp_key_simple: sensor_magnetic_ma730
+  md5: 6174f225aafd19332b03bec56d330117
+  md5_10: 6174f225aa
+  md5_5: 6174f
+  md5_6: 6174f2
+  oomp_key: oomp_ma730
+  oomp_key_extra: oomp_symbol_ma730
+  oomp_key_full: oomp_symbol_ma730_6174f2
+  oomp_key_simple: ma730
   owner_name: kicad
-  symbol_name: sensor_magnetic_ma730
+  symbol_name: ma730
 oomp_key: oomp_kicad_sensor_magnetic_ma730
 oomp_key_simple: kicad_sensor_magnetic_ma730
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

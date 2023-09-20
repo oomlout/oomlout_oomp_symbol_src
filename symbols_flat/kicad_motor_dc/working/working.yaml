@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_motor_dc/working
   oomp_src_flat: symbols_flat/kicad_motor_dc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_motor_dc/working
-name: motor_motor_dc
+name: dc
 oomp:
   library_name: motor
-  md5: 4feadc77673445e593b826b6dd1514ba
-  md5_10: 4feadc7767
-  md5_5: 4fead
-  md5_6: 4feadc
-  oomp_key: oomp_motor_motor_dc
-  oomp_key_extra: oomp_symbol_motor_motor_dc
-  oomp_key_full: oomp_symbol_motor_motor_dc_4feadc
-  oomp_key_simple: motor_motor_dc
+  md5: 3212f5f463edb370ff55d3c3a7a15c8f
+  md5_10: 3212f5f463
+  md5_5: 3212f
+  md5_6: 3212f5
+  oomp_key: oomp_dc
+  oomp_key_extra: oomp_symbol_dc
+  oomp_key_full: oomp_symbol_dc_3212f5
+  oomp_key_simple: dc
   owner_name: kicad
-  symbol_name: motor_motor_dc
+  symbol_name: dc
 oomp_key: oomp_kicad_motor_dc
 oomp_key_simple: kicad_motor_dc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

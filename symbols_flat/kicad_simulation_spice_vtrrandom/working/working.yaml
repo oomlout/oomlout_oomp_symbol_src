@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_vtrrandom/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_vtrrandom/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_vtrrandom/working
-name: simulation_spice_vtrrandom
+name: vtrrandom
 oomp:
   library_name: simulation_spice
-  md5: 5eaeb36456d5c6eacf795355695c00a7
-  md5_10: 5eaeb36456
-  md5_5: 5eaeb
-  md5_6: 5eaeb3
-  oomp_key: oomp_simulation_spice_vtrrandom
-  oomp_key_extra: oomp_symbol_simulation_spice_vtrrandom
-  oomp_key_full: oomp_symbol_simulation_spice_vtrrandom_5eaeb3
-  oomp_key_simple: simulation_spice_vtrrandom
+  md5: ede9de1593131ef09c850b83bcbaede4
+  md5_10: ede9de1593
+  md5_5: ede9d
+  md5_6: ede9de
+  oomp_key: oomp_vtrrandom
+  oomp_key_extra: oomp_symbol_vtrrandom
+  oomp_key_full: oomp_symbol_vtrrandom_ede9de
+  oomp_key_simple: vtrrandom
   owner_name: kicad
-  symbol_name: simulation_spice_vtrrandom
+  symbol_name: vtrrandom
 oomp_key: oomp_kicad_simulation_spice_vtrrandom
 oomp_key_simple: kicad_simulation_spice_vtrrandom
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

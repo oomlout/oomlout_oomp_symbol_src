@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_max9715xte_/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_max9715xte_/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_max9715xte_/working
-name: amplifier_audio_max9715xte_
+name: max9715xte_
 oomp:
   library_name: amplifier_audio
-  md5: 40f53013ddfc14a29854275a94f61a64
-  md5_10: 40f53013dd
-  md5_5: 40f53
-  md5_6: 40f530
-  oomp_key: oomp_amplifier_audio_max9715xte_
-  oomp_key_extra: oomp_symbol_amplifier_audio_max9715xte_
-  oomp_key_full: oomp_symbol_amplifier_audio_max9715xte__40f530
-  oomp_key_simple: amplifier_audio_max9715xte_
+  md5: 2838900db5551dd589616be7e5175f6a
+  md5_10: 2838900db5
+  md5_5: '28389'
+  md5_6: '283890'
+  oomp_key: oomp_max9715xte_
+  oomp_key_extra: oomp_symbol_max9715xte_
+  oomp_key_full: oomp_symbol_max9715xte__283890
+  oomp_key_simple: max9715xte_
   owner_name: kicad
-  symbol_name: amplifier_audio_max9715xte_
+  symbol_name: max9715xte_
 oomp_key: oomp_kicad_amplifier_audio_max9715xte_
 oomp_key_simple: kicad_amplifier_audio_max9715xte_
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_qls6a_fkw/working
   oomp_src_flat: symbols_flat/kicad_led_qls6a_fkw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_qls6a_fkw/working
-name: led_qls6a_fkw
+name: qls6a_fkw
 oomp:
   library_name: led
-  md5: 3fd20db282b6f6fe4a78b4bc69653e6e
-  md5_10: 3fd20db282
-  md5_5: 3fd20
-  md5_6: 3fd20d
-  oomp_key: oomp_led_qls6a_fkw
-  oomp_key_extra: oomp_symbol_led_qls6a_fkw
-  oomp_key_full: oomp_symbol_led_qls6a_fkw_3fd20d
-  oomp_key_simple: led_qls6a_fkw
+  md5: d802ff664c2638269941054625239500
+  md5_10: d802ff664c
+  md5_5: d802f
+  md5_6: d802ff
+  oomp_key: oomp_qls6a_fkw
+  oomp_key_extra: oomp_symbol_qls6a_fkw
+  oomp_key_full: oomp_symbol_qls6a_fkw_d802ff
+  oomp_key_simple: qls6a_fkw
   owner_name: kicad
-  symbol_name: led_qls6a_fkw
+  symbol_name: qls6a_fkw
 oomp_key: oomp_kicad_led_qls6a_fkw
 oomp_key_simple: kicad_led_qls6a_fkw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

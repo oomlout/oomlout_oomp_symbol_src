@@ -1,19 +1,19 @@
 id: kicad_driver_fet_max15013cxsa
 library: driver_fet
 library_name: Driver_FET
-name: driver_fet_max15013cxsa
+name: max15013cxsa
 oomp:
   library_name: driver_fet
-  md5: 55908fb4116f281c1e3af6091420e95e
-  md5_10: 55908fb411
-  md5_5: '55908'
-  md5_6: 55908f
-  oomp_key: oomp_driver_fet_max15013cxsa
-  oomp_key_extra: oomp_symbol_driver_fet_max15013cxsa
-  oomp_key_full: oomp_symbol_driver_fet_max15013cxsa_55908f
-  oomp_key_simple: driver_fet_max15013cxsa
+  md5: f2eb29b631032534ecc9133164121250
+  md5_10: f2eb29b631
+  md5_5: f2eb2
+  md5_6: f2eb29
+  oomp_key: oomp_max15013cxsa
+  oomp_key_extra: oomp_symbol_max15013cxsa
+  oomp_key_full: oomp_symbol_max15013cxsa_f2eb29
+  oomp_key_simple: max15013cxsa
   owner_name: kicad
-  symbol_name: driver_fet_max15013cxsa
+  symbol_name: max15013cxsa
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_motor_stepper_unipolar_6pin/working
   oomp_src_flat: symbols_flat/kicad_motor_stepper_unipolar_6pin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_motor_stepper_unipolar_6pin/working
-name: motor_stepper_motor_unipolar_6pin
+name: stepper_unipolar_6pin
 oomp:
   library_name: motor
-  md5: 30bda8873708cb4c0fb153feea26c13d
-  md5_10: 30bda88737
-  md5_5: 30bda
-  md5_6: 30bda8
-  oomp_key: oomp_motor_stepper_motor_unipolar_6pin
-  oomp_key_extra: oomp_symbol_motor_stepper_motor_unipolar_6pin
-  oomp_key_full: oomp_symbol_motor_stepper_motor_unipolar_6pin_30bda8
-  oomp_key_simple: motor_stepper_motor_unipolar_6pin
+  md5: 8269a46c034d1a2ae6b0916d64da5ead
+  md5_10: 8269a46c03
+  md5_5: 8269a
+  md5_6: 8269a4
+  oomp_key: oomp_stepper_unipolar_6pin
+  oomp_key_extra: oomp_symbol_stepper_unipolar_6pin
+  oomp_key_full: oomp_symbol_stepper_unipolar_6pin_8269a4
+  oomp_key_simple: stepper_unipolar_6pin
   owner_name: kicad
-  symbol_name: motor_stepper_motor_unipolar_6pin
+  symbol_name: stepper_unipolar_6pin
 oomp_key: oomp_kicad_motor_stepper_unipolar_6pin
 oomp_key_simple: kicad_motor_stepper_unipolar_6pin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

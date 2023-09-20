@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_pmeg2010aet/working
   oomp_src_flat: symbols_flat/kicad_diode_pmeg2010aet/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_pmeg2010aet/working
-name: diode_pmeg2010aet
+name: pmeg2010aet
 oomp:
   library_name: diode
-  md5: 3d3cf8d9b9d13345a123d6db4a881d4c
-  md5_10: 3d3cf8d9b9
-  md5_5: 3d3cf
-  md5_6: 3d3cf8
-  oomp_key: oomp_diode_pmeg2010aet
-  oomp_key_extra: oomp_symbol_diode_pmeg2010aet
-  oomp_key_full: oomp_symbol_diode_pmeg2010aet_3d3cf8
-  oomp_key_simple: diode_pmeg2010aet
+  md5: 2902eaca9105e66ab7e96f486663222a
+  md5_10: 2902eaca91
+  md5_5: 2902e
+  md5_6: 2902ea
+  oomp_key: oomp_pmeg2010aet
+  oomp_key_extra: oomp_symbol_pmeg2010aet
+  oomp_key_full: oomp_symbol_pmeg2010aet_2902ea
+  oomp_key_simple: pmeg2010aet
   owner_name: kicad
-  symbol_name: diode_pmeg2010aet
+  symbol_name: pmeg2010aet
 oomp_key: oomp_kicad_diode_pmeg2010aet
 oomp_key_simple: kicad_diode_pmeg2010aet
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

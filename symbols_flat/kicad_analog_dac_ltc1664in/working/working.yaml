@@ -1,19 +1,19 @@
 id: kicad_analog_dac_ltc1664in
 library: analog_dac
 library_name: Analog_DAC
-name: analog_dac_ltc1664in
+name: ltc1664in
 oomp:
   library_name: analog_dac
-  md5: 75a41f5ef1806564cfd3b1b706dd0994
-  md5_10: 75a41f5ef1
-  md5_5: 75a41
-  md5_6: 75a41f
-  oomp_key: oomp_analog_dac_ltc1664in
-  oomp_key_extra: oomp_symbol_analog_dac_ltc1664in
-  oomp_key_full: oomp_symbol_analog_dac_ltc1664in_75a41f
-  oomp_key_simple: analog_dac_ltc1664in
+  md5: 191fb834767f6e38c6f93c425b7d7a11
+  md5_10: 191fb83476
+  md5_5: 191fb
+  md5_6: 191fb8
+  oomp_key: oomp_ltc1664in
+  oomp_key_extra: oomp_symbol_ltc1664in
+  oomp_key_full: oomp_symbol_ltc1664in_191fb8
+  oomp_key_simple: ltc1664in
   owner_name: kicad
-  symbol_name: analog_dac_ltc1664in
+  symbol_name: ltc1664in
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

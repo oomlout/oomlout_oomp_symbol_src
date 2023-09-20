@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_emi8132/working
   oomp_src_flat: symbols_flat/kicad_power_protection_emi8132/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_emi8132/working
-name: power_protection_emi8132
+name: emi8132
 oomp:
   library_name: power_protection
-  md5: d0198a39d9c41d4c6738b751e90e41bd
-  md5_10: d0198a39d9
-  md5_5: d0198
-  md5_6: d0198a
-  oomp_key: oomp_power_protection_emi8132
-  oomp_key_extra: oomp_symbol_power_protection_emi8132
-  oomp_key_full: oomp_symbol_power_protection_emi8132_d0198a
-  oomp_key_simple: power_protection_emi8132
+  md5: b2097606d3217b68b55e652d363e50c7
+  md5_10: b2097606d3
+  md5_5: b2097
+  md5_6: b20976
+  oomp_key: oomp_emi8132
+  oomp_key_extra: oomp_symbol_emi8132
+  oomp_key_full: oomp_symbol_emi8132_b20976
+  oomp_key_simple: emi8132
   owner_name: kicad
-  symbol_name: power_protection_emi8132
+  symbol_name: emi8132
 oomp_key: oomp_kicad_power_protection_emi8132
 oomp_key_simple: kicad_power_protection_emi8132
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32f7_stm32f777nihx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32f7_stm32f777nihx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32f7_stm32f777nihx/working
-name: mcu_st_stm32f7_stm32f777nihx
+name: stm32f777nihx
 oomp:
   library_name: mcu_st_stm32f7
-  md5: ff5e6ab108c9540f5b864757495c9cc6
-  md5_10: ff5e6ab108
-  md5_5: ff5e6
-  md5_6: ff5e6a
-  oomp_key: oomp_mcu_st_stm32f7_stm32f777nihx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f7_stm32f777nihx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f7_stm32f777nihx_ff5e6a
-  oomp_key_simple: mcu_st_stm32f7_stm32f777nihx
+  md5: dd2500ab1f2cf0c5835a761e28a46827
+  md5_10: dd2500ab1f
+  md5_5: dd250
+  md5_6: dd2500
+  oomp_key: oomp_stm32f777nihx
+  oomp_key_extra: oomp_symbol_stm32f777nihx
+  oomp_key_full: oomp_symbol_stm32f777nihx_dd2500
+  oomp_key_simple: stm32f777nihx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f7_stm32f777nihx
+  symbol_name: stm32f777nihx
 oomp_key: oomp_kicad_mcu_st_stm32f7_stm32f777nihx
 oomp_key_simple: kicad_mcu_st_stm32f7_stm32f777nihx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

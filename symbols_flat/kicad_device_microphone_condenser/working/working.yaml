@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_microphone_condenser/working
   oomp_src_flat: symbols_flat/kicad_device_microphone_condenser/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_microphone_condenser/working
-name: device_microphone_condenser
+name: microphone_condenser
 oomp:
   library_name: device
-  md5: 92e9e9e064c26ce102292ab07f36e8dc
-  md5_10: 92e9e9e064
-  md5_5: 92e9e
-  md5_6: 92e9e9
-  oomp_key: oomp_device_microphone_condenser
-  oomp_key_extra: oomp_symbol_device_microphone_condenser
-  oomp_key_full: oomp_symbol_device_microphone_condenser_92e9e9
-  oomp_key_simple: device_microphone_condenser
+  md5: f56eee0df1aa1cca89bbc71ecd996556
+  md5_10: f56eee0df1
+  md5_5: f56ee
+  md5_6: f56eee
+  oomp_key: oomp_microphone_condenser
+  oomp_key_extra: oomp_symbol_microphone_condenser
+  oomp_key_full: oomp_symbol_microphone_condenser_f56eee
+  oomp_key_simple: microphone_condenser
   owner_name: kicad
-  symbol_name: device_microphone_condenser
+  symbol_name: microphone_condenser
 oomp_key: oomp_kicad_device_microphone_condenser
 oomp_key_simple: kicad_device_microphone_condenser
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

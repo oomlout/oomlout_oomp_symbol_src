@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_audiojack4_switcht1/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_audiojack4_switcht1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_audiojack4_switcht1/working
-name: connector_audio_audiojack4_switcht1
+name: audiojack4_switcht1
 oomp:
   library_name: connector_audio
-  md5: ca0a5b770b226c9a02021d3d7ac4a454
-  md5_10: ca0a5b770b
-  md5_5: ca0a5
-  md5_6: ca0a5b
-  oomp_key: oomp_connector_audio_audiojack4_switcht1
-  oomp_key_extra: oomp_symbol_connector_audio_audiojack4_switcht1
-  oomp_key_full: oomp_symbol_connector_audio_audiojack4_switcht1_ca0a5b
-  oomp_key_simple: connector_audio_audiojack4_switcht1
+  md5: 1bd2df57c215424dc084030683a5698d
+  md5_10: 1bd2df57c2
+  md5_5: 1bd2d
+  md5_6: 1bd2df
+  oomp_key: oomp_audiojack4_switcht1
+  oomp_key_extra: oomp_symbol_audiojack4_switcht1
+  oomp_key_full: oomp_symbol_audiojack4_switcht1_1bd2df
+  oomp_key_simple: audiojack4_switcht1
   owner_name: kicad
-  symbol_name: connector_audio_audiojack4_switcht1
+  symbol_name: audiojack4_switcht1
 oomp_key: oomp_kicad_connector_audio_audiojack4_switcht1
 oomp_key_simple: kicad_connector_audio_audiojack4_switcht1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

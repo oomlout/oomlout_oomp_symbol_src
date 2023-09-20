@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_adp5091/working
   oomp_src_flat: symbols_flat/kicad_battery_management_adp5091/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_adp5091/working
-name: battery_management_adp5091
+name: adp5091
 oomp:
   library_name: battery_management
-  md5: 488186aea05a9b6de1d40b06b1fc6eb3
-  md5_10: 488186aea0
-  md5_5: '48818'
-  md5_6: '488186'
-  oomp_key: oomp_battery_management_adp5091
-  oomp_key_extra: oomp_symbol_battery_management_adp5091
-  oomp_key_full: oomp_symbol_battery_management_adp5091_488186
-  oomp_key_simple: battery_management_adp5091
+  md5: f75f33b20cc1aa63d1aa32180abc1a26
+  md5_10: f75f33b20c
+  md5_5: f75f3
+  md5_6: f75f33
+  oomp_key: oomp_adp5091
+  oomp_key_extra: oomp_symbol_adp5091
+  oomp_key_full: oomp_symbol_adp5091_f75f33
+  oomp_key_simple: adp5091
   owner_name: kicad
-  symbol_name: battery_management_adp5091
+  symbol_name: adp5091
 oomp_key: oomp_kicad_battery_management_adp5091
 oomp_key_simple: kicad_battery_management_adp5091
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

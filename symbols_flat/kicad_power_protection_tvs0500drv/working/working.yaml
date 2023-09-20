@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_tvs0500drv/working
   oomp_src_flat: symbols_flat/kicad_power_protection_tvs0500drv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_tvs0500drv/working
-name: power_protection_tvs0500drv
+name: tvs0500drv
 oomp:
   library_name: power_protection
-  md5: f80612478ba3a18e6af8a73b3d558d6a
-  md5_10: f80612478b
-  md5_5: f8061
-  md5_6: f80612
-  oomp_key: oomp_power_protection_tvs0500drv
-  oomp_key_extra: oomp_symbol_power_protection_tvs0500drv
-  oomp_key_full: oomp_symbol_power_protection_tvs0500drv_f80612
-  oomp_key_simple: power_protection_tvs0500drv
+  md5: a43bdac2669a4e88a2c8d52f0acd45f1
+  md5_10: a43bdac266
+  md5_5: a43bd
+  md5_6: a43bda
+  oomp_key: oomp_tvs0500drv
+  oomp_key_extra: oomp_symbol_tvs0500drv
+  oomp_key_full: oomp_symbol_tvs0500drv_a43bda
+  oomp_key_simple: tvs0500drv
   owner_name: kicad
-  symbol_name: power_protection_tvs0500drv
+  symbol_name: tvs0500drv
 oomp_key: oomp_kicad_power_protection_tvs0500drv
 oomp_key_simple: kicad_power_protection_tvs0500drv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

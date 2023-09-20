@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_cfps_72/working
   oomp_src_flat: symbols_flat/kicad_oscillator_cfps_72/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_cfps_72/working
-name: oscillator_cfps_72
+name: cfps_72
 oomp:
   library_name: oscillator
-  md5: d98ad6f39ec4a0e7f069dcd766dabeef
-  md5_10: d98ad6f39e
-  md5_5: d98ad
-  md5_6: d98ad6
-  oomp_key: oomp_oscillator_cfps_72
-  oomp_key_extra: oomp_symbol_oscillator_cfps_72
-  oomp_key_full: oomp_symbol_oscillator_cfps_72_d98ad6
-  oomp_key_simple: oscillator_cfps_72
+  md5: 00fcf2a0f48bca772d1b997fd7239eb2
+  md5_10: 00fcf2a0f4
+  md5_5: 00fcf
+  md5_6: 00fcf2
+  oomp_key: oomp_cfps_72
+  oomp_key_extra: oomp_symbol_cfps_72
+  oomp_key_full: oomp_symbol_cfps_72_00fcf2
+  oomp_key_simple: cfps_72
   owner_name: kicad
-  symbol_name: oscillator_cfps_72
+  symbol_name: cfps_72
 oomp_key: oomp_kicad_oscillator_cfps_72
 oomp_key_simple: kicad_oscillator_cfps_72
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

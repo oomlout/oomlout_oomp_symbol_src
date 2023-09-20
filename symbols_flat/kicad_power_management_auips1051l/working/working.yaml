@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_auips1051l/working
   oomp_src_flat: symbols_flat/kicad_power_management_auips1051l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_auips1051l/working
-name: power_management_auips1051l
+name: auips1051l
 oomp:
   library_name: power_management
-  md5: f5266a6e93f7d1619b881f01b2fbfe83
-  md5_10: f5266a6e93
-  md5_5: f5266
-  md5_6: f5266a
-  oomp_key: oomp_power_management_auips1051l
-  oomp_key_extra: oomp_symbol_power_management_auips1051l
-  oomp_key_full: oomp_symbol_power_management_auips1051l_f5266a
-  oomp_key_simple: power_management_auips1051l
+  md5: 1bc185570201093724d740c3023420f7
+  md5_10: 1bc1855702
+  md5_5: 1bc18
+  md5_6: 1bc185
+  oomp_key: oomp_auips1051l
+  oomp_key_extra: oomp_symbol_auips1051l
+  oomp_key_full: oomp_symbol_auips1051l_1bc185
+  oomp_key_simple: auips1051l
   owner_name: kicad
-  symbol_name: power_management_auips1051l
+  symbol_name: auips1051l
 oomp_key: oomp_kicad_power_management_auips1051l
 oomp_key_simple: kicad_power_management_auips1051l
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

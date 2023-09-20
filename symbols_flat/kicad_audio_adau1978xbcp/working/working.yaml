@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_adau1978xbcp/working
   oomp_src_flat: symbols_flat/kicad_audio_adau1978xbcp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_adau1978xbcp/working
-name: audio_adau1978xbcp
+name: adau1978xbcp
 oomp:
   library_name: audio
-  md5: 64bd4051603c3892becfe82e8f86cf83
-  md5_10: 64bd405160
-  md5_5: 64bd4
-  md5_6: 64bd40
-  oomp_key: oomp_audio_adau1978xbcp
-  oomp_key_extra: oomp_symbol_audio_adau1978xbcp
-  oomp_key_full: oomp_symbol_audio_adau1978xbcp_64bd40
-  oomp_key_simple: audio_adau1978xbcp
+  md5: ad8cf56e8bdfb838f045d3d7684c54a3
+  md5_10: ad8cf56e8b
+  md5_5: ad8cf
+  md5_6: ad8cf5
+  oomp_key: oomp_adau1978xbcp
+  oomp_key_extra: oomp_symbol_adau1978xbcp
+  oomp_key_full: oomp_symbol_adau1978xbcp_ad8cf5
+  oomp_key_simple: adau1978xbcp
   owner_name: kicad
-  symbol_name: audio_adau1978xbcp
+  symbol_name: adau1978xbcp
 oomp_key: oomp_kicad_audio_adau1978xbcp
 oomp_key_simple: kicad_audio_adau1978xbcp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_si512a_2_5x3_2mm/working
   oomp_src_flat: symbols_flat/kicad_oscillator_si512a_2_5x3_2mm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_si512a_2_5x3_2mm/working
-name: oscillator_si512a_2_5x3_2mm
+name: si512a_2_5x3_2mm
 oomp:
   library_name: oscillator
-  md5: 0d3993a5c0ce09e790eb0ce41bdc4de2
-  md5_10: 0d3993a5c0
-  md5_5: 0d399
-  md5_6: 0d3993
-  oomp_key: oomp_oscillator_si512a_2_5x3_2mm
-  oomp_key_extra: oomp_symbol_oscillator_si512a_2_5x3_2mm
-  oomp_key_full: oomp_symbol_oscillator_si512a_2_5x3_2mm_0d3993
-  oomp_key_simple: oscillator_si512a_2_5x3_2mm
+  md5: 0c3d95ca26516f3e44ac1dcd1c856641
+  md5_10: 0c3d95ca26
+  md5_5: 0c3d9
+  md5_6: 0c3d95
+  oomp_key: oomp_si512a_2_5x3_2mm
+  oomp_key_extra: oomp_symbol_si512a_2_5x3_2mm
+  oomp_key_full: oomp_symbol_si512a_2_5x3_2mm_0c3d95
+  oomp_key_simple: si512a_2_5x3_2mm
   owner_name: kicad
-  symbol_name: oscillator_si512a_2_5x3_2mm
+  symbol_name: si512a_2_5x3_2mm
 oomp_key: oomp_kicad_oscillator_si512a_2_5x3_2mm
 oomp_key_simple: kicad_oscillator_si512a_2_5x3_2mm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

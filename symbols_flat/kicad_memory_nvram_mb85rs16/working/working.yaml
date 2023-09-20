@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_nvram_mb85rs16/working
   oomp_src_flat: symbols_flat/kicad_memory_nvram_mb85rs16/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_nvram_mb85rs16/working
-name: memory_nvram_mb85rs16
+name: mb85rs16
 oomp:
   library_name: memory_nvram
-  md5: 5649c95940dcdf33f46a53fa244c4c82
-  md5_10: 5649c95940
-  md5_5: 5649c
-  md5_6: 5649c9
-  oomp_key: oomp_memory_nvram_mb85rs16
-  oomp_key_extra: oomp_symbol_memory_nvram_mb85rs16
-  oomp_key_full: oomp_symbol_memory_nvram_mb85rs16_5649c9
-  oomp_key_simple: memory_nvram_mb85rs16
+  md5: f3d29aacfeac6cb3e860bd43f2a60f95
+  md5_10: f3d29aacfe
+  md5_5: f3d29
+  md5_6: f3d29a
+  oomp_key: oomp_mb85rs16
+  oomp_key_extra: oomp_symbol_mb85rs16
+  oomp_key_full: oomp_symbol_mb85rs16_f3d29a
+  oomp_key_simple: mb85rs16
   owner_name: kicad
-  symbol_name: memory_nvram_mb85rs16
+  symbol_name: mb85rs16
 oomp_key: oomp_kicad_memory_nvram_mb85rs16
 oomp_key_simple: kicad_memory_nvram_mb85rs16
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_adum4160/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_adum4160/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_adum4160/working
-name: interface_usb_adum4160
+name: adum4160
 oomp:
   library_name: interface_usb
-  md5: b5855b7ae80459b5555cb3717b34ddb8
-  md5_10: b5855b7ae8
-  md5_5: b5855
-  md5_6: b5855b
-  oomp_key: oomp_interface_usb_adum4160
-  oomp_key_extra: oomp_symbol_interface_usb_adum4160
-  oomp_key_full: oomp_symbol_interface_usb_adum4160_b5855b
-  oomp_key_simple: interface_usb_adum4160
+  md5: 3034b6500777c04c115965c5d3f67cb2
+  md5_10: 3034b65007
+  md5_5: 3034b
+  md5_6: 3034b6
+  oomp_key: oomp_adum4160
+  oomp_key_extra: oomp_symbol_adum4160
+  oomp_key_full: oomp_symbol_adum4160_3034b6
+  oomp_key_simple: adum4160
   owner_name: kicad
-  symbol_name: interface_usb_adum4160
+  symbol_name: adum4160
 oomp_key: oomp_kicad_interface_usb_adum4160
 oomp_key_simple: kicad_interface_usb_adum4160
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

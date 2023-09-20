@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_lm35_neb/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_lm35_neb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_lm35_neb/working
-name: sensor_temperature_lm35_neb
+name: lm35_neb
 oomp:
   library_name: sensor_temperature
-  md5: 1939d54c59473f3b7cdbef71cc2b516a
-  md5_10: 1939d54c59
-  md5_5: 1939d
-  md5_6: 1939d5
-  oomp_key: oomp_sensor_temperature_lm35_neb
-  oomp_key_extra: oomp_symbol_sensor_temperature_lm35_neb
-  oomp_key_full: oomp_symbol_sensor_temperature_lm35_neb_1939d5
-  oomp_key_simple: sensor_temperature_lm35_neb
+  md5: 9f19848e8128eae3326f81a49e942314
+  md5_10: 9f19848e81
+  md5_5: 9f198
+  md5_6: 9f1984
+  oomp_key: oomp_lm35_neb
+  oomp_key_extra: oomp_symbol_lm35_neb
+  oomp_key_full: oomp_symbol_lm35_neb_9f1984
+  oomp_key_simple: lm35_neb
   owner_name: kicad
-  symbol_name: sensor_temperature_lm35_neb
+  symbol_name: lm35_neb
 oomp_key: oomp_kicad_sensor_temperature_lm35_neb
 oomp_key_simple: kicad_sensor_temperature_lm35_neb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

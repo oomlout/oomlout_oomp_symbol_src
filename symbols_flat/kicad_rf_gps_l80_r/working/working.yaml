@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_gps_l80_r/working
   oomp_src_flat: symbols_flat/kicad_rf_gps_l80_r/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_gps_l80_r/working
-name: rf_gps_l80_r
+name: l80_r
 oomp:
   library_name: rf_gps
-  md5: 0b380aef596988c577235f1f6c23a5f1
-  md5_10: 0b380aef59
-  md5_5: 0b380
-  md5_6: 0b380a
-  oomp_key: oomp_rf_gps_l80_r
-  oomp_key_extra: oomp_symbol_rf_gps_l80_r
-  oomp_key_full: oomp_symbol_rf_gps_l80_r_0b380a
-  oomp_key_simple: rf_gps_l80_r
+  md5: 019c5ed14bd5becf2c2a610110d8a270
+  md5_10: 019c5ed14b
+  md5_5: 019c5
+  md5_6: 019c5e
+  oomp_key: oomp_l80_r
+  oomp_key_extra: oomp_symbol_l80_r
+  oomp_key_full: oomp_symbol_l80_r_019c5e
+  oomp_key_simple: l80_r
   owner_name: kicad
-  symbol_name: rf_gps_l80_r
+  symbol_name: l80_r
 oomp_key: oomp_kicad_rf_gps_l80_r
 oomp_key_simple: kicad_rf_gps_l80_r
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_wurth_750319177/working
   oomp_src_flat: symbols_flat/kicad_transformer_wurth_750319177/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_wurth_750319177/working
-name: transformer_wurth_750319177
+name: wurth_750319177
 oomp:
   library_name: transformer
-  md5: 9d9c4daa1623f30db47dff14b09c641b
-  md5_10: 9d9c4daa16
-  md5_5: 9d9c4
-  md5_6: 9d9c4d
-  oomp_key: oomp_transformer_wurth_750319177
-  oomp_key_extra: oomp_symbol_transformer_wurth_750319177
-  oomp_key_full: oomp_symbol_transformer_wurth_750319177_9d9c4d
-  oomp_key_simple: transformer_wurth_750319177
+  md5: 78532d108bc35c5bca8a8beb0fbc8764
+  md5_10: 78532d108b
+  md5_5: '78532'
+  md5_6: 78532d
+  oomp_key: oomp_wurth_750319177
+  oomp_key_extra: oomp_symbol_wurth_750319177
+  oomp_key_full: oomp_symbol_wurth_750319177_78532d
+  oomp_key_simple: wurth_750319177
   owner_name: kicad
-  symbol_name: transformer_wurth_750319177
+  symbol_name: wurth_750319177
 oomp_key: oomp_kicad_transformer_wurth_750319177
 oomp_key_simple: kicad_transformer_wurth_750319177
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

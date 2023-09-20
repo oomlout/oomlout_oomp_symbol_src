@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_ts3a24159yzpr/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_ts3a24159yzpr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_ts3a24159yzpr/working
-name: analog_switch_ts3a24159yzpr
+name: ts3a24159yzpr
 oomp:
   library_name: analog_switch
-  md5: bb08cfd33685c21f7fd5d796286dc762
-  md5_10: bb08cfd336
-  md5_5: bb08c
-  md5_6: bb08cf
-  oomp_key: oomp_analog_switch_ts3a24159yzpr
-  oomp_key_extra: oomp_symbol_analog_switch_ts3a24159yzpr
-  oomp_key_full: oomp_symbol_analog_switch_ts3a24159yzpr_bb08cf
-  oomp_key_simple: analog_switch_ts3a24159yzpr
+  md5: 4b48c968e79a87f656a95d03d248bcc5
+  md5_10: 4b48c968e7
+  md5_5: 4b48c
+  md5_6: 4b48c9
+  oomp_key: oomp_ts3a24159yzpr
+  oomp_key_extra: oomp_symbol_ts3a24159yzpr
+  oomp_key_full: oomp_symbol_ts3a24159yzpr_4b48c9
+  oomp_key_simple: ts3a24159yzpr
   owner_name: kicad
-  symbol_name: analog_switch_ts3a24159yzpr
+  symbol_name: ts3a24159yzpr
 oomp_key: oomp_kicad_analog_switch_ts3a24159yzpr
 oomp_key_simple: kicad_analog_switch_ts3a24159yzpr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

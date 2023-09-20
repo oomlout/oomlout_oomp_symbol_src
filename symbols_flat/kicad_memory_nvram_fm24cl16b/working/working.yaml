@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_nvram_fm24cl16b/working
   oomp_src_flat: symbols_flat/kicad_memory_nvram_fm24cl16b/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_nvram_fm24cl16b/working
-name: memory_nvram_fm24cl16b
+name: fm24cl16b
 oomp:
   library_name: memory_nvram
-  md5: a93f67101415b1aa77dc1b7ef75575f0
-  md5_10: a93f671014
-  md5_5: a93f6
-  md5_6: a93f67
-  oomp_key: oomp_memory_nvram_fm24cl16b
-  oomp_key_extra: oomp_symbol_memory_nvram_fm24cl16b
-  oomp_key_full: oomp_symbol_memory_nvram_fm24cl16b_a93f67
-  oomp_key_simple: memory_nvram_fm24cl16b
+  md5: 2c8dcd4e0df507b8ac68b731ca486fe7
+  md5_10: 2c8dcd4e0d
+  md5_5: 2c8dc
+  md5_6: 2c8dcd
+  oomp_key: oomp_fm24cl16b
+  oomp_key_extra: oomp_symbol_fm24cl16b
+  oomp_key_full: oomp_symbol_fm24cl16b_2c8dcd
+  oomp_key_simple: fm24cl16b
   owner_name: kicad
-  symbol_name: memory_nvram_fm24cl16b
+  symbol_name: fm24cl16b
 oomp_key: oomp_kicad_memory_nvram_fm24cl16b
 oomp_key_simple: kicad_memory_nvram_fm24cl16b
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

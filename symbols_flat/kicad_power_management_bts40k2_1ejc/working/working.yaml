@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_bts40k2_1ejc/working
   oomp_src_flat: symbols_flat/kicad_power_management_bts40k2_1ejc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_bts40k2_1ejc/working
-name: power_management_bts40k2_1ejc
+name: bts40k2_1ejc
 oomp:
   library_name: power_management
-  md5: 2ab9a1e37ddba74b66c4c15e59619f23
-  md5_10: 2ab9a1e37d
-  md5_5: 2ab9a
-  md5_6: 2ab9a1
-  oomp_key: oomp_power_management_bts40k2_1ejc
-  oomp_key_extra: oomp_symbol_power_management_bts40k2_1ejc
-  oomp_key_full: oomp_symbol_power_management_bts40k2_1ejc_2ab9a1
-  oomp_key_simple: power_management_bts40k2_1ejc
+  md5: 586715dfa6fab56f259fabf78615b7a1
+  md5_10: 586715dfa6
+  md5_5: '58671'
+  md5_6: '586715'
+  oomp_key: oomp_bts40k2_1ejc
+  oomp_key_extra: oomp_symbol_bts40k2_1ejc
+  oomp_key_full: oomp_symbol_bts40k2_1ejc_586715
+  oomp_key_simple: bts40k2_1ejc
   owner_name: kicad
-  symbol_name: power_management_bts40k2_1ejc
+  symbol_name: bts40k2_1ejc
 oomp_key: oomp_kicad_power_management_bts40k2_1ejc
 oomp_key_simple: kicad_power_management_bts40k2_1ejc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_zigbee_twe_l_dp_w/working
   oomp_src_flat: symbols_flat/kicad_rf_zigbee_twe_l_dp_w/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_zigbee_twe_l_dp_w/working
-name: rf_zigbee_twe_l_dp_w
+name: twe_l_dp_w
 oomp:
   library_name: rf_zigbee
-  md5: e45e2b35ccea2acc898810855f120ae5
-  md5_10: e45e2b35cc
-  md5_5: e45e2
-  md5_6: e45e2b
-  oomp_key: oomp_rf_zigbee_twe_l_dp_w
-  oomp_key_extra: oomp_symbol_rf_zigbee_twe_l_dp_w
-  oomp_key_full: oomp_symbol_rf_zigbee_twe_l_dp_w_e45e2b
-  oomp_key_simple: rf_zigbee_twe_l_dp_w
+  md5: 8e6c664b3f7fea27d054e2cd9655a054
+  md5_10: 8e6c664b3f
+  md5_5: 8e6c6
+  md5_6: 8e6c66
+  oomp_key: oomp_twe_l_dp_w
+  oomp_key_extra: oomp_symbol_twe_l_dp_w
+  oomp_key_full: oomp_symbol_twe_l_dp_w_8e6c66
+  oomp_key_simple: twe_l_dp_w
   owner_name: kicad
-  symbol_name: rf_zigbee_twe_l_dp_w
+  symbol_name: twe_l_dp_w
 oomp_key: oomp_kicad_rf_zigbee_twe_l_dp_w
 oomp_key_simple: kicad_rf_zigbee_twe_l_dp_w
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

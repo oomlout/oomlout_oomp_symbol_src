@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_tlc59108xpw/working
   oomp_src_flat: symbols_flat/kicad_driver_led_tlc59108xpw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_tlc59108xpw/working
-name: driver_led_tlc59108xpw
+name: tlc59108xpw
 oomp:
   library_name: driver_led
-  md5: e63dc9013cc3cf76ad364dac611bef0d
-  md5_10: e63dc9013c
-  md5_5: e63dc
-  md5_6: e63dc9
-  oomp_key: oomp_driver_led_tlc59108xpw
-  oomp_key_extra: oomp_symbol_driver_led_tlc59108xpw
-  oomp_key_full: oomp_symbol_driver_led_tlc59108xpw_e63dc9
-  oomp_key_simple: driver_led_tlc59108xpw
+  md5: a5bfe854f680e0e4039428f8becc4a35
+  md5_10: a5bfe854f6
+  md5_5: a5bfe
+  md5_6: a5bfe8
+  oomp_key: oomp_tlc59108xpw
+  oomp_key_extra: oomp_symbol_tlc59108xpw
+  oomp_key_full: oomp_symbol_tlc59108xpw_a5bfe8
+  oomp_key_simple: tlc59108xpw
   owner_name: kicad
-  symbol_name: driver_led_tlc59108xpw
+  symbol_name: tlc59108xpw
 oomp_key: oomp_kicad_driver_led_tlc59108xpw
 oomp_key_simple: kicad_driver_led_tlc59108xpw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

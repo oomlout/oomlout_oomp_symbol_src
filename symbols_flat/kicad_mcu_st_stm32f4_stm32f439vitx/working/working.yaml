@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f4_stm32f439vitx
 library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
-name: mcu_st_stm32f4_stm32f439vitx
+name: stm32f439vitx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: e271c2277c1121e432f04e56a9454aba
-  md5_10: e271c2277c
-  md5_5: e271c
-  md5_6: e271c2
-  oomp_key: oomp_mcu_st_stm32f4_stm32f439vitx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f439vitx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f439vitx_e271c2
-  oomp_key_simple: mcu_st_stm32f4_stm32f439vitx
+  md5: 835ae3b77a962af671a03af651403b62
+  md5_10: 835ae3b77a
+  md5_5: 835ae
+  md5_6: 835ae3
+  oomp_key: oomp_stm32f439vitx
+  oomp_key_extra: oomp_symbol_stm32f439vitx
+  oomp_key_full: oomp_symbol_stm32f439vitx_835ae3
+  oomp_key_simple: stm32f439vitx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f439vitx
+  symbol_name: stm32f439vitx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_ds18b20u/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_ds18b20u/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_ds18b20u/working
-name: sensor_temperature_ds18b20u
+name: ds18b20u
 oomp:
   library_name: sensor_temperature
-  md5: 710372425983637882b3c68b00b9f40b
-  md5_10: '7103724259'
-  md5_5: '71037'
-  md5_6: '710372'
-  oomp_key: oomp_sensor_temperature_ds18b20u
-  oomp_key_extra: oomp_symbol_sensor_temperature_ds18b20u
-  oomp_key_full: oomp_symbol_sensor_temperature_ds18b20u_710372
-  oomp_key_simple: sensor_temperature_ds18b20u
+  md5: f91af6b368a48121cc074a54c79db9c0
+  md5_10: f91af6b368
+  md5_5: f91af
+  md5_6: f91af6
+  oomp_key: oomp_ds18b20u
+  oomp_key_extra: oomp_symbol_ds18b20u
+  oomp_key_full: oomp_symbol_ds18b20u_f91af6
+  oomp_key_simple: ds18b20u
   owner_name: kicad
-  symbol_name: sensor_temperature_ds18b20u
+  symbol_name: ds18b20u
 oomp_key: oomp_kicad_sensor_temperature_ds18b20u
 oomp_key_simple: kicad_sensor_temperature_ds18b20u
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

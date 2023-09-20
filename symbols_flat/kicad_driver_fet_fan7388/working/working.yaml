@@ -1,19 +1,19 @@
 id: kicad_driver_fet_fan7388
 library: driver_fet
 library_name: Driver_FET
-name: driver_fet_fan7388
+name: fan7388
 oomp:
   library_name: driver_fet
-  md5: c270232f574b9c965f256c095c3684be
-  md5_10: c270232f57
-  md5_5: c2702
-  md5_6: c27023
-  oomp_key: oomp_driver_fet_fan7388
-  oomp_key_extra: oomp_symbol_driver_fet_fan7388
-  oomp_key_full: oomp_symbol_driver_fet_fan7388_c27023
-  oomp_key_simple: driver_fet_fan7388
+  md5: 8facdd65abfc73b683492b158fccddc3
+  md5_10: 8facdd65ab
+  md5_5: 8facd
+  md5_6: 8facdd
+  oomp_key: oomp_fan7388
+  oomp_key_extra: oomp_symbol_fan7388
+  oomp_key_full: oomp_symbol_fan7388_8facdd
+  oomp_key_simple: fan7388
   owner_name: kicad
-  symbol_name: driver_fet_fan7388
+  symbol_name: fan7388
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

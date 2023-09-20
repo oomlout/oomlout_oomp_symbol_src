@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_de9_receptacle/working
   oomp_src_flat: symbols_flat/kicad_connector_de9_receptacle/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_de9_receptacle/working
-name: connector_de9_receptacle
+name: de9_receptacle
 oomp:
   library_name: connector
-  md5: 41a4b632010410ec6c4bbc5d4e25dc94
-  md5_10: 41a4b63201
-  md5_5: 41a4b
-  md5_6: 41a4b6
-  oomp_key: oomp_connector_de9_receptacle
-  oomp_key_extra: oomp_symbol_connector_de9_receptacle
-  oomp_key_full: oomp_symbol_connector_de9_receptacle_41a4b6
-  oomp_key_simple: connector_de9_receptacle
+  md5: d24b1c693c1eb315c14826bb0dc3ddf2
+  md5_10: d24b1c693c
+  md5_5: d24b1
+  md5_6: d24b1c
+  oomp_key: oomp_de9_receptacle
+  oomp_key_extra: oomp_symbol_de9_receptacle
+  oomp_key_full: oomp_symbol_de9_receptacle_d24b1c
+  oomp_key_simple: de9_receptacle
   owner_name: kicad
-  symbol_name: connector_de9_receptacle
+  symbol_name: de9_receptacle
 oomp_key: oomp_kicad_connector_de9_receptacle
 oomp_key_simple: kicad_connector_de9_receptacle
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

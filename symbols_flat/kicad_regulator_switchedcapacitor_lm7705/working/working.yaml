@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switchedcapacitor_lm7705/working
   oomp_src_flat: symbols_flat/kicad_regulator_switchedcapacitor_lm7705/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switchedcapacitor_lm7705/working
-name: regulator_switchedcapacitor_lm7705
+name: lm7705
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: fbb8d92ea03f586694e1e50e3d427892
-  md5_10: fbb8d92ea0
-  md5_5: fbb8d
-  md5_6: fbb8d9
-  oomp_key: oomp_regulator_switchedcapacitor_lm7705
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_lm7705
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_lm7705_fbb8d9
-  oomp_key_simple: regulator_switchedcapacitor_lm7705
+  md5: 5e60b0852bf371c50e395bfabfc3ae25
+  md5_10: 5e60b0852b
+  md5_5: 5e60b
+  md5_6: 5e60b0
+  oomp_key: oomp_lm7705
+  oomp_key_extra: oomp_symbol_lm7705
+  oomp_key_full: oomp_symbol_lm7705_5e60b0
+  oomp_key_simple: lm7705
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_lm7705
+  symbol_name: lm7705
 oomp_key: oomp_kicad_regulator_switchedcapacitor_lm7705
 oomp_key_simple: kicad_regulator_switchedcapacitor_lm7705
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

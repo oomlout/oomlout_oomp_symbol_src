@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_mv317/working
   oomp_src_flat: symbols_flat/kicad_oscillator_mv317/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_mv317/working
-name: oscillator_mv317
+name: mv317
 oomp:
   library_name: oscillator
-  md5: a14011e53f54d12eb9aac6225a1d1a68
-  md5_10: a14011e53f
-  md5_5: a1401
-  md5_6: a14011
-  oomp_key: oomp_oscillator_mv317
-  oomp_key_extra: oomp_symbol_oscillator_mv317
-  oomp_key_full: oomp_symbol_oscillator_mv317_a14011
-  oomp_key_simple: oscillator_mv317
+  md5: 335154f8670a5e6a71f2f4fe3d0d1960
+  md5_10: 335154f867
+  md5_5: '33515'
+  md5_6: '335154'
+  oomp_key: oomp_mv317
+  oomp_key_extra: oomp_symbol_mv317
+  oomp_key_full: oomp_symbol_mv317_335154
+  oomp_key_simple: mv317
   owner_name: kicad
-  symbol_name: oscillator_mv317
+  symbol_name: mv317
 oomp_key: oomp_kicad_oscillator_mv317
 oomp_key_simple: kicad_oscillator_mv317
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

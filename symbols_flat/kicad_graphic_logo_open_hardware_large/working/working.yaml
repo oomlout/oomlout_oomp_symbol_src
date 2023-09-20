@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_graphic_logo_open_hardware_large/working
   oomp_src_flat: symbols_flat/kicad_graphic_logo_open_hardware_large/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_graphic_logo_open_hardware_large/working
-name: graphic_logo_open_hardware_large
+name: logo_open_hardware_large
 oomp:
   library_name: graphic
-  md5: a6b4b3778b9139298e7aea8cca04219f
-  md5_10: a6b4b3778b
-  md5_5: a6b4b
-  md5_6: a6b4b3
-  oomp_key: oomp_graphic_logo_open_hardware_large
-  oomp_key_extra: oomp_symbol_graphic_logo_open_hardware_large
-  oomp_key_full: oomp_symbol_graphic_logo_open_hardware_large_a6b4b3
-  oomp_key_simple: graphic_logo_open_hardware_large
+  md5: 3b037fc61c23e207332652b77b96d058
+  md5_10: 3b037fc61c
+  md5_5: 3b037
+  md5_6: 3b037f
+  oomp_key: oomp_logo_open_hardware_large
+  oomp_key_extra: oomp_symbol_logo_open_hardware_large
+  oomp_key_full: oomp_symbol_logo_open_hardware_large_3b037f
+  oomp_key_simple: logo_open_hardware_large
   owner_name: kicad
-  symbol_name: graphic_logo_open_hardware_large
+  symbol_name: logo_open_hardware_large
 oomp_key: oomp_kicad_graphic_logo_open_hardware_large
 oomp_key_simple: kicad_graphic_logo_open_hardware_large
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

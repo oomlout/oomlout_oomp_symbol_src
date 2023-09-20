@@ -1,19 +1,19 @@
 id: kicad_interface_can_lin_mcp2561_h_sn
 library: interface_can_lin
 library_name: Interface_CAN_LIN
-name: interface_can_lin_mcp2561_h_sn
+name: mcp2561_h_sn
 oomp:
   library_name: interface_can_lin
-  md5: b8f737e1ba4bd0d5bd44e65ce7158d7b
-  md5_10: b8f737e1ba
-  md5_5: b8f73
-  md5_6: b8f737
-  oomp_key: oomp_interface_can_lin_mcp2561_h_sn
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2561_h_sn
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2561_h_sn_b8f737
-  oomp_key_simple: interface_can_lin_mcp2561_h_sn
+  md5: 1e5957bed6c3cd62e97bdddd45c38cdf
+  md5_10: 1e5957bed6
+  md5_5: 1e595
+  md5_6: 1e5957
+  oomp_key: oomp_mcp2561_h_sn
+  oomp_key_extra: oomp_symbol_mcp2561_h_sn
+  oomp_key_full: oomp_symbol_mcp2561_h_sn_1e5957
+  oomp_key_simple: mcp2561_h_sn
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2561_h_sn
+  symbol_name: mcp2561_h_sn
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

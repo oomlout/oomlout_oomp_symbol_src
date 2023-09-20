@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_tpa5050/working
   oomp_src_flat: symbols_flat/kicad_audio_tpa5050/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_tpa5050/working
-name: audio_tpa5050
+name: tpa5050
 oomp:
   library_name: audio
-  md5: f32bcab253467c9977db16ab9af2f044
-  md5_10: f32bcab253
-  md5_5: f32bc
-  md5_6: f32bca
-  oomp_key: oomp_audio_tpa5050
-  oomp_key_extra: oomp_symbol_audio_tpa5050
-  oomp_key_full: oomp_symbol_audio_tpa5050_f32bca
-  oomp_key_simple: audio_tpa5050
+  md5: 59443d8d6e751ef4878f94ea419ba550
+  md5_10: 59443d8d6e
+  md5_5: '59443'
+  md5_6: 59443d
+  oomp_key: oomp_tpa5050
+  oomp_key_extra: oomp_symbol_tpa5050
+  oomp_key_full: oomp_symbol_tpa5050_59443d
+  oomp_key_simple: tpa5050
   owner_name: kicad
-  symbol_name: audio_tpa5050
+  symbol_name: tpa5050
 oomp_key: oomp_kicad_audio_tpa5050
 oomp_key_simple: kicad_audio_tpa5050
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

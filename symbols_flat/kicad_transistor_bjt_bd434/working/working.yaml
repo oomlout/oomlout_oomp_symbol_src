@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_bd434/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_bd434/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_bd434/working
-name: transistor_bjt_bd434
+name: bd434
 oomp:
   library_name: transistor_bjt
-  md5: 48d10ca89ff2e92ba978d037719facbf
-  md5_10: 48d10ca89f
-  md5_5: 48d10
-  md5_6: 48d10c
-  oomp_key: oomp_transistor_bjt_bd434
-  oomp_key_extra: oomp_symbol_transistor_bjt_bd434
-  oomp_key_full: oomp_symbol_transistor_bjt_bd434_48d10c
-  oomp_key_simple: transistor_bjt_bd434
+  md5: 896ef2af76fd44c4f30847d422f48508
+  md5_10: 896ef2af76
+  md5_5: 896ef
+  md5_6: 896ef2
+  oomp_key: oomp_bd434
+  oomp_key_extra: oomp_symbol_bd434
+  oomp_key_full: oomp_symbol_bd434_896ef2
+  oomp_key_simple: bd434
   owner_name: kicad
-  symbol_name: transistor_bjt_bd434
+  symbol_name: bd434
 oomp_key: oomp_kicad_transistor_bjt_bd434
 oomp_key_simple: kicad_transistor_bjt_bd434
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_dtc114t/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_dtc114t/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_dtc114t/working
-name: transistor_bjt_dtc114t
+name: dtc114t
 oomp:
   library_name: transistor_bjt
-  md5: 09ff04b8ed8557557cc6f499b2fd0266
-  md5_10: 09ff04b8ed
-  md5_5: 09ff0
-  md5_6: 09ff04
-  oomp_key: oomp_transistor_bjt_dtc114t
-  oomp_key_extra: oomp_symbol_transistor_bjt_dtc114t
-  oomp_key_full: oomp_symbol_transistor_bjt_dtc114t_09ff04
-  oomp_key_simple: transistor_bjt_dtc114t
+  md5: 55148d7cb92594e1a26b889520da2088
+  md5_10: 55148d7cb9
+  md5_5: '55148'
+  md5_6: 55148d
+  oomp_key: oomp_dtc114t
+  oomp_key_extra: oomp_symbol_dtc114t
+  oomp_key_full: oomp_symbol_dtc114t_55148d
+  oomp_key_simple: dtc114t
   owner_name: kicad
-  symbol_name: transistor_bjt_dtc114t
+  symbol_name: dtc114t
 oomp_key: oomp_kicad_transistor_bjt_dtc114t
 oomp_key_simple: kicad_transistor_bjt_dtc114t
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_dio5661cd6/working
   oomp_src_flat: symbols_flat/kicad_driver_led_dio5661cd6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_dio5661cd6/working
-name: driver_led_dio5661cd6
+name: dio5661cd6
 oomp:
   library_name: driver_led
-  md5: 71dd981905607e4d377c050d7b4cba03
-  md5_10: 71dd981905
-  md5_5: 71dd9
-  md5_6: 71dd98
-  oomp_key: oomp_driver_led_dio5661cd6
-  oomp_key_extra: oomp_symbol_driver_led_dio5661cd6
-  oomp_key_full: oomp_symbol_driver_led_dio5661cd6_71dd98
-  oomp_key_simple: driver_led_dio5661cd6
+  md5: 97a58a82a9c3597c4ed7029d8c007ffc
+  md5_10: 97a58a82a9
+  md5_5: 97a58
+  md5_6: 97a58a
+  oomp_key: oomp_dio5661cd6
+  oomp_key_extra: oomp_symbol_dio5661cd6
+  oomp_key_full: oomp_symbol_dio5661cd6_97a58a
+  oomp_key_simple: dio5661cd6
   owner_name: kicad
-  symbol_name: driver_led_dio5661cd6
+  symbol_name: dio5661cd6
 oomp_key: oomp_kicad_driver_led_dio5661cd6
 oomp_key_simple: kicad_driver_led_dio5661cd6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

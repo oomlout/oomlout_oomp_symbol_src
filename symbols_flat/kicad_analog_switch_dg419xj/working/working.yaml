@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_dg419xj/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_dg419xj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_dg419xj/working
-name: analog_switch_dg419xj
+name: dg419xj
 oomp:
   library_name: analog_switch
-  md5: e24083c0ba366d1598cfe46618fefdd0
-  md5_10: e24083c0ba
-  md5_5: e2408
-  md5_6: e24083
-  oomp_key: oomp_analog_switch_dg419xj
-  oomp_key_extra: oomp_symbol_analog_switch_dg419xj
-  oomp_key_full: oomp_symbol_analog_switch_dg419xj_e24083
-  oomp_key_simple: analog_switch_dg419xj
+  md5: 20f1cd90be1be1194695a176a1a19af8
+  md5_10: 20f1cd90be
+  md5_5: 20f1c
+  md5_6: 20f1cd
+  oomp_key: oomp_dg419xj
+  oomp_key_extra: oomp_symbol_dg419xj
+  oomp_key_full: oomp_symbol_dg419xj_20f1cd
+  oomp_key_simple: dg419xj
   owner_name: kicad
-  symbol_name: analog_switch_dg419xj
+  symbol_name: dg419xj
 oomp_key: oomp_kicad_analog_switch_dg419xj
 oomp_key_simple: kicad_analog_switch_dg419xj
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

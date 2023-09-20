@@ -1,19 +1,19 @@
 id: kicad_amplifier_difference_ina105ku
 library: amplifier_difference
 library_name: Amplifier_Difference
-name: amplifier_difference_ina105ku
+name: ina105ku
 oomp:
   library_name: amplifier_difference
-  md5: 0ee211a4ad58d3e9197af659cc752edd
-  md5_10: 0ee211a4ad
-  md5_5: 0ee21
-  md5_6: 0ee211
-  oomp_key: oomp_amplifier_difference_ina105ku
-  oomp_key_extra: oomp_symbol_amplifier_difference_ina105ku
-  oomp_key_full: oomp_symbol_amplifier_difference_ina105ku_0ee211
-  oomp_key_simple: amplifier_difference_ina105ku
+  md5: a5ccda253ab8e40827370485d49e9976
+  md5_10: a5ccda253a
+  md5_5: a5ccd
+  md5_6: a5ccda
+  oomp_key: oomp_ina105ku
+  oomp_key_extra: oomp_symbol_ina105ku
+  oomp_key_full: oomp_symbol_ina105ku_a5ccda
+  oomp_key_simple: ina105ku
   owner_name: kicad
-  symbol_name: amplifier_difference_ina105ku
+  symbol_name: ina105ku
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

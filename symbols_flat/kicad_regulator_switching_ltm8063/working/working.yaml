@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ltm8063/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ltm8063/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ltm8063/working
-name: regulator_switching_ltm8063
+name: ltm8063
 oomp:
   library_name: regulator_switching
-  md5: 947dfccfbfe0225d4487ffaec9e7e6a2
-  md5_10: 947dfccfbf
-  md5_5: 947df
-  md5_6: 947dfc
-  oomp_key: oomp_regulator_switching_ltm8063
-  oomp_key_extra: oomp_symbol_regulator_switching_ltm8063
-  oomp_key_full: oomp_symbol_regulator_switching_ltm8063_947dfc
-  oomp_key_simple: regulator_switching_ltm8063
+  md5: 49e244ff9a419af081b46cfbc7f5776a
+  md5_10: 49e244ff9a
+  md5_5: 49e24
+  md5_6: 49e244
+  oomp_key: oomp_ltm8063
+  oomp_key_extra: oomp_symbol_ltm8063
+  oomp_key_full: oomp_symbol_ltm8063_49e244
+  oomp_key_simple: ltm8063
   owner_name: kicad
-  symbol_name: regulator_switching_ltm8063
+  symbol_name: ltm8063
 oomp_key: oomp_kicad_regulator_switching_ltm8063
 oomp_key_simple: kicad_regulator_switching_ltm8063
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

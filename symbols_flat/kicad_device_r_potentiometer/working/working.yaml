@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_potentiometer/working
   oomp_src_flat: symbols_flat/kicad_device_r_potentiometer/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_potentiometer/working
-name: device_r_potentiometer
+name: r_potentiometer
 oomp:
   library_name: device
-  md5: da6a81e62277f221067d7f39ed8dbe33
-  md5_10: da6a81e622
-  md5_5: da6a8
-  md5_6: da6a81
-  oomp_key: oomp_device_r_potentiometer
-  oomp_key_extra: oomp_symbol_device_r_potentiometer
-  oomp_key_full: oomp_symbol_device_r_potentiometer_da6a81
-  oomp_key_simple: device_r_potentiometer
+  md5: 23afca4bb8ae4372c81fd9cd131b5944
+  md5_10: 23afca4bb8
+  md5_5: 23afc
+  md5_6: 23afca
+  oomp_key: oomp_r_potentiometer
+  oomp_key_extra: oomp_symbol_r_potentiometer
+  oomp_key_full: oomp_symbol_r_potentiometer_23afca
+  oomp_key_simple: r_potentiometer
   owner_name: kicad
-  symbol_name: device_r_potentiometer
+  symbol_name: r_potentiometer
 oomp_key: oomp_kicad_device_r_potentiometer
 oomp_key_simple: kicad_device_r_potentiometer
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

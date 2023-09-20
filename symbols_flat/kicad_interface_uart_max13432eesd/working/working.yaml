@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_max13432eesd/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_max13432eesd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_max13432eesd/working
-name: interface_uart_max13432eesd
+name: max13432eesd
 oomp:
   library_name: interface_uart
-  md5: 70f50fe49f1e41fbb91ac8f41a143628
-  md5_10: 70f50fe49f
-  md5_5: 70f50
-  md5_6: 70f50f
-  oomp_key: oomp_interface_uart_max13432eesd
-  oomp_key_extra: oomp_symbol_interface_uart_max13432eesd
-  oomp_key_full: oomp_symbol_interface_uart_max13432eesd_70f50f
-  oomp_key_simple: interface_uart_max13432eesd
+  md5: bd5d665e4092925c17d3d270b0871e9a
+  md5_10: bd5d665e40
+  md5_5: bd5d6
+  md5_6: bd5d66
+  oomp_key: oomp_max13432eesd
+  oomp_key_extra: oomp_symbol_max13432eesd
+  oomp_key_full: oomp_symbol_max13432eesd_bd5d66
+  oomp_key_simple: max13432eesd
   owner_name: kicad
-  symbol_name: interface_uart_max13432eesd
+  symbol_name: max13432eesd
 oomp_key: oomp_kicad_interface_uart_max13432eesd
 oomp_key_simple: kicad_interface_uart_max13432eesd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

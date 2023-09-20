@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_ibis_driver/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_ibis_driver/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_ibis_driver/working
-name: simulation_spice_ibis_driver
+name: ibis_driver
 oomp:
   library_name: simulation_spice
-  md5: c7172fcfded8e32c0b9aa54f9380d6da
-  md5_10: c7172fcfde
-  md5_5: c7172
-  md5_6: c7172f
-  oomp_key: oomp_simulation_spice_ibis_driver
-  oomp_key_extra: oomp_symbol_simulation_spice_ibis_driver
-  oomp_key_full: oomp_symbol_simulation_spice_ibis_driver_c7172f
-  oomp_key_simple: simulation_spice_ibis_driver
+  md5: 5a232605e5f991ae93c55921e4c1577c
+  md5_10: 5a232605e5
+  md5_5: 5a232
+  md5_6: 5a2326
+  oomp_key: oomp_ibis_driver
+  oomp_key_extra: oomp_symbol_ibis_driver
+  oomp_key_full: oomp_symbol_ibis_driver_5a2326
+  oomp_key_simple: ibis_driver
   owner_name: kicad
-  symbol_name: simulation_spice_ibis_driver
+  symbol_name: ibis_driver
 oomp_key: oomp_kicad_simulation_spice_ibis_driver
 oomp_key_simple: kicad_simulation_spice_ibis_driver
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

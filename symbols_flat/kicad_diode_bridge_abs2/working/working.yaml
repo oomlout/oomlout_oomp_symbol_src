@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bridge_abs2/working
   oomp_src_flat: symbols_flat/kicad_diode_bridge_abs2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bridge_abs2/working
-name: diode_bridge_abs2
+name: abs2
 oomp:
   library_name: diode_bridge
-  md5: f59ea5349825cb820346edb080784eca
-  md5_10: f59ea53498
-  md5_5: f59ea
-  md5_6: f59ea5
-  oomp_key: oomp_diode_bridge_abs2
-  oomp_key_extra: oomp_symbol_diode_bridge_abs2
-  oomp_key_full: oomp_symbol_diode_bridge_abs2_f59ea5
-  oomp_key_simple: diode_bridge_abs2
+  md5: ed6db757d3f4ba8f472419d4ccb0aae4
+  md5_10: ed6db757d3
+  md5_5: ed6db
+  md5_6: ed6db7
+  oomp_key: oomp_abs2
+  oomp_key_extra: oomp_symbol_abs2
+  oomp_key_full: oomp_symbol_abs2_ed6db7
+  oomp_key_simple: abs2
   owner_name: kicad
-  symbol_name: diode_bridge_abs2
+  symbol_name: abs2
 oomp_key: oomp_kicad_diode_bridge_abs2
 oomp_key_simple: kicad_diode_bridge_abs2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

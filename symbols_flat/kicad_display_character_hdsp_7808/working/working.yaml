@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_hdsp_7808/working
   oomp_src_flat: symbols_flat/kicad_display_character_hdsp_7808/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_hdsp_7808/working
-name: display_character_hdsp_7808
+name: hdsp_7808
 oomp:
   library_name: display_character
-  md5: 986588bc7f245513a59b5c6639010026
-  md5_10: 986588bc7f
-  md5_5: '98658'
-  md5_6: '986588'
-  oomp_key: oomp_display_character_hdsp_7808
-  oomp_key_extra: oomp_symbol_display_character_hdsp_7808
-  oomp_key_full: oomp_symbol_display_character_hdsp_7808_986588
-  oomp_key_simple: display_character_hdsp_7808
+  md5: 2224c8665d954d386cd1c6bf5f4cdc1b
+  md5_10: 2224c8665d
+  md5_5: 2224c
+  md5_6: 2224c8
+  oomp_key: oomp_hdsp_7808
+  oomp_key_extra: oomp_symbol_hdsp_7808
+  oomp_key_full: oomp_symbol_hdsp_7808_2224c8
+  oomp_key_simple: hdsp_7808
   owner_name: kicad
-  symbol_name: display_character_hdsp_7808
+  symbol_name: hdsp_7808
 oomp_key: oomp_kicad_display_character_hdsp_7808
 oomp_key_simple: kicad_display_character_hdsp_7808
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

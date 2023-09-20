@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ca3300/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ca3300/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ca3300/working
-name: analog_adc_ca3300
+name: ca3300
 oomp:
   library_name: analog_adc
-  md5: dd806987063bbf381760d282c23b75d1
-  md5_10: dd80698706
-  md5_5: dd806
-  md5_6: dd8069
-  oomp_key: oomp_analog_adc_ca3300
-  oomp_key_extra: oomp_symbol_analog_adc_ca3300
-  oomp_key_full: oomp_symbol_analog_adc_ca3300_dd8069
-  oomp_key_simple: analog_adc_ca3300
+  md5: c7a3532c3bd5c19c0a3cbf4682b2fd98
+  md5_10: c7a3532c3b
+  md5_5: c7a35
+  md5_6: c7a353
+  oomp_key: oomp_ca3300
+  oomp_key_extra: oomp_symbol_ca3300
+  oomp_key_full: oomp_symbol_ca3300_c7a353
+  oomp_key_simple: ca3300
   owner_name: kicad
-  symbol_name: analog_adc_ca3300
+  symbol_name: ca3300
 oomp_key: oomp_kicad_analog_adc_ca3300
 oomp_key_simple: kicad_analog_adc_ca3300
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_bcv62/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_bcv62/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_bcv62/working
-name: transistor_bjt_bcv62
+name: bcv62
 oomp:
   library_name: transistor_bjt
-  md5: 9406a3abe902103b9a84a6df48434cb2
-  md5_10: 9406a3abe9
-  md5_5: 9406a
-  md5_6: 9406a3
-  oomp_key: oomp_transistor_bjt_bcv62
-  oomp_key_extra: oomp_symbol_transistor_bjt_bcv62
-  oomp_key_full: oomp_symbol_transistor_bjt_bcv62_9406a3
-  oomp_key_simple: transistor_bjt_bcv62
+  md5: 9db178b6fe56d7a8b0c920817fb4c113
+  md5_10: 9db178b6fe
+  md5_5: 9db17
+  md5_6: 9db178
+  oomp_key: oomp_bcv62
+  oomp_key_extra: oomp_symbol_bcv62
+  oomp_key_full: oomp_symbol_bcv62_9db178
+  oomp_key_simple: bcv62
   owner_name: kicad
-  symbol_name: transistor_bjt_bcv62
+  symbol_name: bcv62
 oomp_key: oomp_kicad_transistor_bjt_bcv62
 oomp_key_simple: kicad_transistor_bjt_bcv62
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

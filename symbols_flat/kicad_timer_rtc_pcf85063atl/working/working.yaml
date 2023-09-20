@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_rtc_pcf85063atl/working
   oomp_src_flat: symbols_flat/kicad_timer_rtc_pcf85063atl/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_rtc_pcf85063atl/working
-name: timer_rtc_pcf85063atl
+name: pcf85063atl
 oomp:
   library_name: timer_rtc
-  md5: 1ad477d516b813e2ad597c5b9afe7871
-  md5_10: 1ad477d516
-  md5_5: 1ad47
-  md5_6: 1ad477
-  oomp_key: oomp_timer_rtc_pcf85063atl
-  oomp_key_extra: oomp_symbol_timer_rtc_pcf85063atl
-  oomp_key_full: oomp_symbol_timer_rtc_pcf85063atl_1ad477
-  oomp_key_simple: timer_rtc_pcf85063atl
+  md5: 2b121b80c59f6bd6e2af38c886adfb30
+  md5_10: 2b121b80c5
+  md5_5: 2b121
+  md5_6: 2b121b
+  oomp_key: oomp_pcf85063atl
+  oomp_key_extra: oomp_symbol_pcf85063atl
+  oomp_key_full: oomp_symbol_pcf85063atl_2b121b
+  oomp_key_simple: pcf85063atl
   owner_name: kicad
-  symbol_name: timer_rtc_pcf85063atl
+  symbol_name: pcf85063atl
 oomp_key: oomp_kicad_timer_rtc_pcf85063atl
 oomp_key_simple: kicad_timer_rtc_pcf85063atl
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_stk672_080_e/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_stk672_080_e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_stk672_080_e/working
-name: driver_motor_stk672_080_e
+name: stk672_080_e
 oomp:
   library_name: driver_motor
-  md5: 715e4ad995124578903275e8d399b723
-  md5_10: 715e4ad995
-  md5_5: 715e4
-  md5_6: 715e4a
-  oomp_key: oomp_driver_motor_stk672_080_e
-  oomp_key_extra: oomp_symbol_driver_motor_stk672_080_e
-  oomp_key_full: oomp_symbol_driver_motor_stk672_080_e_715e4a
-  oomp_key_simple: driver_motor_stk672_080_e
+  md5: 1591fc0fe88c3207d5d1eb5afa39a82d
+  md5_10: 1591fc0fe8
+  md5_5: 1591f
+  md5_6: 1591fc
+  oomp_key: oomp_stk672_080_e
+  oomp_key_extra: oomp_symbol_stk672_080_e
+  oomp_key_full: oomp_symbol_stk672_080_e_1591fc
+  oomp_key_simple: stk672_080_e
   owner_name: kicad
-  symbol_name: driver_motor_stk672_080_e
+  symbol_name: stk672_080_e
 oomp_key: oomp_kicad_driver_motor_stk672_080_e
 oomp_key_simple: kicad_driver_motor_stk672_080_e
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_driver_fet_ltc4440is6
 library: driver_fet
 library_name: Driver_FET
-name: driver_fet_ltc4440is6
+name: ltc4440is6
 oomp:
   library_name: driver_fet
-  md5: f6be78cf0d28af28616bee54749da948
-  md5_10: f6be78cf0d
-  md5_5: f6be7
-  md5_6: f6be78
-  oomp_key: oomp_driver_fet_ltc4440is6
-  oomp_key_extra: oomp_symbol_driver_fet_ltc4440is6
-  oomp_key_full: oomp_symbol_driver_fet_ltc4440is6_f6be78
-  oomp_key_simple: driver_fet_ltc4440is6
+  md5: 8b049781c070e8ab09d76db5c087e36a
+  md5_10: 8b049781c0
+  md5_5: 8b049
+  md5_6: 8b0497
+  oomp_key: oomp_ltc4440is6
+  oomp_key_extra: oomp_symbol_ltc4440is6
+  oomp_key_full: oomp_symbol_ltc4440is6_8b0497
+  oomp_key_simple: ltc4440is6
   owner_name: kicad
-  symbol_name: driver_fet_ltc4440is6
+  symbol_name: ltc4440is6
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_diode_stbr3012wy
 library: diode
 library_name: Diode
-name: diode_stbr3012wy
+name: stbr3012wy
 oomp:
   library_name: diode
-  md5: 02ef4151a056c83788267bea04a7291e
-  md5_10: 02ef4151a0
-  md5_5: 02ef4
-  md5_6: 02ef41
-  oomp_key: oomp_diode_stbr3012wy
-  oomp_key_extra: oomp_symbol_diode_stbr3012wy
-  oomp_key_full: oomp_symbol_diode_stbr3012wy_02ef41
-  oomp_key_simple: diode_stbr3012wy
+  md5: 10655547839eb13001ca640ac19ce656
+  md5_10: '1065554783'
+  md5_5: '10655'
+  md5_6: '106555'
+  oomp_key: oomp_stbr3012wy
+  oomp_key_extra: oomp_symbol_stbr3012wy
+  oomp_key_full: oomp_symbol_stbr3012wy_106555
+  oomp_key_simple: stbr3012wy
   owner_name: kicad
-  symbol_name: diode_stbr3012wy
+  symbol_name: stbr3012wy
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

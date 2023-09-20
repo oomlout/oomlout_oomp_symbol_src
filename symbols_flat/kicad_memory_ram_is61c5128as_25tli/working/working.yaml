@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_is61c5128as_25tli/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_is61c5128as_25tli/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_is61c5128as_25tli/working
-name: memory_ram_is61c5128as_25tli
+name: is61c5128as_25tli
 oomp:
   library_name: memory_ram
-  md5: 1bbb904daa58c0357343e55b6f76348b
-  md5_10: 1bbb904daa
-  md5_5: 1bbb9
-  md5_6: 1bbb90
-  oomp_key: oomp_memory_ram_is61c5128as_25tli
-  oomp_key_extra: oomp_symbol_memory_ram_is61c5128as_25tli
-  oomp_key_full: oomp_symbol_memory_ram_is61c5128as_25tli_1bbb90
-  oomp_key_simple: memory_ram_is61c5128as_25tli
+  md5: a95741c797f4dd4c637ce0098b008486
+  md5_10: a95741c797
+  md5_5: a9574
+  md5_6: a95741
+  oomp_key: oomp_is61c5128as_25tli
+  oomp_key_extra: oomp_symbol_is61c5128as_25tli
+  oomp_key_full: oomp_symbol_is61c5128as_25tli_a95741
+  oomp_key_simple: is61c5128as_25tli
   owner_name: kicad
-  symbol_name: memory_ram_is61c5128as_25tli
+  symbol_name: is61c5128as_25tli
 oomp_key: oomp_kicad_memory_ram_is61c5128as_25tli
 oomp_key_simple: kicad_memory_ram_is61c5128as_25tli
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

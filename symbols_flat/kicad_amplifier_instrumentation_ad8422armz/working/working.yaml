@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_instrumentation_ad8422armz/working
   oomp_src_flat: symbols_flat/kicad_amplifier_instrumentation_ad8422armz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_instrumentation_ad8422armz/working
-name: amplifier_instrumentation_ad8422armz
+name: ad8422armz
 oomp:
   library_name: amplifier_instrumentation
-  md5: 16ed292c07a296379bc213d9756a9c9c
-  md5_10: 16ed292c07
-  md5_5: 16ed2
-  md5_6: 16ed29
-  oomp_key: oomp_amplifier_instrumentation_ad8422armz
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ad8422armz
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ad8422armz_16ed29
-  oomp_key_simple: amplifier_instrumentation_ad8422armz
+  md5: 29cc12f473b01c3e6b3eed55e881c488
+  md5_10: 29cc12f473
+  md5_5: 29cc1
+  md5_6: 29cc12
+  oomp_key: oomp_ad8422armz
+  oomp_key_extra: oomp_symbol_ad8422armz
+  oomp_key_full: oomp_symbol_ad8422armz_29cc12
+  oomp_key_simple: ad8422armz
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ad8422armz
+  symbol_name: ad8422armz
 oomp_key: oomp_kicad_amplifier_instrumentation_ad8422armz
 oomp_key_simple: kicad_amplifier_instrumentation_ad8422armz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

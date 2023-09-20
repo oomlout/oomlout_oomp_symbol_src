@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_az1117_adj/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_az1117_adj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_az1117_adj/working
-name: regulator_linear_az1117_adj
+name: az1117_adj
 oomp:
   library_name: regulator_linear
-  md5: 6b79879dea291b17e553c945c8bf1d58
-  md5_10: 6b79879dea
-  md5_5: 6b798
-  md5_6: 6b7987
-  oomp_key: oomp_regulator_linear_az1117_adj
-  oomp_key_extra: oomp_symbol_regulator_linear_az1117_adj
-  oomp_key_full: oomp_symbol_regulator_linear_az1117_adj_6b7987
-  oomp_key_simple: regulator_linear_az1117_adj
+  md5: 5e0218dd8afe584526b3e228766008dc
+  md5_10: 5e0218dd8a
+  md5_5: 5e021
+  md5_6: 5e0218
+  oomp_key: oomp_az1117_adj
+  oomp_key_extra: oomp_symbol_az1117_adj
+  oomp_key_full: oomp_symbol_az1117_adj_5e0218
+  oomp_key_simple: az1117_adj
   owner_name: kicad
-  symbol_name: regulator_linear_az1117_adj
+  symbol_name: az1117_adj
 oomp_key: oomp_kicad_regulator_linear_az1117_adj
 oomp_key_simple: kicad_regulator_linear_az1117_adj
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_interface_can_lin_tcan334g
 library: interface_can_lin
 library_name: Interface_CAN_LIN
-name: interface_can_lin_tcan334g
+name: tcan334g
 oomp:
   library_name: interface_can_lin
-  md5: ace493ae32b30184d9c5a5777246cbdc
-  md5_10: ace493ae32
-  md5_5: ace49
-  md5_6: ace493
-  oomp_key: oomp_interface_can_lin_tcan334g
-  oomp_key_extra: oomp_symbol_interface_can_lin_tcan334g
-  oomp_key_full: oomp_symbol_interface_can_lin_tcan334g_ace493
-  oomp_key_simple: interface_can_lin_tcan334g
+  md5: c988d40fc1e65cb1e686dea18d71a593
+  md5_10: c988d40fc1
+  md5_5: c988d
+  md5_6: c988d4
+  oomp_key: oomp_tcan334g
+  oomp_key_extra: oomp_symbol_tcan334g
+  oomp_key_full: oomp_symbol_tcan334g_c988d4
+  oomp_key_simple: tcan334g
   owner_name: kicad
-  symbol_name: interface_can_lin_tcan334g
+  symbol_name: tcan334g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

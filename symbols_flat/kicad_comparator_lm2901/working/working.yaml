@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_lm2901/working
   oomp_src_flat: symbols_flat/kicad_comparator_lm2901/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_lm2901/working
-name: comparator_lm2901
+name: lm2901
 oomp:
   library_name: comparator
-  md5: 6764167629091a17bda1d7ea9f2cac9b
-  md5_10: '6764167629'
-  md5_5: '67641'
-  md5_6: '676416'
-  oomp_key: oomp_comparator_lm2901
-  oomp_key_extra: oomp_symbol_comparator_lm2901
-  oomp_key_full: oomp_symbol_comparator_lm2901_676416
-  oomp_key_simple: comparator_lm2901
+  md5: dfa8678aea9f85c3b8207561f670f614
+  md5_10: dfa8678aea
+  md5_5: dfa86
+  md5_6: dfa867
+  oomp_key: oomp_lm2901
+  oomp_key_extra: oomp_symbol_lm2901
+  oomp_key_full: oomp_symbol_lm2901_dfa867
+  oomp_key_simple: lm2901
   owner_name: kicad
-  symbol_name: comparator_lm2901
+  symbol_name: lm2901
 oomp_key: oomp_kicad_comparator_lm2901
 oomp_key_simple: kicad_comparator_lm2901
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

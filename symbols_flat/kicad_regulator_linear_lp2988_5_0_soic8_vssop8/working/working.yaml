@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lp2988_5_0_soic8_vssop8/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lp2988_5_0_soic8_vssop8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lp2988_5_0_soic8_vssop8/working
-name: regulator_linear_lp2988_5_0_soic8_vssop8
+name: lp2988_5_0_soic8_vssop8
 oomp:
   library_name: regulator_linear
-  md5: 983c96bb6eea6bbcebbc2fcb00f1a118
-  md5_10: 983c96bb6e
-  md5_5: 983c9
-  md5_6: 983c96
-  oomp_key: oomp_regulator_linear_lp2988_5_0_soic8_vssop8
-  oomp_key_extra: oomp_symbol_regulator_linear_lp2988_5_0_soic8_vssop8
-  oomp_key_full: oomp_symbol_regulator_linear_lp2988_5_0_soic8_vssop8_983c96
-  oomp_key_simple: regulator_linear_lp2988_5_0_soic8_vssop8
+  md5: 7018055add920bfe466daa79521d09b0
+  md5_10: 7018055add
+  md5_5: '70180'
+  md5_6: '701805'
+  oomp_key: oomp_lp2988_5_0_soic8_vssop8
+  oomp_key_extra: oomp_symbol_lp2988_5_0_soic8_vssop8
+  oomp_key_full: oomp_symbol_lp2988_5_0_soic8_vssop8_701805
+  oomp_key_simple: lp2988_5_0_soic8_vssop8
   owner_name: kicad
-  symbol_name: regulator_linear_lp2988_5_0_soic8_vssop8
+  symbol_name: lp2988_5_0_soic8_vssop8
 oomp_key: oomp_kicad_regulator_linear_lp2988_5_0_soic8_vssop8
 oomp_key_simple: kicad_regulator_linear_lp2988_5_0_soic8_vssop8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

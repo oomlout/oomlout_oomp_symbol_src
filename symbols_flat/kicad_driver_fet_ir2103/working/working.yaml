@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_ir2103/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_ir2103/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_ir2103/working
-name: driver_fet_ir2103
+name: ir2103
 oomp:
   library_name: driver_fet
-  md5: 5d11635b40e4536a281d4f907854fb78
-  md5_10: 5d11635b40
-  md5_5: 5d116
-  md5_6: 5d1163
-  oomp_key: oomp_driver_fet_ir2103
-  oomp_key_extra: oomp_symbol_driver_fet_ir2103
-  oomp_key_full: oomp_symbol_driver_fet_ir2103_5d1163
-  oomp_key_simple: driver_fet_ir2103
+  md5: 2540ed1632749505598229244f9bdac5
+  md5_10: 2540ed1632
+  md5_5: 2540e
+  md5_6: 2540ed
+  oomp_key: oomp_ir2103
+  oomp_key_extra: oomp_symbol_ir2103
+  oomp_key_full: oomp_symbol_ir2103_2540ed
+  oomp_key_simple: ir2103
   owner_name: kicad
-  symbol_name: driver_fet_ir2103
+  symbol_name: ir2103
 oomp_key: oomp_kicad_driver_fet_ir2103
 oomp_key_simple: kicad_driver_fet_ir2103
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

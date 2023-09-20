@@ -1,19 +1,19 @@
 id: kicad_amplifier_operational_tlv2371d
 library: amplifier_operational
 library_name: Amplifier_Operational
-name: amplifier_operational_tlv2371d
+name: tlv2371d
 oomp:
   library_name: amplifier_operational
-  md5: aa37015c6fcd2d8f22280364ca0483ac
-  md5_10: aa37015c6f
-  md5_5: aa370
-  md5_6: aa3701
-  oomp_key: oomp_amplifier_operational_tlv2371d
-  oomp_key_extra: oomp_symbol_amplifier_operational_tlv2371d
-  oomp_key_full: oomp_symbol_amplifier_operational_tlv2371d_aa3701
-  oomp_key_simple: amplifier_operational_tlv2371d
+  md5: 3b35a2399e46e9c6393148619f78fd36
+  md5_10: 3b35a2399e
+  md5_5: 3b35a
+  md5_6: 3b35a2
+  oomp_key: oomp_tlv2371d
+  oomp_key_extra: oomp_symbol_tlv2371d
+  oomp_key_full: oomp_symbol_tlv2371d_3b35a2
+  oomp_key_simple: tlv2371d
   owner_name: kicad
-  symbol_name: amplifier_operational_tlv2371d
+  symbol_name: tlv2371d
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

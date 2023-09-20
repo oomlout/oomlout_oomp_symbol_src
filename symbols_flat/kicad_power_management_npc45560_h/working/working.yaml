@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_npc45560_h/working
   oomp_src_flat: symbols_flat/kicad_power_management_npc45560_h/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_npc45560_h/working
-name: power_management_npc45560_h
+name: npc45560_h
 oomp:
   library_name: power_management
-  md5: 2b639dd70c83092fac1cf1e925debbdf
-  md5_10: 2b639dd70c
-  md5_5: 2b639
-  md5_6: 2b639d
-  oomp_key: oomp_power_management_npc45560_h
-  oomp_key_extra: oomp_symbol_power_management_npc45560_h
-  oomp_key_full: oomp_symbol_power_management_npc45560_h_2b639d
-  oomp_key_simple: power_management_npc45560_h
+  md5: f2820d0ec7c94009736086a5c64b88a0
+  md5_10: f2820d0ec7
+  md5_5: f2820
+  md5_6: f2820d
+  oomp_key: oomp_npc45560_h
+  oomp_key_extra: oomp_symbol_npc45560_h
+  oomp_key_full: oomp_symbol_npc45560_h_f2820d
+  oomp_key_simple: npc45560_h
   owner_name: kicad
-  symbol_name: power_management_npc45560_h
+  symbol_name: npc45560_h
 oomp_key: oomp_kicad_power_management_npc45560_h
 oomp_key_simple: kicad_power_management_npc45560_h
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

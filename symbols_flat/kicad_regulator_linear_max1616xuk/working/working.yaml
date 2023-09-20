@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_max1616xuk/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_max1616xuk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_max1616xuk/working
-name: regulator_linear_max1616xuk
+name: max1616xuk
 oomp:
   library_name: regulator_linear
-  md5: 03dd1ffaf5b28fb7fb085d63349cbe7c
-  md5_10: 03dd1ffaf5
-  md5_5: 03dd1
-  md5_6: 03dd1f
-  oomp_key: oomp_regulator_linear_max1616xuk
-  oomp_key_extra: oomp_symbol_regulator_linear_max1616xuk
-  oomp_key_full: oomp_symbol_regulator_linear_max1616xuk_03dd1f
-  oomp_key_simple: regulator_linear_max1616xuk
+  md5: a7b24ed402e3a9dadc95283746c1eae3
+  md5_10: a7b24ed402
+  md5_5: a7b24
+  md5_6: a7b24e
+  oomp_key: oomp_max1616xuk
+  oomp_key_extra: oomp_symbol_max1616xuk
+  oomp_key_full: oomp_symbol_max1616xuk_a7b24e
+  oomp_key_simple: max1616xuk
   owner_name: kicad
-  symbol_name: regulator_linear_max1616xuk
+  symbol_name: max1616xuk
 oomp_key: oomp_kicad_regulator_linear_max1616xuk
 oomp_key_simple: kicad_regulator_linear_max1616xuk
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

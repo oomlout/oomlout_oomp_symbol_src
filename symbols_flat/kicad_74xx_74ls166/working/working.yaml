@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_74xx_74ls166/working
   oomp_src_flat: symbols_flat/kicad_74xx_74ls166/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_74xx_74ls166/working
-name: 74xx_74ls166
+name: 74ls166
 oomp:
   library_name: 74xx
-  md5: cb742cd491d1de053ccb554d448884dc
-  md5_10: cb742cd491
-  md5_5: cb742
-  md5_6: cb742c
-  oomp_key: oomp_74xx_74ls166
-  oomp_key_extra: oomp_symbol_74xx_74ls166
-  oomp_key_full: oomp_symbol_74xx_74ls166_cb742c
-  oomp_key_simple: 74xx_74ls166
+  md5: 093c21051ad1a6b9771ff25ae3c8b65b
+  md5_10: 093c21051a
+  md5_5: 093c2
+  md5_6: 093c21
+  oomp_key: oomp_74ls166
+  oomp_key_extra: oomp_symbol_74ls166
+  oomp_key_full: oomp_symbol_74ls166_093c21
+  oomp_key_simple: 74ls166
   owner_name: kicad
-  symbol_name: 74xx_74ls166
+  symbol_name: 74ls166
 oomp_key: oomp_kicad_74xx_74ls166
 oomp_key_simple: kicad_74xx_74ls166
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

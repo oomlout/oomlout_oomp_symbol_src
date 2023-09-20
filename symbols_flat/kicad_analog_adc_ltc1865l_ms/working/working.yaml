@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ltc1865l_ms/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ltc1865l_ms/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ltc1865l_ms/working
-name: analog_adc_ltc1865l_ms
+name: ltc1865l_ms
 oomp:
   library_name: analog_adc
-  md5: 29eabf82c424f3400752de9211736278
-  md5_10: 29eabf82c4
-  md5_5: 29eab
-  md5_6: 29eabf
-  oomp_key: oomp_analog_adc_ltc1865l_ms
-  oomp_key_extra: oomp_symbol_analog_adc_ltc1865l_ms
-  oomp_key_full: oomp_symbol_analog_adc_ltc1865l_ms_29eabf
-  oomp_key_simple: analog_adc_ltc1865l_ms
+  md5: 74b7ced57b7770558bab04ce1074b1cf
+  md5_10: 74b7ced57b
+  md5_5: 74b7c
+  md5_6: 74b7ce
+  oomp_key: oomp_ltc1865l_ms
+  oomp_key_extra: oomp_symbol_ltc1865l_ms
+  oomp_key_full: oomp_symbol_ltc1865l_ms_74b7ce
+  oomp_key_simple: ltc1865l_ms
   owner_name: kicad
-  symbol_name: analog_adc_ltc1865l_ms
+  symbol_name: ltc1865l_ms
 oomp_key: oomp_kicad_analog_adc_ltc1865l_ms
 oomp_key_simple: kicad_analog_adc_ltc1865l_ms
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_sm712_sot23/working
   oomp_src_flat: symbols_flat/kicad_diode_sm712_sot23/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_sm712_sot23/working
-name: diode_sm712_sot23
+name: sm712_sot23
 oomp:
   library_name: diode
-  md5: dd07a5be7959e1b78345afecd1f0ee2c
-  md5_10: dd07a5be79
-  md5_5: dd07a
-  md5_6: dd07a5
-  oomp_key: oomp_diode_sm712_sot23
-  oomp_key_extra: oomp_symbol_diode_sm712_sot23
-  oomp_key_full: oomp_symbol_diode_sm712_sot23_dd07a5
-  oomp_key_simple: diode_sm712_sot23
+  md5: c59e16e76312b326e857a2806f750356
+  md5_10: c59e16e763
+  md5_5: c59e1
+  md5_6: c59e16
+  oomp_key: oomp_sm712_sot23
+  oomp_key_extra: oomp_symbol_sm712_sot23
+  oomp_key_full: oomp_symbol_sm712_sot23_c59e16
+  oomp_key_simple: sm712_sot23
   owner_name: kicad
-  symbol_name: diode_sm712_sot23
+  symbol_name: sm712_sot23
 oomp_key: oomp_kicad_diode_sm712_sot23
 oomp_key_simple: kicad_diode_sm712_sot23
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

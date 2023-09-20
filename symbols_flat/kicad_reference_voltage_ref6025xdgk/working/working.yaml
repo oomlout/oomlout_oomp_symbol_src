@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_ref6025xdgk/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_ref6025xdgk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_ref6025xdgk/working
-name: reference_voltage_ref6025xdgk
+name: ref6025xdgk
 oomp:
   library_name: reference_voltage
-  md5: a6c49aa187e678037d9ca91ac5ffa8dd
-  md5_10: a6c49aa187
-  md5_5: a6c49
-  md5_6: a6c49a
-  oomp_key: oomp_reference_voltage_ref6025xdgk
-  oomp_key_extra: oomp_symbol_reference_voltage_ref6025xdgk
-  oomp_key_full: oomp_symbol_reference_voltage_ref6025xdgk_a6c49a
-  oomp_key_simple: reference_voltage_ref6025xdgk
+  md5: c155bb52fa3f877b69b694cd80de1194
+  md5_10: c155bb52fa
+  md5_5: c155b
+  md5_6: c155bb
+  oomp_key: oomp_ref6025xdgk
+  oomp_key_extra: oomp_symbol_ref6025xdgk
+  oomp_key_full: oomp_symbol_ref6025xdgk_c155bb
+  oomp_key_simple: ref6025xdgk
   owner_name: kicad
-  symbol_name: reference_voltage_ref6025xdgk
+  symbol_name: ref6025xdgk
 oomp_key: oomp_kicad_reference_voltage_ref6025xdgk
 oomp_key_simple: kicad_reference_voltage_ref6025xdgk
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

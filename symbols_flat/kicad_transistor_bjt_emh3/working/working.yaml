@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_emh3/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_emh3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_emh3/working
-name: transistor_bjt_emh3
+name: emh3
 oomp:
   library_name: transistor_bjt
-  md5: a9322f2f831c5c03a8cde45b427b3520
-  md5_10: a9322f2f83
-  md5_5: a9322
-  md5_6: a9322f
-  oomp_key: oomp_transistor_bjt_emh3
-  oomp_key_extra: oomp_symbol_transistor_bjt_emh3
-  oomp_key_full: oomp_symbol_transistor_bjt_emh3_a9322f
-  oomp_key_simple: transistor_bjt_emh3
+  md5: 3a9dc089222c7beb87611a2b5eca4c56
+  md5_10: 3a9dc08922
+  md5_5: 3a9dc
+  md5_6: 3a9dc0
+  oomp_key: oomp_emh3
+  oomp_key_extra: oomp_symbol_emh3
+  oomp_key_full: oomp_symbol_emh3_3a9dc0
+  oomp_key_simple: emh3
   owner_name: kicad
-  symbol_name: transistor_bjt_emh3
+  symbol_name: emh3
 oomp_key: oomp_kicad_transistor_bjt_emh3
 oomp_key_simple: kicad_transistor_bjt_emh3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

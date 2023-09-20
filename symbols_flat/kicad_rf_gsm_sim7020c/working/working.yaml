@@ -1,19 +1,19 @@
 id: kicad_rf_gsm_sim7020c
 library: rf_gsm
 library_name: RF_GSM
-name: rf_gsm_sim7020c
+name: sim7020c
 oomp:
   library_name: rf_gsm
-  md5: 18d2eace717704cffe670878e44b0b50
-  md5_10: 18d2eace71
-  md5_5: 18d2e
-  md5_6: 18d2ea
-  oomp_key: oomp_rf_gsm_sim7020c
-  oomp_key_extra: oomp_symbol_rf_gsm_sim7020c
-  oomp_key_full: oomp_symbol_rf_gsm_sim7020c_18d2ea
-  oomp_key_simple: rf_gsm_sim7020c
+  md5: 8ec58177bc9d1afb678a2461748362b1
+  md5_10: 8ec58177bc
+  md5_5: 8ec58
+  md5_6: 8ec581
+  oomp_key: oomp_sim7020c
+  oomp_key_extra: oomp_symbol_sim7020c
+  oomp_key_full: oomp_symbol_sim7020c_8ec581
+  oomp_key_simple: sim7020c
   owner_name: kicad
-  symbol_name: rf_gsm_sim7020c
+  symbol_name: sim7020c
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

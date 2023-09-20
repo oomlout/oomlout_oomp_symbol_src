@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_touch_pcf8883/working
   oomp_src_flat: symbols_flat/kicad_sensor_touch_pcf8883/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_touch_pcf8883/working
-name: sensor_touch_pcf8883
+name: pcf8883
 oomp:
   library_name: sensor_touch
-  md5: 8c2b1574f847b2726acc27d7e7df6a91
-  md5_10: 8c2b1574f8
-  md5_5: 8c2b1
-  md5_6: 8c2b15
-  oomp_key: oomp_sensor_touch_pcf8883
-  oomp_key_extra: oomp_symbol_sensor_touch_pcf8883
-  oomp_key_full: oomp_symbol_sensor_touch_pcf8883_8c2b15
-  oomp_key_simple: sensor_touch_pcf8883
+  md5: 10f5fab0fb17a731302e8b4a5313d91e
+  md5_10: 10f5fab0fb
+  md5_5: 10f5f
+  md5_6: 10f5fa
+  oomp_key: oomp_pcf8883
+  oomp_key_extra: oomp_symbol_pcf8883
+  oomp_key_full: oomp_symbol_pcf8883_10f5fa
+  oomp_key_simple: pcf8883
   owner_name: kicad
-  symbol_name: sensor_touch_pcf8883
+  symbol_name: pcf8883
 oomp_key: oomp_kicad_sensor_touch_pcf8883
 oomp_key_simple: kicad_sensor_touch_pcf8883
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_tunnel/working
   oomp_src_flat: symbols_flat/kicad_device_d_tunnel/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_tunnel/working
-name: device_d_tunnel
+name: d_tunnel
 oomp:
   library_name: device
-  md5: fa8b335868a1581ef222696830b5ebef
-  md5_10: fa8b335868
-  md5_5: fa8b3
-  md5_6: fa8b33
-  oomp_key: oomp_device_d_tunnel
-  oomp_key_extra: oomp_symbol_device_d_tunnel
-  oomp_key_full: oomp_symbol_device_d_tunnel_fa8b33
-  oomp_key_simple: device_d_tunnel
+  md5: b9cea5f7d41d9d5059089efa5052dca1
+  md5_10: b9cea5f7d4
+  md5_5: b9cea
+  md5_6: b9cea5
+  oomp_key: oomp_d_tunnel
+  oomp_key_extra: oomp_symbol_d_tunnel
+  oomp_key_full: oomp_symbol_d_tunnel_b9cea5
+  oomp_key_simple: d_tunnel
   owner_name: kicad
-  symbol_name: device_d_tunnel
+  symbol_name: d_tunnel
 oomp_key: oomp_kicad_device_d_tunnel
 oomp_key_simple: kicad_device_d_tunnel
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

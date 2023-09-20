@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switchedcapacitor_rt9361axe/working
   oomp_src_flat: symbols_flat/kicad_regulator_switchedcapacitor_rt9361axe/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switchedcapacitor_rt9361axe/working
-name: regulator_switchedcapacitor_rt9361axe
+name: rt9361axe
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: d255ae4e737f1c371e4d866100e42bd5
-  md5_10: d255ae4e73
-  md5_5: d255a
-  md5_6: d255ae
-  oomp_key: oomp_regulator_switchedcapacitor_rt9361axe
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_rt9361axe
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_rt9361axe_d255ae
-  oomp_key_simple: regulator_switchedcapacitor_rt9361axe
+  md5: ee7613b32102f4ae9c0690e6a30c1478
+  md5_10: ee7613b321
+  md5_5: ee761
+  md5_6: ee7613
+  oomp_key: oomp_rt9361axe
+  oomp_key_extra: oomp_symbol_rt9361axe
+  oomp_key_full: oomp_symbol_rt9361axe_ee7613
+  oomp_key_simple: rt9361axe
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_rt9361axe
+  symbol_name: rt9361axe
 oomp_key: oomp_kicad_regulator_switchedcapacitor_rt9361axe
 oomp_key_simple: kicad_regulator_switchedcapacitor_rt9361axe
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_fsusb30mux/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_fsusb30mux/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_fsusb30mux/working
-name: interface_usb_fsusb30mux
+name: fsusb30mux
 oomp:
   library_name: interface_usb
-  md5: 9ca0c2fded1fb78bd11452f0b7e99728
-  md5_10: 9ca0c2fded
-  md5_5: 9ca0c
-  md5_6: 9ca0c2
-  oomp_key: oomp_interface_usb_fsusb30mux
-  oomp_key_extra: oomp_symbol_interface_usb_fsusb30mux
-  oomp_key_full: oomp_symbol_interface_usb_fsusb30mux_9ca0c2
-  oomp_key_simple: interface_usb_fsusb30mux
+  md5: 6aed07dcb6789245b83399adf89403a8
+  md5_10: 6aed07dcb6
+  md5_5: 6aed0
+  md5_6: 6aed07
+  oomp_key: oomp_fsusb30mux
+  oomp_key_extra: oomp_symbol_fsusb30mux
+  oomp_key_full: oomp_symbol_fsusb30mux_6aed07
+  oomp_key_simple: fsusb30mux
   owner_name: kicad
-  symbol_name: interface_usb_fsusb30mux
+  symbol_name: fsusb30mux
 oomp_key: oomp_kicad_interface_usb_fsusb30mux
 oomp_key_simple: kicad_interface_usb_fsusb30mux
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

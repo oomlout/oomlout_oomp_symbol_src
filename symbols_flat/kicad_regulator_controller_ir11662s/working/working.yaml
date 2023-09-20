@@ -1,19 +1,19 @@
 id: kicad_regulator_controller_ir11662s
 library: regulator_controller
 library_name: Regulator_Controller
-name: regulator_controller_ir11662s
+name: ir11662s
 oomp:
   library_name: regulator_controller
-  md5: 20c4477a4d5763196500b860ff3ce603
-  md5_10: 20c4477a4d
-  md5_5: 20c44
-  md5_6: 20c447
-  oomp_key: oomp_regulator_controller_ir11662s
-  oomp_key_extra: oomp_symbol_regulator_controller_ir11662s
-  oomp_key_full: oomp_symbol_regulator_controller_ir11662s_20c447
-  oomp_key_simple: regulator_controller_ir11662s
+  md5: f5a83df962e9eaf1fbc2a18625cc4c5b
+  md5_10: f5a83df962
+  md5_5: f5a83
+  md5_6: f5a83d
+  oomp_key: oomp_ir11662s
+  oomp_key_extra: oomp_symbol_ir11662s
+  oomp_key_full: oomp_symbol_ir11662s_f5a83d
+  oomp_key_simple: ir11662s
   owner_name: kicad
-  symbol_name: regulator_controller_ir11662s
+  symbol_name: ir11662s
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

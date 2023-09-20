@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_irf8304m
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_irf8304m
+name: irf8304m
 oomp:
   library_name: transistor_fet
-  md5: 43a55e4abf05ce7b74ccdf17a95f9f59
-  md5_10: 43a55e4abf
-  md5_5: 43a55
-  md5_6: 43a55e
-  oomp_key: oomp_transistor_fet_irf8304m
-  oomp_key_extra: oomp_symbol_transistor_fet_irf8304m
-  oomp_key_full: oomp_symbol_transistor_fet_irf8304m_43a55e
-  oomp_key_simple: transistor_fet_irf8304m
+  md5: f64a797e9e65a9958a870d0b9b4b9461
+  md5_10: f64a797e9e
+  md5_5: f64a7
+  md5_6: f64a79
+  oomp_key: oomp_irf8304m
+  oomp_key_extra: oomp_symbol_irf8304m
+  oomp_key_full: oomp_symbol_irf8304m_f64a79
+  oomp_key_simple: irf8304m
   owner_name: kicad
-  symbol_name: transistor_fet_irf8304m
+  symbol_name: irf8304m
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

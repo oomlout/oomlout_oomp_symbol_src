@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tlv76701qwdrbxq1/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tlv76701qwdrbxq1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tlv76701qwdrbxq1/working
-name: regulator_linear_tlv76701qwdrbxq1
+name: tlv76701qwdrbxq1
 oomp:
   library_name: regulator_linear
-  md5: 354ae034b1d43c7acc81d9c6d2131ca7
-  md5_10: 354ae034b1
-  md5_5: 354ae
-  md5_6: 354ae0
-  oomp_key: oomp_regulator_linear_tlv76701qwdrbxq1
-  oomp_key_extra: oomp_symbol_regulator_linear_tlv76701qwdrbxq1
-  oomp_key_full: oomp_symbol_regulator_linear_tlv76701qwdrbxq1_354ae0
-  oomp_key_simple: regulator_linear_tlv76701qwdrbxq1
+  md5: 5f824a8e9708fcb2d8b099a6fd7dd02b
+  md5_10: 5f824a8e97
+  md5_5: 5f824
+  md5_6: 5f824a
+  oomp_key: oomp_tlv76701qwdrbxq1
+  oomp_key_extra: oomp_symbol_tlv76701qwdrbxq1
+  oomp_key_full: oomp_symbol_tlv76701qwdrbxq1_5f824a
+  oomp_key_simple: tlv76701qwdrbxq1
   owner_name: kicad
-  symbol_name: regulator_linear_tlv76701qwdrbxq1
+  symbol_name: tlv76701qwdrbxq1
 oomp_key: oomp_kicad_regulator_linear_tlv76701qwdrbxq1
 oomp_key_simple: kicad_regulator_linear_tlv76701qwdrbxq1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

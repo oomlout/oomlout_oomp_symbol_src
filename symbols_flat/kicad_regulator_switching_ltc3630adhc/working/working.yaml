@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_ltc3630adhc
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_ltc3630adhc
+name: ltc3630adhc
 oomp:
   library_name: regulator_switching
-  md5: 27daa6be6f980630004b5774f531c662
-  md5_10: 27daa6be6f
-  md5_5: 27daa
-  md5_6: 27daa6
-  oomp_key: oomp_regulator_switching_ltc3630adhc
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc3630adhc
-  oomp_key_full: oomp_symbol_regulator_switching_ltc3630adhc_27daa6
-  oomp_key_simple: regulator_switching_ltc3630adhc
+  md5: 7657564a42fe2ab15110bf90ae39d6ad
+  md5_10: 7657564a42
+  md5_5: '76575'
+  md5_6: '765756'
+  oomp_key: oomp_ltc3630adhc
+  oomp_key_extra: oomp_symbol_ltc3630adhc
+  oomp_key_full: oomp_symbol_ltc3630adhc_765756
+  oomp_key_simple: ltc3630adhc
   owner_name: kicad
-  symbol_name: regulator_switching_ltc3630adhc
+  symbol_name: ltc3630adhc
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_ktd1624/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_ktd1624/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_ktd1624/working
-name: transistor_bjt_ktd1624
+name: ktd1624
 oomp:
   library_name: transistor_bjt
-  md5: 8043fd3086474912aaf4a9cdd62dd3a3
-  md5_10: 8043fd3086
-  md5_5: 8043f
-  md5_6: 8043fd
-  oomp_key: oomp_transistor_bjt_ktd1624
-  oomp_key_extra: oomp_symbol_transistor_bjt_ktd1624
-  oomp_key_full: oomp_symbol_transistor_bjt_ktd1624_8043fd
-  oomp_key_simple: transistor_bjt_ktd1624
+  md5: 4d9591a35f9176000f78d889114e8028
+  md5_10: 4d9591a35f
+  md5_5: 4d959
+  md5_6: 4d9591
+  oomp_key: oomp_ktd1624
+  oomp_key_extra: oomp_symbol_ktd1624
+  oomp_key_full: oomp_symbol_ktd1624_4d9591
+  oomp_key_simple: ktd1624
   owner_name: kicad
-  symbol_name: transistor_bjt_ktd1624
+  symbol_name: ktd1624
 oomp_key: oomp_kicad_transistor_bjt_ktd1624
 oomp_key_simple: kicad_transistor_bjt_ktd1624
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

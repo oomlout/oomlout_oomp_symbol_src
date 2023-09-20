@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_filter_emi_lll_162534/working
   oomp_src_flat: symbols_flat/kicad_device_filter_emi_lll_162534/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_filter_emi_lll_162534/working
-name: device_filter_emi_lll_162534
+name: filter_emi_lll_162534
 oomp:
   library_name: device
-  md5: 928e313cd3c0254fdb270a0a967d9d8d
-  md5_10: 928e313cd3
-  md5_5: 928e3
-  md5_6: 928e31
-  oomp_key: oomp_device_filter_emi_lll_162534
-  oomp_key_extra: oomp_symbol_device_filter_emi_lll_162534
-  oomp_key_full: oomp_symbol_device_filter_emi_lll_162534_928e31
-  oomp_key_simple: device_filter_emi_lll_162534
+  md5: 42a5d459450e4481aa7ff12a1b305688
+  md5_10: 42a5d45945
+  md5_5: 42a5d
+  md5_6: 42a5d4
+  oomp_key: oomp_filter_emi_lll_162534
+  oomp_key_extra: oomp_symbol_filter_emi_lll_162534
+  oomp_key_full: oomp_symbol_filter_emi_lll_162534_42a5d4
+  oomp_key_simple: filter_emi_lll_162534
   owner_name: kicad
-  symbol_name: device_filter_emi_lll_162534
+  symbol_name: filter_emi_lll_162534
 oomp_key: oomp_kicad_device_filter_emi_lll_162534
 oomp_key_simple: kicad_device_filter_emi_lll_162534
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

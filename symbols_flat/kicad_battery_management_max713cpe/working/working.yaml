@@ -1,19 +1,19 @@
 id: kicad_battery_management_max713cpe
 library: battery_management
 library_name: Battery_Management
-name: battery_management_max713cpe
+name: max713cpe
 oomp:
   library_name: battery_management
-  md5: a303c022013d4e859a48d586a7151563
-  md5_10: a303c02201
-  md5_5: a303c
-  md5_6: a303c0
-  oomp_key: oomp_battery_management_max713cpe
-  oomp_key_extra: oomp_symbol_battery_management_max713cpe
-  oomp_key_full: oomp_symbol_battery_management_max713cpe_a303c0
-  oomp_key_simple: battery_management_max713cpe
+  md5: 3e7d70cab895c995036efbcfef4ac456
+  md5_10: 3e7d70cab8
+  md5_5: 3e7d7
+  md5_6: 3e7d70
+  oomp_key: oomp_max713cpe
+  oomp_key_extra: oomp_symbol_max713cpe
+  oomp_key_full: oomp_symbol_max713cpe_3e7d70
+  oomp_key_simple: max713cpe
   owner_name: kicad
-  symbol_name: battery_management_max713cpe
+  symbol_name: max713cpe
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

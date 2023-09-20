@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_8p8c_led_shielded/working
   oomp_src_flat: symbols_flat/kicad_connector_8p8c_led_shielded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_8p8c_led_shielded/working
-name: connector_8p8c_led_shielded
+name: 8p8c_led_shielded
 oomp:
   library_name: connector
-  md5: 5f7dfced18c49fb8547ac1db8e651d91
-  md5_10: 5f7dfced18
-  md5_5: 5f7df
-  md5_6: 5f7dfc
-  oomp_key: oomp_connector_8p8c_led_shielded
-  oomp_key_extra: oomp_symbol_connector_8p8c_led_shielded
-  oomp_key_full: oomp_symbol_connector_8p8c_led_shielded_5f7dfc
-  oomp_key_simple: connector_8p8c_led_shielded
+  md5: 821e828e83210186ab8ef22036b7aa6c
+  md5_10: 821e828e83
+  md5_5: 821e8
+  md5_6: 821e82
+  oomp_key: oomp_8p8c_led_shielded
+  oomp_key_extra: oomp_symbol_8p8c_led_shielded
+  oomp_key_full: oomp_symbol_8p8c_led_shielded_821e82
+  oomp_key_simple: 8p8c_led_shielded
   owner_name: kicad
-  symbol_name: connector_8p8c_led_shielded
+  symbol_name: 8p8c_led_shielded
 oomp_key: oomp_kicad_connector_8p8c_led_shielded
 oomp_key_simple: kicad_connector_8p8c_led_shielded
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

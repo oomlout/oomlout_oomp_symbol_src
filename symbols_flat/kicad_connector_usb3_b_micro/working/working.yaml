@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_usb3_b_micro/working
   oomp_src_flat: symbols_flat/kicad_connector_usb3_b_micro/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_usb3_b_micro/working
-name: connector_usb3_b_micro
+name: usb3_b_micro
 oomp:
   library_name: connector
-  md5: e68f79cf2f53858e010efaac07c5b42d
-  md5_10: e68f79cf2f
-  md5_5: e68f7
-  md5_6: e68f79
-  oomp_key: oomp_connector_usb3_b_micro
-  oomp_key_extra: oomp_symbol_connector_usb3_b_micro
-  oomp_key_full: oomp_symbol_connector_usb3_b_micro_e68f79
-  oomp_key_simple: connector_usb3_b_micro
+  md5: 6c3cf8951bc7d392eaadd2941098276d
+  md5_10: 6c3cf8951b
+  md5_5: 6c3cf
+  md5_6: 6c3cf8
+  oomp_key: oomp_usb3_b_micro
+  oomp_key_extra: oomp_symbol_usb3_b_micro
+  oomp_key_full: oomp_symbol_usb3_b_micro_6c3cf8
+  oomp_key_simple: usb3_b_micro
   owner_name: kicad
-  symbol_name: connector_usb3_b_micro
+  symbol_name: usb3_b_micro
 oomp_key: oomp_kicad_connector_usb3_b_micro
 oomp_key_simple: kicad_connector_usb3_b_micro
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_irs20957s/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_irs20957s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_irs20957s/working
-name: amplifier_audio_irs20957s
+name: irs20957s
 oomp:
   library_name: amplifier_audio
-  md5: 1642ea5385b6c7b126672e961e382950
-  md5_10: 1642ea5385
-  md5_5: 1642e
-  md5_6: 1642ea
-  oomp_key: oomp_amplifier_audio_irs20957s
-  oomp_key_extra: oomp_symbol_amplifier_audio_irs20957s
-  oomp_key_full: oomp_symbol_amplifier_audio_irs20957s_1642ea
-  oomp_key_simple: amplifier_audio_irs20957s
+  md5: daa0198363b71fdc23de521087d02577
+  md5_10: daa0198363
+  md5_5: daa01
+  md5_6: daa019
+  oomp_key: oomp_irs20957s
+  oomp_key_extra: oomp_symbol_irs20957s
+  oomp_key_full: oomp_symbol_irs20957s_daa019
+  oomp_key_simple: irs20957s
   owner_name: kicad
-  symbol_name: amplifier_audio_irs20957s
+  symbol_name: irs20957s
 oomp_key: oomp_kicad_amplifier_audio_irs20957s
 oomp_key_simple: kicad_amplifier_audio_irs20957s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

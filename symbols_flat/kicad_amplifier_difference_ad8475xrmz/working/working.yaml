@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_difference_ad8475xrmz/working
   oomp_src_flat: symbols_flat/kicad_amplifier_difference_ad8475xrmz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_difference_ad8475xrmz/working
-name: amplifier_difference_ad8475xrmz
+name: ad8475xrmz
 oomp:
   library_name: amplifier_difference
-  md5: 05ab08fc45ed8729deda41596a352426
-  md5_10: 05ab08fc45
-  md5_5: 05ab0
-  md5_6: 05ab08
-  oomp_key: oomp_amplifier_difference_ad8475xrmz
-  oomp_key_extra: oomp_symbol_amplifier_difference_ad8475xrmz
-  oomp_key_full: oomp_symbol_amplifier_difference_ad8475xrmz_05ab08
-  oomp_key_simple: amplifier_difference_ad8475xrmz
+  md5: 1b40e3402137b543a7e9adb3bdd8b190
+  md5_10: 1b40e34021
+  md5_5: 1b40e
+  md5_6: 1b40e3
+  oomp_key: oomp_ad8475xrmz
+  oomp_key_extra: oomp_symbol_ad8475xrmz
+  oomp_key_full: oomp_symbol_ad8475xrmz_1b40e3
+  oomp_key_simple: ad8475xrmz
   owner_name: kicad
-  symbol_name: amplifier_difference_ad8475xrmz
+  symbol_name: ad8475xrmz
 oomp_key: oomp_kicad_amplifier_difference_ad8475xrmz
 oomp_key_simple: kicad_amplifier_difference_ad8475xrmz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

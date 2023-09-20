@@ -1,19 +1,19 @@
 id: kicad_triac_thyristor_tic206
 library: triac_thyristor
 library_name: Triac_Thyristor
-name: triac_thyristor_tic206
+name: tic206
 oomp:
   library_name: triac_thyristor
-  md5: 585150c80267f221fd800f4941e6ded2
-  md5_10: 585150c802
-  md5_5: '58515'
-  md5_6: '585150'
-  oomp_key: oomp_triac_thyristor_tic206
-  oomp_key_extra: oomp_symbol_triac_thyristor_tic206
-  oomp_key_full: oomp_symbol_triac_thyristor_tic206_585150
-  oomp_key_simple: triac_thyristor_tic206
+  md5: 2a29e0005d7f61d3594ac5193e699298
+  md5_10: 2a29e0005d
+  md5_5: 2a29e
+  md5_6: 2a29e0
+  oomp_key: oomp_tic206
+  oomp_key_extra: oomp_symbol_tic206
+  oomp_key_full: oomp_symbol_tic206_2a29e0
+  oomp_key_simple: tic206
   owner_name: kicad
-  symbol_name: triac_thyristor_tic206
+  symbol_name: tic206
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

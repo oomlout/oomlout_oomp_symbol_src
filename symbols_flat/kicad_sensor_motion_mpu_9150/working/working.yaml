@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_mpu_9150/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_mpu_9150/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_mpu_9150/working
-name: sensor_motion_mpu_9150
+name: mpu_9150
 oomp:
   library_name: sensor_motion
-  md5: be7c34b67e270a5534bb467b1680aaa0
-  md5_10: be7c34b67e
-  md5_5: be7c3
-  md5_6: be7c34
-  oomp_key: oomp_sensor_motion_mpu_9150
-  oomp_key_extra: oomp_symbol_sensor_motion_mpu_9150
-  oomp_key_full: oomp_symbol_sensor_motion_mpu_9150_be7c34
-  oomp_key_simple: sensor_motion_mpu_9150
+  md5: f55c6ca87b562c0cb655380de111888b
+  md5_10: f55c6ca87b
+  md5_5: f55c6
+  md5_6: f55c6c
+  oomp_key: oomp_mpu_9150
+  oomp_key_extra: oomp_symbol_mpu_9150
+  oomp_key_full: oomp_symbol_mpu_9150_f55c6c
+  oomp_key_simple: mpu_9150
   owner_name: kicad
-  symbol_name: sensor_motion_mpu_9150
+  symbol_name: mpu_9150
 oomp_key: oomp_kicad_sensor_motion_mpu_9150
 oomp_key_simple: kicad_sensor_motion_mpu_9150
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_sn65hvd234/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_sn65hvd234/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_sn65hvd234/working
-name: interface_can_lin_sn65hvd234
+name: sn65hvd234
 oomp:
   library_name: interface_can_lin
-  md5: c2ab13d01b27ebe55f08439454207141
-  md5_10: c2ab13d01b
-  md5_5: c2ab1
-  md5_6: c2ab13
-  oomp_key: oomp_interface_can_lin_sn65hvd234
-  oomp_key_extra: oomp_symbol_interface_can_lin_sn65hvd234
-  oomp_key_full: oomp_symbol_interface_can_lin_sn65hvd234_c2ab13
-  oomp_key_simple: interface_can_lin_sn65hvd234
+  md5: e79248fd06804c3fb47176167d32097c
+  md5_10: e79248fd06
+  md5_5: e7924
+  md5_6: e79248
+  oomp_key: oomp_sn65hvd234
+  oomp_key_extra: oomp_symbol_sn65hvd234
+  oomp_key_full: oomp_symbol_sn65hvd234_e79248
+  oomp_key_simple: sn65hvd234
   owner_name: kicad
-  symbol_name: interface_can_lin_sn65hvd234
+  symbol_name: sn65hvd234
 oomp_key: oomp_kicad_interface_can_lin_sn65hvd234
 oomp_key_simple: kicad_interface_can_lin_sn65hvd234
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

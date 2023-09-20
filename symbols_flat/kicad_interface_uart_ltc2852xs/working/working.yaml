@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_ltc2852xs/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_ltc2852xs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_ltc2852xs/working
-name: interface_uart_ltc2852xs
+name: ltc2852xs
 oomp:
   library_name: interface_uart
-  md5: 9dfb55cc9366cd66c6a51d7fb515d732
-  md5_10: 9dfb55cc93
-  md5_5: 9dfb5
-  md5_6: 9dfb55
-  oomp_key: oomp_interface_uart_ltc2852xs
-  oomp_key_extra: oomp_symbol_interface_uart_ltc2852xs
-  oomp_key_full: oomp_symbol_interface_uart_ltc2852xs_9dfb55
-  oomp_key_simple: interface_uart_ltc2852xs
+  md5: aa8511ad9f704e8bb92238d79b384f29
+  md5_10: aa8511ad9f
+  md5_5: aa851
+  md5_6: aa8511
+  oomp_key: oomp_ltc2852xs
+  oomp_key_extra: oomp_symbol_ltc2852xs
+  oomp_key_full: oomp_symbol_ltc2852xs_aa8511
+  oomp_key_simple: ltc2852xs
   owner_name: kicad
-  symbol_name: interface_uart_ltc2852xs
+  symbol_name: ltc2852xs
 oomp_key: oomp_kicad_interface_uart_ltc2852xs
 oomp_key_simple: kicad_interface_uart_ltc2852xs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

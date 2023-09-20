@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_scr_gka/working
   oomp_src_flat: symbols_flat/kicad_device_q_scr_gka/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_scr_gka/working
-name: device_q_scr_gka
+name: q_scr_gka
 oomp:
   library_name: device
-  md5: 22ce34ae33c43dfb60f9fc42310403da
-  md5_10: 22ce34ae33
-  md5_5: 22ce3
-  md5_6: 22ce34
-  oomp_key: oomp_device_q_scr_gka
-  oomp_key_extra: oomp_symbol_device_q_scr_gka
-  oomp_key_full: oomp_symbol_device_q_scr_gka_22ce34
-  oomp_key_simple: device_q_scr_gka
+  md5: 6a111818eea22d5d170a0b7e02c1479a
+  md5_10: 6a111818ee
+  md5_5: 6a111
+  md5_6: 6a1118
+  oomp_key: oomp_q_scr_gka
+  oomp_key_extra: oomp_symbol_q_scr_gka
+  oomp_key_full: oomp_symbol_q_scr_gka_6a1118
+  oomp_key_simple: q_scr_gka
   owner_name: kicad
-  symbol_name: device_q_scr_gka
+  symbol_name: q_scr_gka
 oomp_key: oomp_kicad_device_q_scr_gka
 oomp_key_simple: kicad_device_q_scr_gka
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_pca9306/working
   oomp_src_flat: symbols_flat/kicad_interface_pca9306/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_pca9306/working
-name: interface_pca9306
+name: pca9306
 oomp:
   library_name: interface
-  md5: 80d664c665ab4879749e48306e6f7038
-  md5_10: 80d664c665
-  md5_5: 80d66
-  md5_6: 80d664
-  oomp_key: oomp_interface_pca9306
-  oomp_key_extra: oomp_symbol_interface_pca9306
-  oomp_key_full: oomp_symbol_interface_pca9306_80d664
-  oomp_key_simple: interface_pca9306
+  md5: 10ba7b91eebe5b11cbcb4f557d6e41af
+  md5_10: 10ba7b91ee
+  md5_5: 10ba7
+  md5_6: 10ba7b
+  oomp_key: oomp_pca9306
+  oomp_key_extra: oomp_symbol_pca9306
+  oomp_key_full: oomp_symbol_pca9306_10ba7b
+  oomp_key_simple: pca9306
   owner_name: kicad
-  symbol_name: interface_pca9306
+  symbol_name: pca9306
 oomp_key: oomp_kicad_interface_pca9306
 oomp_key_simple: kicad_interface_pca9306
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

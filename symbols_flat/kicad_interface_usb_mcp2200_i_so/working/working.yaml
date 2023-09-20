@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_mcp2200_i_so/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_mcp2200_i_so/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_mcp2200_i_so/working
-name: interface_usb_mcp2200_i_so
+name: mcp2200_i_so
 oomp:
   library_name: interface_usb
-  md5: d6c635539948a85c18b3a243471cfde5
-  md5_10: d6c6355399
-  md5_5: d6c63
-  md5_6: d6c635
-  oomp_key: oomp_interface_usb_mcp2200_i_so
-  oomp_key_extra: oomp_symbol_interface_usb_mcp2200_i_so
-  oomp_key_full: oomp_symbol_interface_usb_mcp2200_i_so_d6c635
-  oomp_key_simple: interface_usb_mcp2200_i_so
+  md5: 8f5db89d46855fc3e70806a098e1df9a
+  md5_10: 8f5db89d46
+  md5_5: 8f5db
+  md5_6: 8f5db8
+  oomp_key: oomp_mcp2200_i_so
+  oomp_key_extra: oomp_symbol_mcp2200_i_so
+  oomp_key_full: oomp_symbol_mcp2200_i_so_8f5db8
+  oomp_key_simple: mcp2200_i_so
   owner_name: kicad
-  symbol_name: interface_usb_mcp2200_i_so
+  symbol_name: mcp2200_i_so
 oomp_key: oomp_kicad_interface_usb_mcp2200_i_so
 oomp_key_simple: kicad_interface_usb_mcp2200_i_so
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

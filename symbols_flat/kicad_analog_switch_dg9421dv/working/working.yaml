@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_dg9421dv/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_dg9421dv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_dg9421dv/working
-name: analog_switch_dg9421dv
+name: dg9421dv
 oomp:
   library_name: analog_switch
-  md5: c1d9cd538c0e1d6e573118a50547a42d
-  md5_10: c1d9cd538c
-  md5_5: c1d9c
-  md5_6: c1d9cd
-  oomp_key: oomp_analog_switch_dg9421dv
-  oomp_key_extra: oomp_symbol_analog_switch_dg9421dv
-  oomp_key_full: oomp_symbol_analog_switch_dg9421dv_c1d9cd
-  oomp_key_simple: analog_switch_dg9421dv
+  md5: 15eefa14c2dba76f9f1238b6efe637e4
+  md5_10: 15eefa14c2
+  md5_5: 15eef
+  md5_6: 15eefa
+  oomp_key: oomp_dg9421dv
+  oomp_key_extra: oomp_symbol_dg9421dv
+  oomp_key_full: oomp_symbol_dg9421dv_15eefa
+  oomp_key_simple: dg9421dv
   owner_name: kicad
-  symbol_name: analog_switch_dg9421dv
+  symbol_name: dg9421dv
 oomp_key: oomp_kicad_analog_switch_dg9421dv
 oomp_key_simple: kicad_analog_switch_dg9421dv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_reference_voltage_lt1461axs8_3_3
 library: reference_voltage
 library_name: Reference_Voltage
-name: reference_voltage_lt1461axs8_3_3
+name: lt1461axs8_3_3
 oomp:
   library_name: reference_voltage
-  md5: ad15ca679f70784f2fa03b68b472f62f
-  md5_10: ad15ca679f
-  md5_5: ad15c
-  md5_6: ad15ca
-  oomp_key: oomp_reference_voltage_lt1461axs8_3_3
-  oomp_key_extra: oomp_symbol_reference_voltage_lt1461axs8_3_3
-  oomp_key_full: oomp_symbol_reference_voltage_lt1461axs8_3_3_ad15ca
-  oomp_key_simple: reference_voltage_lt1461axs8_3_3
+  md5: 62bbce1942e63e8b3772556aa99d3a31
+  md5_10: 62bbce1942
+  md5_5: 62bbc
+  md5_6: 62bbce
+  oomp_key: oomp_lt1461axs8_3_3
+  oomp_key_extra: oomp_symbol_lt1461axs8_3_3
+  oomp_key_full: oomp_symbol_lt1461axs8_3_3_62bbce
+  oomp_key_simple: lt1461axs8_3_3
   owner_name: kicad
-  symbol_name: reference_voltage_lt1461axs8_3_3
+  symbol_name: lt1461axs8_3_3
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

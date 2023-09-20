@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_nvram_fm16w08_sg/working
   oomp_src_flat: symbols_flat/kicad_memory_nvram_fm16w08_sg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_nvram_fm16w08_sg/working
-name: memory_nvram_fm16w08_sg
+name: fm16w08_sg
 oomp:
   library_name: memory_nvram
-  md5: 697fca0887a8ed932b41d2b2e5a3c4cb
-  md5_10: 697fca0887
-  md5_5: 697fc
-  md5_6: 697fca
-  oomp_key: oomp_memory_nvram_fm16w08_sg
-  oomp_key_extra: oomp_symbol_memory_nvram_fm16w08_sg
-  oomp_key_full: oomp_symbol_memory_nvram_fm16w08_sg_697fca
-  oomp_key_simple: memory_nvram_fm16w08_sg
+  md5: 613930144b816832f433b7e524dc3083
+  md5_10: 613930144b
+  md5_5: '61393'
+  md5_6: '613930'
+  oomp_key: oomp_fm16w08_sg
+  oomp_key_extra: oomp_symbol_fm16w08_sg
+  oomp_key_full: oomp_symbol_fm16w08_sg_613930
+  oomp_key_simple: fm16w08_sg
   owner_name: kicad
-  symbol_name: memory_nvram_fm16w08_sg
+  symbol_name: fm16w08_sg
 oomp_key: oomp_kicad_memory_nvram_fm16w08_sg
 oomp_key_simple: kicad_memory_nvram_fm16w08_sg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

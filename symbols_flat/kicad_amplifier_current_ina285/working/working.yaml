@@ -1,19 +1,19 @@
 id: kicad_amplifier_current_ina285
 library: amplifier_current
 library_name: Amplifier_Current
-name: amplifier_current_ina285
+name: ina285
 oomp:
   library_name: amplifier_current
-  md5: bb93077784dd87d14cea290325a00517
-  md5_10: bb93077784
-  md5_5: bb930
-  md5_6: bb9307
-  oomp_key: oomp_amplifier_current_ina285
-  oomp_key_extra: oomp_symbol_amplifier_current_ina285
-  oomp_key_full: oomp_symbol_amplifier_current_ina285_bb9307
-  oomp_key_simple: amplifier_current_ina285
+  md5: 129b2ab00e0dabf35da14fbdc521ede4
+  md5_10: 129b2ab00e
+  md5_5: 129b2
+  md5_6: 129b2a
+  oomp_key: oomp_ina285
+  oomp_key_extra: oomp_symbol_ina285
+  oomp_key_full: oomp_symbol_ina285_129b2a
+  oomp_key_simple: ina285
   owner_name: kicad
-  symbol_name: amplifier_current_ina285
+  symbol_name: ina285
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

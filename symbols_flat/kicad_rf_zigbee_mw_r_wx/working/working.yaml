@@ -1,19 +1,19 @@
 id: kicad_rf_zigbee_mw_r_wx
 library: rf_zigbee
 library_name: RF_ZigBee
-name: rf_zigbee_mw_r_wx
+name: mw_r_wx
 oomp:
   library_name: rf_zigbee
-  md5: 82aa5d05ced7aa58471ed7b05a775a0d
-  md5_10: 82aa5d05ce
-  md5_5: 82aa5
-  md5_6: 82aa5d
-  oomp_key: oomp_rf_zigbee_mw_r_wx
-  oomp_key_extra: oomp_symbol_rf_zigbee_mw_r_wx
-  oomp_key_full: oomp_symbol_rf_zigbee_mw_r_wx_82aa5d
-  oomp_key_simple: rf_zigbee_mw_r_wx
+  md5: fb4b44828e2fdce663bfd06f9755f29f
+  md5_10: fb4b44828e
+  md5_5: fb4b4
+  md5_6: fb4b44
+  oomp_key: oomp_mw_r_wx
+  oomp_key_extra: oomp_symbol_mw_r_wx
+  oomp_key_full: oomp_symbol_mw_r_wx_fb4b44
+  oomp_key_simple: mw_r_wx
   owner_name: kicad
-  symbol_name: rf_zigbee_mw_r_wx
+  symbol_name: mw_r_wx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

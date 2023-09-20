@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_max31856/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_max31856/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_max31856/working
-name: sensor_temperature_max31856
+name: max31856
 oomp:
   library_name: sensor_temperature
-  md5: 13905a549e7bbbc5e12627a5d3e72f2f
-  md5_10: 13905a549e
-  md5_5: '13905'
-  md5_6: 13905a
-  oomp_key: oomp_sensor_temperature_max31856
-  oomp_key_extra: oomp_symbol_sensor_temperature_max31856
-  oomp_key_full: oomp_symbol_sensor_temperature_max31856_13905a
-  oomp_key_simple: sensor_temperature_max31856
+  md5: 4e068897bd400895161624ac0237a8a8
+  md5_10: 4e068897bd
+  md5_5: 4e068
+  md5_6: 4e0688
+  oomp_key: oomp_max31856
+  oomp_key_extra: oomp_symbol_max31856
+  oomp_key_full: oomp_symbol_max31856_4e0688
+  oomp_key_simple: max31856
   owner_name: kicad
-  symbol_name: sensor_temperature_max31856
+  symbol_name: max31856
 oomp_key: oomp_kicad_sensor_temperature_max31856
 oomp_key_simple: kicad_sensor_temperature_max31856
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

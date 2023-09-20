@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_dfa_s11/working
   oomp_src_flat: symbols_flat/kicad_oscillator_dfa_s11/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_dfa_s11/working
-name: oscillator_dfa_s11
+name: dfa_s11
 oomp:
   library_name: oscillator
-  md5: aaa9bf62e532287e5c1be3abf11df12d
-  md5_10: aaa9bf62e5
-  md5_5: aaa9b
-  md5_6: aaa9bf
-  oomp_key: oomp_oscillator_dfa_s11
-  oomp_key_extra: oomp_symbol_oscillator_dfa_s11
-  oomp_key_full: oomp_symbol_oscillator_dfa_s11_aaa9bf
-  oomp_key_simple: oscillator_dfa_s11
+  md5: a2dccf1720782e9b2cdeabebb7fc9ee4
+  md5_10: a2dccf1720
+  md5_5: a2dcc
+  md5_6: a2dccf
+  oomp_key: oomp_dfa_s11
+  oomp_key_extra: oomp_symbol_dfa_s11
+  oomp_key_full: oomp_symbol_dfa_s11_a2dccf
+  oomp_key_simple: dfa_s11
   owner_name: kicad
-  symbol_name: oscillator_dfa_s11
+  symbol_name: dfa_s11
 oomp_key: oomp_kicad_oscillator_dfa_s11
 oomp_key_simple: kicad_oscillator_dfa_s11
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

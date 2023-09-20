@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_commonanode_akk_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_commonanode_akk_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_commonanode_akk_split/working
-name: device_d_dual_commonanode_akk_split
+name: d_dual_commonanode_akk_split
 oomp:
   library_name: device
-  md5: d7dea862a5c6c43418ef7ade65d1a114
-  md5_10: d7dea862a5
-  md5_5: d7dea
-  md5_6: d7dea8
-  oomp_key: oomp_device_d_dual_commonanode_akk_split
-  oomp_key_extra: oomp_symbol_device_d_dual_commonanode_akk_split
-  oomp_key_full: oomp_symbol_device_d_dual_commonanode_akk_split_d7dea8
-  oomp_key_simple: device_d_dual_commonanode_akk_split
+  md5: 56e3d31b3528446666b2d1b492079862
+  md5_10: 56e3d31b35
+  md5_5: 56e3d
+  md5_6: 56e3d3
+  oomp_key: oomp_d_dual_commonanode_akk_split
+  oomp_key_extra: oomp_symbol_d_dual_commonanode_akk_split
+  oomp_key_full: oomp_symbol_d_dual_commonanode_akk_split_56e3d3
+  oomp_key_simple: d_dual_commonanode_akk_split
   owner_name: kicad
-  symbol_name: device_d_dual_commonanode_akk_split
+  symbol_name: d_dual_commonanode_akk_split
 oomp_key: oomp_kicad_device_d_dual_commonanode_akk_split
 oomp_key_simple: kicad_device_d_dual_commonanode_akk_split
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

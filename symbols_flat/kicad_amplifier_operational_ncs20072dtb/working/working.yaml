@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_ncs20072dtb/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ncs20072dtb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ncs20072dtb/working
-name: amplifier_operational_ncs20072dtb
+name: ncs20072dtb
 oomp:
   library_name: amplifier_operational
-  md5: 91ec3a35367e317b240b874e31b930d9
-  md5_10: 91ec3a3536
-  md5_5: 91ec3
-  md5_6: 91ec3a
-  oomp_key: oomp_amplifier_operational_ncs20072dtb
-  oomp_key_extra: oomp_symbol_amplifier_operational_ncs20072dtb
-  oomp_key_full: oomp_symbol_amplifier_operational_ncs20072dtb_91ec3a
-  oomp_key_simple: amplifier_operational_ncs20072dtb
+  md5: f026dad04d3204cc1ea32d4486c73a95
+  md5_10: f026dad04d
+  md5_5: f026d
+  md5_6: f026da
+  oomp_key: oomp_ncs20072dtb
+  oomp_key_extra: oomp_symbol_ncs20072dtb
+  oomp_key_full: oomp_symbol_ncs20072dtb_f026da
+  oomp_key_simple: ncs20072dtb
   owner_name: kicad
-  symbol_name: amplifier_operational_ncs20072dtb
+  symbol_name: ncs20072dtb
 oomp_key: oomp_kicad_amplifier_operational_ncs20072dtb
 oomp_key_simple: kicad_amplifier_operational_ncs20072dtb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

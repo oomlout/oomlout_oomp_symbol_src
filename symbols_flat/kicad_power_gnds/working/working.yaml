@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_gnds/working
   oomp_src_flat: symbols_flat/kicad_power_gnds/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_gnds/working
-name: power_gnds
+name: gnds
 oomp:
   library_name: power
-  md5: a6b108eb7d6ae1e2c931823512df98f3
-  md5_10: a6b108eb7d
-  md5_5: a6b10
-  md5_6: a6b108
-  oomp_key: oomp_power_gnds
-  oomp_key_extra: oomp_symbol_power_gnds
-  oomp_key_full: oomp_symbol_power_gnds_a6b108
-  oomp_key_simple: power_gnds
+  md5: ac8bfe0bc63710f1d4cdb9b5f8d7b250
+  md5_10: ac8bfe0bc6
+  md5_5: ac8bf
+  md5_6: ac8bfe
+  oomp_key: oomp_gnds
+  oomp_key_extra: oomp_symbol_gnds
+  oomp_key_full: oomp_symbol_gnds_ac8bfe
+  oomp_key_simple: gnds
   owner_name: kicad
-  symbol_name: power_gnds
+  symbol_name: gnds
 oomp_key: oomp_kicad_power_gnds
 oomp_key_simple: kicad_power_gnds
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

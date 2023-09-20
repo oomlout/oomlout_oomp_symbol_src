@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_mcp2562_e_mf/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_mcp2562_e_mf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_mcp2562_e_mf/working
-name: interface_can_lin_mcp2562_e_mf
+name: mcp2562_e_mf
 oomp:
   library_name: interface_can_lin
-  md5: 9e14f876fa87ddef659115b6b3a4c03f
-  md5_10: 9e14f876fa
-  md5_5: 9e14f
-  md5_6: 9e14f8
-  oomp_key: oomp_interface_can_lin_mcp2562_e_mf
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2562_e_mf
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2562_e_mf_9e14f8
-  oomp_key_simple: interface_can_lin_mcp2562_e_mf
+  md5: 8a17fcde752119592468dc72f3c2476d
+  md5_10: 8a17fcde75
+  md5_5: 8a17f
+  md5_6: 8a17fc
+  oomp_key: oomp_mcp2562_e_mf
+  oomp_key_extra: oomp_symbol_mcp2562_e_mf
+  oomp_key_full: oomp_symbol_mcp2562_e_mf_8a17fc
+  oomp_key_simple: mcp2562_e_mf
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2562_e_mf
+  symbol_name: mcp2562_e_mf
 oomp_key: oomp_kicad_interface_can_lin_mcp2562_e_mf
 oomp_key_simple: kicad_interface_can_lin_mcp2562_e_mf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

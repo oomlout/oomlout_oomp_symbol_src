@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_sn65lvds047d/working
   oomp_src_flat: symbols_flat/kicad_interface_sn65lvds047d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_sn65lvds047d/working
-name: interface_sn65lvds047d
+name: sn65lvds047d
 oomp:
   library_name: interface
-  md5: c070a87075504ec060197091bb71e724
-  md5_10: c070a87075
-  md5_5: c070a
-  md5_6: c070a8
-  oomp_key: oomp_interface_sn65lvds047d
-  oomp_key_extra: oomp_symbol_interface_sn65lvds047d
-  oomp_key_full: oomp_symbol_interface_sn65lvds047d_c070a8
-  oomp_key_simple: interface_sn65lvds047d
+  md5: bb81493f657de1c3b51cf17bb6ae7854
+  md5_10: bb81493f65
+  md5_5: bb814
+  md5_6: bb8149
+  oomp_key: oomp_sn65lvds047d
+  oomp_key_extra: oomp_symbol_sn65lvds047d
+  oomp_key_full: oomp_symbol_sn65lvds047d_bb8149
+  oomp_key_simple: sn65lvds047d
   owner_name: kicad
-  symbol_name: interface_sn65lvds047d
+  symbol_name: sn65lvds047d
 oomp_key: oomp_kicad_interface_sn65lvds047d
 oomp_key_simple: kicad_interface_sn65lvds047d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

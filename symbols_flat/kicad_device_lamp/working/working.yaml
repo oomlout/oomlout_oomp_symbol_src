@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_lamp/working
   oomp_src_flat: symbols_flat/kicad_device_lamp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_lamp/working
-name: device_lamp
+name: lamp
 oomp:
   library_name: device
-  md5: c3fd2c56bb458667462a957dc4ebf28d
-  md5_10: c3fd2c56bb
-  md5_5: c3fd2
-  md5_6: c3fd2c
-  oomp_key: oomp_device_lamp
-  oomp_key_extra: oomp_symbol_device_lamp
-  oomp_key_full: oomp_symbol_device_lamp_c3fd2c
-  oomp_key_simple: device_lamp
+  md5: 263addb7611158a2c3db7c164a20cc2f
+  md5_10: 263addb761
+  md5_5: 263ad
+  md5_6: 263add
+  oomp_key: oomp_lamp
+  oomp_key_extra: oomp_symbol_lamp
+  oomp_key_full: oomp_symbol_lamp_263add
+  oomp_key_simple: lamp
   owner_name: kicad
-  symbol_name: device_lamp
+  symbol_name: lamp
 oomp_key: oomp_kicad_device_lamp
 oomp_key_simple: kicad_device_lamp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps63030dsk/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps63030dsk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps63030dsk/working
-name: regulator_switching_tps63030dsk
+name: tps63030dsk
 oomp:
   library_name: regulator_switching
-  md5: 24c43960e97e60edf298b501cbdc8031
-  md5_10: 24c43960e9
-  md5_5: 24c43
-  md5_6: 24c439
-  oomp_key: oomp_regulator_switching_tps63030dsk
-  oomp_key_extra: oomp_symbol_regulator_switching_tps63030dsk
-  oomp_key_full: oomp_symbol_regulator_switching_tps63030dsk_24c439
-  oomp_key_simple: regulator_switching_tps63030dsk
+  md5: 3bf95c9d6ec299ca4e9c7df28794c851
+  md5_10: 3bf95c9d6e
+  md5_5: 3bf95
+  md5_6: 3bf95c
+  oomp_key: oomp_tps63030dsk
+  oomp_key_extra: oomp_symbol_tps63030dsk
+  oomp_key_full: oomp_symbol_tps63030dsk_3bf95c
+  oomp_key_simple: tps63030dsk
   owner_name: kicad
-  symbol_name: regulator_switching_tps63030dsk
+  symbol_name: tps63030dsk
 oomp_key: oomp_kicad_regulator_switching_tps63030dsk
 oomp_key_simple: kicad_regulator_switching_tps63030dsk
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

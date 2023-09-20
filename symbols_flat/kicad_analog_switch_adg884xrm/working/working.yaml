@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_adg884xrm/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_adg884xrm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_adg884xrm/working
-name: analog_switch_adg884xrm
+name: adg884xrm
 oomp:
   library_name: analog_switch
-  md5: 36be8955ad7cc745cc8b8eb829118660
-  md5_10: 36be8955ad
-  md5_5: 36be8
-  md5_6: 36be89
-  oomp_key: oomp_analog_switch_adg884xrm
-  oomp_key_extra: oomp_symbol_analog_switch_adg884xrm
-  oomp_key_full: oomp_symbol_analog_switch_adg884xrm_36be89
-  oomp_key_simple: analog_switch_adg884xrm
+  md5: 86b4a761935d5f811ab4c21f101a4674
+  md5_10: 86b4a76193
+  md5_5: 86b4a
+  md5_6: 86b4a7
+  oomp_key: oomp_adg884xrm
+  oomp_key_extra: oomp_symbol_adg884xrm
+  oomp_key_full: oomp_symbol_adg884xrm_86b4a7
+  oomp_key_simple: adg884xrm
   owner_name: kicad
-  symbol_name: analog_switch_adg884xrm
+  symbol_name: adg884xrm
 oomp_key: oomp_kicad_analog_switch_adg884xrm
 oomp_key_simple: kicad_analog_switch_adg884xrm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

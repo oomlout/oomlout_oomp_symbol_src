@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ice3pcs02/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ice3pcs02/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ice3pcs02/working
-name: regulator_controller_ice3pcs02
+name: ice3pcs02
 oomp:
   library_name: regulator_controller
-  md5: 77bb05642b0f7b430517d1ae13bb0c2d
-  md5_10: 77bb05642b
-  md5_5: 77bb0
-  md5_6: 77bb05
-  oomp_key: oomp_regulator_controller_ice3pcs02
-  oomp_key_extra: oomp_symbol_regulator_controller_ice3pcs02
-  oomp_key_full: oomp_symbol_regulator_controller_ice3pcs02_77bb05
-  oomp_key_simple: regulator_controller_ice3pcs02
+  md5: e7aadd0bbdb42861f9613399975f8c12
+  md5_10: e7aadd0bbd
+  md5_5: e7aad
+  md5_6: e7aadd
+  oomp_key: oomp_ice3pcs02
+  oomp_key_extra: oomp_symbol_ice3pcs02
+  oomp_key_full: oomp_symbol_ice3pcs02_e7aadd
+  oomp_key_simple: ice3pcs02
   owner_name: kicad
-  symbol_name: regulator_controller_ice3pcs02
+  symbol_name: ice3pcs02
 oomp_key: oomp_kicad_regulator_controller_ice3pcs02
 oomp_key_simple: kicad_regulator_controller_ice3pcs02
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

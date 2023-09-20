@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_optical_tsdp341xx/working
   oomp_src_flat: symbols_flat/kicad_interface_optical_tsdp341xx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_optical_tsdp341xx/working
-name: interface_optical_tsdp341xx
+name: tsdp341xx
 oomp:
   library_name: interface_optical
-  md5: f084d7be6909e95474320484e20611df
-  md5_10: f084d7be69
-  md5_5: f084d
-  md5_6: f084d7
-  oomp_key: oomp_interface_optical_tsdp341xx
-  oomp_key_extra: oomp_symbol_interface_optical_tsdp341xx
-  oomp_key_full: oomp_symbol_interface_optical_tsdp341xx_f084d7
-  oomp_key_simple: interface_optical_tsdp341xx
+  md5: d2ce4407fa717284a392d80f998aef38
+  md5_10: d2ce4407fa
+  md5_5: d2ce4
+  md5_6: d2ce44
+  oomp_key: oomp_tsdp341xx
+  oomp_key_extra: oomp_symbol_tsdp341xx
+  oomp_key_full: oomp_symbol_tsdp341xx_d2ce44
+  oomp_key_simple: tsdp341xx
   owner_name: kicad
-  symbol_name: interface_optical_tsdp341xx
+  symbol_name: tsdp341xx
 oomp_key: oomp_kicad_interface_optical_tsdp341xx
 oomp_key_simple: kicad_interface_optical_tsdp341xx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

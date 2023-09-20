@@ -1,19 +1,19 @@
 id: kicad_diode_mbr0520
 library: diode
 library_name: Diode
-name: diode_mbr0520
+name: mbr0520
 oomp:
   library_name: diode
-  md5: 8750bc51cba81b517693ab9176156241
-  md5_10: 8750bc51cb
-  md5_5: 8750b
-  md5_6: 8750bc
-  oomp_key: oomp_diode_mbr0520
-  oomp_key_extra: oomp_symbol_diode_mbr0520
-  oomp_key_full: oomp_symbol_diode_mbr0520_8750bc
-  oomp_key_simple: diode_mbr0520
+  md5: db024004d1150529dc2953e47aac127d
+  md5_10: db024004d1
+  md5_5: db024
+  md5_6: db0240
+  oomp_key: oomp_mbr0520
+  oomp_key_extra: oomp_symbol_mbr0520
+  oomp_key_full: oomp_symbol_mbr0520_db0240
+  oomp_key_simple: mbr0520
   owner_name: kicad
-  symbol_name: diode_mbr0520
+  symbol_name: mbr0520
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_motor_servo_airtronics/working
   oomp_src_flat: symbols_flat/kicad_motor_servo_airtronics/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_motor_servo_airtronics/working
-name: motor_motor_servo_airtronics
+name: servo_airtronics
 oomp:
   library_name: motor
-  md5: 4c51f490a360c3d594b36e4c2880fbff
-  md5_10: 4c51f490a3
-  md5_5: 4c51f
-  md5_6: 4c51f4
-  oomp_key: oomp_motor_motor_servo_airtronics
-  oomp_key_extra: oomp_symbol_motor_motor_servo_airtronics
-  oomp_key_full: oomp_symbol_motor_motor_servo_airtronics_4c51f4
-  oomp_key_simple: motor_motor_servo_airtronics
+  md5: 783ccecd3d683a30b38d6ad18bd70014
+  md5_10: 783ccecd3d
+  md5_5: 783cc
+  md5_6: 783cce
+  oomp_key: oomp_servo_airtronics
+  oomp_key_extra: oomp_symbol_servo_airtronics
+  oomp_key_full: oomp_symbol_servo_airtronics_783cce
+  oomp_key_simple: servo_airtronics
   owner_name: kicad
-  symbol_name: motor_motor_servo_airtronics
+  symbol_name: servo_airtronics
 oomp_key: oomp_kicad_motor_servo_airtronics
 oomp_key_simple: kicad_motor_servo_airtronics
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

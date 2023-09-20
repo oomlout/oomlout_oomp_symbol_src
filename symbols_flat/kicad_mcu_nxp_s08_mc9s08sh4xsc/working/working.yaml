@@ -1,19 +1,19 @@
 id: kicad_mcu_nxp_s08_mc9s08sh4xsc
 library: mcu_nxp_s08
 library_name: MCU_NXP_S08
-name: mcu_nxp_s08_mc9s08sh4xsc
+name: mc9s08sh4xsc
 oomp:
   library_name: mcu_nxp_s08
-  md5: f8cedb702277f1cf519f763c34ee21ef
-  md5_10: f8cedb7022
-  md5_5: f8ced
-  md5_6: f8cedb
-  oomp_key: oomp_mcu_nxp_s08_mc9s08sh4xsc
-  oomp_key_extra: oomp_symbol_mcu_nxp_s08_mc9s08sh4xsc
-  oomp_key_full: oomp_symbol_mcu_nxp_s08_mc9s08sh4xsc_f8cedb
-  oomp_key_simple: mcu_nxp_s08_mc9s08sh4xsc
+  md5: caa79314e01afe40619cb4fe16febd49
+  md5_10: caa79314e0
+  md5_5: caa79
+  md5_6: caa793
+  oomp_key: oomp_mc9s08sh4xsc
+  oomp_key_extra: oomp_symbol_mc9s08sh4xsc
+  oomp_key_full: oomp_symbol_mc9s08sh4xsc_caa793
+  oomp_key_simple: mc9s08sh4xsc
   owner_name: kicad
-  symbol_name: mcu_nxp_s08_mc9s08sh4xsc
+  symbol_name: mc9s08sh4xsc
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

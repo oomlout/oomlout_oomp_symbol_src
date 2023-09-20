@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_de113_xx_xx/working
   oomp_src_flat: symbols_flat/kicad_display_character_de113_xx_xx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_de113_xx_xx/working
-name: display_character_de113_xx_xx
+name: de113_xx_xx
 oomp:
   library_name: display_character
-  md5: 09bbb5a2eb2242e6f8ea091abd762d2d
-  md5_10: 09bbb5a2eb
-  md5_5: 09bbb
-  md5_6: 09bbb5
-  oomp_key: oomp_display_character_de113_xx_xx
-  oomp_key_extra: oomp_symbol_display_character_de113_xx_xx
-  oomp_key_full: oomp_symbol_display_character_de113_xx_xx_09bbb5
-  oomp_key_simple: display_character_de113_xx_xx
+  md5: 58c882b614b0b21b3ae86427fc87452c
+  md5_10: 58c882b614
+  md5_5: 58c88
+  md5_6: 58c882
+  oomp_key: oomp_de113_xx_xx
+  oomp_key_extra: oomp_symbol_de113_xx_xx
+  oomp_key_full: oomp_symbol_de113_xx_xx_58c882
+  oomp_key_simple: de113_xx_xx
   owner_name: kicad
-  symbol_name: display_character_de113_xx_xx
+  symbol_name: de113_xx_xx
 oomp_key: oomp_kicad_display_character_de113_xx_xx
 oomp_key_simple: kicad_display_character_de113_xx_xx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

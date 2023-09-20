@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_ltc4055/working
   oomp_src_flat: symbols_flat/kicad_battery_management_ltc4055/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_ltc4055/working
-name: battery_management_ltc4055
+name: ltc4055
 oomp:
   library_name: battery_management
-  md5: c625d097296e5fda0439cb8d44df2473
-  md5_10: c625d09729
-  md5_5: c625d
-  md5_6: c625d0
-  oomp_key: oomp_battery_management_ltc4055
-  oomp_key_extra: oomp_symbol_battery_management_ltc4055
-  oomp_key_full: oomp_symbol_battery_management_ltc4055_c625d0
-  oomp_key_simple: battery_management_ltc4055
+  md5: f0859c42c4f96f2ba3f5bf937936ce77
+  md5_10: f0859c42c4
+  md5_5: f0859
+  md5_6: f0859c
+  oomp_key: oomp_ltc4055
+  oomp_key_extra: oomp_symbol_ltc4055
+  oomp_key_full: oomp_symbol_ltc4055_f0859c
+  oomp_key_simple: ltc4055
   owner_name: kicad
-  symbol_name: battery_management_ltc4055
+  symbol_name: ltc4055
 oomp_key: oomp_kicad_battery_management_ltc4055
 oomp_key_simple: kicad_battery_management_ltc4055
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

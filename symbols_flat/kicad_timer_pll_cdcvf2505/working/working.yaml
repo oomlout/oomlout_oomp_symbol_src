@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_pll_cdcvf2505/working
   oomp_src_flat: symbols_flat/kicad_timer_pll_cdcvf2505/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_pll_cdcvf2505/working
-name: timer_pll_cdcvf2505
+name: cdcvf2505
 oomp:
   library_name: timer_pll
-  md5: c172b963a526e6aae9dddf2819a5dfcf
-  md5_10: c172b963a5
-  md5_5: c172b
-  md5_6: c172b9
-  oomp_key: oomp_timer_pll_cdcvf2505
-  oomp_key_extra: oomp_symbol_timer_pll_cdcvf2505
-  oomp_key_full: oomp_symbol_timer_pll_cdcvf2505_c172b9
-  oomp_key_simple: timer_pll_cdcvf2505
+  md5: 6d6b716a96bda4c02ca4a04f3b605641
+  md5_10: 6d6b716a96
+  md5_5: 6d6b7
+  md5_6: 6d6b71
+  oomp_key: oomp_cdcvf2505
+  oomp_key_extra: oomp_symbol_cdcvf2505
+  oomp_key_full: oomp_symbol_cdcvf2505_6d6b71
+  oomp_key_simple: cdcvf2505
   owner_name: kicad
-  symbol_name: timer_pll_cdcvf2505
+  symbol_name: cdcvf2505
 oomp_key: oomp_kicad_timer_pll_cdcvf2505
 oomp_key_simple: kicad_timer_pll_cdcvf2505
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

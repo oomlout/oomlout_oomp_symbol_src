@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_bluetooth_rfd77101/working
   oomp_src_flat: symbols_flat/kicad_rf_bluetooth_rfd77101/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_bluetooth_rfd77101/working
-name: rf_bluetooth_rfd77101
+name: rfd77101
 oomp:
   library_name: rf_bluetooth
-  md5: 0aa0146403a80311abcb8c7e07684405
-  md5_10: 0aa0146403
-  md5_5: 0aa01
-  md5_6: 0aa014
-  oomp_key: oomp_rf_bluetooth_rfd77101
-  oomp_key_extra: oomp_symbol_rf_bluetooth_rfd77101
-  oomp_key_full: oomp_symbol_rf_bluetooth_rfd77101_0aa014
-  oomp_key_simple: rf_bluetooth_rfd77101
+  md5: c679e25333998663869e79170b89e5c4
+  md5_10: c679e25333
+  md5_5: c679e
+  md5_6: c679e2
+  oomp_key: oomp_rfd77101
+  oomp_key_extra: oomp_symbol_rfd77101
+  oomp_key_full: oomp_symbol_rfd77101_c679e2
+  oomp_key_simple: rfd77101
   owner_name: kicad
-  symbol_name: rf_bluetooth_rfd77101
+  symbol_name: rfd77101
 oomp_key: oomp_kicad_rf_bluetooth_rfd77101
 oomp_key_simple: kicad_rf_bluetooth_rfd77101
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

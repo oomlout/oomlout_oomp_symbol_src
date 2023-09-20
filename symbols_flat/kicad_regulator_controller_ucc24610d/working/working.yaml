@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ucc24610d/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ucc24610d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ucc24610d/working
-name: regulator_controller_ucc24610d
+name: ucc24610d
 oomp:
   library_name: regulator_controller
-  md5: 55120547cb3599f2704f6ae3e9aa838c
-  md5_10: 55120547cb
-  md5_5: '55120'
-  md5_6: '551205'
-  oomp_key: oomp_regulator_controller_ucc24610d
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc24610d
-  oomp_key_full: oomp_symbol_regulator_controller_ucc24610d_551205
-  oomp_key_simple: regulator_controller_ucc24610d
+  md5: 970df44974e560f038e81985968d083c
+  md5_10: 970df44974
+  md5_5: 970df
+  md5_6: 970df4
+  oomp_key: oomp_ucc24610d
+  oomp_key_extra: oomp_symbol_ucc24610d
+  oomp_key_full: oomp_symbol_ucc24610d_970df4
+  oomp_key_simple: ucc24610d
   owner_name: kicad
-  symbol_name: regulator_controller_ucc24610d
+  symbol_name: ucc24610d
 oomp_key: oomp_kicad_regulator_controller_ucc24610d
 oomp_key_simple: kicad_regulator_controller_ucc24610d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_atmega_atmega32u2_a
 library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
-name: mcu_microchip_atmega_atmega32u2_a
+name: atmega32u2_a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 501b9c4ee4a741a2c2392b965a10cf13
-  md5_10: 501b9c4ee4
-  md5_5: 501b9
-  md5_6: 501b9c
-  oomp_key: oomp_mcu_microchip_atmega_atmega32u2_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega32u2_a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega32u2_a_501b9c
-  oomp_key_simple: mcu_microchip_atmega_atmega32u2_a
+  md5: 631006313bda8bf07d926fffb1e399d9
+  md5_10: 631006313b
+  md5_5: '63100'
+  md5_6: '631006'
+  oomp_key: oomp_atmega32u2_a
+  oomp_key_extra: oomp_symbol_atmega32u2_a
+  oomp_key_full: oomp_symbol_atmega32u2_a_631006
+  oomp_key_simple: atmega32u2_a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega32u2_a
+  symbol_name: atmega32u2_a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

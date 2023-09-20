@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_hip4082xp/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_hip4082xp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_hip4082xp/working
-name: driver_fet_hip4082xp
+name: hip4082xp
 oomp:
   library_name: driver_fet
-  md5: 88d3dc8007f56d7e2a10f6a17c7e296b
-  md5_10: 88d3dc8007
-  md5_5: 88d3d
-  md5_6: 88d3dc
-  oomp_key: oomp_driver_fet_hip4082xp
-  oomp_key_extra: oomp_symbol_driver_fet_hip4082xp
-  oomp_key_full: oomp_symbol_driver_fet_hip4082xp_88d3dc
-  oomp_key_simple: driver_fet_hip4082xp
+  md5: e3e282b1ba9e41cd0bf4c77eeb30ea3d
+  md5_10: e3e282b1ba
+  md5_5: e3e28
+  md5_6: e3e282
+  oomp_key: oomp_hip4082xp
+  oomp_key_extra: oomp_symbol_hip4082xp
+  oomp_key_full: oomp_symbol_hip4082xp_e3e282
+  oomp_key_simple: hip4082xp
   owner_name: kicad
-  symbol_name: driver_fet_hip4082xp
+  symbol_name: hip4082xp
 oomp_key: oomp_kicad_driver_fet_hip4082xp
 oomp_key_simple: kicad_driver_fet_hip4082xp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

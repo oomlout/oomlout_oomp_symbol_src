@@ -1,19 +1,19 @@
 id: kicad_reference_voltage_lm385bz_2_5
 library: reference_voltage
 library_name: Reference_Voltage
-name: reference_voltage_lm385bz_2_5
+name: lm385bz_2_5
 oomp:
   library_name: reference_voltage
-  md5: 9669919f7cc7282ebf046a39913b41da
-  md5_10: 9669919f7c
-  md5_5: '96699'
-  md5_6: '966991'
-  oomp_key: oomp_reference_voltage_lm385bz_2_5
-  oomp_key_extra: oomp_symbol_reference_voltage_lm385bz_2_5
-  oomp_key_full: oomp_symbol_reference_voltage_lm385bz_2_5_966991
-  oomp_key_simple: reference_voltage_lm385bz_2_5
+  md5: 0684e959a457ee9918c14ec9044cd742
+  md5_10: 0684e959a4
+  md5_5: 0684e
+  md5_6: 0684e9
+  oomp_key: oomp_lm385bz_2_5
+  oomp_key_extra: oomp_symbol_lm385bz_2_5
+  oomp_key_full: oomp_symbol_lm385bz_2_5_0684e9
+  oomp_key_simple: lm385bz_2_5
   owner_name: kicad
-  symbol_name: reference_voltage_lm385bz_2_5
+  symbol_name: lm385bz_2_5
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

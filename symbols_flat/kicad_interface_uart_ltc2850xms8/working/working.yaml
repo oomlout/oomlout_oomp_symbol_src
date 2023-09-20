@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_ltc2850xms8/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_ltc2850xms8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_ltc2850xms8/working
-name: interface_uart_ltc2850xms8
+name: ltc2850xms8
 oomp:
   library_name: interface_uart
-  md5: 44288c89e5b1951900a75f6edfc31e98
-  md5_10: 44288c89e5
-  md5_5: '44288'
-  md5_6: 44288c
-  oomp_key: oomp_interface_uart_ltc2850xms8
-  oomp_key_extra: oomp_symbol_interface_uart_ltc2850xms8
-  oomp_key_full: oomp_symbol_interface_uart_ltc2850xms8_44288c
-  oomp_key_simple: interface_uart_ltc2850xms8
+  md5: 04218f9b4ac11976f42118a1a7ecbf43
+  md5_10: 04218f9b4a
+  md5_5: 04218
+  md5_6: 04218f
+  oomp_key: oomp_ltc2850xms8
+  oomp_key_extra: oomp_symbol_ltc2850xms8
+  oomp_key_full: oomp_symbol_ltc2850xms8_04218f
+  oomp_key_simple: ltc2850xms8
   owner_name: kicad
-  symbol_name: interface_uart_ltc2850xms8
+  symbol_name: ltc2850xms8
 oomp_key: oomp_kicad_interface_uart_ltc2850xms8
 oomp_key_simple: kicad_interface_uart_ltc2850xms8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_interface_usb_mcp2200t_i_mq
 library: interface_usb
 library_name: Interface_USB
-name: interface_usb_mcp2200t_i_mq
+name: mcp2200t_i_mq
 oomp:
   library_name: interface_usb
-  md5: 53ea9bb456e11dc3a3820b8be6bec903
-  md5_10: 53ea9bb456
-  md5_5: 53ea9
-  md5_6: 53ea9b
-  oomp_key: oomp_interface_usb_mcp2200t_i_mq
-  oomp_key_extra: oomp_symbol_interface_usb_mcp2200t_i_mq
-  oomp_key_full: oomp_symbol_interface_usb_mcp2200t_i_mq_53ea9b
-  oomp_key_simple: interface_usb_mcp2200t_i_mq
+  md5: 7f942189e4393fa10820652b5daa480f
+  md5_10: 7f942189e4
+  md5_5: 7f942
+  md5_6: 7f9421
+  oomp_key: oomp_mcp2200t_i_mq
+  oomp_key_extra: oomp_symbol_mcp2200t_i_mq
+  oomp_key_full: oomp_symbol_mcp2200t_i_mq_7f9421
+  oomp_key_simple: mcp2200t_i_mq
   owner_name: kicad
-  symbol_name: interface_usb_mcp2200t_i_mq
+  symbol_name: mcp2200t_i_mq
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

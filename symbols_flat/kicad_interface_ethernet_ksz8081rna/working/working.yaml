@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_ksz8081rna/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_ksz8081rna/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_ksz8081rna/working
-name: interface_ethernet_ksz8081rna
+name: ksz8081rna
 oomp:
   library_name: interface_ethernet
-  md5: 792cb2e821ee5ca4bba272b4ba4a6db0
-  md5_10: 792cb2e821
-  md5_5: 792cb
-  md5_6: 792cb2
-  oomp_key: oomp_interface_ethernet_ksz8081rna
-  oomp_key_extra: oomp_symbol_interface_ethernet_ksz8081rna
-  oomp_key_full: oomp_symbol_interface_ethernet_ksz8081rna_792cb2
-  oomp_key_simple: interface_ethernet_ksz8081rna
+  md5: c77582058e42fe97fa8d632127f1cfa7
+  md5_10: c77582058e
+  md5_5: c7758
+  md5_6: c77582
+  oomp_key: oomp_ksz8081rna
+  oomp_key_extra: oomp_symbol_ksz8081rna
+  oomp_key_full: oomp_symbol_ksz8081rna_c77582
+  oomp_key_simple: ksz8081rna
   owner_name: kicad
-  symbol_name: interface_ethernet_ksz8081rna
+  symbol_name: ksz8081rna
 oomp_key: oomp_kicad_interface_ethernet_ksz8081rna
 oomp_key_simple: kicad_interface_ethernet_ksz8081rna
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

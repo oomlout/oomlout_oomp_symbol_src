@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_max323cua/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_max323cua/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_max323cua/working
-name: analog_switch_max323cua
+name: max323cua
 oomp:
   library_name: analog_switch
-  md5: 4754b5efbcbaec47fcd87e6b566508c1
-  md5_10: 4754b5efbc
-  md5_5: 4754b
-  md5_6: 4754b5
-  oomp_key: oomp_analog_switch_max323cua
-  oomp_key_extra: oomp_symbol_analog_switch_max323cua
-  oomp_key_full: oomp_symbol_analog_switch_max323cua_4754b5
-  oomp_key_simple: analog_switch_max323cua
+  md5: 947717f803f350b56c1099f6c41cb7b7
+  md5_10: 947717f803
+  md5_5: '94771'
+  md5_6: '947717'
+  oomp_key: oomp_max323cua
+  oomp_key_extra: oomp_symbol_max323cua
+  oomp_key_full: oomp_symbol_max323cua_947717
+  oomp_key_simple: max323cua
   owner_name: kicad
-  symbol_name: analog_switch_max323cua
+  symbol_name: max323cua
 oomp_key: oomp_kicad_analog_switch_max323cua
 oomp_key_simple: kicad_analog_switch_max323cua
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

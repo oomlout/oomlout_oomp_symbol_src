@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_cree_xhp70_6v/working
   oomp_src_flat: symbols_flat/kicad_led_cree_xhp70_6v/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_cree_xhp70_6v/working
-name: led_led_cree_xhp70_6v
+name: cree_xhp70_6v
 oomp:
   library_name: led
-  md5: a4c070028f9871ddb84d6501979b75ab
-  md5_10: a4c070028f
-  md5_5: a4c07
-  md5_6: a4c070
-  oomp_key: oomp_led_led_cree_xhp70_6v
-  oomp_key_extra: oomp_symbol_led_led_cree_xhp70_6v
-  oomp_key_full: oomp_symbol_led_led_cree_xhp70_6v_a4c070
-  oomp_key_simple: led_led_cree_xhp70_6v
+  md5: be3314aa430b400a9123aa12f324b0b8
+  md5_10: be3314aa43
+  md5_5: be331
+  md5_6: be3314
+  oomp_key: oomp_cree_xhp70_6v
+  oomp_key_extra: oomp_symbol_cree_xhp70_6v
+  oomp_key_full: oomp_symbol_cree_xhp70_6v_be3314
+  oomp_key_simple: cree_xhp70_6v
   owner_name: kicad
-  symbol_name: led_led_cree_xhp70_6v
+  symbol_name: cree_xhp70_6v
 oomp_key: oomp_kicad_led_cree_xhp70_6v
 oomp_key_simple: kicad_led_cree_xhp70_6v
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

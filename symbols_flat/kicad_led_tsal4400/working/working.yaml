@@ -1,19 +1,19 @@
 id: kicad_led_tsal4400
 library: led
 library_name: LED
-name: led_tsal4400
+name: tsal4400
 oomp:
   library_name: led
-  md5: 453cce852a80fd0c0a060d1fc58698b2
-  md5_10: 453cce852a
-  md5_5: 453cc
-  md5_6: 453cce
-  oomp_key: oomp_led_tsal4400
-  oomp_key_extra: oomp_symbol_led_tsal4400
-  oomp_key_full: oomp_symbol_led_tsal4400_453cce
-  oomp_key_simple: led_tsal4400
+  md5: 0356892610269a294fcbf24b1338f40c
+  md5_10: 0356892610
+  md5_5: 03568
+  md5_6: 035689
+  oomp_key: oomp_tsal4400
+  oomp_key_extra: oomp_symbol_tsal4400
+  oomp_key_full: oomp_symbol_tsal4400_035689
+  oomp_key_simple: tsal4400
   owner_name: kicad
-  symbol_name: led_tsal4400
+  symbol_name: tsal4400
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

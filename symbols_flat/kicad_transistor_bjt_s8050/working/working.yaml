@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_s8050/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_s8050/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_s8050/working
-name: transistor_bjt_s8050
+name: s8050
 oomp:
   library_name: transistor_bjt
-  md5: 479a58fc573677210f0adeea57ceb550
-  md5_10: 479a58fc57
-  md5_5: 479a5
-  md5_6: 479a58
-  oomp_key: oomp_transistor_bjt_s8050
-  oomp_key_extra: oomp_symbol_transistor_bjt_s8050
-  oomp_key_full: oomp_symbol_transistor_bjt_s8050_479a58
-  oomp_key_simple: transistor_bjt_s8050
+  md5: 2167dfa599ead8c45d9c6797d9ae3277
+  md5_10: 2167dfa599
+  md5_5: 2167d
+  md5_6: 2167df
+  oomp_key: oomp_s8050
+  oomp_key_extra: oomp_symbol_s8050
+  oomp_key_full: oomp_symbol_s8050_2167df
+  oomp_key_simple: s8050
   owner_name: kicad
-  symbol_name: transistor_bjt_s8050
+  symbol_name: s8050
 oomp_key: oomp_kicad_transistor_bjt_s8050
 oomp_key_simple: kicad_transistor_bjt_s8050
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

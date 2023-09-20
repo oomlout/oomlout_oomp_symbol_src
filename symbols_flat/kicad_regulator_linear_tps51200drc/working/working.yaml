@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tps51200drc/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tps51200drc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tps51200drc/working
-name: regulator_linear_tps51200drc
+name: tps51200drc
 oomp:
   library_name: regulator_linear
-  md5: 6d71032f79b220d5dd6c0115cf4c22bf
-  md5_10: 6d71032f79
-  md5_5: 6d710
-  md5_6: 6d7103
-  oomp_key: oomp_regulator_linear_tps51200drc
-  oomp_key_extra: oomp_symbol_regulator_linear_tps51200drc
-  oomp_key_full: oomp_symbol_regulator_linear_tps51200drc_6d7103
-  oomp_key_simple: regulator_linear_tps51200drc
+  md5: d88825d95aad142a965c79a6101beafe
+  md5_10: d88825d95a
+  md5_5: d8882
+  md5_6: d88825
+  oomp_key: oomp_tps51200drc
+  oomp_key_extra: oomp_symbol_tps51200drc
+  oomp_key_full: oomp_symbol_tps51200drc_d88825
+  oomp_key_simple: tps51200drc
   owner_name: kicad
-  symbol_name: regulator_linear_tps51200drc
+  symbol_name: tps51200drc
 oomp_key: oomp_kicad_regulator_linear_tps51200drc
 oomp_key_simple: kicad_regulator_linear_tps51200drc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

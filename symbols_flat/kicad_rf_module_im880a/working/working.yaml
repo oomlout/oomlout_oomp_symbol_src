@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_im880a/working
   oomp_src_flat: symbols_flat/kicad_rf_module_im880a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_im880a/working
-name: rf_module_im880a
+name: im880a
 oomp:
   library_name: rf_module
-  md5: 69f89f7fd3c8f63e72984ba62e46c98d
-  md5_10: 69f89f7fd3
-  md5_5: 69f89
-  md5_6: 69f89f
-  oomp_key: oomp_rf_module_im880a
-  oomp_key_extra: oomp_symbol_rf_module_im880a
-  oomp_key_full: oomp_symbol_rf_module_im880a_69f89f
-  oomp_key_simple: rf_module_im880a
+  md5: cae8c5ed2457e0ab8683b0030358ebdf
+  md5_10: cae8c5ed24
+  md5_5: cae8c
+  md5_6: cae8c5
+  oomp_key: oomp_im880a
+  oomp_key_extra: oomp_symbol_im880a
+  oomp_key_full: oomp_symbol_im880a_cae8c5
+  oomp_key_simple: im880a
   owner_name: kicad
-  symbol_name: rf_module_im880a
+  symbol_name: im880a
 oomp_key: oomp_kicad_rf_module_im880a
 oomp_key_simple: kicad_rf_module_im880a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

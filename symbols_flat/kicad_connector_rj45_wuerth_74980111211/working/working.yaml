@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_rj45_wuerth_74980111211/working
   oomp_src_flat: symbols_flat/kicad_connector_rj45_wuerth_74980111211/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_rj45_wuerth_74980111211/working
-name: connector_rj45_wuerth_74980111211
+name: rj45_wuerth_74980111211
 oomp:
   library_name: connector
-  md5: 0c53d04ef44c15567f1b6dc737276d8b
-  md5_10: 0c53d04ef4
-  md5_5: 0c53d
-  md5_6: 0c53d0
-  oomp_key: oomp_connector_rj45_wuerth_74980111211
-  oomp_key_extra: oomp_symbol_connector_rj45_wuerth_74980111211
-  oomp_key_full: oomp_symbol_connector_rj45_wuerth_74980111211_0c53d0
-  oomp_key_simple: connector_rj45_wuerth_74980111211
+  md5: d4793696c9e8e90d0728b79110b0cc13
+  md5_10: d4793696c9
+  md5_5: d4793
+  md5_6: d47936
+  oomp_key: oomp_rj45_wuerth_74980111211
+  oomp_key_extra: oomp_symbol_rj45_wuerth_74980111211
+  oomp_key_full: oomp_symbol_rj45_wuerth_74980111211_d47936
+  oomp_key_simple: rj45_wuerth_74980111211
   owner_name: kicad
-  symbol_name: connector_rj45_wuerth_74980111211
+  symbol_name: rj45_wuerth_74980111211
 oomp_key: oomp_kicad_connector_rj45_wuerth_74980111211
 oomp_key_simple: kicad_connector_rj45_wuerth_74980111211
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

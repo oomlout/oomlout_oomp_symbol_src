@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_commoncathode_kaa_parallel/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_commoncathode_kaa_parallel/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_commoncathode_kaa_parallel/working
-name: device_d_dual_commoncathode_kaa_parallel
+name: d_dual_commoncathode_kaa_parallel
 oomp:
   library_name: device
-  md5: 1c68638a99f930cb639f7b550d8f2aee
-  md5_10: 1c68638a99
-  md5_5: 1c686
-  md5_6: 1c6863
-  oomp_key: oomp_device_d_dual_commoncathode_kaa_parallel
-  oomp_key_extra: oomp_symbol_device_d_dual_commoncathode_kaa_parallel
-  oomp_key_full: oomp_symbol_device_d_dual_commoncathode_kaa_parallel_1c6863
-  oomp_key_simple: device_d_dual_commoncathode_kaa_parallel
+  md5: e23e7c56ea6eba2ff7587d3916c5554e
+  md5_10: e23e7c56ea
+  md5_5: e23e7
+  md5_6: e23e7c
+  oomp_key: oomp_d_dual_commoncathode_kaa_parallel
+  oomp_key_extra: oomp_symbol_d_dual_commoncathode_kaa_parallel
+  oomp_key_full: oomp_symbol_d_dual_commoncathode_kaa_parallel_e23e7c
+  oomp_key_simple: d_dual_commoncathode_kaa_parallel
   owner_name: kicad
-  symbol_name: device_d_dual_commoncathode_kaa_parallel
+  symbol_name: d_dual_commoncathode_kaa_parallel
 oomp_key: oomp_kicad_device_d_dual_commoncathode_kaa_parallel
 oomp_key_simple: kicad_device_d_dual_commoncathode_kaa_parallel
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_ncs1s1203sc/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_ncs1s1203sc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_ncs1s1203sc/working
-name: converter_dcdc_ncs1s1203sc
+name: ncs1s1203sc
 oomp:
   library_name: converter_dcdc
-  md5: e45439d98dbec92b52e2849a053a25e0
-  md5_10: e45439d98d
-  md5_5: e4543
-  md5_6: e45439
-  oomp_key: oomp_converter_dcdc_ncs1s1203sc
-  oomp_key_extra: oomp_symbol_converter_dcdc_ncs1s1203sc
-  oomp_key_full: oomp_symbol_converter_dcdc_ncs1s1203sc_e45439
-  oomp_key_simple: converter_dcdc_ncs1s1203sc
+  md5: 2508cf73c7cd21bb2125ecbe68d5405f
+  md5_10: 2508cf73c7
+  md5_5: 2508c
+  md5_6: 2508cf
+  oomp_key: oomp_ncs1s1203sc
+  oomp_key_extra: oomp_symbol_ncs1s1203sc
+  oomp_key_full: oomp_symbol_ncs1s1203sc_2508cf
+  oomp_key_simple: ncs1s1203sc
   owner_name: kicad
-  symbol_name: converter_dcdc_ncs1s1203sc
+  symbol_name: ncs1s1203sc
 oomp_key: oomp_kicad_converter_dcdc_ncs1s1203sc
 oomp_key_simple: kicad_converter_dcdc_ncs1s1203sc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

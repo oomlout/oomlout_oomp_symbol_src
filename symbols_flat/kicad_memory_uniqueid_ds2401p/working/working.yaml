@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_uniqueid_ds2401p/working
   oomp_src_flat: symbols_flat/kicad_memory_uniqueid_ds2401p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_uniqueid_ds2401p/working
-name: memory_uniqueid_ds2401p
+name: ds2401p
 oomp:
   library_name: memory_uniqueid
-  md5: 280aa73581a10e656103f8de98b0351e
-  md5_10: 280aa73581
-  md5_5: 280aa
-  md5_6: 280aa7
-  oomp_key: oomp_memory_uniqueid_ds2401p
-  oomp_key_extra: oomp_symbol_memory_uniqueid_ds2401p
-  oomp_key_full: oomp_symbol_memory_uniqueid_ds2401p_280aa7
-  oomp_key_simple: memory_uniqueid_ds2401p
+  md5: 57af2370b30306ba9247a312d5b91741
+  md5_10: 57af2370b3
+  md5_5: 57af2
+  md5_6: 57af23
+  oomp_key: oomp_ds2401p
+  oomp_key_extra: oomp_symbol_ds2401p
+  oomp_key_full: oomp_symbol_ds2401p_57af23
+  oomp_key_simple: ds2401p
   owner_name: kicad
-  symbol_name: memory_uniqueid_ds2401p
+  symbol_name: ds2401p
 oomp_key: oomp_kicad_memory_uniqueid_ds2401p
 oomp_key_simple: kicad_memory_uniqueid_ds2401p
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

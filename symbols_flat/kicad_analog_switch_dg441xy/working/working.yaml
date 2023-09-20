@@ -1,19 +1,19 @@
 id: kicad_analog_switch_dg441xy
 library: analog_switch
 library_name: Analog_Switch
-name: analog_switch_dg441xy
+name: dg441xy
 oomp:
   library_name: analog_switch
-  md5: b5e849f98fd1880bbdf6c8f2b9914bbf
-  md5_10: b5e849f98f
-  md5_5: b5e84
-  md5_6: b5e849
-  oomp_key: oomp_analog_switch_dg441xy
-  oomp_key_extra: oomp_symbol_analog_switch_dg441xy
-  oomp_key_full: oomp_symbol_analog_switch_dg441xy_b5e849
-  oomp_key_simple: analog_switch_dg441xy
+  md5: e7320807ef2cb51523148071778ce25a
+  md5_10: e7320807ef
+  md5_5: e7320
+  md5_6: e73208
+  oomp_key: oomp_dg441xy
+  oomp_key_extra: oomp_symbol_dg441xy
+  oomp_key_full: oomp_symbol_dg441xy_e73208
+  oomp_key_simple: dg441xy
   owner_name: kicad
-  symbol_name: analog_switch_dg441xy
+  symbol_name: dg441xy
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

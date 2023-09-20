@@ -1,19 +1,19 @@
 id: kicad_memory_eeprom_br25sxxx
 library: memory_eeprom
 library_name: Memory_EEPROM
-name: memory_eeprom_br25sxxx
+name: br25sxxx
 oomp:
   library_name: memory_eeprom
-  md5: b6daca326657886b16e142b9e3144cb7
-  md5_10: b6daca3266
-  md5_5: b6dac
-  md5_6: b6daca
-  oomp_key: oomp_memory_eeprom_br25sxxx
-  oomp_key_extra: oomp_symbol_memory_eeprom_br25sxxx
-  oomp_key_full: oomp_symbol_memory_eeprom_br25sxxx_b6daca
-  oomp_key_simple: memory_eeprom_br25sxxx
+  md5: 2a878a6f2a12475c24a1cf599a055195
+  md5_10: 2a878a6f2a
+  md5_5: 2a878
+  md5_6: 2a878a
+  oomp_key: oomp_br25sxxx
+  oomp_key_extra: oomp_symbol_br25sxxx
+  oomp_key_full: oomp_symbol_br25sxxx_2a878a
+  oomp_key_simple: br25sxxx
   owner_name: kicad
-  symbol_name: memory_eeprom_br25sxxx
+  symbol_name: br25sxxx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

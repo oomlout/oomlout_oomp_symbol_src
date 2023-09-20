@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_gps_neo_m8p/working
   oomp_src_flat: symbols_flat/kicad_rf_gps_neo_m8p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_gps_neo_m8p/working
-name: rf_gps_neo_m8p
+name: neo_m8p
 oomp:
   library_name: rf_gps
-  md5: aa04cfccb84cb5513a1834d3b235f239
-  md5_10: aa04cfccb8
-  md5_5: aa04c
-  md5_6: aa04cf
-  oomp_key: oomp_rf_gps_neo_m8p
-  oomp_key_extra: oomp_symbol_rf_gps_neo_m8p
-  oomp_key_full: oomp_symbol_rf_gps_neo_m8p_aa04cf
-  oomp_key_simple: rf_gps_neo_m8p
+  md5: a177346e0e49ef8d348c11123261755a
+  md5_10: a177346e0e
+  md5_5: a1773
+  md5_6: a17734
+  oomp_key: oomp_neo_m8p
+  oomp_key_extra: oomp_symbol_neo_m8p
+  oomp_key_full: oomp_symbol_neo_m8p_a17734
+  oomp_key_simple: neo_m8p
   owner_name: kicad
-  symbol_name: rf_gps_neo_m8p
+  symbol_name: neo_m8p
 oomp_key: oomp_kicad_rf_gps_neo_m8p
 oomp_key_simple: kicad_rf_gps_neo_m8p
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

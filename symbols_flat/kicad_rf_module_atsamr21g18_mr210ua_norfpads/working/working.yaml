@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_atsamr21g18_mr210ua_norfpads/working
   oomp_src_flat: symbols_flat/kicad_rf_module_atsamr21g18_mr210ua_norfpads/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_atsamr21g18_mr210ua_norfpads/working
-name: rf_module_atsamr21g18_mr210ua_norfpads
+name: atsamr21g18_mr210ua_norfpads
 oomp:
   library_name: rf_module
-  md5: ad0a3fc773af23063a10e4e6b80fc515
-  md5_10: ad0a3fc773
-  md5_5: ad0a3
-  md5_6: ad0a3f
-  oomp_key: oomp_rf_module_atsamr21g18_mr210ua_norfpads
-  oomp_key_extra: oomp_symbol_rf_module_atsamr21g18_mr210ua_norfpads
-  oomp_key_full: oomp_symbol_rf_module_atsamr21g18_mr210ua_norfpads_ad0a3f
-  oomp_key_simple: rf_module_atsamr21g18_mr210ua_norfpads
+  md5: dc02fada8e1a2bede8ff8ad53a212958
+  md5_10: dc02fada8e
+  md5_5: dc02f
+  md5_6: dc02fa
+  oomp_key: oomp_atsamr21g18_mr210ua_norfpads
+  oomp_key_extra: oomp_symbol_atsamr21g18_mr210ua_norfpads
+  oomp_key_full: oomp_symbol_atsamr21g18_mr210ua_norfpads_dc02fa
+  oomp_key_simple: atsamr21g18_mr210ua_norfpads
   owner_name: kicad
-  symbol_name: rf_module_atsamr21g18_mr210ua_norfpads
+  symbol_name: atsamr21g18_mr210ua_norfpads
 oomp_key: oomp_kicad_rf_module_atsamr21g18_mr210ua_norfpads
 oomp_key_simple: kicad_rf_module_atsamr21g18_mr210ua_norfpads
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

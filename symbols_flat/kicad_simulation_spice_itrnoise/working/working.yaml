@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_itrnoise/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_itrnoise/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_itrnoise/working
-name: simulation_spice_itrnoise
+name: itrnoise
 oomp:
   library_name: simulation_spice
-  md5: ef370109a1a4c4fc45e2451f4ac63558
-  md5_10: ef370109a1
-  md5_5: ef370
-  md5_6: ef3701
-  oomp_key: oomp_simulation_spice_itrnoise
-  oomp_key_extra: oomp_symbol_simulation_spice_itrnoise
-  oomp_key_full: oomp_symbol_simulation_spice_itrnoise_ef3701
-  oomp_key_simple: simulation_spice_itrnoise
+  md5: 62746c7f293ff80ebbdc387680a033ce
+  md5_10: 62746c7f29
+  md5_5: '62746'
+  md5_6: 62746c
+  oomp_key: oomp_itrnoise
+  oomp_key_extra: oomp_symbol_itrnoise
+  oomp_key_full: oomp_symbol_itrnoise_62746c
+  oomp_key_simple: itrnoise
   owner_name: kicad
-  symbol_name: simulation_spice_itrnoise
+  symbol_name: itrnoise
 oomp_key: oomp_kicad_simulation_spice_itrnoise
 oomp_key_simple: kicad_simulation_spice_itrnoise
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

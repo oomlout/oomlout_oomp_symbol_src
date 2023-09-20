@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_z8530/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_z8530/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_z8530/working
-name: interface_uart_z8530
+name: z8530
 oomp:
   library_name: interface_uart
-  md5: 522174c32906a3f56b27e87db4ef6152
-  md5_10: 522174c329
-  md5_5: '52217'
-  md5_6: '522174'
-  oomp_key: oomp_interface_uart_z8530
-  oomp_key_extra: oomp_symbol_interface_uart_z8530
-  oomp_key_full: oomp_symbol_interface_uart_z8530_522174
-  oomp_key_simple: interface_uart_z8530
+  md5: a9f4ecb3a6ff266e98739cd0a642963a
+  md5_10: a9f4ecb3a6
+  md5_5: a9f4e
+  md5_6: a9f4ec
+  oomp_key: oomp_z8530
+  oomp_key_extra: oomp_symbol_z8530
+  oomp_key_full: oomp_symbol_z8530_a9f4ec
+  oomp_key_simple: z8530
   owner_name: kicad
-  symbol_name: interface_uart_z8530
+  symbol_name: z8530
 oomp_key: oomp_kicad_interface_uart_z8530
 oomp_key_simple: kicad_interface_uart_z8530
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

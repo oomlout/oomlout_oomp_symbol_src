@@ -1,19 +1,19 @@
 id: kicad_sensor_magnetic_tmag5110b2xxdbv
 library: sensor_magnetic
 library_name: Sensor_Magnetic
-name: sensor_magnetic_tmag5110b2xxdbv
+name: tmag5110b2xxdbv
 oomp:
   library_name: sensor_magnetic
-  md5: 8dcb70438e3507a7591f1b657cf2913f
-  md5_10: 8dcb70438e
-  md5_5: 8dcb7
-  md5_6: 8dcb70
-  oomp_key: oomp_sensor_magnetic_tmag5110b2xxdbv
-  oomp_key_extra: oomp_symbol_sensor_magnetic_tmag5110b2xxdbv
-  oomp_key_full: oomp_symbol_sensor_magnetic_tmag5110b2xxdbv_8dcb70
-  oomp_key_simple: sensor_magnetic_tmag5110b2xxdbv
+  md5: 689723347daee3ef7c86241e2d9bc90c
+  md5_10: 689723347d
+  md5_5: '68972'
+  md5_6: '689723'
+  oomp_key: oomp_tmag5110b2xxdbv
+  oomp_key_extra: oomp_symbol_tmag5110b2xxdbv
+  oomp_key_full: oomp_symbol_tmag5110b2xxdbv_689723
+  oomp_key_simple: tmag5110b2xxdbv
   owner_name: kicad
-  symbol_name: sensor_magnetic_tmag5110b2xxdbv
+  symbol_name: tmag5110b2xxdbv
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

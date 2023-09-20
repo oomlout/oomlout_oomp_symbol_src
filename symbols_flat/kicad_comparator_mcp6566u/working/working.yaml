@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_mcp6566u/working
   oomp_src_flat: symbols_flat/kicad_comparator_mcp6566u/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_mcp6566u/working
-name: comparator_mcp6566u
+name: mcp6566u
 oomp:
   library_name: comparator
-  md5: 672eebed7ee6cb7d688b7521964d8570
-  md5_10: 672eebed7e
-  md5_5: 672ee
-  md5_6: 672eeb
-  oomp_key: oomp_comparator_mcp6566u
-  oomp_key_extra: oomp_symbol_comparator_mcp6566u
-  oomp_key_full: oomp_symbol_comparator_mcp6566u_672eeb
-  oomp_key_simple: comparator_mcp6566u
+  md5: dffeedcb198a069645f65d9ebd0a8bda
+  md5_10: dffeedcb19
+  md5_5: dffee
+  md5_6: dffeed
+  oomp_key: oomp_mcp6566u
+  oomp_key_extra: oomp_symbol_mcp6566u
+  oomp_key_full: oomp_symbol_mcp6566u_dffeed
+  oomp_key_simple: mcp6566u
   owner_name: kicad
-  symbol_name: comparator_mcp6566u
+  symbol_name: mcp6566u
 oomp_key: oomp_kicad_comparator_mcp6566u
 oomp_key_simple: kicad_comparator_mcp6566u
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_dual_npn_pnp_brt_e1b1c2e2b2c1/working
   oomp_src_flat: symbols_flat/kicad_device_q_dual_npn_pnp_brt_e1b1c2e2b2c1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_dual_npn_pnp_brt_e1b1c2e2b2c1/working
-name: device_q_dual_npn_pnp_brt_e1b1c2e2b2c1
+name: q_dual_npn_pnp_brt_e1b1c2e2b2c1
 oomp:
   library_name: device
-  md5: ebbe0a6cc9acab9c9bf503a1d514d8bf
-  md5_10: ebbe0a6cc9
-  md5_5: ebbe0
-  md5_6: ebbe0a
-  oomp_key: oomp_device_q_dual_npn_pnp_brt_e1b1c2e2b2c1
-  oomp_key_extra: oomp_symbol_device_q_dual_npn_pnp_brt_e1b1c2e2b2c1
-  oomp_key_full: oomp_symbol_device_q_dual_npn_pnp_brt_e1b1c2e2b2c1_ebbe0a
-  oomp_key_simple: device_q_dual_npn_pnp_brt_e1b1c2e2b2c1
+  md5: 11a423c1169eb7258f4c5710ca0fd474
+  md5_10: 11a423c116
+  md5_5: 11a42
+  md5_6: 11a423
+  oomp_key: oomp_q_dual_npn_pnp_brt_e1b1c2e2b2c1
+  oomp_key_extra: oomp_symbol_q_dual_npn_pnp_brt_e1b1c2e2b2c1
+  oomp_key_full: oomp_symbol_q_dual_npn_pnp_brt_e1b1c2e2b2c1_11a423
+  oomp_key_simple: q_dual_npn_pnp_brt_e1b1c2e2b2c1
   owner_name: kicad
-  symbol_name: device_q_dual_npn_pnp_brt_e1b1c2e2b2c1
+  symbol_name: q_dual_npn_pnp_brt_e1b1c2e2b2c1
 oomp_key: oomp_kicad_device_q_dual_npn_pnp_brt_e1b1c2e2b2c1
 oomp_key_simple: kicad_device_q_dual_npn_pnp_brt_e1b1c2e2b2c1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

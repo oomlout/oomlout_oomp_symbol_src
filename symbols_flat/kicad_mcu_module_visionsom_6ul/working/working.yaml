@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_module_visionsom_6ul/working
   oomp_src_flat: symbols_flat/kicad_mcu_module_visionsom_6ul/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_module_visionsom_6ul/working
-name: mcu_module_visionsom_6ul
+name: visionsom_6ul
 oomp:
   library_name: mcu_module
-  md5: b8d5769834bb94805aec03abb09d2c06
-  md5_10: b8d5769834
-  md5_5: b8d57
-  md5_6: b8d576
-  oomp_key: oomp_mcu_module_visionsom_6ul
-  oomp_key_extra: oomp_symbol_mcu_module_visionsom_6ul
-  oomp_key_full: oomp_symbol_mcu_module_visionsom_6ul_b8d576
-  oomp_key_simple: mcu_module_visionsom_6ul
+  md5: 7d245ca4de2a8a852956fe73a0075d2b
+  md5_10: 7d245ca4de
+  md5_5: 7d245
+  md5_6: 7d245c
+  oomp_key: oomp_visionsom_6ul
+  oomp_key_extra: oomp_symbol_visionsom_6ul
+  oomp_key_full: oomp_symbol_visionsom_6ul_7d245c
+  oomp_key_simple: visionsom_6ul
   owner_name: kicad
-  symbol_name: mcu_module_visionsom_6ul
+  symbol_name: visionsom_6ul
 oomp_key: oomp_kicad_mcu_module_visionsom_6ul
 oomp_key_simple: kicad_mcu_module_visionsom_6ul
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_driver_motor_sla7073mprt
 library: driver_motor
 library_name: Driver_Motor
-name: driver_motor_sla7073mprt
+name: sla7073mprt
 oomp:
   library_name: driver_motor
-  md5: 1a7cdf2813f0393fa275247a9e73f856
-  md5_10: 1a7cdf2813
-  md5_5: 1a7cd
-  md5_6: 1a7cdf
-  oomp_key: oomp_driver_motor_sla7073mprt
-  oomp_key_extra: oomp_symbol_driver_motor_sla7073mprt
-  oomp_key_full: oomp_symbol_driver_motor_sla7073mprt_1a7cdf
-  oomp_key_simple: driver_motor_sla7073mprt
+  md5: 2c341dc8ed556fc1e127eac1711e4515
+  md5_10: 2c341dc8ed
+  md5_5: 2c341
+  md5_6: 2c341d
+  oomp_key: oomp_sla7073mprt
+  oomp_key_extra: oomp_symbol_sla7073mprt
+  oomp_key_full: oomp_symbol_sla7073mprt_2c341d
+  oomp_key_simple: sla7073mprt
   owner_name: kicad
-  symbol_name: driver_motor_sla7073mprt
+  symbol_name: sla7073mprt
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

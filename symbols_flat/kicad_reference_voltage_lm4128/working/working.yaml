@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_lm4128/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_lm4128/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_lm4128/working
-name: reference_voltage_lm4128
+name: lm4128
 oomp:
   library_name: reference_voltage
-  md5: 3d32942d1c7aed92a0cb6c3fd806ab03
-  md5_10: 3d32942d1c
-  md5_5: 3d329
-  md5_6: 3d3294
-  oomp_key: oomp_reference_voltage_lm4128
-  oomp_key_extra: oomp_symbol_reference_voltage_lm4128
-  oomp_key_full: oomp_symbol_reference_voltage_lm4128_3d3294
-  oomp_key_simple: reference_voltage_lm4128
+  md5: 1120b4361ffa90b109f8ec895f27f583
+  md5_10: 1120b4361f
+  md5_5: 1120b
+  md5_6: 1120b4
+  oomp_key: oomp_lm4128
+  oomp_key_extra: oomp_symbol_lm4128
+  oomp_key_full: oomp_symbol_lm4128_1120b4
+  oomp_key_simple: lm4128
   owner_name: kicad
-  symbol_name: reference_voltage_lm4128
+  symbol_name: lm4128
 oomp_key: oomp_kicad_reference_voltage_lm4128
 oomp_key_simple: kicad_reference_voltage_lm4128
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

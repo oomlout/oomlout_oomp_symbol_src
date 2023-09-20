@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_sn65lvds1dbv/working
   oomp_src_flat: symbols_flat/kicad_interface_sn65lvds1dbv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_sn65lvds1dbv/working
-name: interface_sn65lvds1dbv
+name: sn65lvds1dbv
 oomp:
   library_name: interface
-  md5: 4ae82967a4214d1429192c6fc4f8deb0
-  md5_10: 4ae82967a4
-  md5_5: 4ae82
-  md5_6: 4ae829
-  oomp_key: oomp_interface_sn65lvds1dbv
-  oomp_key_extra: oomp_symbol_interface_sn65lvds1dbv
-  oomp_key_full: oomp_symbol_interface_sn65lvds1dbv_4ae829
-  oomp_key_simple: interface_sn65lvds1dbv
+  md5: 73d1b6e493ec568d1cdb2684f3a43656
+  md5_10: 73d1b6e493
+  md5_5: 73d1b
+  md5_6: 73d1b6
+  oomp_key: oomp_sn65lvds1dbv
+  oomp_key_extra: oomp_symbol_sn65lvds1dbv
+  oomp_key_full: oomp_symbol_sn65lvds1dbv_73d1b6
+  oomp_key_simple: sn65lvds1dbv
   owner_name: kicad
-  symbol_name: interface_sn65lvds1dbv
+  symbol_name: sn65lvds1dbv
 oomp_key: oomp_kicad_interface_sn65lvds1dbv
 oomp_key_simple: kicad_interface_sn65lvds1dbv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

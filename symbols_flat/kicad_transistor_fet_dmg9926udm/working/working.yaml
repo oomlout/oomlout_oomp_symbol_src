@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_dmg9926udm/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_dmg9926udm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_dmg9926udm/working
-name: transistor_fet_dmg9926udm
+name: dmg9926udm
 oomp:
   library_name: transistor_fet
-  md5: ab1924f0214a0461ec5c325e31de3043
-  md5_10: ab1924f021
-  md5_5: ab192
-  md5_6: ab1924
-  oomp_key: oomp_transistor_fet_dmg9926udm
-  oomp_key_extra: oomp_symbol_transistor_fet_dmg9926udm
-  oomp_key_full: oomp_symbol_transistor_fet_dmg9926udm_ab1924
-  oomp_key_simple: transistor_fet_dmg9926udm
+  md5: 48be4ee915a6341e475c9ef1fff50eb7
+  md5_10: 48be4ee915
+  md5_5: 48be4
+  md5_6: 48be4e
+  oomp_key: oomp_dmg9926udm
+  oomp_key_extra: oomp_symbol_dmg9926udm
+  oomp_key_full: oomp_symbol_dmg9926udm_48be4e
+  oomp_key_simple: dmg9926udm
   owner_name: kicad
-  symbol_name: transistor_fet_dmg9926udm
+  symbol_name: dmg9926udm
 oomp_key: oomp_kicad_transistor_fet_dmg9926udm
 oomp_key_simple: kicad_transistor_fet_dmg9926udm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

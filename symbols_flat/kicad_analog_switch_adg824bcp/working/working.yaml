@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_adg824bcp/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_adg824bcp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_adg824bcp/working
-name: analog_switch_adg824bcp
+name: adg824bcp
 oomp:
   library_name: analog_switch
-  md5: 35d0fe543d7f3f377556d8798f93ab35
-  md5_10: 35d0fe543d
-  md5_5: 35d0f
-  md5_6: 35d0fe
-  oomp_key: oomp_analog_switch_adg824bcp
-  oomp_key_extra: oomp_symbol_analog_switch_adg824bcp
-  oomp_key_full: oomp_symbol_analog_switch_adg824bcp_35d0fe
-  oomp_key_simple: analog_switch_adg824bcp
+  md5: 46937a24c70df4081d03d6cb21d73666
+  md5_10: 46937a24c7
+  md5_5: '46937'
+  md5_6: 46937a
+  oomp_key: oomp_adg824bcp
+  oomp_key_extra: oomp_symbol_adg824bcp
+  oomp_key_full: oomp_symbol_adg824bcp_46937a
+  oomp_key_simple: adg824bcp
   owner_name: kicad
-  symbol_name: analog_switch_adg824bcp
+  symbol_name: adg824bcp
 oomp_key: oomp_kicad_analog_switch_adg824bcp
 oomp_key_simple: kicad_analog_switch_adg824bcp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

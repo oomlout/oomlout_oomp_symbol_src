@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_csd18501q5a
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_csd18501q5a
+name: csd18501q5a
 oomp:
   library_name: transistor_fet
-  md5: 0d6294bb1fab6c0085915e5b0723824f
-  md5_10: 0d6294bb1f
-  md5_5: 0d629
-  md5_6: 0d6294
-  oomp_key: oomp_transistor_fet_csd18501q5a
-  oomp_key_extra: oomp_symbol_transistor_fet_csd18501q5a
-  oomp_key_full: oomp_symbol_transistor_fet_csd18501q5a_0d6294
-  oomp_key_simple: transistor_fet_csd18501q5a
+  md5: 0aa8a8c8b05ab503e71bdfa19f355c47
+  md5_10: 0aa8a8c8b0
+  md5_5: 0aa8a
+  md5_6: 0aa8a8
+  oomp_key: oomp_csd18501q5a
+  oomp_key_extra: oomp_symbol_csd18501q5a
+  oomp_key_full: oomp_symbol_csd18501q5a_0aa8a8
+  oomp_key_simple: csd18501q5a
   owner_name: kicad
-  symbol_name: transistor_fet_csd18501q5a
+  symbol_name: csd18501q5a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

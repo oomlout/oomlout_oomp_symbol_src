@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_l_coupled_1324/working
   oomp_src_flat: symbols_flat/kicad_device_l_coupled_1324/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_l_coupled_1324/working
-name: device_l_coupled_1324
+name: l_coupled_1324
 oomp:
   library_name: device
-  md5: 88c0d3eed07375842852b43081659cad
-  md5_10: 88c0d3eed0
-  md5_5: 88c0d
-  md5_6: 88c0d3
-  oomp_key: oomp_device_l_coupled_1324
-  oomp_key_extra: oomp_symbol_device_l_coupled_1324
-  oomp_key_full: oomp_symbol_device_l_coupled_1324_88c0d3
-  oomp_key_simple: device_l_coupled_1324
+  md5: b061071f64fb243a82e909db58ad5de2
+  md5_10: b061071f64
+  md5_5: b0610
+  md5_6: b06107
+  oomp_key: oomp_l_coupled_1324
+  oomp_key_extra: oomp_symbol_l_coupled_1324
+  oomp_key_full: oomp_symbol_l_coupled_1324_b06107
+  oomp_key_simple: l_coupled_1324
   owner_name: kicad
-  symbol_name: device_l_coupled_1324
+  symbol_name: l_coupled_1324
 oomp_key: oomp_kicad_device_l_coupled_1324
 oomp_key_simple: kicad_device_l_coupled_1324
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

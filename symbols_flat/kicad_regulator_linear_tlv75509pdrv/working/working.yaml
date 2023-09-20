@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tlv75509pdrv/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tlv75509pdrv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tlv75509pdrv/working
-name: regulator_linear_tlv75509pdrv
+name: tlv75509pdrv
 oomp:
   library_name: regulator_linear
-  md5: 6d3a8c9becd49ff4045ad08accb9ef1b
-  md5_10: 6d3a8c9bec
-  md5_5: 6d3a8
-  md5_6: 6d3a8c
-  oomp_key: oomp_regulator_linear_tlv75509pdrv
-  oomp_key_extra: oomp_symbol_regulator_linear_tlv75509pdrv
-  oomp_key_full: oomp_symbol_regulator_linear_tlv75509pdrv_6d3a8c
-  oomp_key_simple: regulator_linear_tlv75509pdrv
+  md5: d25f5d69925dbadf5043c5c01b978365
+  md5_10: d25f5d6992
+  md5_5: d25f5
+  md5_6: d25f5d
+  oomp_key: oomp_tlv75509pdrv
+  oomp_key_extra: oomp_symbol_tlv75509pdrv
+  oomp_key_full: oomp_symbol_tlv75509pdrv_d25f5d
+  oomp_key_simple: tlv75509pdrv
   owner_name: kicad
-  symbol_name: regulator_linear_tlv75509pdrv
+  symbol_name: tlv75509pdrv
 oomp_key: oomp_kicad_regulator_linear_tlv75509pdrv
 oomp_key_simple: kicad_regulator_linear_tlv75509pdrv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

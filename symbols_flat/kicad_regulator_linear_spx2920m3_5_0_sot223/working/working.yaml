@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_spx2920m3_5_0_sot223
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_spx2920m3_5_0_sot223
+name: spx2920m3_5_0_sot223
 oomp:
   library_name: regulator_linear
-  md5: d3210cbb61b57acc12d30d65f2b0928f
-  md5_10: d3210cbb61
-  md5_5: d3210
-  md5_6: d3210c
-  oomp_key: oomp_regulator_linear_spx2920m3_5_0_sot223
-  oomp_key_extra: oomp_symbol_regulator_linear_spx2920m3_5_0_sot223
-  oomp_key_full: oomp_symbol_regulator_linear_spx2920m3_5_0_sot223_d3210c
-  oomp_key_simple: regulator_linear_spx2920m3_5_0_sot223
+  md5: 053047c56d00401d6150281190f48993
+  md5_10: 053047c56d
+  md5_5: '05304'
+  md5_6: '053047'
+  oomp_key: oomp_spx2920m3_5_0_sot223
+  oomp_key_extra: oomp_symbol_spx2920m3_5_0_sot223
+  oomp_key_full: oomp_symbol_spx2920m3_5_0_sot223_053047
+  oomp_key_simple: spx2920m3_5_0_sot223
   owner_name: kicad
-  symbol_name: regulator_linear_spx2920m3_5_0_sot223
+  symbol_name: spx2920m3_5_0_sot223
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

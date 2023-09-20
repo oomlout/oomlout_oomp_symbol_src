@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bas40_04/working
   oomp_src_flat: symbols_flat/kicad_diode_bas40_04/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bas40_04/working
-name: diode_bas40_04
+name: bas40_04
 oomp:
   library_name: diode
-  md5: dd461aa87a299fdb18ad03f0db0d941d
-  md5_10: dd461aa87a
-  md5_5: dd461
-  md5_6: dd461a
-  oomp_key: oomp_diode_bas40_04
-  oomp_key_extra: oomp_symbol_diode_bas40_04
-  oomp_key_full: oomp_symbol_diode_bas40_04_dd461a
-  oomp_key_simple: diode_bas40_04
+  md5: 05ab61b7747a92798f09f921b7e928e2
+  md5_10: 05ab61b774
+  md5_5: 05ab6
+  md5_6: 05ab61
+  oomp_key: oomp_bas40_04
+  oomp_key_extra: oomp_symbol_bas40_04
+  oomp_key_full: oomp_symbol_bas40_04_05ab61
+  oomp_key_simple: bas40_04
   owner_name: kicad
-  symbol_name: diode_bas40_04
+  symbol_name: bas40_04
 oomp_key: oomp_kicad_diode_bas40_04
 oomp_key_simple: kicad_diode_bas40_04
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_tlv62084dsgx
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_tlv62084dsgx
+name: tlv62084dsgx
 oomp:
   library_name: regulator_switching
-  md5: 362d0b893254c75a964c13859b51fb1e
-  md5_10: 362d0b8932
-  md5_5: 362d0
-  md5_6: 362d0b
-  oomp_key: oomp_regulator_switching_tlv62084dsgx
-  oomp_key_extra: oomp_symbol_regulator_switching_tlv62084dsgx
-  oomp_key_full: oomp_symbol_regulator_switching_tlv62084dsgx_362d0b
-  oomp_key_simple: regulator_switching_tlv62084dsgx
+  md5: 424b6264c08e4b0df367eb76d5aeb2d2
+  md5_10: 424b6264c0
+  md5_5: 424b6
+  md5_6: 424b62
+  oomp_key: oomp_tlv62084dsgx
+  oomp_key_extra: oomp_symbol_tlv62084dsgx
+  oomp_key_full: oomp_symbol_tlv62084dsgx_424b62
+  oomp_key_simple: tlv62084dsgx
   owner_name: kicad
-  symbol_name: regulator_switching_tlv62084dsgx
+  symbol_name: tlv62084dsgx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

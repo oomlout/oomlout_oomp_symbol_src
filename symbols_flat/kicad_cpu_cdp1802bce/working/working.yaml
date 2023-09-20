@@ -1,19 +1,19 @@
 id: kicad_cpu_cdp1802bce
 library: cpu
 library_name: CPU
-name: cpu_cdp1802bce
+name: cdp1802bce
 oomp:
   library_name: cpu
-  md5: 1a8f033cf2d184b5f16128f357e62dde
-  md5_10: 1a8f033cf2
-  md5_5: 1a8f0
-  md5_6: 1a8f03
-  oomp_key: oomp_cpu_cdp1802bce
-  oomp_key_extra: oomp_symbol_cpu_cdp1802bce
-  oomp_key_full: oomp_symbol_cpu_cdp1802bce_1a8f03
-  oomp_key_simple: cpu_cdp1802bce
+  md5: 8b43e37a548278dabe7ae410e53c718b
+  md5_10: 8b43e37a54
+  md5_5: 8b43e
+  md5_6: 8b43e3
+  oomp_key: oomp_cdp1802bce
+  oomp_key_extra: oomp_symbol_cdp1802bce
+  oomp_key_full: oomp_symbol_cdp1802bce_8b43e3
+  oomp_key_simple: cdp1802bce
   owner_name: kicad
-  symbol_name: cpu_cdp1802bce
+  symbol_name: cdp1802bce
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

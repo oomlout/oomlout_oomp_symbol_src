@@ -1,19 +1,19 @@
 id: kicad_oscillator_sg_210scd
 library: oscillator
 library_name: Oscillator
-name: oscillator_sg_210scd
+name: sg_210scd
 oomp:
   library_name: oscillator
-  md5: 7e00ff32b1dc29cdb1624518ea10e0bf
-  md5_10: 7e00ff32b1
-  md5_5: 7e00f
-  md5_6: 7e00ff
-  oomp_key: oomp_oscillator_sg_210scd
-  oomp_key_extra: oomp_symbol_oscillator_sg_210scd
-  oomp_key_full: oomp_symbol_oscillator_sg_210scd_7e00ff
-  oomp_key_simple: oscillator_sg_210scd
+  md5: 5beed7b2b35a09086289f32fd6a26f71
+  md5_10: 5beed7b2b3
+  md5_5: 5beed
+  md5_6: 5beed7
+  oomp_key: oomp_sg_210scd
+  oomp_key_extra: oomp_symbol_sg_210scd
+  oomp_key_full: oomp_symbol_sg_210scd_5beed7
+  oomp_key_simple: sg_210scd
   owner_name: kicad
-  symbol_name: oscillator_sg_210scd
+  symbol_name: sg_210scd
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

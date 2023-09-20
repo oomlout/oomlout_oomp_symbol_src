@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_is31fl3236_tq/working
   oomp_src_flat: symbols_flat/kicad_driver_led_is31fl3236_tq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_is31fl3236_tq/working
-name: driver_led_is31fl3236_tq
+name: is31fl3236_tq
 oomp:
   library_name: driver_led
-  md5: 55742b6c5d9183ad6c73c4812d7c3c10
-  md5_10: 55742b6c5d
-  md5_5: '55742'
-  md5_6: 55742b
-  oomp_key: oomp_driver_led_is31fl3236_tq
-  oomp_key_extra: oomp_symbol_driver_led_is31fl3236_tq
-  oomp_key_full: oomp_symbol_driver_led_is31fl3236_tq_55742b
-  oomp_key_simple: driver_led_is31fl3236_tq
+  md5: 3ebed1222ff749a109db37a4447fc419
+  md5_10: 3ebed1222f
+  md5_5: 3ebed
+  md5_6: 3ebed1
+  oomp_key: oomp_is31fl3236_tq
+  oomp_key_extra: oomp_symbol_is31fl3236_tq
+  oomp_key_full: oomp_symbol_is31fl3236_tq_3ebed1
+  oomp_key_simple: is31fl3236_tq
   owner_name: kicad
-  symbol_name: driver_led_is31fl3236_tq
+  symbol_name: is31fl3236_tq
 oomp_key: oomp_kicad_driver_led_is31fl3236_tq
 oomp_key_simple: kicad_driver_led_is31fl3236_tq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

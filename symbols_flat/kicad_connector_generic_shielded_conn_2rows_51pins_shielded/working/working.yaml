@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_shielded_conn_2rows_51pins_shielded/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_shielded_conn_2rows_51pins_shielded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_shielded_conn_2rows_51pins_shielded/working
-name: connector_generic_shielded_conn_2rows_51pins_shielded
+name: conn_2rows_51pins_shielded
 oomp:
   library_name: connector_generic_shielded
-  md5: 8f5e01392bdef0c485f849173a54bd22
-  md5_10: 8f5e01392b
-  md5_5: 8f5e0
-  md5_6: 8f5e01
-  oomp_key: oomp_connector_generic_shielded_conn_2rows_51pins_shielded
-  oomp_key_extra: oomp_symbol_connector_generic_shielded_conn_2rows_51pins_shielded
-  oomp_key_full: oomp_symbol_connector_generic_shielded_conn_2rows_51pins_shielded_8f5e01
-  oomp_key_simple: connector_generic_shielded_conn_2rows_51pins_shielded
+  md5: b9a7db85325d012f326e5c85a1d51eb0
+  md5_10: b9a7db8532
+  md5_5: b9a7d
+  md5_6: b9a7db
+  oomp_key: oomp_conn_2rows_51pins_shielded
+  oomp_key_extra: oomp_symbol_conn_2rows_51pins_shielded
+  oomp_key_full: oomp_symbol_conn_2rows_51pins_shielded_b9a7db
+  oomp_key_simple: conn_2rows_51pins_shielded
   owner_name: kicad
-  symbol_name: connector_generic_shielded_conn_2rows_51pins_shielded
+  symbol_name: conn_2rows_51pins_shielded
 oomp_key: oomp_kicad_connector_generic_shielded_conn_2rows_51pins_shielded
 oomp_key_simple: kicad_connector_generic_shielded_conn_2rows_51pins_shielded
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

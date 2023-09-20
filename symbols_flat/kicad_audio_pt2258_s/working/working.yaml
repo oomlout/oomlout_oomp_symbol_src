@@ -1,19 +1,19 @@
 id: kicad_audio_pt2258_s
 library: audio
 library_name: Audio
-name: audio_pt2258_s
+name: pt2258_s
 oomp:
   library_name: audio
-  md5: c53c9f9f3df6eb0ee560ef76dfcd5a57
-  md5_10: c53c9f9f3d
-  md5_5: c53c9
-  md5_6: c53c9f
-  oomp_key: oomp_audio_pt2258_s
-  oomp_key_extra: oomp_symbol_audio_pt2258_s
-  oomp_key_full: oomp_symbol_audio_pt2258_s_c53c9f
-  oomp_key_simple: audio_pt2258_s
+  md5: a8b70aa0c004f7e679f3bcb602a811d4
+  md5_10: a8b70aa0c0
+  md5_5: a8b70
+  md5_6: a8b70a
+  oomp_key: oomp_pt2258_s
+  oomp_key_extra: oomp_symbol_pt2258_s
+  oomp_key_full: oomp_symbol_pt2258_s_a8b70a
+  oomp_key_simple: pt2258_s
   owner_name: kicad
-  symbol_name: audio_pt2258_s
+  symbol_name: pt2258_s
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

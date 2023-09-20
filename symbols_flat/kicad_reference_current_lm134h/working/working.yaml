@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_current_lm134h/working
   oomp_src_flat: symbols_flat/kicad_reference_current_lm134h/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_current_lm134h/working
-name: reference_current_lm134h
+name: lm134h
 oomp:
   library_name: reference_current
-  md5: 9ab4756c2d0d1e0d11e39de34124c27c
-  md5_10: 9ab4756c2d
-  md5_5: 9ab47
-  md5_6: 9ab475
-  oomp_key: oomp_reference_current_lm134h
-  oomp_key_extra: oomp_symbol_reference_current_lm134h
-  oomp_key_full: oomp_symbol_reference_current_lm134h_9ab475
-  oomp_key_simple: reference_current_lm134h
+  md5: 612e2dfbd9d876f32f84a6af76f946d6
+  md5_10: 612e2dfbd9
+  md5_5: 612e2
+  md5_6: 612e2d
+  oomp_key: oomp_lm134h
+  oomp_key_extra: oomp_symbol_lm134h
+  oomp_key_full: oomp_symbol_lm134h_612e2d
+  oomp_key_simple: lm134h
   owner_name: kicad
-  symbol_name: reference_current_lm134h
+  symbol_name: lm134h
 oomp_key: oomp_kicad_reference_current_lm134h
 oomp_key_simple: kicad_reference_current_lm134h
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

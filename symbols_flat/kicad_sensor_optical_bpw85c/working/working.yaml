@@ -1,19 +1,19 @@
 id: kicad_sensor_optical_bpw85c
 library: sensor_optical
 library_name: Sensor_Optical
-name: sensor_optical_bpw85c
+name: bpw85c
 oomp:
   library_name: sensor_optical
-  md5: 129feb25264b1b1cdd5fb8a3b2ef4367
-  md5_10: 129feb2526
-  md5_5: 129fe
-  md5_6: 129feb
-  oomp_key: oomp_sensor_optical_bpw85c
-  oomp_key_extra: oomp_symbol_sensor_optical_bpw85c
-  oomp_key_full: oomp_symbol_sensor_optical_bpw85c_129feb
-  oomp_key_simple: sensor_optical_bpw85c
+  md5: 5238f9d5df8af64ba98e51310ade0065
+  md5_10: 5238f9d5df
+  md5_5: 5238f
+  md5_6: 5238f9
+  oomp_key: oomp_bpw85c
+  oomp_key_extra: oomp_symbol_bpw85c
+  oomp_key_full: oomp_symbol_bpw85c_5238f9
+  oomp_key_simple: bpw85c
   owner_name: kicad
-  symbol_name: sensor_optical_bpw85c
+  symbol_name: bpw85c
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

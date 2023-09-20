@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_potentiometer_digital_mcp4013_xxxxch/working
   oomp_src_flat: symbols_flat/kicad_potentiometer_digital_mcp4013_xxxxch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_potentiometer_digital_mcp4013_xxxxch/working
-name: potentiometer_digital_mcp4013_xxxxch
+name: mcp4013_xxxxch
 oomp:
   library_name: potentiometer_digital
-  md5: 0dfbdf98e9e0af4bd46e65109ec6e39d
-  md5_10: 0dfbdf98e9
-  md5_5: 0dfbd
-  md5_6: 0dfbdf
-  oomp_key: oomp_potentiometer_digital_mcp4013_xxxxch
-  oomp_key_extra: oomp_symbol_potentiometer_digital_mcp4013_xxxxch
-  oomp_key_full: oomp_symbol_potentiometer_digital_mcp4013_xxxxch_0dfbdf
-  oomp_key_simple: potentiometer_digital_mcp4013_xxxxch
+  md5: c639267c1b77979a1af0d1ef594f7ed0
+  md5_10: c639267c1b
+  md5_5: c6392
+  md5_6: c63926
+  oomp_key: oomp_mcp4013_xxxxch
+  oomp_key_extra: oomp_symbol_mcp4013_xxxxch
+  oomp_key_full: oomp_symbol_mcp4013_xxxxch_c63926
+  oomp_key_simple: mcp4013_xxxxch
   owner_name: kicad
-  symbol_name: potentiometer_digital_mcp4013_xxxxch
+  symbol_name: mcp4013_xxxxch
 oomp_key: oomp_kicad_potentiometer_digital_mcp4013_xxxxch
 oomp_key_simple: kicad_potentiometer_digital_mcp4013_xxxxch
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

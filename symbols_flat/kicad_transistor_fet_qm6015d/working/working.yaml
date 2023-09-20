@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_qm6015d/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_qm6015d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_qm6015d/working
-name: transistor_fet_qm6015d
+name: qm6015d
 oomp:
   library_name: transistor_fet
-  md5: 5c1a1cb159c783a675800a8493a02fdd
-  md5_10: 5c1a1cb159
-  md5_5: 5c1a1
-  md5_6: 5c1a1c
-  oomp_key: oomp_transistor_fet_qm6015d
-  oomp_key_extra: oomp_symbol_transistor_fet_qm6015d
-  oomp_key_full: oomp_symbol_transistor_fet_qm6015d_5c1a1c
-  oomp_key_simple: transistor_fet_qm6015d
+  md5: 8b517af5456383e55f2a2da1ffe0e67f
+  md5_10: 8b517af545
+  md5_5: 8b517
+  md5_6: 8b517a
+  oomp_key: oomp_qm6015d
+  oomp_key_extra: oomp_symbol_qm6015d
+  oomp_key_full: oomp_symbol_qm6015d_8b517a
+  oomp_key_simple: qm6015d
   owner_name: kicad
-  symbol_name: transistor_fet_qm6015d
+  symbol_name: qm6015d
 oomp_key: oomp_kicad_transistor_fet_qm6015d
 oomp_key_simple: kicad_transistor_fet_qm6015d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

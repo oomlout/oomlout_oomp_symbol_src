@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_sg_8002lb/working
   oomp_src_flat: symbols_flat/kicad_oscillator_sg_8002lb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_sg_8002lb/working
-name: oscillator_sg_8002lb
+name: sg_8002lb
 oomp:
   library_name: oscillator
-  md5: f0d2fc2ed1b39c70c151def184008c75
-  md5_10: f0d2fc2ed1
-  md5_5: f0d2f
-  md5_6: f0d2fc
-  oomp_key: oomp_oscillator_sg_8002lb
-  oomp_key_extra: oomp_symbol_oscillator_sg_8002lb
-  oomp_key_full: oomp_symbol_oscillator_sg_8002lb_f0d2fc
-  oomp_key_simple: oscillator_sg_8002lb
+  md5: e65492edfc6370373eba3089a6f366e8
+  md5_10: e65492edfc
+  md5_5: e6549
+  md5_6: e65492
+  oomp_key: oomp_sg_8002lb
+  oomp_key_extra: oomp_symbol_sg_8002lb
+  oomp_key_full: oomp_symbol_sg_8002lb_e65492
+  oomp_key_simple: sg_8002lb
   owner_name: kicad
-  symbol_name: oscillator_sg_8002lb
+  symbol_name: sg_8002lb
 oomp_key: oomp_kicad_oscillator_sg_8002lb
 oomp_key_simple: kicad_oscillator_sg_8002lb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

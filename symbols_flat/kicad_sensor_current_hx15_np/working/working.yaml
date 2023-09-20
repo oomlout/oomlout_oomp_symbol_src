@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_hx15_np/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_hx15_np/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_hx15_np/working
-name: sensor_current_hx15_np
+name: hx15_np
 oomp:
   library_name: sensor_current
-  md5: dfc92e2237b3816b41973f4d1da09bab
-  md5_10: dfc92e2237
-  md5_5: dfc92
-  md5_6: dfc92e
-  oomp_key: oomp_sensor_current_hx15_np
-  oomp_key_extra: oomp_symbol_sensor_current_hx15_np
-  oomp_key_full: oomp_symbol_sensor_current_hx15_np_dfc92e
-  oomp_key_simple: sensor_current_hx15_np
+  md5: 3c64a385369454ec226dea39a1b11c73
+  md5_10: 3c64a38536
+  md5_5: 3c64a
+  md5_6: 3c64a3
+  oomp_key: oomp_hx15_np
+  oomp_key_extra: oomp_symbol_hx15_np
+  oomp_key_full: oomp_symbol_hx15_np_3c64a3
+  oomp_key_simple: hx15_np
   owner_name: kicad
-  symbol_name: sensor_current_hx15_np
+  symbol_name: hx15_np
 oomp_key: oomp_kicad_sensor_current_hx15_np
 oomp_key_simple: kicad_sensor_current_hx15_np
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

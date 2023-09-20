@@ -1,19 +1,19 @@
 id: kicad_mcu_nxp_lpc_lpc1767fbd100
 library: mcu_nxp_lpc
 library_name: MCU_NXP_LPC
-name: mcu_nxp_lpc_lpc1767fbd100
+name: lpc1767fbd100
 oomp:
   library_name: mcu_nxp_lpc
-  md5: 0c3ea8d191521786699d618ee9aee020
-  md5_10: 0c3ea8d191
-  md5_5: 0c3ea
-  md5_6: 0c3ea8
-  oomp_key: oomp_mcu_nxp_lpc_lpc1767fbd100
-  oomp_key_extra: oomp_symbol_mcu_nxp_lpc_lpc1767fbd100
-  oomp_key_full: oomp_symbol_mcu_nxp_lpc_lpc1767fbd100_0c3ea8
-  oomp_key_simple: mcu_nxp_lpc_lpc1767fbd100
+  md5: f6b543e89bfe090479a27461efb13ede
+  md5_10: f6b543e89b
+  md5_5: f6b54
+  md5_6: f6b543
+  oomp_key: oomp_lpc1767fbd100
+  oomp_key_extra: oomp_symbol_lpc1767fbd100
+  oomp_key_full: oomp_symbol_lpc1767fbd100_f6b543
+  oomp_key_simple: lpc1767fbd100
   owner_name: kicad
-  symbol_name: mcu_nxp_lpc_lpc1767fbd100
+  symbol_name: lpc1767fbd100
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_emi2121mttag/working
   oomp_src_flat: symbols_flat/kicad_power_protection_emi2121mttag/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_emi2121mttag/working
-name: power_protection_emi2121mttag
+name: emi2121mttag
 oomp:
   library_name: power_protection
-  md5: 1e25a2d576387dca92d2b63c29e719ab
-  md5_10: 1e25a2d576
-  md5_5: 1e25a
-  md5_6: 1e25a2
-  oomp_key: oomp_power_protection_emi2121mttag
-  oomp_key_extra: oomp_symbol_power_protection_emi2121mttag
-  oomp_key_full: oomp_symbol_power_protection_emi2121mttag_1e25a2
-  oomp_key_simple: power_protection_emi2121mttag
+  md5: 9f301c4898544d98ab46ea3ada775e8a
+  md5_10: 9f301c4898
+  md5_5: 9f301
+  md5_6: 9f301c
+  oomp_key: oomp_emi2121mttag
+  oomp_key_extra: oomp_symbol_emi2121mttag
+  oomp_key_full: oomp_symbol_emi2121mttag_9f301c
+  oomp_key_simple: emi2121mttag
   owner_name: kicad
-  symbol_name: power_protection_emi2121mttag
+  symbol_name: emi2121mttag
 oomp_key: oomp_kicad_power_protection_emi2121mttag
 oomp_key_simple: kicad_power_protection_emi2121mttag
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

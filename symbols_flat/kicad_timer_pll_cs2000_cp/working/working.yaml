@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_pll_cs2000_cp/working
   oomp_src_flat: symbols_flat/kicad_timer_pll_cs2000_cp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_pll_cs2000_cp/working
-name: timer_pll_cs2000_cp
+name: cs2000_cp
 oomp:
   library_name: timer_pll
-  md5: 22c849fdce5e5cb2ba32727c1163cb16
-  md5_10: 22c849fdce
-  md5_5: 22c84
-  md5_6: 22c849
-  oomp_key: oomp_timer_pll_cs2000_cp
-  oomp_key_extra: oomp_symbol_timer_pll_cs2000_cp
-  oomp_key_full: oomp_symbol_timer_pll_cs2000_cp_22c849
-  oomp_key_simple: timer_pll_cs2000_cp
+  md5: 3ce8857eccd359de6cf61d54348bc8bc
+  md5_10: 3ce8857ecc
+  md5_5: 3ce88
+  md5_6: 3ce885
+  oomp_key: oomp_cs2000_cp
+  oomp_key_extra: oomp_symbol_cs2000_cp
+  oomp_key_full: oomp_symbol_cs2000_cp_3ce885
+  oomp_key_simple: cs2000_cp
   owner_name: kicad
-  symbol_name: timer_pll_cs2000_cp
+  symbol_name: cs2000_cp
 oomp_key: oomp_kicad_timer_pll_cs2000_cp
 oomp_key_simple: kicad_timer_pll_cs2000_cp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

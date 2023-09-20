@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bridge_mdb6s/working
   oomp_src_flat: symbols_flat/kicad_diode_bridge_mdb6s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bridge_mdb6s/working
-name: diode_bridge_mdb6s
+name: mdb6s
 oomp:
   library_name: diode_bridge
-  md5: bb5be935ae48b9c1bef20bdf5b430c3f
-  md5_10: bb5be935ae
-  md5_5: bb5be
-  md5_6: bb5be9
-  oomp_key: oomp_diode_bridge_mdb6s
-  oomp_key_extra: oomp_symbol_diode_bridge_mdb6s
-  oomp_key_full: oomp_symbol_diode_bridge_mdb6s_bb5be9
-  oomp_key_simple: diode_bridge_mdb6s
+  md5: bf5943d8341b743c265770265987f86b
+  md5_10: bf5943d834
+  md5_5: bf594
+  md5_6: bf5943
+  oomp_key: oomp_mdb6s
+  oomp_key_extra: oomp_symbol_mdb6s
+  oomp_key_full: oomp_symbol_mdb6s_bf5943
+  oomp_key_simple: mdb6s
   owner_name: kicad
-  symbol_name: diode_bridge_mdb6s
+  symbol_name: mdb6s
 oomp_key: oomp_kicad_diode_bridge_mdb6s
 oomp_key_simple: kicad_diode_bridge_mdb6s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

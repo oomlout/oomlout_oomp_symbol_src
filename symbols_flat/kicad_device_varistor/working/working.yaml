@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_varistor/working
   oomp_src_flat: symbols_flat/kicad_device_varistor/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_varistor/working
-name: device_varistor
+name: varistor
 oomp:
   library_name: device
-  md5: 9ebd321305cf15506792f3859aa1ddba
-  md5_10: 9ebd321305
-  md5_5: 9ebd3
-  md5_6: 9ebd32
-  oomp_key: oomp_device_varistor
-  oomp_key_extra: oomp_symbol_device_varistor
-  oomp_key_full: oomp_symbol_device_varistor_9ebd32
-  oomp_key_simple: device_varistor
+  md5: c60c292bb033aa573afbb77f67186f35
+  md5_10: c60c292bb0
+  md5_5: c60c2
+  md5_6: c60c29
+  oomp_key: oomp_varistor
+  oomp_key_extra: oomp_symbol_varistor
+  oomp_key_full: oomp_symbol_varistor_c60c29
+  oomp_key_simple: varistor
   owner_name: kicad
-  symbol_name: device_varistor
+  symbol_name: varistor
 oomp_key: oomp_kicad_device_varistor
 oomp_key_simple: kicad_device_varistor
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

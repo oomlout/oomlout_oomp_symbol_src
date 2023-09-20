@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_max4081f/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_max4081f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_max4081f/working
-name: amplifier_current_max4081f
+name: max4081f
 oomp:
   library_name: amplifier_current
-  md5: eab9d125f63c1232a47bc689b62cefd9
-  md5_10: eab9d125f6
-  md5_5: eab9d
-  md5_6: eab9d1
-  oomp_key: oomp_amplifier_current_max4081f
-  oomp_key_extra: oomp_symbol_amplifier_current_max4081f
-  oomp_key_full: oomp_symbol_amplifier_current_max4081f_eab9d1
-  oomp_key_simple: amplifier_current_max4081f
+  md5: a62d83f8c56be927385eca2ce82f1892
+  md5_10: a62d83f8c5
+  md5_5: a62d8
+  md5_6: a62d83
+  oomp_key: oomp_max4081f
+  oomp_key_extra: oomp_symbol_max4081f
+  oomp_key_full: oomp_symbol_max4081f_a62d83
+  oomp_key_simple: max4081f
   owner_name: kicad
-  symbol_name: amplifier_current_max4081f
+  symbol_name: max4081f
 oomp_key: oomp_kicad_amplifier_current_max4081f
 oomp_key_simple: kicad_amplifier_current_max4081f
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

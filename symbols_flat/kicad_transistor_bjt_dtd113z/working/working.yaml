@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_dtd113z/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_dtd113z/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_dtd113z/working
-name: transistor_bjt_dtd113z
+name: dtd113z
 oomp:
   library_name: transistor_bjt
-  md5: f69194ac0641160e7d8b818f1cf331c0
-  md5_10: f69194ac06
-  md5_5: f6919
-  md5_6: f69194
-  oomp_key: oomp_transistor_bjt_dtd113z
-  oomp_key_extra: oomp_symbol_transistor_bjt_dtd113z
-  oomp_key_full: oomp_symbol_transistor_bjt_dtd113z_f69194
-  oomp_key_simple: transistor_bjt_dtd113z
+  md5: c74171ed760064614bd14ecadb22fe0b
+  md5_10: c74171ed76
+  md5_5: c7417
+  md5_6: c74171
+  oomp_key: oomp_dtd113z
+  oomp_key_extra: oomp_symbol_dtd113z
+  oomp_key_full: oomp_symbol_dtd113z_c74171
+  oomp_key_simple: dtd113z
   owner_name: kicad
-  symbol_name: transistor_bjt_dtd113z
+  symbol_name: dtd113z
 oomp_key: oomp_kicad_transistor_bjt_dtd113z
 oomp_key_simple: kicad_transistor_bjt_dtd113z
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

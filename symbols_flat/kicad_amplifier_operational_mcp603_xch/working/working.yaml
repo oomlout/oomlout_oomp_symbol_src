@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_mcp603_xch/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_mcp603_xch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_mcp603_xch/working
-name: amplifier_operational_mcp603_xch
+name: mcp603_xch
 oomp:
   library_name: amplifier_operational
-  md5: 918b40b0445877d8b2f44384c1d4d073
-  md5_10: 918b40b044
-  md5_5: 918b4
-  md5_6: 918b40
-  oomp_key: oomp_amplifier_operational_mcp603_xch
-  oomp_key_extra: oomp_symbol_amplifier_operational_mcp603_xch
-  oomp_key_full: oomp_symbol_amplifier_operational_mcp603_xch_918b40
-  oomp_key_simple: amplifier_operational_mcp603_xch
+  md5: 47017fd969cb72f9480e5cfd9a7b39ba
+  md5_10: 47017fd969
+  md5_5: '47017'
+  md5_6: 47017f
+  oomp_key: oomp_mcp603_xch
+  oomp_key_extra: oomp_symbol_mcp603_xch
+  oomp_key_full: oomp_symbol_mcp603_xch_47017f
+  oomp_key_simple: mcp603_xch
   owner_name: kicad
-  symbol_name: amplifier_operational_mcp603_xch
+  symbol_name: mcp603_xch
 oomp_key: oomp_kicad_amplifier_operational_mcp603_xch
 oomp_key_simple: kicad_amplifier_operational_mcp603_xch
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

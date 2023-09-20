@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_opa890xdbv/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_opa890xdbv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_opa890xdbv/working
-name: amplifier_operational_opa890xdbv
+name: opa890xdbv
 oomp:
   library_name: amplifier_operational
-  md5: e6291842cbbfe3e579e84c1c0f436ee2
-  md5_10: e6291842cb
-  md5_5: e6291
-  md5_6: e62918
-  oomp_key: oomp_amplifier_operational_opa890xdbv
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa890xdbv
-  oomp_key_full: oomp_symbol_amplifier_operational_opa890xdbv_e62918
-  oomp_key_simple: amplifier_operational_opa890xdbv
+  md5: e37f2a4c4a51dfe8912dde6d52a1e148
+  md5_10: e37f2a4c4a
+  md5_5: e37f2
+  md5_6: e37f2a
+  oomp_key: oomp_opa890xdbv
+  oomp_key_extra: oomp_symbol_opa890xdbv
+  oomp_key_full: oomp_symbol_opa890xdbv_e37f2a
+  oomp_key_simple: opa890xdbv
   owner_name: kicad
-  symbol_name: amplifier_operational_opa890xdbv
+  symbol_name: opa890xdbv
 oomp_key: oomp_kicad_amplifier_operational_opa890xdbv
 oomp_key_simple: kicad_amplifier_operational_opa890xdbv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

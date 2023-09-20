@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ncp4308amt/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ncp4308amt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ncp4308amt/working
-name: regulator_controller_ncp4308amt
+name: ncp4308amt
 oomp:
   library_name: regulator_controller
-  md5: f47385e79e6e37b275227b2fd549ac22
-  md5_10: f47385e79e
-  md5_5: f4738
-  md5_6: f47385
-  oomp_key: oomp_regulator_controller_ncp4308amt
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp4308amt
-  oomp_key_full: oomp_symbol_regulator_controller_ncp4308amt_f47385
-  oomp_key_simple: regulator_controller_ncp4308amt
+  md5: 3cd121ef8d326ad48f1d499902ab7f9c
+  md5_10: 3cd121ef8d
+  md5_5: 3cd12
+  md5_6: 3cd121
+  oomp_key: oomp_ncp4308amt
+  oomp_key_extra: oomp_symbol_ncp4308amt
+  oomp_key_full: oomp_symbol_ncp4308amt_3cd121
+  oomp_key_simple: ncp4308amt
   owner_name: kicad
-  symbol_name: regulator_controller_ncp4308amt
+  symbol_name: ncp4308amt
 oomp_key: oomp_kicad_regulator_controller_ncp4308amt
 oomp_key_simple: kicad_regulator_controller_ncp4308amt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

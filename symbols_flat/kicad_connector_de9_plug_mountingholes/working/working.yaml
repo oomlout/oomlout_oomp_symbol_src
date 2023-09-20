@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_de9_plug_mountingholes/working
   oomp_src_flat: symbols_flat/kicad_connector_de9_plug_mountingholes/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_de9_plug_mountingholes/working
-name: connector_de9_plug_mountingholes
+name: de9_plug_mountingholes
 oomp:
   library_name: connector
-  md5: 21483d0627928fe62bea91200949f4d5
-  md5_10: 21483d0627
-  md5_5: '21483'
-  md5_6: 21483d
-  oomp_key: oomp_connector_de9_plug_mountingholes
-  oomp_key_extra: oomp_symbol_connector_de9_plug_mountingholes
-  oomp_key_full: oomp_symbol_connector_de9_plug_mountingholes_21483d
-  oomp_key_simple: connector_de9_plug_mountingholes
+  md5: 84657f901e40ff3fa0ae29e75f6c3c96
+  md5_10: 84657f901e
+  md5_5: '84657'
+  md5_6: 84657f
+  oomp_key: oomp_de9_plug_mountingholes
+  oomp_key_extra: oomp_symbol_de9_plug_mountingholes
+  oomp_key_full: oomp_symbol_de9_plug_mountingholes_84657f
+  oomp_key_simple: de9_plug_mountingholes
   owner_name: kicad
-  symbol_name: connector_de9_plug_mountingholes
+  symbol_name: de9_plug_mountingholes
 oomp_key: oomp_kicad_connector_de9_plug_mountingholes
 oomp_key_simple: kicad_connector_de9_plug_mountingholes
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

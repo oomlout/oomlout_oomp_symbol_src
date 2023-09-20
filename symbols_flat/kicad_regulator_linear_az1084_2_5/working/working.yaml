@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_az1084_2_5
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_az1084_2_5
+name: az1084_2_5
 oomp:
   library_name: regulator_linear
-  md5: a3781dc8fd1b5be888810dbad5129060
-  md5_10: a3781dc8fd
-  md5_5: a3781
-  md5_6: a3781d
-  oomp_key: oomp_regulator_linear_az1084_2_5
-  oomp_key_extra: oomp_symbol_regulator_linear_az1084_2_5
-  oomp_key_full: oomp_symbol_regulator_linear_az1084_2_5_a3781d
-  oomp_key_simple: regulator_linear_az1084_2_5
+  md5: 2e73c1ac3fdd7cde4fb2a812b259993a
+  md5_10: 2e73c1ac3f
+  md5_5: 2e73c
+  md5_6: 2e73c1
+  oomp_key: oomp_az1084_2_5
+  oomp_key_extra: oomp_symbol_az1084_2_5
+  oomp_key_full: oomp_symbol_az1084_2_5_2e73c1
+  oomp_key_simple: az1084_2_5
   owner_name: kicad
-  symbol_name: regulator_linear_az1084_2_5
+  symbol_name: az1084_2_5
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

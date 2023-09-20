@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_mc100ept22d/working
   oomp_src_flat: symbols_flat/kicad_interface_mc100ept22d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_mc100ept22d/working
-name: interface_mc100ept22d
+name: mc100ept22d
 oomp:
   library_name: interface
-  md5: 83284e22424900d2722963759978120e
-  md5_10: 83284e2242
-  md5_5: '83284'
-  md5_6: 83284e
-  oomp_key: oomp_interface_mc100ept22d
-  oomp_key_extra: oomp_symbol_interface_mc100ept22d
-  oomp_key_full: oomp_symbol_interface_mc100ept22d_83284e
-  oomp_key_simple: interface_mc100ept22d
+  md5: f0e1b68302566967f4ff1fff3f49eb56
+  md5_10: f0e1b68302
+  md5_5: f0e1b
+  md5_6: f0e1b6
+  oomp_key: oomp_mc100ept22d
+  oomp_key_extra: oomp_symbol_mc100ept22d
+  oomp_key_full: oomp_symbol_mc100ept22d_f0e1b6
+  oomp_key_simple: mc100ept22d
   owner_name: kicad
-  symbol_name: interface_mc100ept22d
+  symbol_name: mc100ept22d
 oomp_key: oomp_kicad_interface_mc100ept22d
 oomp_key_simple: kicad_interface_mc100ept22d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

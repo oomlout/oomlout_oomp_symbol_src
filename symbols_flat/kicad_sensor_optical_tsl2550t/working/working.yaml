@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_tsl2550t/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_tsl2550t/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_tsl2550t/working
-name: sensor_optical_tsl2550t
+name: tsl2550t
 oomp:
   library_name: sensor_optical
-  md5: d1551bc5b69122d3a7bc2f1da4dfc32b
-  md5_10: d1551bc5b6
-  md5_5: d1551
-  md5_6: d1551b
-  oomp_key: oomp_sensor_optical_tsl2550t
-  oomp_key_extra: oomp_symbol_sensor_optical_tsl2550t
-  oomp_key_full: oomp_symbol_sensor_optical_tsl2550t_d1551b
-  oomp_key_simple: sensor_optical_tsl2550t
+  md5: 9c868a673a579a8a8a51e606d383cd11
+  md5_10: 9c868a673a
+  md5_5: 9c868
+  md5_6: 9c868a
+  oomp_key: oomp_tsl2550t
+  oomp_key_extra: oomp_symbol_tsl2550t
+  oomp_key_full: oomp_symbol_tsl2550t_9c868a
+  oomp_key_simple: tsl2550t
   owner_name: kicad
-  symbol_name: sensor_optical_tsl2550t
+  symbol_name: tsl2550t
 oomp_key: oomp_kicad_sensor_optical_tsl2550t
 oomp_key_simple: kicad_sensor_optical_tsl2550t
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

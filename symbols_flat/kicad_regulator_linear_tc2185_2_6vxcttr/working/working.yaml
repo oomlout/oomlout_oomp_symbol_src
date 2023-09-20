@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_tc2185_2_6vxcttr
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_tc2185_2_6vxcttr
+name: tc2185_2_6vxcttr
 oomp:
   library_name: regulator_linear
-  md5: feecda69231901461ff82a3f64d73e1b
-  md5_10: feecda6923
-  md5_5: feecd
-  md5_6: feecda
-  oomp_key: oomp_regulator_linear_tc2185_2_6vxcttr
-  oomp_key_extra: oomp_symbol_regulator_linear_tc2185_2_6vxcttr
-  oomp_key_full: oomp_symbol_regulator_linear_tc2185_2_6vxcttr_feecda
-  oomp_key_simple: regulator_linear_tc2185_2_6vxcttr
+  md5: 1ed576863af559588d50d509531dd0ae
+  md5_10: 1ed576863a
+  md5_5: 1ed57
+  md5_6: 1ed576
+  oomp_key: oomp_tc2185_2_6vxcttr
+  oomp_key_extra: oomp_symbol_tc2185_2_6vxcttr
+  oomp_key_full: oomp_symbol_tc2185_2_6vxcttr_1ed576
+  oomp_key_simple: tc2185_2_6vxcttr
   owner_name: kicad
-  symbol_name: regulator_linear_tc2185_2_6vxcttr
+  symbol_name: tc2185_2_6vxcttr
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

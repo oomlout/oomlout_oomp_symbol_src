@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_lt3755xud_1/working
   oomp_src_flat: symbols_flat/kicad_driver_led_lt3755xud_1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_lt3755xud_1/working
-name: driver_led_lt3755xud_1
+name: lt3755xud_1
 oomp:
   library_name: driver_led
-  md5: 83a379b9fba0ca0b42d6d84ae139a143
-  md5_10: 83a379b9fb
-  md5_5: 83a37
-  md5_6: 83a379
-  oomp_key: oomp_driver_led_lt3755xud_1
-  oomp_key_extra: oomp_symbol_driver_led_lt3755xud_1
-  oomp_key_full: oomp_symbol_driver_led_lt3755xud_1_83a379
-  oomp_key_simple: driver_led_lt3755xud_1
+  md5: bd55850873aa3867d4cc2806d27cfc64
+  md5_10: bd55850873
+  md5_5: bd558
+  md5_6: bd5585
+  oomp_key: oomp_lt3755xud_1
+  oomp_key_extra: oomp_symbol_lt3755xud_1
+  oomp_key_full: oomp_symbol_lt3755xud_1_bd5585
+  oomp_key_simple: lt3755xud_1
   owner_name: kicad
-  symbol_name: driver_led_lt3755xud_1
+  symbol_name: lt3755xud_1
 oomp_key: oomp_kicad_driver_led_lt3755xud_1
 oomp_key_simple: kicad_driver_led_lt3755xud_1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

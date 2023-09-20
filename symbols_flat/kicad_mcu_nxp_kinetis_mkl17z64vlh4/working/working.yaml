@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_kinetis_mkl17z64vlh4/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_kinetis_mkl17z64vlh4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_kinetis_mkl17z64vlh4/working
-name: mcu_nxp_kinetis_mkl17z64vlh4
+name: mkl17z64vlh4
 oomp:
   library_name: mcu_nxp_kinetis
-  md5: d884bcc9960e4796ed5bc00a2aec9034
-  md5_10: d884bcc996
-  md5_5: d884b
-  md5_6: d884bc
-  oomp_key: oomp_mcu_nxp_kinetis_mkl17z64vlh4
-  oomp_key_extra: oomp_symbol_mcu_nxp_kinetis_mkl17z64vlh4
-  oomp_key_full: oomp_symbol_mcu_nxp_kinetis_mkl17z64vlh4_d884bc
-  oomp_key_simple: mcu_nxp_kinetis_mkl17z64vlh4
+  md5: e53fde6f955c6bdff6a2fb797614ce11
+  md5_10: e53fde6f95
+  md5_5: e53fd
+  md5_6: e53fde
+  oomp_key: oomp_mkl17z64vlh4
+  oomp_key_extra: oomp_symbol_mkl17z64vlh4
+  oomp_key_full: oomp_symbol_mkl17z64vlh4_e53fde
+  oomp_key_simple: mkl17z64vlh4
   owner_name: kicad
-  symbol_name: mcu_nxp_kinetis_mkl17z64vlh4
+  symbol_name: mkl17z64vlh4
 oomp_key: oomp_kicad_mcu_nxp_kinetis_mkl17z64vlh4
 oomp_key_simple: kicad_mcu_nxp_kinetis_mkl17z64vlh4
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

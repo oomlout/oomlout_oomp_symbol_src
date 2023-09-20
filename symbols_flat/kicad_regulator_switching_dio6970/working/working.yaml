@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_dio6970/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_dio6970/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_dio6970/working
-name: regulator_switching_dio6970
+name: dio6970
 oomp:
   library_name: regulator_switching
-  md5: 57c5736d0f0b4fd3c436790408011e41
-  md5_10: 57c5736d0f
-  md5_5: 57c57
-  md5_6: 57c573
-  oomp_key: oomp_regulator_switching_dio6970
-  oomp_key_extra: oomp_symbol_regulator_switching_dio6970
-  oomp_key_full: oomp_symbol_regulator_switching_dio6970_57c573
-  oomp_key_simple: regulator_switching_dio6970
+  md5: 43585a5bffdf958c1d82f3111eccea83
+  md5_10: 43585a5bff
+  md5_5: '43585'
+  md5_6: 43585a
+  oomp_key: oomp_dio6970
+  oomp_key_extra: oomp_symbol_dio6970
+  oomp_key_full: oomp_symbol_dio6970_43585a
+  oomp_key_simple: dio6970
   owner_name: kicad
-  symbol_name: regulator_switching_dio6970
+  symbol_name: dio6970
 oomp_key: oomp_kicad_regulator_switching_dio6970
 oomp_key_simple: kicad_regulator_switching_dio6970
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

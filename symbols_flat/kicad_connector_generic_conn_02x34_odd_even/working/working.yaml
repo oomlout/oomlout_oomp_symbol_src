@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_conn_02x34_odd_even/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_02x34_odd_even/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_02x34_odd_even/working
-name: connector_generic_conn_02x34_odd_even
+name: conn_02x34_odd_even
 oomp:
   library_name: connector_generic
-  md5: 45f73497e09c0a43851671d111ea1dad
-  md5_10: 45f73497e0
-  md5_5: 45f73
-  md5_6: 45f734
-  oomp_key: oomp_connector_generic_conn_02x34_odd_even
-  oomp_key_extra: oomp_symbol_connector_generic_conn_02x34_odd_even
-  oomp_key_full: oomp_symbol_connector_generic_conn_02x34_odd_even_45f734
-  oomp_key_simple: connector_generic_conn_02x34_odd_even
+  md5: b34d2b0d2026bf135f7a5bd41d0f46f2
+  md5_10: b34d2b0d20
+  md5_5: b34d2
+  md5_6: b34d2b
+  oomp_key: oomp_conn_02x34_odd_even
+  oomp_key_extra: oomp_symbol_conn_02x34_odd_even
+  oomp_key_full: oomp_symbol_conn_02x34_odd_even_b34d2b
+  oomp_key_simple: conn_02x34_odd_even
   owner_name: kicad
-  symbol_name: connector_generic_conn_02x34_odd_even
+  symbol_name: conn_02x34_odd_even
 oomp_key: oomp_kicad_connector_generic_conn_02x34_odd_even
 oomp_key_simple: kicad_connector_generic_conn_02x34_odd_even
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

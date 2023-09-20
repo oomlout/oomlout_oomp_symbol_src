@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_atmega_atmega8515l_8a/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_atmega_atmega8515l_8a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_atmega_atmega8515l_8a/working
-name: mcu_microchip_atmega_atmega8515l_8a
+name: atmega8515l_8a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: ddbda2f8052168a63683cb5865ead148
-  md5_10: ddbda2f805
-  md5_5: ddbda
-  md5_6: ddbda2
-  oomp_key: oomp_mcu_microchip_atmega_atmega8515l_8a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega8515l_8a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega8515l_8a_ddbda2
-  oomp_key_simple: mcu_microchip_atmega_atmega8515l_8a
+  md5: 1fb2e099a864923f6b5d61919b99e373
+  md5_10: 1fb2e099a8
+  md5_5: 1fb2e
+  md5_6: 1fb2e0
+  oomp_key: oomp_atmega8515l_8a
+  oomp_key_extra: oomp_symbol_atmega8515l_8a
+  oomp_key_full: oomp_symbol_atmega8515l_8a_1fb2e0
+  oomp_key_simple: atmega8515l_8a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega8515l_8a
+  symbol_name: atmega8515l_8a
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega8515l_8a
 oomp_key_simple: kicad_mcu_microchip_atmega_atmega8515l_8a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_ltc4365ts8/working
   oomp_src_flat: symbols_flat/kicad_power_management_ltc4365ts8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_ltc4365ts8/working
-name: power_management_ltc4365ts8
+name: ltc4365ts8
 oomp:
   library_name: power_management
-  md5: 651191703a15751db66a66452022b09e
-  md5_10: 651191703a
-  md5_5: '65119'
-  md5_6: '651191'
-  oomp_key: oomp_power_management_ltc4365ts8
-  oomp_key_extra: oomp_symbol_power_management_ltc4365ts8
-  oomp_key_full: oomp_symbol_power_management_ltc4365ts8_651191
-  oomp_key_simple: power_management_ltc4365ts8
+  md5: d13927c7e28328a4e0342a1704d0393a
+  md5_10: d13927c7e2
+  md5_5: d1392
+  md5_6: d13927
+  oomp_key: oomp_ltc4365ts8
+  oomp_key_extra: oomp_symbol_ltc4365ts8
+  oomp_key_full: oomp_symbol_ltc4365ts8_d13927
+  oomp_key_simple: ltc4365ts8
   owner_name: kicad
-  symbol_name: power_management_ltc4365ts8
+  symbol_name: ltc4365ts8
 oomp_key: oomp_kicad_power_management_ltc4365ts8
 oomp_key_simple: kicad_power_management_ltc4365ts8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

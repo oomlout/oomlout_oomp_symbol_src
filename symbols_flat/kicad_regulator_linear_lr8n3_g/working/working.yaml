@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lr8n3_g/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lr8n3_g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lr8n3_g/working
-name: regulator_linear_lr8n3_g
+name: lr8n3_g
 oomp:
   library_name: regulator_linear
-  md5: 9228f532d80940fa68881294f52045b5
-  md5_10: 9228f532d8
-  md5_5: 9228f
-  md5_6: 9228f5
-  oomp_key: oomp_regulator_linear_lr8n3_g
-  oomp_key_extra: oomp_symbol_regulator_linear_lr8n3_g
-  oomp_key_full: oomp_symbol_regulator_linear_lr8n3_g_9228f5
-  oomp_key_simple: regulator_linear_lr8n3_g
+  md5: 96af391656a65e6d2a078179df9e54a8
+  md5_10: 96af391656
+  md5_5: 96af3
+  md5_6: 96af39
+  oomp_key: oomp_lr8n3_g
+  oomp_key_extra: oomp_symbol_lr8n3_g
+  oomp_key_full: oomp_symbol_lr8n3_g_96af39
+  oomp_key_simple: lr8n3_g
   owner_name: kicad
-  symbol_name: regulator_linear_lr8n3_g
+  symbol_name: lr8n3_g
 oomp_key: oomp_kicad_regulator_linear_lr8n3_g
 oomp_key_simple: kicad_regulator_linear_lr8n3_g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

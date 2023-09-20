@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_rac04_xxsga/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_rac04_xxsga/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_rac04_xxsga/working
-name: converter_acdc_rac04_xxsga
+name: rac04_xxsga
 oomp:
   library_name: converter_acdc
-  md5: 86e76131e3ea07205ced099dd463c2d3
-  md5_10: 86e76131e3
-  md5_5: 86e76
-  md5_6: 86e761
-  oomp_key: oomp_converter_acdc_rac04_xxsga
-  oomp_key_extra: oomp_symbol_converter_acdc_rac04_xxsga
-  oomp_key_full: oomp_symbol_converter_acdc_rac04_xxsga_86e761
-  oomp_key_simple: converter_acdc_rac04_xxsga
+  md5: 6ef1663fe8fb415c1e095ad122ab242f
+  md5_10: 6ef1663fe8
+  md5_5: 6ef16
+  md5_6: 6ef166
+  oomp_key: oomp_rac04_xxsga
+  oomp_key_extra: oomp_symbol_rac04_xxsga
+  oomp_key_full: oomp_symbol_rac04_xxsga_6ef166
+  oomp_key_simple: rac04_xxsga
   owner_name: kicad
-  symbol_name: converter_acdc_rac04_xxsga
+  symbol_name: rac04_xxsga
 oomp_key: oomp_kicad_converter_acdc_rac04_xxsga
 oomp_key_simple: kicad_converter_acdc_rac04_xxsga
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

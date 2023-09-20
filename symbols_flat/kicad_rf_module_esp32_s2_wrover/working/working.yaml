@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_esp32_s2_wrover/working
   oomp_src_flat: symbols_flat/kicad_rf_module_esp32_s2_wrover/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_esp32_s2_wrover/working
-name: rf_module_esp32_s2_wrover
+name: esp32_s2_wrover
 oomp:
   library_name: rf_module
-  md5: 72269b66e93afb16cdd7802100ed25a8
-  md5_10: 72269b66e9
-  md5_5: '72269'
-  md5_6: 72269b
-  oomp_key: oomp_rf_module_esp32_s2_wrover
-  oomp_key_extra: oomp_symbol_rf_module_esp32_s2_wrover
-  oomp_key_full: oomp_symbol_rf_module_esp32_s2_wrover_72269b
-  oomp_key_simple: rf_module_esp32_s2_wrover
+  md5: 20490cd3a019f904a939bcc444c97dde
+  md5_10: 20490cd3a0
+  md5_5: '20490'
+  md5_6: 20490c
+  oomp_key: oomp_esp32_s2_wrover
+  oomp_key_extra: oomp_symbol_esp32_s2_wrover
+  oomp_key_full: oomp_symbol_esp32_s2_wrover_20490c
+  oomp_key_simple: esp32_s2_wrover
   owner_name: kicad
-  symbol_name: rf_module_esp32_s2_wrover
+  symbol_name: esp32_s2_wrover
 oomp_key: oomp_kicad_rf_module_esp32_s2_wrover
 oomp_key_simple: kicad_rf_module_esp32_s2_wrover
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

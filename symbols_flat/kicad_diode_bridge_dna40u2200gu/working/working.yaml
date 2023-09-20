@@ -1,19 +1,19 @@
 id: kicad_diode_bridge_dna40u2200gu
 library: diode_bridge
 library_name: Diode_Bridge
-name: diode_bridge_dna40u2200gu
+name: dna40u2200gu
 oomp:
   library_name: diode_bridge
-  md5: 03365a0bd2218ff706255c4d064a422b
-  md5_10: 03365a0bd2
-  md5_5: '03365'
-  md5_6: 03365a
-  oomp_key: oomp_diode_bridge_dna40u2200gu
-  oomp_key_extra: oomp_symbol_diode_bridge_dna40u2200gu
-  oomp_key_full: oomp_symbol_diode_bridge_dna40u2200gu_03365a
-  oomp_key_simple: diode_bridge_dna40u2200gu
+  md5: 78a29dd5c2bb2909594539a8c4dca952
+  md5_10: 78a29dd5c2
+  md5_5: 78a29
+  md5_6: 78a29d
+  oomp_key: oomp_dna40u2200gu
+  oomp_key_extra: oomp_symbol_dna40u2200gu
+  oomp_key_full: oomp_symbol_dna40u2200gu_78a29d
+  oomp_key_simple: dna40u2200gu
   owner_name: kicad
-  symbol_name: diode_bridge_dna40u2200gu
+  symbol_name: dna40u2200gu
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

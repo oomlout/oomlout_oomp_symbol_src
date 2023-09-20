@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_ltc6909/working
   oomp_src_flat: symbols_flat/kicad_timer_ltc6909/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_ltc6909/working
-name: timer_ltc6909
+name: ltc6909
 oomp:
   library_name: timer
-  md5: f2f01d3386a0342632bfe61e1e8be56f
-  md5_10: f2f01d3386
-  md5_5: f2f01
-  md5_6: f2f01d
-  oomp_key: oomp_timer_ltc6909
-  oomp_key_extra: oomp_symbol_timer_ltc6909
-  oomp_key_full: oomp_symbol_timer_ltc6909_f2f01d
-  oomp_key_simple: timer_ltc6909
+  md5: c004b09bcbd9976c17ea63ecbd6ae2d3
+  md5_10: c004b09bcb
+  md5_5: c004b
+  md5_6: c004b0
+  oomp_key: oomp_ltc6909
+  oomp_key_extra: oomp_symbol_ltc6909
+  oomp_key_full: oomp_symbol_ltc6909_c004b0
+  oomp_key_simple: ltc6909
   owner_name: kicad
-  symbol_name: timer_ltc6909
+  symbol_name: ltc6909
 oomp_key: oomp_kicad_timer_ltc6909
 oomp_key_simple: kicad_timer_ltc6909
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

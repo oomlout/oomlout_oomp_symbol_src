@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_attiny_attiny25v_10p/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_attiny_attiny25v_10p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_attiny_attiny25v_10p/working
-name: mcu_microchip_attiny_attiny25v_10p
+name: attiny25v_10p
 oomp:
   library_name: mcu_microchip_attiny
-  md5: 34c76940707216239d086c12c189cee4
-  md5_10: 34c7694070
-  md5_5: 34c76
-  md5_6: 34c769
-  oomp_key: oomp_mcu_microchip_attiny_attiny25v_10p
-  oomp_key_extra: oomp_symbol_mcu_microchip_attiny_attiny25v_10p
-  oomp_key_full: oomp_symbol_mcu_microchip_attiny_attiny25v_10p_34c769
-  oomp_key_simple: mcu_microchip_attiny_attiny25v_10p
+  md5: 21433e9da7cbf04cd36a45f0cb7fcd3c
+  md5_10: 21433e9da7
+  md5_5: '21433'
+  md5_6: 21433e
+  oomp_key: oomp_attiny25v_10p
+  oomp_key_extra: oomp_symbol_attiny25v_10p
+  oomp_key_full: oomp_symbol_attiny25v_10p_21433e
+  oomp_key_simple: attiny25v_10p
   owner_name: kicad
-  symbol_name: mcu_microchip_attiny_attiny25v_10p
+  symbol_name: attiny25v_10p
 oomp_key: oomp_kicad_mcu_microchip_attiny_attiny25v_10p
 oomp_key_simple: kicad_mcu_microchip_attiny_attiny25v_10p
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

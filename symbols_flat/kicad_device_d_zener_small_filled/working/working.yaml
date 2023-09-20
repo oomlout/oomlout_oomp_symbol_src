@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_zener_small_filled/working
   oomp_src_flat: symbols_flat/kicad_device_d_zener_small_filled/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_zener_small_filled/working
-name: device_d_zener_small_filled
+name: d_zener_small_filled
 oomp:
   library_name: device
-  md5: db79ace206e2ed99e97ca48074e339ae
-  md5_10: db79ace206
-  md5_5: db79a
-  md5_6: db79ac
-  oomp_key: oomp_device_d_zener_small_filled
-  oomp_key_extra: oomp_symbol_device_d_zener_small_filled
-  oomp_key_full: oomp_symbol_device_d_zener_small_filled_db79ac
-  oomp_key_simple: device_d_zener_small_filled
+  md5: 07990ce57fa672260ba6dab259c212f0
+  md5_10: 07990ce57f
+  md5_5: 07990
+  md5_6: 07990c
+  oomp_key: oomp_d_zener_small_filled
+  oomp_key_extra: oomp_symbol_d_zener_small_filled
+  oomp_key_full: oomp_symbol_d_zener_small_filled_07990c
+  oomp_key_simple: d_zener_small_filled
   owner_name: kicad
-  symbol_name: device_d_zener_small_filled
+  symbol_name: d_zener_small_filled
 oomp_key: oomp_kicad_device_d_zener_small_filled
 oomp_key_simple: kicad_device_d_zener_small_filled
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

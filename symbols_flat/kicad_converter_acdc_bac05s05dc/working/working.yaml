@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_bac05s05dc/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_bac05s05dc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_bac05s05dc/working
-name: converter_acdc_bac05s05dc
+name: bac05s05dc
 oomp:
   library_name: converter_acdc
-  md5: 27023cdd794195e07bf3fd4b591fa892
-  md5_10: 27023cdd79
-  md5_5: '27023'
-  md5_6: 27023c
-  oomp_key: oomp_converter_acdc_bac05s05dc
-  oomp_key_extra: oomp_symbol_converter_acdc_bac05s05dc
-  oomp_key_full: oomp_symbol_converter_acdc_bac05s05dc_27023c
-  oomp_key_simple: converter_acdc_bac05s05dc
+  md5: 071bd1f47ca204e44f7556f22815b587
+  md5_10: 071bd1f47c
+  md5_5: 071bd
+  md5_6: 071bd1
+  oomp_key: oomp_bac05s05dc
+  oomp_key_extra: oomp_symbol_bac05s05dc
+  oomp_key_full: oomp_symbol_bac05s05dc_071bd1
+  oomp_key_simple: bac05s05dc
   owner_name: kicad
-  symbol_name: converter_acdc_bac05s05dc
+  symbol_name: bac05s05dc
 oomp_key: oomp_kicad_converter_acdc_bac05s05dc
 oomp_key_simple: kicad_converter_acdc_bac05s05dc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

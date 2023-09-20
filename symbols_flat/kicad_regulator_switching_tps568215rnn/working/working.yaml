@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps568215rnn/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps568215rnn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps568215rnn/working
-name: regulator_switching_tps568215rnn
+name: tps568215rnn
 oomp:
   library_name: regulator_switching
-  md5: 4733712c48f121999b826beb21ba1445
-  md5_10: 4733712c48
-  md5_5: '47337'
-  md5_6: '473371'
-  oomp_key: oomp_regulator_switching_tps568215rnn
-  oomp_key_extra: oomp_symbol_regulator_switching_tps568215rnn
-  oomp_key_full: oomp_symbol_regulator_switching_tps568215rnn_473371
-  oomp_key_simple: regulator_switching_tps568215rnn
+  md5: 86599f1eed687770f9fa11d713ae8239
+  md5_10: 86599f1eed
+  md5_5: '86599'
+  md5_6: 86599f
+  oomp_key: oomp_tps568215rnn
+  oomp_key_extra: oomp_symbol_tps568215rnn
+  oomp_key_full: oomp_symbol_tps568215rnn_86599f
+  oomp_key_simple: tps568215rnn
   owner_name: kicad
-  symbol_name: regulator_switching_tps568215rnn
+  symbol_name: tps568215rnn
 oomp_key: oomp_kicad_regulator_switching_tps568215rnn
 oomp_key_simple: kicad_regulator_switching_tps568215rnn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_oki_78sr_3_3_1_5_w36_c/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_oki_78sr_3_3_1_5_w36_c/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_oki_78sr_3_3_1_5_w36_c/working
-name: converter_dcdc_oki_78sr_3_3_1_5_w36_c
+name: oki_78sr_3_3_1_5_w36_c
 oomp:
   library_name: converter_dcdc
-  md5: a3cb91d7208e8556a70af4f4769b91e9
-  md5_10: a3cb91d720
-  md5_5: a3cb9
-  md5_6: a3cb91
-  oomp_key: oomp_converter_dcdc_oki_78sr_3_3_1_5_w36_c
-  oomp_key_extra: oomp_symbol_converter_dcdc_oki_78sr_3_3_1_5_w36_c
-  oomp_key_full: oomp_symbol_converter_dcdc_oki_78sr_3_3_1_5_w36_c_a3cb91
-  oomp_key_simple: converter_dcdc_oki_78sr_3_3_1_5_w36_c
+  md5: 6a07406a6d5dfc628c0d8b496f57ca69
+  md5_10: 6a07406a6d
+  md5_5: 6a074
+  md5_6: 6a0740
+  oomp_key: oomp_oki_78sr_3_3_1_5_w36_c
+  oomp_key_extra: oomp_symbol_oki_78sr_3_3_1_5_w36_c
+  oomp_key_full: oomp_symbol_oki_78sr_3_3_1_5_w36_c_6a0740
+  oomp_key_simple: oki_78sr_3_3_1_5_w36_c
   owner_name: kicad
-  symbol_name: converter_dcdc_oki_78sr_3_3_1_5_w36_c
+  symbol_name: oki_78sr_3_3_1_5_w36_c
 oomp_key: oomp_kicad_converter_dcdc_oki_78sr_3_3_1_5_w36_c
 oomp_key_simple: kicad_converter_dcdc_oki_78sr_3_3_1_5_w36_c
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mechanical_mountinghole/working
   oomp_src_flat: symbols_flat/kicad_mechanical_mountinghole/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mechanical_mountinghole/working
-name: mechanical_mountinghole
+name: mountinghole
 oomp:
   library_name: mechanical
-  md5: e89f0c09bf091be515820d5564626976
-  md5_10: e89f0c09bf
-  md5_5: e89f0
-  md5_6: e89f0c
-  oomp_key: oomp_mechanical_mountinghole
-  oomp_key_extra: oomp_symbol_mechanical_mountinghole
-  oomp_key_full: oomp_symbol_mechanical_mountinghole_e89f0c
-  oomp_key_simple: mechanical_mountinghole
+  md5: 83f7526bd1cafd5e7bcbcbb9d8060549
+  md5_10: 83f7526bd1
+  md5_5: 83f75
+  md5_6: 83f752
+  oomp_key: oomp_mountinghole
+  oomp_key_extra: oomp_symbol_mountinghole
+  oomp_key_full: oomp_symbol_mountinghole_83f752
+  oomp_key_simple: mountinghole
   owner_name: kicad
-  symbol_name: mechanical_mountinghole
+  symbol_name: mountinghole
 oomp_key: oomp_kicad_mechanical_mountinghole
 oomp_key_simple: kicad_mechanical_mountinghole
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

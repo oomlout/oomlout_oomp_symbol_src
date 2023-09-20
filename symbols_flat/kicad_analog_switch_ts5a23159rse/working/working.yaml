@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_ts5a23159rse/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_ts5a23159rse/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_ts5a23159rse/working
-name: analog_switch_ts5a23159rse
+name: ts5a23159rse
 oomp:
   library_name: analog_switch
-  md5: 050b23e3ec9a769b1e69ef5aeb0ebbb3
-  md5_10: 050b23e3ec
-  md5_5: 050b2
-  md5_6: 050b23
-  oomp_key: oomp_analog_switch_ts5a23159rse
-  oomp_key_extra: oomp_symbol_analog_switch_ts5a23159rse
-  oomp_key_full: oomp_symbol_analog_switch_ts5a23159rse_050b23
-  oomp_key_simple: analog_switch_ts5a23159rse
+  md5: 8dae19c77ba36b2013ad9f879723d906
+  md5_10: 8dae19c77b
+  md5_5: 8dae1
+  md5_6: 8dae19
+  oomp_key: oomp_ts5a23159rse
+  oomp_key_extra: oomp_symbol_ts5a23159rse
+  oomp_key_full: oomp_symbol_ts5a23159rse_8dae19
+  oomp_key_simple: ts5a23159rse
   owner_name: kicad
-  symbol_name: analog_switch_ts5a23159rse
+  symbol_name: ts5a23159rse
 oomp_key: oomp_kicad_analog_switch_ts5a23159rse
 oomp_key_simple: kicad_analog_switch_ts5a23159rse
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

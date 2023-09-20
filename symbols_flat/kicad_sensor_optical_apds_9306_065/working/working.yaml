@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_apds_9306_065/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_apds_9306_065/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_apds_9306_065/working
-name: sensor_optical_apds_9306_065
+name: apds_9306_065
 oomp:
   library_name: sensor_optical
-  md5: cffb3114c95a76805383300ae433acf8
-  md5_10: cffb3114c9
-  md5_5: cffb3
-  md5_6: cffb31
-  oomp_key: oomp_sensor_optical_apds_9306_065
-  oomp_key_extra: oomp_symbol_sensor_optical_apds_9306_065
-  oomp_key_full: oomp_symbol_sensor_optical_apds_9306_065_cffb31
-  oomp_key_simple: sensor_optical_apds_9306_065
+  md5: fdff34280dcf869385fb033681c81d65
+  md5_10: fdff34280d
+  md5_5: fdff3
+  md5_6: fdff34
+  oomp_key: oomp_apds_9306_065
+  oomp_key_extra: oomp_symbol_apds_9306_065
+  oomp_key_full: oomp_symbol_apds_9306_065_fdff34
+  oomp_key_simple: apds_9306_065
   owner_name: kicad
-  symbol_name: sensor_optical_apds_9306_065
+  symbol_name: apds_9306_065
 oomp_key: oomp_kicad_sensor_optical_apds_9306_065
 oomp_key_simple: kicad_sensor_optical_apds_9306_065
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

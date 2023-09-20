@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_ft232h/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_ft232h/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_ft232h/working
-name: interface_usb_ft232h
+name: ft232h
 oomp:
   library_name: interface_usb
-  md5: 1e0af9070174426d124f8901897dccde
-  md5_10: 1e0af90701
-  md5_5: 1e0af
-  md5_6: 1e0af9
-  oomp_key: oomp_interface_usb_ft232h
-  oomp_key_extra: oomp_symbol_interface_usb_ft232h
-  oomp_key_full: oomp_symbol_interface_usb_ft232h_1e0af9
-  oomp_key_simple: interface_usb_ft232h
+  md5: 46c9c85f68712da38d6305bf2f1789d4
+  md5_10: 46c9c85f68
+  md5_5: 46c9c
+  md5_6: 46c9c8
+  oomp_key: oomp_ft232h
+  oomp_key_extra: oomp_symbol_ft232h
+  oomp_key_full: oomp_symbol_ft232h_46c9c8
+  oomp_key_simple: ft232h
   owner_name: kicad
-  symbol_name: interface_usb_ft232h
+  symbol_name: ft232h
 oomp_key: oomp_kicad_interface_usb_ft232h
 oomp_key_simple: kicad_interface_usb_ft232h
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

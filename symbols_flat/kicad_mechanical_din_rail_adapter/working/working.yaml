@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mechanical_din_rail_adapter/working
   oomp_src_flat: symbols_flat/kicad_mechanical_din_rail_adapter/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mechanical_din_rail_adapter/working
-name: mechanical_din_rail_adapter
+name: din_rail_adapter
 oomp:
   library_name: mechanical
-  md5: 6a43ec6efbf07145bade5c8cc851ed59
-  md5_10: 6a43ec6efb
-  md5_5: 6a43e
-  md5_6: 6a43ec
-  oomp_key: oomp_mechanical_din_rail_adapter
-  oomp_key_extra: oomp_symbol_mechanical_din_rail_adapter
-  oomp_key_full: oomp_symbol_mechanical_din_rail_adapter_6a43ec
-  oomp_key_simple: mechanical_din_rail_adapter
+  md5: 049d23814afc93b9697aaf4d4416cf5a
+  md5_10: 049d23814a
+  md5_5: 049d2
+  md5_6: 049d23
+  oomp_key: oomp_din_rail_adapter
+  oomp_key_extra: oomp_symbol_din_rail_adapter
+  oomp_key_full: oomp_symbol_din_rail_adapter_049d23
+  oomp_key_simple: din_rail_adapter
   owner_name: kicad
-  symbol_name: mechanical_din_rail_adapter
+  symbol_name: din_rail_adapter
 oomp_key: oomp_kicad_mechanical_din_rail_adapter
 oomp_key_simple: kicad_mechanical_din_rail_adapter
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

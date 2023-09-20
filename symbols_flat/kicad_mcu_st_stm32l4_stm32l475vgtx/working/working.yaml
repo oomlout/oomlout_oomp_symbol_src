@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32l4_stm32l475vgtx
 library: mcu_st_stm32l4
 library_name: MCU_ST_STM32L4
-name: mcu_st_stm32l4_stm32l475vgtx
+name: stm32l475vgtx
 oomp:
   library_name: mcu_st_stm32l4
-  md5: 04e9ec9d1ce14a1e45b79b1cbbeab4d1
-  md5_10: 04e9ec9d1c
-  md5_5: 04e9e
-  md5_6: 04e9ec
-  oomp_key: oomp_mcu_st_stm32l4_stm32l475vgtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l475vgtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l475vgtx_04e9ec
-  oomp_key_simple: mcu_st_stm32l4_stm32l475vgtx
+  md5: b30aa647837d8395d49a8c2c2e6a7f2a
+  md5_10: b30aa64783
+  md5_5: b30aa
+  md5_6: b30aa6
+  oomp_key: oomp_stm32l475vgtx
+  oomp_key_extra: oomp_symbol_stm32l475vgtx
+  oomp_key_full: oomp_symbol_stm32l475vgtx_b30aa6
+  oomp_key_simple: stm32l475vgtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l475vgtx
+  symbol_name: stm32l475vgtx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

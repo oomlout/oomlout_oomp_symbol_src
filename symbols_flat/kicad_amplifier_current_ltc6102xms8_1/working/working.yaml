@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_ltc6102xms8_1/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_ltc6102xms8_1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_ltc6102xms8_1/working
-name: amplifier_current_ltc6102xms8_1
+name: ltc6102xms8_1
 oomp:
   library_name: amplifier_current
-  md5: e4a87fa17c542cdbb4ea7bcbdaaee520
-  md5_10: e4a87fa17c
-  md5_5: e4a87
-  md5_6: e4a87f
-  oomp_key: oomp_amplifier_current_ltc6102xms8_1
-  oomp_key_extra: oomp_symbol_amplifier_current_ltc6102xms8_1
-  oomp_key_full: oomp_symbol_amplifier_current_ltc6102xms8_1_e4a87f
-  oomp_key_simple: amplifier_current_ltc6102xms8_1
+  md5: 096e073c9724ea97018e78199c276929
+  md5_10: 096e073c97
+  md5_5: 096e0
+  md5_6: 096e07
+  oomp_key: oomp_ltc6102xms8_1
+  oomp_key_extra: oomp_symbol_ltc6102xms8_1
+  oomp_key_full: oomp_symbol_ltc6102xms8_1_096e07
+  oomp_key_simple: ltc6102xms8_1
   owner_name: kicad
-  symbol_name: amplifier_current_ltc6102xms8_1
+  symbol_name: ltc6102xms8_1
 oomp_key: oomp_kicad_amplifier_current_ltc6102xms8_1
 oomp_key_simple: kicad_amplifier_current_ltc6102xms8_1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

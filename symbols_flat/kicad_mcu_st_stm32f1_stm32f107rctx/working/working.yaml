@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f1_stm32f107rctx
 library: mcu_st_stm32f1
 library_name: MCU_ST_STM32F1
-name: mcu_st_stm32f1_stm32f107rctx
+name: stm32f107rctx
 oomp:
   library_name: mcu_st_stm32f1
-  md5: 7a7925e53ebbe284653308e7eb3f1810
-  md5_10: 7a7925e53e
-  md5_5: 7a792
-  md5_6: 7a7925
-  oomp_key: oomp_mcu_st_stm32f1_stm32f107rctx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f1_stm32f107rctx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f1_stm32f107rctx_7a7925
-  oomp_key_simple: mcu_st_stm32f1_stm32f107rctx
+  md5: 13960865eb17f839029cede1c8ef7345
+  md5_10: 13960865eb
+  md5_5: '13960'
+  md5_6: '139608'
+  oomp_key: oomp_stm32f107rctx
+  oomp_key_extra: oomp_symbol_stm32f107rctx
+  oomp_key_full: oomp_symbol_stm32f107rctx_139608
+  oomp_key_simple: stm32f107rctx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f1_stm32f107rctx
+  symbol_name: stm32f107rctx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

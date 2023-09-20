@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_sfh482/working
   oomp_src_flat: symbols_flat/kicad_led_sfh482/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_sfh482/working
-name: led_sfh482
+name: sfh482
 oomp:
   library_name: led
-  md5: ac936f9abc1e20bff9918e5de1f376e3
-  md5_10: ac936f9abc
-  md5_5: ac936
-  md5_6: ac936f
-  oomp_key: oomp_led_sfh482
-  oomp_key_extra: oomp_symbol_led_sfh482
-  oomp_key_full: oomp_symbol_led_sfh482_ac936f
-  oomp_key_simple: led_sfh482
+  md5: 25c548f76182b9ed56ad8b91fdab1572
+  md5_10: 25c548f761
+  md5_5: 25c54
+  md5_6: 25c548
+  oomp_key: oomp_sfh482
+  oomp_key_extra: oomp_symbol_sfh482
+  oomp_key_full: oomp_symbol_sfh482_25c548
+  oomp_key_simple: sfh482
   owner_name: kicad
-  symbol_name: led_sfh482
+  symbol_name: sfh482
 oomp_key: oomp_kicad_led_sfh482
 oomp_key_simple: kicad_led_sfh482
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

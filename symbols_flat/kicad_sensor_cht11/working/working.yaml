@@ -1,19 +1,19 @@
 id: kicad_sensor_cht11
 library: sensor
 library_name: Sensor
-name: sensor_cht11
+name: cht11
 oomp:
   library_name: sensor
-  md5: dd22fe153e1d205993561e01cc53ce01
-  md5_10: dd22fe153e
-  md5_5: dd22f
-  md5_6: dd22fe
-  oomp_key: oomp_sensor_cht11
-  oomp_key_extra: oomp_symbol_sensor_cht11
-  oomp_key_full: oomp_symbol_sensor_cht11_dd22fe
-  oomp_key_simple: sensor_cht11
+  md5: f832f2f52bbe8df8f101e3a9e52a618a
+  md5_10: f832f2f52b
+  md5_5: f832f
+  md5_6: f832f2
+  oomp_key: oomp_cht11
+  oomp_key_extra: oomp_symbol_cht11
+  oomp_key_full: oomp_symbol_cht11_f832f2
+  oomp_key_simple: cht11
   owner_name: kicad
-  symbol_name: sensor_cht11
+  symbol_name: cht11
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

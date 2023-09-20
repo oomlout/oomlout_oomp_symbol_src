@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_mma8653fcr1/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_mma8653fcr1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_mma8653fcr1/working
-name: sensor_motion_mma8653fcr1
+name: mma8653fcr1
 oomp:
   library_name: sensor_motion
-  md5: 47ab7e35d257de3f6ced52e3986db318
-  md5_10: 47ab7e35d2
-  md5_5: 47ab7
-  md5_6: 47ab7e
-  oomp_key: oomp_sensor_motion_mma8653fcr1
-  oomp_key_extra: oomp_symbol_sensor_motion_mma8653fcr1
-  oomp_key_full: oomp_symbol_sensor_motion_mma8653fcr1_47ab7e
-  oomp_key_simple: sensor_motion_mma8653fcr1
+  md5: 3fe57aacb5d3db14fe0719f22f64411b
+  md5_10: 3fe57aacb5
+  md5_5: 3fe57
+  md5_6: 3fe57a
+  oomp_key: oomp_mma8653fcr1
+  oomp_key_extra: oomp_symbol_mma8653fcr1
+  oomp_key_full: oomp_symbol_mma8653fcr1_3fe57a
+  oomp_key_simple: mma8653fcr1
   owner_name: kicad
-  symbol_name: sensor_motion_mma8653fcr1
+  symbol_name: mma8653fcr1
 oomp_key: oomp_kicad_sensor_motion_mma8653fcr1
 oomp_key_simple: kicad_sensor_motion_mma8653fcr1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

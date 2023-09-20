@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic16_pic16f15386_xpt/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic16_pic16f15386_xpt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic16_pic16f15386_xpt/working
-name: mcu_microchip_pic16_pic16f15386_xpt
+name: pic16f15386_xpt
 oomp:
   library_name: mcu_microchip_pic16
-  md5: 255c935788e8b6cc1851949fe3c17072
-  md5_10: 255c935788
-  md5_5: 255c9
-  md5_6: 255c93
-  oomp_key: oomp_mcu_microchip_pic16_pic16f15386_xpt
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic16_pic16f15386_xpt
-  oomp_key_full: oomp_symbol_mcu_microchip_pic16_pic16f15386_xpt_255c93
-  oomp_key_simple: mcu_microchip_pic16_pic16f15386_xpt
+  md5: 7076b72404fa1d000c79958dd9cf5b7b
+  md5_10: 7076b72404
+  md5_5: 7076b
+  md5_6: 7076b7
+  oomp_key: oomp_pic16f15386_xpt
+  oomp_key_extra: oomp_symbol_pic16f15386_xpt
+  oomp_key_full: oomp_symbol_pic16f15386_xpt_7076b7
+  oomp_key_simple: pic16f15386_xpt
   owner_name: kicad
-  symbol_name: mcu_microchip_pic16_pic16f15386_xpt
+  symbol_name: pic16f15386_xpt
 oomp_key: oomp_kicad_mcu_microchip_pic16_pic16f15386_xpt
 oomp_key_simple: kicad_mcu_microchip_pic16_pic16f15386_xpt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

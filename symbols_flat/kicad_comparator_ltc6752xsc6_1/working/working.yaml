@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_ltc6752xsc6_1/working
   oomp_src_flat: symbols_flat/kicad_comparator_ltc6752xsc6_1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_ltc6752xsc6_1/working
-name: comparator_ltc6752xsc6_1
+name: ltc6752xsc6_1
 oomp:
   library_name: comparator
-  md5: 80774340e42ea76d48c1856c0dd5dddb
-  md5_10: 80774340e4
-  md5_5: '80774'
-  md5_6: '807743'
-  oomp_key: oomp_comparator_ltc6752xsc6_1
-  oomp_key_extra: oomp_symbol_comparator_ltc6752xsc6_1
-  oomp_key_full: oomp_symbol_comparator_ltc6752xsc6_1_807743
-  oomp_key_simple: comparator_ltc6752xsc6_1
+  md5: 16f0289b8756989ffbca20df4f302443
+  md5_10: 16f0289b87
+  md5_5: 16f02
+  md5_6: 16f028
+  oomp_key: oomp_ltc6752xsc6_1
+  oomp_key_extra: oomp_symbol_ltc6752xsc6_1
+  oomp_key_full: oomp_symbol_ltc6752xsc6_1_16f028
+  oomp_key_simple: ltc6752xsc6_1
   owner_name: kicad
-  symbol_name: comparator_ltc6752xsc6_1
+  symbol_name: ltc6752xsc6_1
 oomp_key: oomp_kicad_comparator_ltc6752xsc6_1
 oomp_key_simple: kicad_comparator_ltc6752xsc6_1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

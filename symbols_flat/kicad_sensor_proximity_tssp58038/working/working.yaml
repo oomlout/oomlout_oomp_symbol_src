@@ -1,19 +1,19 @@
 id: kicad_sensor_proximity_tssp58038
 library: sensor_proximity
 library_name: Sensor_Proximity
-name: sensor_proximity_tssp58038
+name: tssp58038
 oomp:
   library_name: sensor_proximity
-  md5: 93ef43c0f194a9e4b444947899c1b0e8
-  md5_10: 93ef43c0f1
-  md5_5: 93ef4
-  md5_6: 93ef43
-  oomp_key: oomp_sensor_proximity_tssp58038
-  oomp_key_extra: oomp_symbol_sensor_proximity_tssp58038
-  oomp_key_full: oomp_symbol_sensor_proximity_tssp58038_93ef43
-  oomp_key_simple: sensor_proximity_tssp58038
+  md5: fb71c7862e3aa4924a97ecfc45b01e57
+  md5_10: fb71c7862e
+  md5_5: fb71c
+  md5_6: fb71c7
+  oomp_key: oomp_tssp58038
+  oomp_key_extra: oomp_symbol_tssp58038
+  oomp_key_full: oomp_symbol_tssp58038_fb71c7
+  oomp_key_simple: tssp58038
   owner_name: kicad
-  symbol_name: sensor_proximity_tssp58038
+  symbol_name: tssp58038
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

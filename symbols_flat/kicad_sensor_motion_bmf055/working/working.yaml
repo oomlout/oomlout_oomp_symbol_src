@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_bmf055/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_bmf055/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_bmf055/working
-name: sensor_motion_bmf055
+name: bmf055
 oomp:
   library_name: sensor_motion
-  md5: 3701101edf60c04e6da7c3b5bb239faa
-  md5_10: 3701101edf
-  md5_5: '37011'
-  md5_6: '370110'
-  oomp_key: oomp_sensor_motion_bmf055
-  oomp_key_extra: oomp_symbol_sensor_motion_bmf055
-  oomp_key_full: oomp_symbol_sensor_motion_bmf055_370110
-  oomp_key_simple: sensor_motion_bmf055
+  md5: a7c541caa08fad959138aebcc5fec9b0
+  md5_10: a7c541caa0
+  md5_5: a7c54
+  md5_6: a7c541
+  oomp_key: oomp_bmf055
+  oomp_key_extra: oomp_symbol_bmf055
+  oomp_key_full: oomp_symbol_bmf055_a7c541
+  oomp_key_simple: bmf055
   owner_name: kicad
-  symbol_name: sensor_motion_bmf055
+  symbol_name: bmf055
 oomp_key: oomp_kicad_sensor_motion_bmf055
 oomp_key_simple: kicad_sensor_motion_bmf055
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

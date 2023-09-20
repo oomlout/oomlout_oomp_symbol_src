@@ -1,19 +1,19 @@
 id: kicad_memory_eeprom_m24c01_wdw
 library: memory_eeprom
 library_name: Memory_EEPROM
-name: memory_eeprom_m24c01_wdw
+name: m24c01_wdw
 oomp:
   library_name: memory_eeprom
-  md5: 7033fb49066ff48427cf8e318befe87b
-  md5_10: 7033fb4906
-  md5_5: 7033f
-  md5_6: 7033fb
-  oomp_key: oomp_memory_eeprom_m24c01_wdw
-  oomp_key_extra: oomp_symbol_memory_eeprom_m24c01_wdw
-  oomp_key_full: oomp_symbol_memory_eeprom_m24c01_wdw_7033fb
-  oomp_key_simple: memory_eeprom_m24c01_wdw
+  md5: 4d38772fa6a2997479059df61d320e36
+  md5_10: 4d38772fa6
+  md5_5: 4d387
+  md5_6: 4d3877
+  oomp_key: oomp_m24c01_wdw
+  oomp_key_extra: oomp_symbol_m24c01_wdw
+  oomp_key_full: oomp_symbol_m24c01_wdw_4d3877
+  oomp_key_simple: m24c01_wdw
   owner_name: kicad
-  symbol_name: memory_eeprom_m24c01_wdw
+  symbol_name: m24c01_wdw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

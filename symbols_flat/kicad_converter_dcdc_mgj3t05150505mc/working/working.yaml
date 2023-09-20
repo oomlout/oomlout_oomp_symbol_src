@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_mgj3t05150505mc/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_mgj3t05150505mc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_mgj3t05150505mc/working
-name: converter_dcdc_mgj3t05150505mc
+name: mgj3t05150505mc
 oomp:
   library_name: converter_dcdc
-  md5: b7ef674ba2656b7ee3243b4a66309ce3
-  md5_10: b7ef674ba2
-  md5_5: b7ef6
-  md5_6: b7ef67
-  oomp_key: oomp_converter_dcdc_mgj3t05150505mc
-  oomp_key_extra: oomp_symbol_converter_dcdc_mgj3t05150505mc
-  oomp_key_full: oomp_symbol_converter_dcdc_mgj3t05150505mc_b7ef67
-  oomp_key_simple: converter_dcdc_mgj3t05150505mc
+  md5: d38e3324e5c356f89bcb67e0c4ab5058
+  md5_10: d38e3324e5
+  md5_5: d38e3
+  md5_6: d38e33
+  oomp_key: oomp_mgj3t05150505mc
+  oomp_key_extra: oomp_symbol_mgj3t05150505mc
+  oomp_key_full: oomp_symbol_mgj3t05150505mc_d38e33
+  oomp_key_simple: mgj3t05150505mc
   owner_name: kicad
-  symbol_name: converter_dcdc_mgj3t05150505mc
+  symbol_name: mgj3t05150505mc
 oomp_key: oomp_kicad_converter_dcdc_mgj3t05150505mc
 oomp_key_simple: kicad_converter_dcdc_mgj3t05150505mc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

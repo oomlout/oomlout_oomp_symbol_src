@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lnk632dg/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lnk632dg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lnk632dg/working
-name: regulator_switching_lnk632dg
+name: lnk632dg
 oomp:
   library_name: regulator_switching
-  md5: 58484824b6e340d0e019bee868046060
-  md5_10: 58484824b6
-  md5_5: '58484'
-  md5_6: '584848'
-  oomp_key: oomp_regulator_switching_lnk632dg
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk632dg
-  oomp_key_full: oomp_symbol_regulator_switching_lnk632dg_584848
-  oomp_key_simple: regulator_switching_lnk632dg
+  md5: 52700ebdabada8dca3e5a46a3480b9d9
+  md5_10: 52700ebdab
+  md5_5: '52700'
+  md5_6: 52700e
+  oomp_key: oomp_lnk632dg
+  oomp_key_extra: oomp_symbol_lnk632dg
+  oomp_key_full: oomp_symbol_lnk632dg_52700e
+  oomp_key_simple: lnk632dg
   owner_name: kicad
-  symbol_name: regulator_switching_lnk632dg
+  symbol_name: lnk632dg
 oomp_key: oomp_kicad_regulator_switching_lnk632dg
 oomp_key_simple: kicad_regulator_switching_lnk632dg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps63900/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps63900/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps63900/working
-name: regulator_switching_tps63900
+name: tps63900
 oomp:
   library_name: regulator_switching
-  md5: d4041a6ebba606c94435838909c9f4e6
-  md5_10: d4041a6ebb
-  md5_5: d4041
-  md5_6: d4041a
-  oomp_key: oomp_regulator_switching_tps63900
-  oomp_key_extra: oomp_symbol_regulator_switching_tps63900
-  oomp_key_full: oomp_symbol_regulator_switching_tps63900_d4041a
-  oomp_key_simple: regulator_switching_tps63900
+  md5: 20b495046dbe399c2b69beee7d7e45da
+  md5_10: 20b495046d
+  md5_5: 20b49
+  md5_6: 20b495
+  oomp_key: oomp_tps63900
+  oomp_key_extra: oomp_symbol_tps63900
+  oomp_key_full: oomp_symbol_tps63900_20b495
+  oomp_key_simple: tps63900
   owner_name: kicad
-  symbol_name: regulator_switching_tps63900
+  symbol_name: tps63900
 oomp_key: oomp_kicad_regulator_switching_tps63900
 oomp_key_simple: kicad_regulator_switching_tps63900
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

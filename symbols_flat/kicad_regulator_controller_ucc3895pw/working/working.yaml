@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ucc3895pw/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ucc3895pw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ucc3895pw/working
-name: regulator_controller_ucc3895pw
+name: ucc3895pw
 oomp:
   library_name: regulator_controller
-  md5: 90d84cf04d565fbda0ab8c1eaec657a9
-  md5_10: 90d84cf04d
-  md5_5: 90d84
-  md5_6: 90d84c
-  oomp_key: oomp_regulator_controller_ucc3895pw
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc3895pw
-  oomp_key_full: oomp_symbol_regulator_controller_ucc3895pw_90d84c
-  oomp_key_simple: regulator_controller_ucc3895pw
+  md5: 97695a532f9ee33cec3221308cd0fb71
+  md5_10: 97695a532f
+  md5_5: '97695'
+  md5_6: 97695a
+  oomp_key: oomp_ucc3895pw
+  oomp_key_extra: oomp_symbol_ucc3895pw
+  oomp_key_full: oomp_symbol_ucc3895pw_97695a
+  oomp_key_simple: ucc3895pw
   owner_name: kicad
-  symbol_name: regulator_controller_ucc3895pw
+  symbol_name: ucc3895pw
 oomp_key: oomp_kicad_regulator_controller_ucc3895pw
 oomp_key_simple: kicad_regulator_controller_ucc3895pw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

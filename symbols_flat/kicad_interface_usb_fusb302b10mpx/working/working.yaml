@@ -1,19 +1,19 @@
 id: kicad_interface_usb_fusb302b10mpx
 library: interface_usb
 library_name: Interface_USB
-name: interface_usb_fusb302b10mpx
+name: fusb302b10mpx
 oomp:
   library_name: interface_usb
-  md5: d17368365271ce56f0f224f94abacf2b
-  md5_10: d173683652
-  md5_5: d1736
-  md5_6: d17368
-  oomp_key: oomp_interface_usb_fusb302b10mpx
-  oomp_key_extra: oomp_symbol_interface_usb_fusb302b10mpx
-  oomp_key_full: oomp_symbol_interface_usb_fusb302b10mpx_d17368
-  oomp_key_simple: interface_usb_fusb302b10mpx
+  md5: 27b7b412ea483f105b49deb3025155b3
+  md5_10: 27b7b412ea
+  md5_5: 27b7b
+  md5_6: 27b7b4
+  oomp_key: oomp_fusb302b10mpx
+  oomp_key_extra: oomp_symbol_fusb302b10mpx
+  oomp_key_full: oomp_symbol_fusb302b10mpx_27b7b4
+  oomp_key_simple: fusb302b10mpx
   owner_name: kicad
-  symbol_name: interface_usb_fusb302b10mpx
+  symbol_name: fusb302b10mpx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

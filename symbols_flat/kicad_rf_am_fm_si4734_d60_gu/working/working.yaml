@@ -1,19 +1,19 @@
 id: kicad_rf_am_fm_si4734_d60_gu
 library: rf_am_fm
 library_name: RF_AM_FM
-name: rf_am_fm_si4734_d60_gu
+name: si4734_d60_gu
 oomp:
   library_name: rf_am_fm
-  md5: b3282e2b444b088228306a24f4b16608
-  md5_10: b3282e2b44
-  md5_5: b3282
-  md5_6: b3282e
-  oomp_key: oomp_rf_am_fm_si4734_d60_gu
-  oomp_key_extra: oomp_symbol_rf_am_fm_si4734_d60_gu
-  oomp_key_full: oomp_symbol_rf_am_fm_si4734_d60_gu_b3282e
-  oomp_key_simple: rf_am_fm_si4734_d60_gu
+  md5: dd417707c16d05fd6090f54f43e380c2
+  md5_10: dd417707c1
+  md5_5: dd417
+  md5_6: dd4177
+  oomp_key: oomp_si4734_d60_gu
+  oomp_key_extra: oomp_symbol_si4734_d60_gu
+  oomp_key_full: oomp_symbol_si4734_d60_gu_dd4177
+  oomp_key_simple: si4734_d60_gu
   owner_name: kicad
-  symbol_name: rf_am_fm_si4734_d60_gu
+  symbol_name: si4734_d60_gu
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

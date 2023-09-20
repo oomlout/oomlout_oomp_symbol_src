@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_oh300/working
   oomp_src_flat: symbols_flat/kicad_oscillator_oh300/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_oh300/working
-name: oscillator_oh300
+name: oh300
 oomp:
   library_name: oscillator
-  md5: 3de76d79d3c51697fa35c3b46b95cfa0
-  md5_10: 3de76d79d3
-  md5_5: 3de76
-  md5_6: 3de76d
-  oomp_key: oomp_oscillator_oh300
-  oomp_key_extra: oomp_symbol_oscillator_oh300
-  oomp_key_full: oomp_symbol_oscillator_oh300_3de76d
-  oomp_key_simple: oscillator_oh300
+  md5: d232ab29d9bb1f292e0f1c520e1d2e5c
+  md5_10: d232ab29d9
+  md5_5: d232a
+  md5_6: d232ab
+  oomp_key: oomp_oh300
+  oomp_key_extra: oomp_symbol_oh300
+  oomp_key_full: oomp_symbol_oh300_d232ab
+  oomp_key_simple: oh300
   owner_name: kicad
-  symbol_name: oscillator_oh300
+  symbol_name: oh300
 oomp_key: oomp_kicad_oscillator_oh300
 oomp_key_simple: kicad_oscillator_oh300
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

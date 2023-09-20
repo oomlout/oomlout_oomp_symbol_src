@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_mn3007/working
   oomp_src_flat: symbols_flat/kicad_audio_mn3007/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_mn3007/working
-name: audio_mn3007
+name: mn3007
 oomp:
   library_name: audio
-  md5: ad25560e390eeff325c7f50604c81002
-  md5_10: ad25560e39
-  md5_5: ad255
-  md5_6: ad2556
-  oomp_key: oomp_audio_mn3007
-  oomp_key_extra: oomp_symbol_audio_mn3007
-  oomp_key_full: oomp_symbol_audio_mn3007_ad2556
-  oomp_key_simple: audio_mn3007
+  md5: cbd699ff6226b12c4c7132eda2abe53d
+  md5_10: cbd699ff62
+  md5_5: cbd69
+  md5_6: cbd699
+  oomp_key: oomp_mn3007
+  oomp_key_extra: oomp_symbol_mn3007
+  oomp_key_full: oomp_symbol_mn3007_cbd699
+  oomp_key_simple: mn3007
   owner_name: kicad
-  symbol_name: audio_mn3007
+  symbol_name: mn3007
 oomp_key: oomp_kicad_audio_mn3007
 oomp_key_simple: kicad_audio_mn3007
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

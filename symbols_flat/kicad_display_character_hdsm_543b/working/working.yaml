@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_hdsm_543b/working
   oomp_src_flat: symbols_flat/kicad_display_character_hdsm_543b/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_hdsm_543b/working
-name: display_character_hdsm_543b
+name: hdsm_543b
 oomp:
   library_name: display_character
-  md5: e77f56ee9381739c180a841a368e2d6e
-  md5_10: e77f56ee93
-  md5_5: e77f5
-  md5_6: e77f56
-  oomp_key: oomp_display_character_hdsm_543b
-  oomp_key_extra: oomp_symbol_display_character_hdsm_543b
-  oomp_key_full: oomp_symbol_display_character_hdsm_543b_e77f56
-  oomp_key_simple: display_character_hdsm_543b
+  md5: d1a171a85a18601aa38680aae8975fbe
+  md5_10: d1a171a85a
+  md5_5: d1a17
+  md5_6: d1a171
+  oomp_key: oomp_hdsm_543b
+  oomp_key_extra: oomp_symbol_hdsm_543b
+  oomp_key_full: oomp_symbol_hdsm_543b_d1a171
+  oomp_key_simple: hdsm_543b
   owner_name: kicad
-  symbol_name: display_character_hdsm_543b
+  symbol_name: hdsm_543b
 oomp_key: oomp_kicad_display_character_hdsm_543b
 oomp_key_simple: kicad_display_character_hdsm_543b
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

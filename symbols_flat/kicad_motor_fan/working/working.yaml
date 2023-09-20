@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_motor_fan/working
   oomp_src_flat: symbols_flat/kicad_motor_fan/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_motor_fan/working
-name: motor_fan
+name: fan
 oomp:
   library_name: motor
-  md5: 62e24faa77a58b7d7f32805f232e190a
-  md5_10: 62e24faa77
-  md5_5: 62e24
-  md5_6: 62e24f
-  oomp_key: oomp_motor_fan
-  oomp_key_extra: oomp_symbol_motor_fan
-  oomp_key_full: oomp_symbol_motor_fan_62e24f
-  oomp_key_simple: motor_fan
+  md5: 50bd8c21bfafa6e4e962f6a948b1ef92
+  md5_10: 50bd8c21bf
+  md5_5: 50bd8
+  md5_6: 50bd8c
+  oomp_key: oomp_fan
+  oomp_key_extra: oomp_symbol_fan
+  oomp_key_full: oomp_symbol_fan_50bd8c
+  oomp_key_simple: fan
   owner_name: kicad
-  symbol_name: motor_fan
+  symbol_name: fan
 oomp_key: oomp_kicad_motor_fan
 oomp_key_simple: kicad_motor_fan
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

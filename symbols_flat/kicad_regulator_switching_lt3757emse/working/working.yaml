@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lt3757emse/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lt3757emse/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lt3757emse/working
-name: regulator_switching_lt3757emse
+name: lt3757emse
 oomp:
   library_name: regulator_switching
-  md5: dc4d766fc75128467c787823ec85ee14
-  md5_10: dc4d766fc7
-  md5_5: dc4d7
-  md5_6: dc4d76
-  oomp_key: oomp_regulator_switching_lt3757emse
-  oomp_key_extra: oomp_symbol_regulator_switching_lt3757emse
-  oomp_key_full: oomp_symbol_regulator_switching_lt3757emse_dc4d76
-  oomp_key_simple: regulator_switching_lt3757emse
+  md5: 92e1885cadb32781454d63e37d90c6e1
+  md5_10: 92e1885cad
+  md5_5: 92e18
+  md5_6: 92e188
+  oomp_key: oomp_lt3757emse
+  oomp_key_extra: oomp_symbol_lt3757emse
+  oomp_key_full: oomp_symbol_lt3757emse_92e188
+  oomp_key_simple: lt3757emse
   owner_name: kicad
-  symbol_name: regulator_switching_lt3757emse
+  symbol_name: lt3757emse
 oomp_key: oomp_kicad_regulator_switching_lt3757emse
 oomp_key_simple: kicad_regulator_switching_lt3757emse
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_igo60r070d1/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_igo60r070d1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_igo60r070d1/working
-name: transistor_fet_igo60r070d1
+name: igo60r070d1
 oomp:
   library_name: transistor_fet
-  md5: 188086f915af6b03180415d217d7672f
-  md5_10: 188086f915
-  md5_5: '18808'
-  md5_6: '188086'
-  oomp_key: oomp_transistor_fet_igo60r070d1
-  oomp_key_extra: oomp_symbol_transistor_fet_igo60r070d1
-  oomp_key_full: oomp_symbol_transistor_fet_igo60r070d1_188086
-  oomp_key_simple: transistor_fet_igo60r070d1
+  md5: f867ade97c99f169bd241feb7092e72e
+  md5_10: f867ade97c
+  md5_5: f867a
+  md5_6: f867ad
+  oomp_key: oomp_igo60r070d1
+  oomp_key_extra: oomp_symbol_igo60r070d1
+  oomp_key_full: oomp_symbol_igo60r070d1_f867ad
+  oomp_key_simple: igo60r070d1
   owner_name: kicad
-  symbol_name: transistor_fet_igo60r070d1
+  symbol_name: igo60r070d1
 oomp_key: oomp_kicad_transistor_fet_igo60r070d1
 oomp_key_simple: kicad_transistor_fet_igo60r070d1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

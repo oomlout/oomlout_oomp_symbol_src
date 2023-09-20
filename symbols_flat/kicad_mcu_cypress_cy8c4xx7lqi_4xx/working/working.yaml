@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_cypress_cy8c4xx7lqi_4xx/working
   oomp_src_flat: symbols_flat/kicad_mcu_cypress_cy8c4xx7lqi_4xx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_cypress_cy8c4xx7lqi_4xx/working
-name: mcu_cypress_cy8c4xx7lqi_4xx
+name: cy8c4xx7lqi_4xx
 oomp:
   library_name: mcu_cypress
-  md5: 23528ad48841888fc79b4733a3527e5c
-  md5_10: 23528ad488
-  md5_5: '23528'
-  md5_6: 23528a
-  oomp_key: oomp_mcu_cypress_cy8c4xx7lqi_4xx
-  oomp_key_extra: oomp_symbol_mcu_cypress_cy8c4xx7lqi_4xx
-  oomp_key_full: oomp_symbol_mcu_cypress_cy8c4xx7lqi_4xx_23528a
-  oomp_key_simple: mcu_cypress_cy8c4xx7lqi_4xx
+  md5: 6d9168739b27efba8d96166d70b099ee
+  md5_10: 6d9168739b
+  md5_5: 6d916
+  md5_6: 6d9168
+  oomp_key: oomp_cy8c4xx7lqi_4xx
+  oomp_key_extra: oomp_symbol_cy8c4xx7lqi_4xx
+  oomp_key_full: oomp_symbol_cy8c4xx7lqi_4xx_6d9168
+  oomp_key_simple: cy8c4xx7lqi_4xx
   owner_name: kicad
-  symbol_name: mcu_cypress_cy8c4xx7lqi_4xx
+  symbol_name: cy8c4xx7lqi_4xx
 oomp_key: oomp_kicad_mcu_cypress_cy8c4xx7lqi_4xx
 oomp_key_simple: kicad_mcu_cypress_cy8c4xx7lqi_4xx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

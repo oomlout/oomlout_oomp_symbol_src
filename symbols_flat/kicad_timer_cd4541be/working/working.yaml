@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_cd4541be/working
   oomp_src_flat: symbols_flat/kicad_timer_cd4541be/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_cd4541be/working
-name: timer_cd4541be
+name: cd4541be
 oomp:
   library_name: timer
-  md5: 7ba888dc217c2c5dd90d1a88f44c7c38
-  md5_10: 7ba888dc21
-  md5_5: 7ba88
-  md5_6: 7ba888
-  oomp_key: oomp_timer_cd4541be
-  oomp_key_extra: oomp_symbol_timer_cd4541be
-  oomp_key_full: oomp_symbol_timer_cd4541be_7ba888
-  oomp_key_simple: timer_cd4541be
+  md5: 61f4202b47bf8807340ccf4a1c6650c1
+  md5_10: 61f4202b47
+  md5_5: 61f42
+  md5_6: 61f420
+  oomp_key: oomp_cd4541be
+  oomp_key_extra: oomp_symbol_cd4541be
+  oomp_key_full: oomp_symbol_cd4541be_61f420
+  oomp_key_simple: cd4541be
   owner_name: kicad
-  symbol_name: timer_cd4541be
+  symbol_name: cd4541be
 oomp_key: oomp_kicad_timer_cd4541be
 oomp_key_simple: kicad_timer_cd4541be
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_lemo2/working
   oomp_src_flat: symbols_flat/kicad_connector_lemo2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_lemo2/working
-name: connector_lemo2
+name: lemo2
 oomp:
   library_name: connector
-  md5: f67cf6370ed6a17375768fb74128cee1
-  md5_10: f67cf6370e
-  md5_5: f67cf
-  md5_6: f67cf6
-  oomp_key: oomp_connector_lemo2
-  oomp_key_extra: oomp_symbol_connector_lemo2
-  oomp_key_full: oomp_symbol_connector_lemo2_f67cf6
-  oomp_key_simple: connector_lemo2
+  md5: 4f074e734ecb9a7bac9dd05e39d15e70
+  md5_10: 4f074e734e
+  md5_5: 4f074
+  md5_6: 4f074e
+  oomp_key: oomp_lemo2
+  oomp_key_extra: oomp_symbol_lemo2
+  oomp_key_full: oomp_symbol_lemo2_4f074e
+  oomp_key_simple: lemo2
   owner_name: kicad
-  symbol_name: connector_lemo2
+  symbol_name: lemo2
 oomp_key: oomp_kicad_connector_lemo2
 oomp_key_simple: kicad_connector_lemo2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

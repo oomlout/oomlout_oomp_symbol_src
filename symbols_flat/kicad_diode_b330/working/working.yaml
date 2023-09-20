@@ -1,19 +1,19 @@
 id: kicad_diode_b330
 library: diode
 library_name: Diode
-name: diode_b330
+name: b330
 oomp:
   library_name: diode
-  md5: 25d340bffe0b5479b8a6771b4283b3c6
-  md5_10: 25d340bffe
-  md5_5: 25d34
-  md5_6: 25d340
-  oomp_key: oomp_diode_b330
-  oomp_key_extra: oomp_symbol_diode_b330
-  oomp_key_full: oomp_symbol_diode_b330_25d340
-  oomp_key_simple: diode_b330
+  md5: 90d84dcc8e8549d1d9c6dfe4f018c75c
+  md5_10: 90d84dcc8e
+  md5_5: 90d84
+  md5_6: 90d84d
+  oomp_key: oomp_b330
+  oomp_key_extra: oomp_symbol_b330
+  oomp_key_full: oomp_symbol_b330_90d84d
+  oomp_key_simple: b330
   owner_name: kicad
-  symbol_name: diode_b330
+  symbol_name: b330
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

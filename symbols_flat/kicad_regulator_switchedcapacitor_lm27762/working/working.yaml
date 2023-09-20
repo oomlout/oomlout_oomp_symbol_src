@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switchedcapacitor_lm27762/working
   oomp_src_flat: symbols_flat/kicad_regulator_switchedcapacitor_lm27762/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switchedcapacitor_lm27762/working
-name: regulator_switchedcapacitor_lm27762
+name: lm27762
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: dcaf2fa3e9c95b5598cb39084a3e9d96
-  md5_10: dcaf2fa3e9
-  md5_5: dcaf2
-  md5_6: dcaf2f
-  oomp_key: oomp_regulator_switchedcapacitor_lm27762
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_lm27762
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_lm27762_dcaf2f
-  oomp_key_simple: regulator_switchedcapacitor_lm27762
+  md5: 14848be0ca6f1b6c4370f915489211e9
+  md5_10: 14848be0ca
+  md5_5: '14848'
+  md5_6: 14848b
+  oomp_key: oomp_lm27762
+  oomp_key_extra: oomp_symbol_lm27762
+  oomp_key_full: oomp_symbol_lm27762_14848b
+  oomp_key_simple: lm27762
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_lm27762
+  symbol_name: lm27762
 oomp_key: oomp_kicad_regulator_switchedcapacitor_lm27762
 oomp_key_simple: kicad_regulator_switchedcapacitor_lm27762
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

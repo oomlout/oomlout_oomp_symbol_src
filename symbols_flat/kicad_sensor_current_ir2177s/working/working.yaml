@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_ir2177s/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_ir2177s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_ir2177s/working
-name: sensor_current_ir2177s
+name: ir2177s
 oomp:
   library_name: sensor_current
-  md5: f43f43f38c4527660ccd5a1f29d138cf
-  md5_10: f43f43f38c
-  md5_5: f43f4
-  md5_6: f43f43
-  oomp_key: oomp_sensor_current_ir2177s
-  oomp_key_extra: oomp_symbol_sensor_current_ir2177s
-  oomp_key_full: oomp_symbol_sensor_current_ir2177s_f43f43
-  oomp_key_simple: sensor_current_ir2177s
+  md5: eb631befcbec91dd0f89fd22f326aee2
+  md5_10: eb631befcb
+  md5_5: eb631
+  md5_6: eb631b
+  oomp_key: oomp_ir2177s
+  oomp_key_extra: oomp_symbol_ir2177s
+  oomp_key_full: oomp_symbol_ir2177s_eb631b
+  oomp_key_simple: ir2177s
   owner_name: kicad
-  symbol_name: sensor_current_ir2177s
+  symbol_name: ir2177s
 oomp_key: oomp_kicad_sensor_current_ir2177s
 oomp_key_simple: kicad_sensor_current_ir2177s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

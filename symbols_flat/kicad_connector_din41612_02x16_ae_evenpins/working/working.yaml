@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_din41612_02x16_ae_evenpins/working
   oomp_src_flat: symbols_flat/kicad_connector_din41612_02x16_ae_evenpins/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_din41612_02x16_ae_evenpins/working
-name: connector_din41612_02x16_ae_evenpins
+name: din41612_02x16_ae_evenpins
 oomp:
   library_name: connector
-  md5: e0048224ad6720773097f4744d9c4324
-  md5_10: e0048224ad
-  md5_5: e0048
-  md5_6: e00482
-  oomp_key: oomp_connector_din41612_02x16_ae_evenpins
-  oomp_key_extra: oomp_symbol_connector_din41612_02x16_ae_evenpins
-  oomp_key_full: oomp_symbol_connector_din41612_02x16_ae_evenpins_e00482
-  oomp_key_simple: connector_din41612_02x16_ae_evenpins
+  md5: 455d4d84b1a3c76862a4680e8e281b59
+  md5_10: 455d4d84b1
+  md5_5: 455d4
+  md5_6: 455d4d
+  oomp_key: oomp_din41612_02x16_ae_evenpins
+  oomp_key_extra: oomp_symbol_din41612_02x16_ae_evenpins
+  oomp_key_full: oomp_symbol_din41612_02x16_ae_evenpins_455d4d
+  oomp_key_simple: din41612_02x16_ae_evenpins
   owner_name: kicad
-  symbol_name: connector_din41612_02x16_ae_evenpins
+  symbol_name: din41612_02x16_ae_evenpins
 oomp_key: oomp_kicad_connector_din41612_02x16_ae_evenpins
 oomp_key_simple: kicad_connector_din41612_02x16_ae_evenpins
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

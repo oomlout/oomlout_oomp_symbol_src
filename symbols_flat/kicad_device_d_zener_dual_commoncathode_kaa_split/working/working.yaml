@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_zener_dual_commoncathode_kaa_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_zener_dual_commoncathode_kaa_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_zener_dual_commoncathode_kaa_split/working
-name: device_d_zener_dual_commoncathode_kaa_split
+name: d_zener_dual_commoncathode_kaa_split
 oomp:
   library_name: device
-  md5: 21a3dd69d3d8c5b798469dc10d45e9a5
-  md5_10: 21a3dd69d3
-  md5_5: 21a3d
-  md5_6: 21a3dd
-  oomp_key: oomp_device_d_zener_dual_commoncathode_kaa_split
-  oomp_key_extra: oomp_symbol_device_d_zener_dual_commoncathode_kaa_split
-  oomp_key_full: oomp_symbol_device_d_zener_dual_commoncathode_kaa_split_21a3dd
-  oomp_key_simple: device_d_zener_dual_commoncathode_kaa_split
+  md5: d1fb30b1820ebc9ec91d0dc4061d0158
+  md5_10: d1fb30b182
+  md5_5: d1fb3
+  md5_6: d1fb30
+  oomp_key: oomp_d_zener_dual_commoncathode_kaa_split
+  oomp_key_extra: oomp_symbol_d_zener_dual_commoncathode_kaa_split
+  oomp_key_full: oomp_symbol_d_zener_dual_commoncathode_kaa_split_d1fb30
+  oomp_key_simple: d_zener_dual_commoncathode_kaa_split
   owner_name: kicad
-  symbol_name: device_d_zener_dual_commoncathode_kaa_split
+  symbol_name: d_zener_dual_commoncathode_kaa_split
 oomp_key: oomp_kicad_device_d_zener_dual_commoncathode_kaa_split
 oomp_key_simple: kicad_device_d_zener_dual_commoncathode_kaa_split
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

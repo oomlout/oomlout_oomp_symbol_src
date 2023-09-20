@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_opa2197xdgk/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_opa2197xdgk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_opa2197xdgk/working
-name: amplifier_operational_opa2197xdgk
+name: opa2197xdgk
 oomp:
   library_name: amplifier_operational
-  md5: 58f46d5a12f136c1e971d55b1069823a
-  md5_10: 58f46d5a12
-  md5_5: 58f46
-  md5_6: 58f46d
-  oomp_key: oomp_amplifier_operational_opa2197xdgk
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa2197xdgk
-  oomp_key_full: oomp_symbol_amplifier_operational_opa2197xdgk_58f46d
-  oomp_key_simple: amplifier_operational_opa2197xdgk
+  md5: d815ac09abb1bb0bdf1e9292f7b786c6
+  md5_10: d815ac09ab
+  md5_5: d815a
+  md5_6: d815ac
+  oomp_key: oomp_opa2197xdgk
+  oomp_key_extra: oomp_symbol_opa2197xdgk
+  oomp_key_full: oomp_symbol_opa2197xdgk_d815ac
+  oomp_key_simple: opa2197xdgk
   owner_name: kicad
-  symbol_name: amplifier_operational_opa2197xdgk
+  symbol_name: opa2197xdgk
 oomp_key: oomp_kicad_amplifier_operational_opa2197xdgk
 oomp_key_simple: kicad_amplifier_operational_opa2197xdgk
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

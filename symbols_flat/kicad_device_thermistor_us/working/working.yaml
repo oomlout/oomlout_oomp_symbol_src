@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_thermistor_us/working
   oomp_src_flat: symbols_flat/kicad_device_thermistor_us/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_thermistor_us/working
-name: device_thermistor_us
+name: thermistor_us
 oomp:
   library_name: device
-  md5: c1065929747b88dd1fef7e9dc7768cee
-  md5_10: c106592974
-  md5_5: c1065
-  md5_6: c10659
-  oomp_key: oomp_device_thermistor_us
-  oomp_key_extra: oomp_symbol_device_thermistor_us
-  oomp_key_full: oomp_symbol_device_thermistor_us_c10659
-  oomp_key_simple: device_thermistor_us
+  md5: 3d89e3c5cde47621ff7f9dc5cc2f6061
+  md5_10: 3d89e3c5cd
+  md5_5: 3d89e
+  md5_6: 3d89e3
+  oomp_key: oomp_thermistor_us
+  oomp_key_extra: oomp_symbol_thermistor_us
+  oomp_key_full: oomp_symbol_thermistor_us_3d89e3
+  oomp_key_simple: thermistor_us
   owner_name: kicad
-  symbol_name: device_thermistor_us
+  symbol_name: thermistor_us
 oomp_key: oomp_kicad_device_thermistor_us
 oomp_key_simple: kicad_device_thermistor_us
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

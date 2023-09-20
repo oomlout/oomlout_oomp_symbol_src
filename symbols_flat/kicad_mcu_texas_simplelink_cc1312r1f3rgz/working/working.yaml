@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_texas_simplelink_cc1312r1f3rgz/working
   oomp_src_flat: symbols_flat/kicad_mcu_texas_simplelink_cc1312r1f3rgz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_texas_simplelink_cc1312r1f3rgz/working
-name: mcu_texas_simplelink_cc1312r1f3rgz
+name: cc1312r1f3rgz
 oomp:
   library_name: mcu_texas_simplelink
-  md5: a26d7a951c1ca5290626fd3e9bfeae9c
-  md5_10: a26d7a951c
-  md5_5: a26d7
-  md5_6: a26d7a
-  oomp_key: oomp_mcu_texas_simplelink_cc1312r1f3rgz
-  oomp_key_extra: oomp_symbol_mcu_texas_simplelink_cc1312r1f3rgz
-  oomp_key_full: oomp_symbol_mcu_texas_simplelink_cc1312r1f3rgz_a26d7a
-  oomp_key_simple: mcu_texas_simplelink_cc1312r1f3rgz
+  md5: 3dde435421fec1f28aa9b310c3707ea1
+  md5_10: 3dde435421
+  md5_5: 3dde4
+  md5_6: 3dde43
+  oomp_key: oomp_cc1312r1f3rgz
+  oomp_key_extra: oomp_symbol_cc1312r1f3rgz
+  oomp_key_full: oomp_symbol_cc1312r1f3rgz_3dde43
+  oomp_key_simple: cc1312r1f3rgz
   owner_name: kicad
-  symbol_name: mcu_texas_simplelink_cc1312r1f3rgz
+  symbol_name: cc1312r1f3rgz
 oomp_key: oomp_kicad_mcu_texas_simplelink_cc1312r1f3rgz
 oomp_key_simple: kicad_mcu_texas_simplelink_cc1312r1f3rgz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_ltc6803_4/working
   oomp_src_flat: symbols_flat/kicad_battery_management_ltc6803_4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_ltc6803_4/working
-name: battery_management_ltc6803_4
+name: ltc6803_4
 oomp:
   library_name: battery_management
-  md5: 994a4b5ccfecf104562aac8e8ff285c7
-  md5_10: 994a4b5ccf
-  md5_5: 994a4
-  md5_6: 994a4b
-  oomp_key: oomp_battery_management_ltc6803_4
-  oomp_key_extra: oomp_symbol_battery_management_ltc6803_4
-  oomp_key_full: oomp_symbol_battery_management_ltc6803_4_994a4b
-  oomp_key_simple: battery_management_ltc6803_4
+  md5: 968c0cbdf23f54d00388fcd3aa5e82bd
+  md5_10: 968c0cbdf2
+  md5_5: 968c0
+  md5_6: 968c0c
+  oomp_key: oomp_ltc6803_4
+  oomp_key_extra: oomp_symbol_ltc6803_4
+  oomp_key_full: oomp_symbol_ltc6803_4_968c0c
+  oomp_key_simple: ltc6803_4
   owner_name: kicad
-  symbol_name: battery_management_ltc6803_4
+  symbol_name: ltc6803_4
 oomp_key: oomp_kicad_battery_management_ltc6803_4
 oomp_key_simple: kicad_battery_management_ltc6803_4
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

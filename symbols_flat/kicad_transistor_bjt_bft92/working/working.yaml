@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_bft92/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_bft92/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_bft92/working
-name: transistor_bjt_bft92
+name: bft92
 oomp:
   library_name: transistor_bjt
-  md5: 7041db103863791247aa5f71e21387b1
-  md5_10: 7041db1038
-  md5_5: 7041d
-  md5_6: 7041db
-  oomp_key: oomp_transistor_bjt_bft92
-  oomp_key_extra: oomp_symbol_transistor_bjt_bft92
-  oomp_key_full: oomp_symbol_transistor_bjt_bft92_7041db
-  oomp_key_simple: transistor_bjt_bft92
+  md5: de7f439bdaa9b71f7fc13939a6917a5c
+  md5_10: de7f439bda
+  md5_5: de7f4
+  md5_6: de7f43
+  oomp_key: oomp_bft92
+  oomp_key_extra: oomp_symbol_bft92
+  oomp_key_full: oomp_symbol_bft92_de7f43
+  oomp_key_simple: bft92
   owner_name: kicad
-  symbol_name: transistor_bjt_bft92
+  symbol_name: bft92
 oomp_key: oomp_kicad_transistor_bjt_bft92
 oomp_key_simple: kicad_transistor_bjt_bft92
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

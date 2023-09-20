@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_battery_cell/working
   oomp_src_flat: symbols_flat/kicad_device_battery_cell/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_battery_cell/working
-name: device_battery_cell
+name: battery_cell
 oomp:
   library_name: device
-  md5: 091e79aea60a9cf2fc4559c291e71539
-  md5_10: 091e79aea6
-  md5_5: 091e7
-  md5_6: 091e79
-  oomp_key: oomp_device_battery_cell
-  oomp_key_extra: oomp_symbol_device_battery_cell
-  oomp_key_full: oomp_symbol_device_battery_cell_091e79
-  oomp_key_simple: device_battery_cell
+  md5: 929eff533b8e3480e5ba92b570e5803c
+  md5_10: 929eff533b
+  md5_5: 929ef
+  md5_6: 929eff
+  oomp_key: oomp_battery_cell
+  oomp_key_extra: oomp_symbol_battery_cell
+  oomp_key_full: oomp_symbol_battery_cell_929eff
+  oomp_key_simple: battery_cell
   owner_name: kicad
-  symbol_name: device_battery_cell
+  symbol_name: battery_cell
 oomp_key: oomp_kicad_device_battery_cell
 oomp_key_simple: kicad_device_battery_cell
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_apds_9960/working
   oomp_src_flat: symbols_flat/kicad_sensor_apds_9960/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_apds_9960/working
-name: sensor_apds_9960
+name: apds_9960
 oomp:
   library_name: sensor
-  md5: c2bc3ccfd7d805809282c6590befc258
-  md5_10: c2bc3ccfd7
-  md5_5: c2bc3
-  md5_6: c2bc3c
-  oomp_key: oomp_sensor_apds_9960
-  oomp_key_extra: oomp_symbol_sensor_apds_9960
-  oomp_key_full: oomp_symbol_sensor_apds_9960_c2bc3c
-  oomp_key_simple: sensor_apds_9960
+  md5: 9e605fc7d7cb25fffd68c1d8647c4b67
+  md5_10: 9e605fc7d7
+  md5_5: 9e605
+  md5_6: 9e605f
+  oomp_key: oomp_apds_9960
+  oomp_key_extra: oomp_symbol_apds_9960
+  oomp_key_full: oomp_symbol_apds_9960_9e605f
+  oomp_key_simple: apds_9960
   owner_name: kicad
-  symbol_name: sensor_apds_9960
+  symbol_name: apds_9960
 oomp_key: oomp_kicad_sensor_apds_9960
 oomp_key_simple: kicad_sensor_apds_9960
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_humidity_sht31_dis/working
   oomp_src_flat: symbols_flat/kicad_sensor_humidity_sht31_dis/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_humidity_sht31_dis/working
-name: sensor_humidity_sht31_dis
+name: sht31_dis
 oomp:
   library_name: sensor_humidity
-  md5: f6a79a9076c7bc21ff33548456c3f769
-  md5_10: f6a79a9076
-  md5_5: f6a79
-  md5_6: f6a79a
-  oomp_key: oomp_sensor_humidity_sht31_dis
-  oomp_key_extra: oomp_symbol_sensor_humidity_sht31_dis
-  oomp_key_full: oomp_symbol_sensor_humidity_sht31_dis_f6a79a
-  oomp_key_simple: sensor_humidity_sht31_dis
+  md5: 221238440fd239783fc6ebb8a36a4c6f
+  md5_10: 221238440f
+  md5_5: '22123'
+  md5_6: '221238'
+  oomp_key: oomp_sht31_dis
+  oomp_key_extra: oomp_symbol_sht31_dis
+  oomp_key_full: oomp_symbol_sht31_dis_221238
+  oomp_key_simple: sht31_dis
   owner_name: kicad
-  symbol_name: sensor_humidity_sht31_dis
+  symbol_name: sht31_dis
 oomp_key: oomp_kicad_sensor_humidity_sht31_dis
 oomp_key_simple: kicad_sensor_humidity_sht31_dis
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

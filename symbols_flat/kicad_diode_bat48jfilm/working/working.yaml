@@ -1,19 +1,19 @@
 id: kicad_diode_bat48jfilm
 library: diode
 library_name: Diode
-name: diode_bat48jfilm
+name: bat48jfilm
 oomp:
   library_name: diode
-  md5: 8a4b7e048dbd562663d11c4c32fea833
-  md5_10: 8a4b7e048d
-  md5_5: 8a4b7
-  md5_6: 8a4b7e
-  oomp_key: oomp_diode_bat48jfilm
-  oomp_key_extra: oomp_symbol_diode_bat48jfilm
-  oomp_key_full: oomp_symbol_diode_bat48jfilm_8a4b7e
-  oomp_key_simple: diode_bat48jfilm
+  md5: c5c1f7be5c16ed81fcfa260aae4c827c
+  md5_10: c5c1f7be5c
+  md5_5: c5c1f
+  md5_6: c5c1f7
+  oomp_key: oomp_bat48jfilm
+  oomp_key_extra: oomp_symbol_bat48jfilm
+  oomp_key_full: oomp_symbol_bat48jfilm_c5c1f7
+  oomp_key_simple: bat48jfilm
   owner_name: kicad
-  symbol_name: diode_bat48jfilm
+  symbol_name: bat48jfilm
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

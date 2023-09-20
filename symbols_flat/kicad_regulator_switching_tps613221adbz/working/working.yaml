@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps613221adbz/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps613221adbz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps613221adbz/working
-name: regulator_switching_tps613221adbz
+name: tps613221adbz
 oomp:
   library_name: regulator_switching
-  md5: d3959488ed9dc8f6bef024e891458730
-  md5_10: d3959488ed
-  md5_5: d3959
-  md5_6: d39594
-  oomp_key: oomp_regulator_switching_tps613221adbz
-  oomp_key_extra: oomp_symbol_regulator_switching_tps613221adbz
-  oomp_key_full: oomp_symbol_regulator_switching_tps613221adbz_d39594
-  oomp_key_simple: regulator_switching_tps613221adbz
+  md5: 09c2aff9e8ce5d33c2101d372e032f18
+  md5_10: 09c2aff9e8
+  md5_5: 09c2a
+  md5_6: 09c2af
+  oomp_key: oomp_tps613221adbz
+  oomp_key_extra: oomp_symbol_tps613221adbz
+  oomp_key_full: oomp_symbol_tps613221adbz_09c2af
+  oomp_key_simple: tps613221adbz
   owner_name: kicad
-  symbol_name: regulator_switching_tps613221adbz
+  symbol_name: tps613221adbz
 oomp_key: oomp_kicad_regulator_switching_tps613221adbz
 oomp_key_simple: kicad_regulator_switching_tps613221adbz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

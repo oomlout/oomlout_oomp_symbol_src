@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_bc307/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_bc307/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_bc307/working
-name: transistor_bjt_bc307
+name: bc307
 oomp:
   library_name: transistor_bjt
-  md5: e70719f2a5be46a408a1ebb2b786ca83
-  md5_10: e70719f2a5
-  md5_5: e7071
-  md5_6: e70719
-  oomp_key: oomp_transistor_bjt_bc307
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc307
-  oomp_key_full: oomp_symbol_transistor_bjt_bc307_e70719
-  oomp_key_simple: transistor_bjt_bc307
+  md5: eb8fdf732ea2627a1ebb32fa27ee0f50
+  md5_10: eb8fdf732e
+  md5_5: eb8fd
+  md5_6: eb8fdf
+  oomp_key: oomp_bc307
+  oomp_key_extra: oomp_symbol_bc307
+  oomp_key_full: oomp_symbol_bc307_eb8fdf
+  oomp_key_simple: bc307
   owner_name: kicad
-  symbol_name: transistor_bjt_bc307
+  symbol_name: bc307
 oomp_key: oomp_kicad_transistor_bjt_bc307
 oomp_key_simple: kicad_transistor_bjt_bc307
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

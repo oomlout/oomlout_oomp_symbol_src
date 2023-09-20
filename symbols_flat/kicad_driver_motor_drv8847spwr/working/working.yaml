@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_drv8847spwr/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_drv8847spwr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_drv8847spwr/working
-name: driver_motor_drv8847spwr
+name: drv8847spwr
 oomp:
   library_name: driver_motor
-  md5: e8eb7490e0871dfc5c738b5962ea928e
-  md5_10: e8eb7490e0
-  md5_5: e8eb7
-  md5_6: e8eb74
-  oomp_key: oomp_driver_motor_drv8847spwr
-  oomp_key_extra: oomp_symbol_driver_motor_drv8847spwr
-  oomp_key_full: oomp_symbol_driver_motor_drv8847spwr_e8eb74
-  oomp_key_simple: driver_motor_drv8847spwr
+  md5: de1670dcfc48552ba9c4d2ca7710f59e
+  md5_10: de1670dcfc
+  md5_5: de167
+  md5_6: de1670
+  oomp_key: oomp_drv8847spwr
+  oomp_key_extra: oomp_symbol_drv8847spwr
+  oomp_key_full: oomp_symbol_drv8847spwr_de1670
+  oomp_key_simple: drv8847spwr
   owner_name: kicad
-  symbol_name: driver_motor_drv8847spwr
+  symbol_name: drv8847spwr
 oomp_key: oomp_kicad_driver_motor_drv8847spwr
 oomp_key_simple: kicad_driver_motor_drv8847spwr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

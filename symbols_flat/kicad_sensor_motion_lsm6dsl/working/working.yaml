@@ -1,19 +1,19 @@
 id: kicad_sensor_motion_lsm6dsl
 library: sensor_motion
 library_name: Sensor_Motion
-name: sensor_motion_lsm6dsl
+name: lsm6dsl
 oomp:
   library_name: sensor_motion
-  md5: 076394d13f61ee29c2e2007c4316e936
-  md5_10: 076394d13f
-  md5_5: 07639
-  md5_6: 076394
-  oomp_key: oomp_sensor_motion_lsm6dsl
-  oomp_key_extra: oomp_symbol_sensor_motion_lsm6dsl
-  oomp_key_full: oomp_symbol_sensor_motion_lsm6dsl_076394
-  oomp_key_simple: sensor_motion_lsm6dsl
+  md5: ebabc3292e18656d0d6ab990a4c2caa9
+  md5_10: ebabc3292e
+  md5_5: ebabc
+  md5_6: ebabc3
+  oomp_key: oomp_lsm6dsl
+  oomp_key_extra: oomp_symbol_lsm6dsl
+  oomp_key_full: oomp_symbol_lsm6dsl_ebabc3
+  oomp_key_simple: lsm6dsl
   owner_name: kicad
-  symbol_name: sensor_motion_lsm6dsl
+  symbol_name: lsm6dsl
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

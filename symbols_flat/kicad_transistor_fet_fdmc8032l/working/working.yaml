@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_fdmc8032l/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_fdmc8032l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_fdmc8032l/working
-name: transistor_fet_fdmc8032l
+name: fdmc8032l
 oomp:
   library_name: transistor_fet
-  md5: 50de93f443cddae5ed4c552868fd5c64
-  md5_10: 50de93f443
-  md5_5: 50de9
-  md5_6: 50de93
-  oomp_key: oomp_transistor_fet_fdmc8032l
-  oomp_key_extra: oomp_symbol_transistor_fet_fdmc8032l
-  oomp_key_full: oomp_symbol_transistor_fet_fdmc8032l_50de93
-  oomp_key_simple: transistor_fet_fdmc8032l
+  md5: b33619deaa835c05cbed69786dca62d0
+  md5_10: b33619deaa
+  md5_5: b3361
+  md5_6: b33619
+  oomp_key: oomp_fdmc8032l
+  oomp_key_extra: oomp_symbol_fdmc8032l
+  oomp_key_full: oomp_symbol_fdmc8032l_b33619
+  oomp_key_simple: fdmc8032l
   owner_name: kicad
-  symbol_name: transistor_fet_fdmc8032l
+  symbol_name: fdmc8032l
 oomp_key: oomp_kicad_transistor_fet_fdmc8032l
 oomp_key_simple: kicad_transistor_fet_fdmc8032l
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

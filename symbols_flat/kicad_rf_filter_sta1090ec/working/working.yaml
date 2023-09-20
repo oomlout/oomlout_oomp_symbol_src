@@ -1,19 +1,19 @@
 id: kicad_rf_filter_sta1090ec
 library: rf_filter
 library_name: RF_Filter
-name: rf_filter_sta1090ec
+name: sta1090ec
 oomp:
   library_name: rf_filter
-  md5: d5802e79d9823786f56ec754fcb559b2
-  md5_10: d5802e79d9
-  md5_5: d5802
-  md5_6: d5802e
-  oomp_key: oomp_rf_filter_sta1090ec
-  oomp_key_extra: oomp_symbol_rf_filter_sta1090ec
-  oomp_key_full: oomp_symbol_rf_filter_sta1090ec_d5802e
-  oomp_key_simple: rf_filter_sta1090ec
+  md5: 01bc7b0c91f3a1b54c5c185cecab21c3
+  md5_10: 01bc7b0c91
+  md5_5: 01bc7
+  md5_6: 01bc7b
+  oomp_key: oomp_sta1090ec
+  oomp_key_extra: oomp_symbol_sta1090ec
+  oomp_key_full: oomp_symbol_sta1090ec_01bc7b
+  oomp_key_simple: sta1090ec
   owner_name: kicad
-  symbol_name: rf_filter_sta1090ec
+  symbol_name: sta1090ec
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

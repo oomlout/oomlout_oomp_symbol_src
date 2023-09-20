@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_lan8710a/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_lan8710a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_lan8710a/working
-name: interface_ethernet_lan8710a
+name: lan8710a
 oomp:
   library_name: interface_ethernet
-  md5: 932cece58d6ff95d18d5d2201f1dbee9
-  md5_10: 932cece58d
-  md5_5: 932ce
-  md5_6: 932cec
-  oomp_key: oomp_interface_ethernet_lan8710a
-  oomp_key_extra: oomp_symbol_interface_ethernet_lan8710a
-  oomp_key_full: oomp_symbol_interface_ethernet_lan8710a_932cec
-  oomp_key_simple: interface_ethernet_lan8710a
+  md5: ad4677a3eb7fdedca5679bec23e80a6e
+  md5_10: ad4677a3eb
+  md5_5: ad467
+  md5_6: ad4677
+  oomp_key: oomp_lan8710a
+  oomp_key_extra: oomp_symbol_lan8710a
+  oomp_key_full: oomp_symbol_lan8710a_ad4677
+  oomp_key_simple: lan8710a
   owner_name: kicad
-  symbol_name: interface_ethernet_lan8710a
+  symbol_name: lan8710a
 oomp_key: oomp_kicad_interface_ethernet_lan8710a
 oomp_key_simple: kicad_interface_ethernet_lan8710a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

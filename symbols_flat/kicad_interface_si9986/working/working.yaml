@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_si9986/working
   oomp_src_flat: symbols_flat/kicad_interface_si9986/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_si9986/working
-name: interface_si9986
+name: si9986
 oomp:
   library_name: interface
-  md5: 94303e21a68f8a0fa0c4d0465274e90f
-  md5_10: 94303e21a6
-  md5_5: '94303'
-  md5_6: 94303e
-  oomp_key: oomp_interface_si9986
-  oomp_key_extra: oomp_symbol_interface_si9986
-  oomp_key_full: oomp_symbol_interface_si9986_94303e
-  oomp_key_simple: interface_si9986
+  md5: be143c6b6db203e8a4987a066840e5c6
+  md5_10: be143c6b6d
+  md5_5: be143
+  md5_6: be143c
+  oomp_key: oomp_si9986
+  oomp_key_extra: oomp_symbol_si9986
+  oomp_key_full: oomp_symbol_si9986_be143c
+  oomp_key_simple: si9986
   owner_name: kicad
-  symbol_name: interface_si9986
+  symbol_name: si9986
 oomp_key: oomp_kicad_interface_si9986
 oomp_key_simple: kicad_interface_si9986
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

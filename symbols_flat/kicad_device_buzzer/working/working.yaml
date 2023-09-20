@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_buzzer/working
   oomp_src_flat: symbols_flat/kicad_device_buzzer/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_buzzer/working
-name: device_buzzer
+name: buzzer
 oomp:
   library_name: device
-  md5: 46de40c9110aaa8a7d429825522bd050
-  md5_10: 46de40c911
-  md5_5: 46de4
-  md5_6: 46de40
-  oomp_key: oomp_device_buzzer
-  oomp_key_extra: oomp_symbol_device_buzzer
-  oomp_key_full: oomp_symbol_device_buzzer_46de40
-  oomp_key_simple: device_buzzer
+  md5: 4112fc8db5e3603d61dc7ed4916b291e
+  md5_10: 4112fc8db5
+  md5_5: 4112f
+  md5_6: 4112fc
+  oomp_key: oomp_buzzer
+  oomp_key_extra: oomp_symbol_buzzer
+  oomp_key_full: oomp_symbol_buzzer_4112fc
+  oomp_key_simple: buzzer
   owner_name: kicad
-  symbol_name: device_buzzer
+  symbol_name: buzzer
 oomp_key: oomp_kicad_device_buzzer
 oomp_key_simple: kicad_device_buzzer
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

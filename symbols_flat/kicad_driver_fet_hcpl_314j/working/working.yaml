@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_hcpl_314j/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_hcpl_314j/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_hcpl_314j/working
-name: driver_fet_hcpl_314j
+name: hcpl_314j
 oomp:
   library_name: driver_fet
-  md5: 959ccdaf50c197b271ff7633cf91e63c
-  md5_10: 959ccdaf50
-  md5_5: 959cc
-  md5_6: 959ccd
-  oomp_key: oomp_driver_fet_hcpl_314j
-  oomp_key_extra: oomp_symbol_driver_fet_hcpl_314j
-  oomp_key_full: oomp_symbol_driver_fet_hcpl_314j_959ccd
-  oomp_key_simple: driver_fet_hcpl_314j
+  md5: 64bd0b78a5b8a2328061512f4f1abbe0
+  md5_10: 64bd0b78a5
+  md5_5: 64bd0
+  md5_6: 64bd0b
+  oomp_key: oomp_hcpl_314j
+  oomp_key_extra: oomp_symbol_hcpl_314j
+  oomp_key_full: oomp_symbol_hcpl_314j_64bd0b
+  oomp_key_simple: hcpl_314j
   owner_name: kicad
-  symbol_name: driver_fet_hcpl_314j
+  symbol_name: hcpl_314j
 oomp_key: oomp_kicad_driver_fet_hcpl_314j
 oomp_key_simple: kicad_driver_fet_hcpl_314j
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

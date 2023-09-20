@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ltc2451xddb/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ltc2451xddb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ltc2451xddb/working
-name: analog_adc_ltc2451xddb
+name: ltc2451xddb
 oomp:
   library_name: analog_adc
-  md5: 45e6525a0cd9052873e9dcde15f6cc6e
-  md5_10: 45e6525a0c
-  md5_5: 45e65
-  md5_6: 45e652
-  oomp_key: oomp_analog_adc_ltc2451xddb
-  oomp_key_extra: oomp_symbol_analog_adc_ltc2451xddb
-  oomp_key_full: oomp_symbol_analog_adc_ltc2451xddb_45e652
-  oomp_key_simple: analog_adc_ltc2451xddb
+  md5: bc01555ab0f3622329b7d10862df726f
+  md5_10: bc01555ab0
+  md5_5: bc015
+  md5_6: bc0155
+  oomp_key: oomp_ltc2451xddb
+  oomp_key_extra: oomp_symbol_ltc2451xddb
+  oomp_key_full: oomp_symbol_ltc2451xddb_bc0155
+  oomp_key_simple: ltc2451xddb
   owner_name: kicad
-  symbol_name: analog_adc_ltc2451xddb
+  symbol_name: ltc2451xddb
 oomp_key: oomp_kicad_analog_adc_ltc2451xddb
 oomp_key_simple: kicad_analog_adc_ltc2451xddb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

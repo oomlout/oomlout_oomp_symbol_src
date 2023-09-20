@@ -1,19 +1,19 @@
 id: kicad_74xx_ieee_74196
 library: 74xx_ieee
 library_name: 74xx_IEEE
-name: 74xx_ieee_74196
+name: '74196'
 oomp:
   library_name: 74xx_ieee
-  md5: c363d537d47dc6d75abe26d60291c1db
-  md5_10: c363d537d4
-  md5_5: c363d
-  md5_6: c363d5
-  oomp_key: oomp_74xx_ieee_74196
-  oomp_key_extra: oomp_symbol_74xx_ieee_74196
-  oomp_key_full: oomp_symbol_74xx_ieee_74196_c363d5
-  oomp_key_simple: 74xx_ieee_74196
+  md5: daaeecb7e2fb5c6a26db532ec5d24b33
+  md5_10: daaeecb7e2
+  md5_5: daaee
+  md5_6: daaeec
+  oomp_key: oomp_74196
+  oomp_key_extra: oomp_symbol_74196
+  oomp_key_full: oomp_symbol_74196_daaeec
+  oomp_key_simple: '74196'
   owner_name: kicad
-  symbol_name: 74xx_ieee_74196
+  symbol_name: '74196'
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

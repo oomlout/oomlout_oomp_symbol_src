@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tps7a7001dda/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tps7a7001dda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tps7a7001dda/working
-name: regulator_linear_tps7a7001dda
+name: tps7a7001dda
 oomp:
   library_name: regulator_linear
-  md5: 0fc9083513c32a843ba6b136f10cd218
-  md5_10: 0fc9083513
-  md5_5: 0fc90
-  md5_6: 0fc908
-  oomp_key: oomp_regulator_linear_tps7a7001dda
-  oomp_key_extra: oomp_symbol_regulator_linear_tps7a7001dda
-  oomp_key_full: oomp_symbol_regulator_linear_tps7a7001dda_0fc908
-  oomp_key_simple: regulator_linear_tps7a7001dda
+  md5: fe82b55e1d0c72bd75a3e822ea0de9a8
+  md5_10: fe82b55e1d
+  md5_5: fe82b
+  md5_6: fe82b5
+  oomp_key: oomp_tps7a7001dda
+  oomp_key_extra: oomp_symbol_tps7a7001dda
+  oomp_key_full: oomp_symbol_tps7a7001dda_fe82b5
+  oomp_key_simple: tps7a7001dda
   owner_name: kicad
-  symbol_name: regulator_linear_tps7a7001dda
+  symbol_name: tps7a7001dda
 oomp_key: oomp_kicad_regulator_linear_tps7a7001dda
 oomp_key_simple: kicad_regulator_linear_tps7a7001dda
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

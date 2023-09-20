@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_saml_atsaml21j16b_mut/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_saml_atsaml21j16b_mut/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_saml_atsaml21j16b_mut/working
-name: mcu_microchip_saml_atsaml21j16b_mut
+name: atsaml21j16b_mut
 oomp:
   library_name: mcu_microchip_saml
-  md5: 872fa38961321d90a622b598e44a5cea
-  md5_10: 872fa38961
-  md5_5: 872fa
-  md5_6: 872fa3
-  oomp_key: oomp_mcu_microchip_saml_atsaml21j16b_mut
-  oomp_key_extra: oomp_symbol_mcu_microchip_saml_atsaml21j16b_mut
-  oomp_key_full: oomp_symbol_mcu_microchip_saml_atsaml21j16b_mut_872fa3
-  oomp_key_simple: mcu_microchip_saml_atsaml21j16b_mut
+  md5: 4a031cdbbb030f4a3a15a9b7827026d3
+  md5_10: 4a031cdbbb
+  md5_5: 4a031
+  md5_6: 4a031c
+  oomp_key: oomp_atsaml21j16b_mut
+  oomp_key_extra: oomp_symbol_atsaml21j16b_mut
+  oomp_key_full: oomp_symbol_atsaml21j16b_mut_4a031c
+  oomp_key_simple: atsaml21j16b_mut
   owner_name: kicad
-  symbol_name: mcu_microchip_saml_atsaml21j16b_mut
+  symbol_name: atsaml21j16b_mut
 oomp_key: oomp_kicad_mcu_microchip_saml_atsaml21j16b_mut
 oomp_key_simple: kicad_mcu_microchip_saml_atsaml21j16b_mut
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

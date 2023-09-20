@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f4_stm32f401vbhx
 library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
-name: mcu_st_stm32f4_stm32f401vbhx
+name: stm32f401vbhx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: d6ed51bcd1e2e1068e4f0be3ff82091d
-  md5_10: d6ed51bcd1
-  md5_5: d6ed5
-  md5_6: d6ed51
-  oomp_key: oomp_mcu_st_stm32f4_stm32f401vbhx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f401vbhx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f401vbhx_d6ed51
-  oomp_key_simple: mcu_st_stm32f4_stm32f401vbhx
+  md5: c3a3a0ec07463f0d3ba2e6a47259c279
+  md5_10: c3a3a0ec07
+  md5_5: c3a3a
+  md5_6: c3a3a0
+  oomp_key: oomp_stm32f401vbhx
+  oomp_key_extra: oomp_symbol_stm32f401vbhx
+  oomp_key_full: oomp_symbol_stm32f401vbhx_c3a3a0
+  oomp_key_simple: stm32f401vbhx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f401vbhx
+  symbol_name: stm32f401vbhx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

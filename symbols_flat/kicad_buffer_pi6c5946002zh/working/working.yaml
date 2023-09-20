@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_buffer_pi6c5946002zh/working
   oomp_src_flat: symbols_flat/kicad_buffer_pi6c5946002zh/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_buffer_pi6c5946002zh/working
-name: buffer_pi6c5946002zh
+name: pi6c5946002zh
 oomp:
   library_name: buffer
-  md5: 6fddf66e0be6130b29e3acc31efd775e
-  md5_10: 6fddf66e0b
-  md5_5: 6fddf
-  md5_6: 6fddf6
-  oomp_key: oomp_buffer_pi6c5946002zh
-  oomp_key_extra: oomp_symbol_buffer_pi6c5946002zh
-  oomp_key_full: oomp_symbol_buffer_pi6c5946002zh_6fddf6
-  oomp_key_simple: buffer_pi6c5946002zh
+  md5: 8f4061c489880ad7179cddfd6a9aade2
+  md5_10: 8f4061c489
+  md5_5: 8f406
+  md5_6: 8f4061
+  oomp_key: oomp_pi6c5946002zh
+  oomp_key_extra: oomp_symbol_pi6c5946002zh
+  oomp_key_full: oomp_symbol_pi6c5946002zh_8f4061
+  oomp_key_simple: pi6c5946002zh
   owner_name: kicad
-  symbol_name: buffer_pi6c5946002zh
+  symbol_name: pi6c5946002zh
 oomp_key: oomp_kicad_buffer_pi6c5946002zh
 oomp_key_simple: kicad_buffer_pi6c5946002zh
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

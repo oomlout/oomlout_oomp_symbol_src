@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_de15_receptacle_highdensity_mountingholes/working
   oomp_src_flat: symbols_flat/kicad_connector_de15_receptacle_highdensity_mountingholes/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_de15_receptacle_highdensity_mountingholes/working
-name: connector_de15_receptacle_highdensity_mountingholes
+name: de15_receptacle_highdensity_mountingholes
 oomp:
   library_name: connector
-  md5: be116394a6a9355ab184b77c2a9eb35f
-  md5_10: be116394a6
-  md5_5: be116
-  md5_6: be1163
-  oomp_key: oomp_connector_de15_receptacle_highdensity_mountingholes
-  oomp_key_extra: oomp_symbol_connector_de15_receptacle_highdensity_mountingholes
-  oomp_key_full: oomp_symbol_connector_de15_receptacle_highdensity_mountingholes_be1163
-  oomp_key_simple: connector_de15_receptacle_highdensity_mountingholes
+  md5: 991185a9385829f558de730d2295fba9
+  md5_10: 991185a938
+  md5_5: '99118'
+  md5_6: '991185'
+  oomp_key: oomp_de15_receptacle_highdensity_mountingholes
+  oomp_key_extra: oomp_symbol_de15_receptacle_highdensity_mountingholes
+  oomp_key_full: oomp_symbol_de15_receptacle_highdensity_mountingholes_991185
+  oomp_key_simple: de15_receptacle_highdensity_mountingholes
   owner_name: kicad
-  symbol_name: connector_de15_receptacle_highdensity_mountingholes
+  symbol_name: de15_receptacle_highdensity_mountingholes
 oomp_key: oomp_kicad_connector_de15_receptacle_highdensity_mountingholes
 oomp_key_simple: kicad_connector_de15_receptacle_highdensity_mountingholes
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

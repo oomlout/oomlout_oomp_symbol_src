@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_current_pssi2021say/working
   oomp_src_flat: symbols_flat/kicad_reference_current_pssi2021say/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_current_pssi2021say/working
-name: reference_current_pssi2021say
+name: pssi2021say
 oomp:
   library_name: reference_current
-  md5: 0e67004cd2593b33d32a62dc4e2691fe
-  md5_10: 0e67004cd2
-  md5_5: 0e670
-  md5_6: 0e6700
-  oomp_key: oomp_reference_current_pssi2021say
-  oomp_key_extra: oomp_symbol_reference_current_pssi2021say
-  oomp_key_full: oomp_symbol_reference_current_pssi2021say_0e6700
-  oomp_key_simple: reference_current_pssi2021say
+  md5: e4dc00c747caec84c1546dcdf1182819
+  md5_10: e4dc00c747
+  md5_5: e4dc0
+  md5_6: e4dc00
+  oomp_key: oomp_pssi2021say
+  oomp_key_extra: oomp_symbol_pssi2021say
+  oomp_key_full: oomp_symbol_pssi2021say_e4dc00
+  oomp_key_simple: pssi2021say
   owner_name: kicad
-  symbol_name: reference_current_pssi2021say
+  symbol_name: pssi2021say
 oomp_key: oomp_kicad_reference_current_pssi2021say
 oomp_key_simple: kicad_reference_current_pssi2021say
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_gps_max_m10s/working
   oomp_src_flat: symbols_flat/kicad_rf_gps_max_m10s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_gps_max_m10s/working
-name: rf_gps_max_m10s
+name: max_m10s
 oomp:
   library_name: rf_gps
-  md5: eafe72e53d30f61a3462e3415182b8fb
-  md5_10: eafe72e53d
-  md5_5: eafe7
-  md5_6: eafe72
-  oomp_key: oomp_rf_gps_max_m10s
-  oomp_key_extra: oomp_symbol_rf_gps_max_m10s
-  oomp_key_full: oomp_symbol_rf_gps_max_m10s_eafe72
-  oomp_key_simple: rf_gps_max_m10s
+  md5: 9047bfe9e37523f8e4ec5e3442193742
+  md5_10: 9047bfe9e3
+  md5_5: 9047b
+  md5_6: 9047bf
+  oomp_key: oomp_max_m10s
+  oomp_key_extra: oomp_symbol_max_m10s
+  oomp_key_full: oomp_symbol_max_m10s_9047bf
+  oomp_key_simple: max_m10s
   owner_name: kicad
-  symbol_name: rf_gps_max_m10s
+  symbol_name: max_m10s
 oomp_key: oomp_kicad_rf_gps_max_m10s
 oomp_key_simple: kicad_rf_gps_max_m10s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

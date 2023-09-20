@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_push_open_dual/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_push_open_dual/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_push_open_dual/working
-name: switch_sw_push_open_dual
+name: sw_push_open_dual
 oomp:
   library_name: switch
-  md5: 962f2493549eb7808a468fb108a17432
-  md5_10: 962f249354
-  md5_5: 962f2
-  md5_6: 962f24
-  oomp_key: oomp_switch_sw_push_open_dual
-  oomp_key_extra: oomp_symbol_switch_sw_push_open_dual
-  oomp_key_full: oomp_symbol_switch_sw_push_open_dual_962f24
-  oomp_key_simple: switch_sw_push_open_dual
+  md5: 00d03850505771d130cfa549a9c49f32
+  md5_10: 00d0385050
+  md5_5: 00d03
+  md5_6: 00d038
+  oomp_key: oomp_sw_push_open_dual
+  oomp_key_extra: oomp_symbol_sw_push_open_dual
+  oomp_key_full: oomp_symbol_sw_push_open_dual_00d038
+  oomp_key_simple: sw_push_open_dual
   owner_name: kicad
-  symbol_name: switch_sw_push_open_dual
+  symbol_name: sw_push_open_dual
 oomp_key: oomp_kicad_switch_sw_push_open_dual
 oomp_key_simple: kicad_switch_sw_push_open_dual
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_filter_bfcn_1445/working
   oomp_src_flat: symbols_flat/kicad_rf_filter_bfcn_1445/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_filter_bfcn_1445/working
-name: rf_filter_bfcn_1445
+name: bfcn_1445
 oomp:
   library_name: rf_filter
-  md5: 3737b1d1db66d14cc3d875a89fa71d55
-  md5_10: 3737b1d1db
-  md5_5: 3737b
-  md5_6: 3737b1
-  oomp_key: oomp_rf_filter_bfcn_1445
-  oomp_key_extra: oomp_symbol_rf_filter_bfcn_1445
-  oomp_key_full: oomp_symbol_rf_filter_bfcn_1445_3737b1
-  oomp_key_simple: rf_filter_bfcn_1445
+  md5: 76b37df7a2a20516d895c6040ac667dd
+  md5_10: 76b37df7a2
+  md5_5: 76b37
+  md5_6: 76b37d
+  oomp_key: oomp_bfcn_1445
+  oomp_key_extra: oomp_symbol_bfcn_1445
+  oomp_key_full: oomp_symbol_bfcn_1445_76b37d
+  oomp_key_simple: bfcn_1445
   owner_name: kicad
-  symbol_name: rf_filter_bfcn_1445
+  symbol_name: bfcn_1445
 oomp_key: oomp_kicad_rf_filter_bfcn_1445
 oomp_key_simple: kicad_rf_filter_bfcn_1445
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

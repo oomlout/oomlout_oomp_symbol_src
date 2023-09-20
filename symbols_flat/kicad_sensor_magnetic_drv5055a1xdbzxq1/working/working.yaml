@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_drv5055a1xdbzxq1/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_drv5055a1xdbzxq1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_drv5055a1xdbzxq1/working
-name: sensor_magnetic_drv5055a1xdbzxq1
+name: drv5055a1xdbzxq1
 oomp:
   library_name: sensor_magnetic
-  md5: a68bf8ab5bb13ca8c45fb6dd8371bc1f
-  md5_10: a68bf8ab5b
-  md5_5: a68bf
-  md5_6: a68bf8
-  oomp_key: oomp_sensor_magnetic_drv5055a1xdbzxq1
-  oomp_key_extra: oomp_symbol_sensor_magnetic_drv5055a1xdbzxq1
-  oomp_key_full: oomp_symbol_sensor_magnetic_drv5055a1xdbzxq1_a68bf8
-  oomp_key_simple: sensor_magnetic_drv5055a1xdbzxq1
+  md5: d67a5c7f98b9a20a6aba38fb6ef09f28
+  md5_10: d67a5c7f98
+  md5_5: d67a5
+  md5_6: d67a5c
+  oomp_key: oomp_drv5055a1xdbzxq1
+  oomp_key_extra: oomp_symbol_drv5055a1xdbzxq1
+  oomp_key_full: oomp_symbol_drv5055a1xdbzxq1_d67a5c
+  oomp_key_simple: drv5055a1xdbzxq1
   owner_name: kicad
-  symbol_name: sensor_magnetic_drv5055a1xdbzxq1
+  symbol_name: drv5055a1xdbzxq1
 oomp_key: oomp_kicad_sensor_magnetic_drv5055a1xdbzxq1
 oomp_key_simple: kicad_sensor_magnetic_drv5055a1xdbzxq1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

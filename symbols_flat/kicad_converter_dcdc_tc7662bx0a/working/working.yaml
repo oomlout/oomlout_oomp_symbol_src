@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_tc7662bx0a/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_tc7662bx0a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_tc7662bx0a/working
-name: converter_dcdc_tc7662bx0a
+name: tc7662bx0a
 oomp:
   library_name: converter_dcdc
-  md5: 34b851d5844c51415b6518d66cd9b7f5
-  md5_10: 34b851d584
-  md5_5: 34b85
-  md5_6: 34b851
-  oomp_key: oomp_converter_dcdc_tc7662bx0a
-  oomp_key_extra: oomp_symbol_converter_dcdc_tc7662bx0a
-  oomp_key_full: oomp_symbol_converter_dcdc_tc7662bx0a_34b851
-  oomp_key_simple: converter_dcdc_tc7662bx0a
+  md5: 7adce5f068fb260d3a8b311d0e6df864
+  md5_10: 7adce5f068
+  md5_5: 7adce
+  md5_6: 7adce5
+  oomp_key: oomp_tc7662bx0a
+  oomp_key_extra: oomp_symbol_tc7662bx0a
+  oomp_key_full: oomp_symbol_tc7662bx0a_7adce5
+  oomp_key_simple: tc7662bx0a
   owner_name: kicad
-  symbol_name: converter_dcdc_tc7662bx0a
+  symbol_name: tc7662bx0a
 oomp_key: oomp_kicad_converter_dcdc_tc7662bx0a
 oomp_key_simple: kicad_converter_dcdc_tc7662bx0a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

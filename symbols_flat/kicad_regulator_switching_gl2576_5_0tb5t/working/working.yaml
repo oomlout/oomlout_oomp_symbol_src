@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_gl2576_5_0tb5t
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_gl2576_5_0tb5t
+name: gl2576_5_0tb5t
 oomp:
   library_name: regulator_switching
-  md5: bb570cf4f76660aaea88ce3773103fa6
-  md5_10: bb570cf4f7
-  md5_5: bb570
-  md5_6: bb570c
-  oomp_key: oomp_regulator_switching_gl2576_5_0tb5t
-  oomp_key_extra: oomp_symbol_regulator_switching_gl2576_5_0tb5t
-  oomp_key_full: oomp_symbol_regulator_switching_gl2576_5_0tb5t_bb570c
-  oomp_key_simple: regulator_switching_gl2576_5_0tb5t
+  md5: 101e67ee5ac83c2eb9559a3a6d1a8a33
+  md5_10: 101e67ee5a
+  md5_5: 101e6
+  md5_6: 101e67
+  oomp_key: oomp_gl2576_5_0tb5t
+  oomp_key_extra: oomp_symbol_gl2576_5_0tb5t
+  oomp_key_full: oomp_symbol_gl2576_5_0tb5t_101e67
+  oomp_key_simple: gl2576_5_0tb5t
   owner_name: kicad
-  symbol_name: regulator_switching_gl2576_5_0tb5t
+  symbol_name: gl2576_5_0tb5t
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_fin1019mtc/working
   oomp_src_flat: symbols_flat/kicad_interface_fin1019mtc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_fin1019mtc/working
-name: interface_fin1019mtc
+name: fin1019mtc
 oomp:
   library_name: interface
-  md5: 666ab927de39705cd479cd8ea1a99c64
-  md5_10: 666ab927de
-  md5_5: 666ab
-  md5_6: 666ab9
-  oomp_key: oomp_interface_fin1019mtc
-  oomp_key_extra: oomp_symbol_interface_fin1019mtc
-  oomp_key_full: oomp_symbol_interface_fin1019mtc_666ab9
-  oomp_key_simple: interface_fin1019mtc
+  md5: a5a075e1bc969c4533ab4a1cd5943ffb
+  md5_10: a5a075e1bc
+  md5_5: a5a07
+  md5_6: a5a075
+  oomp_key: oomp_fin1019mtc
+  oomp_key_extra: oomp_symbol_fin1019mtc
+  oomp_key_full: oomp_symbol_fin1019mtc_a5a075
+  oomp_key_simple: fin1019mtc
   owner_name: kicad
-  symbol_name: interface_fin1019mtc
+  symbol_name: fin1019mtc
 oomp_key: oomp_kicad_interface_fin1019mtc
 oomp_key_simple: kicad_interface_fin1019mtc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

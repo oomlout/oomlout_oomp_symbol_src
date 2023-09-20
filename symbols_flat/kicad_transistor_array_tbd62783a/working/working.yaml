@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_array_tbd62783a/working
   oomp_src_flat: symbols_flat/kicad_transistor_array_tbd62783a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_array_tbd62783a/working
-name: transistor_array_tbd62783a
+name: tbd62783a
 oomp:
   library_name: transistor_array
-  md5: 12d0d6e4123b1502fe74127d42863b0c
-  md5_10: 12d0d6e412
-  md5_5: 12d0d
-  md5_6: 12d0d6
-  oomp_key: oomp_transistor_array_tbd62783a
-  oomp_key_extra: oomp_symbol_transistor_array_tbd62783a
-  oomp_key_full: oomp_symbol_transistor_array_tbd62783a_12d0d6
-  oomp_key_simple: transistor_array_tbd62783a
+  md5: 7b80d3eaae9d082b9c2d1f02af817855
+  md5_10: 7b80d3eaae
+  md5_5: 7b80d
+  md5_6: 7b80d3
+  oomp_key: oomp_tbd62783a
+  oomp_key_extra: oomp_symbol_tbd62783a
+  oomp_key_full: oomp_symbol_tbd62783a_7b80d3
+  oomp_key_simple: tbd62783a
   owner_name: kicad
-  symbol_name: transistor_array_tbd62783a
+  symbol_name: tbd62783a
 oomp_key: oomp_kicad_transistor_array_tbd62783a
 oomp_key_simple: kicad_transistor_array_tbd62783a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_mcp3208/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_mcp3208/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_mcp3208/working
-name: analog_adc_mcp3208
+name: mcp3208
 oomp:
   library_name: analog_adc
-  md5: 3408e3884cb643d6d948b4436655f6d2
-  md5_10: 3408e3884c
-  md5_5: 3408e
-  md5_6: 3408e3
-  oomp_key: oomp_analog_adc_mcp3208
-  oomp_key_extra: oomp_symbol_analog_adc_mcp3208
-  oomp_key_full: oomp_symbol_analog_adc_mcp3208_3408e3
-  oomp_key_simple: analog_adc_mcp3208
+  md5: 683e6fb07d820e78cdd4f60d9a0c1093
+  md5_10: 683e6fb07d
+  md5_5: 683e6
+  md5_6: 683e6f
+  oomp_key: oomp_mcp3208
+  oomp_key_extra: oomp_symbol_mcp3208
+  oomp_key_full: oomp_symbol_mcp3208_683e6f
+  oomp_key_simple: mcp3208
   owner_name: kicad
-  symbol_name: analog_adc_mcp3208
+  symbol_name: mcp3208
 oomp_key: oomp_kicad_analog_adc_mcp3208
 oomp_key_simple: kicad_analog_adc_mcp3208
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

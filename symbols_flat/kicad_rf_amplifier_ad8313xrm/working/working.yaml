@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_amplifier_ad8313xrm/working
   oomp_src_flat: symbols_flat/kicad_rf_amplifier_ad8313xrm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_amplifier_ad8313xrm/working
-name: rf_amplifier_ad8313xrm
+name: ad8313xrm
 oomp:
   library_name: rf_amplifier
-  md5: ee3798e0e5035d086cac72c951959d63
-  md5_10: ee3798e0e5
-  md5_5: ee379
-  md5_6: ee3798
-  oomp_key: oomp_rf_amplifier_ad8313xrm
-  oomp_key_extra: oomp_symbol_rf_amplifier_ad8313xrm
-  oomp_key_full: oomp_symbol_rf_amplifier_ad8313xrm_ee3798
-  oomp_key_simple: rf_amplifier_ad8313xrm
+  md5: 5b07cc54eb7865d70798123b8dd56577
+  md5_10: 5b07cc54eb
+  md5_5: 5b07c
+  md5_6: 5b07cc
+  oomp_key: oomp_ad8313xrm
+  oomp_key_extra: oomp_symbol_ad8313xrm
+  oomp_key_full: oomp_symbol_ad8313xrm_5b07cc
+  oomp_key_simple: ad8313xrm
   owner_name: kicad
-  symbol_name: rf_amplifier_ad8313xrm
+  symbol_name: ad8313xrm
 oomp_key: oomp_kicad_rf_amplifier_ad8313xrm
 oomp_key_simple: kicad_rf_amplifier_ad8313xrm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

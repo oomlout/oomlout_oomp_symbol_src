@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f7_stm32f765vgtx
 library: mcu_st_stm32f7
 library_name: MCU_ST_STM32F7
-name: mcu_st_stm32f7_stm32f765vgtx
+name: stm32f765vgtx
 oomp:
   library_name: mcu_st_stm32f7
-  md5: f26b8effd11314981adaf36002fa3169
-  md5_10: f26b8effd1
-  md5_5: f26b8
-  md5_6: f26b8e
-  oomp_key: oomp_mcu_st_stm32f7_stm32f765vgtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f7_stm32f765vgtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f7_stm32f765vgtx_f26b8e
-  oomp_key_simple: mcu_st_stm32f7_stm32f765vgtx
+  md5: f1bf14066a2416cff1d623e7cd60ad72
+  md5_10: f1bf14066a
+  md5_5: f1bf1
+  md5_6: f1bf14
+  oomp_key: oomp_stm32f765vgtx
+  oomp_key_extra: oomp_symbol_stm32f765vgtx
+  oomp_key_full: oomp_symbol_stm32f765vgtx_f1bf14
+  oomp_key_simple: stm32f765vgtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f7_stm32f765vgtx
+  symbol_name: stm32f765vgtx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tps71518_sc70/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tps71518_sc70/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tps71518_sc70/working
-name: regulator_linear_tps71518_sc70
+name: tps71518_sc70
 oomp:
   library_name: regulator_linear
-  md5: 04b477bd787eb7555ed637d044ea9aa7
-  md5_10: 04b477bd78
-  md5_5: 04b47
-  md5_6: 04b477
-  oomp_key: oomp_regulator_linear_tps71518_sc70
-  oomp_key_extra: oomp_symbol_regulator_linear_tps71518_sc70
-  oomp_key_full: oomp_symbol_regulator_linear_tps71518_sc70_04b477
-  oomp_key_simple: regulator_linear_tps71518_sc70
+  md5: c09683c69b963cbbddaea2191618c63c
+  md5_10: c09683c69b
+  md5_5: c0968
+  md5_6: c09683
+  oomp_key: oomp_tps71518_sc70
+  oomp_key_extra: oomp_symbol_tps71518_sc70
+  oomp_key_full: oomp_symbol_tps71518_sc70_c09683
+  oomp_key_simple: tps71518_sc70
   owner_name: kicad
-  symbol_name: regulator_linear_tps71518_sc70
+  symbol_name: tps71518_sc70
 oomp_key: oomp_kicad_regulator_linear_tps71518_sc70
 oomp_key_simple: kicad_regulator_linear_tps71518_sc70
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

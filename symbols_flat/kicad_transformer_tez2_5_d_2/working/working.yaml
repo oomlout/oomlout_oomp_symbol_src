@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_tez2_5_d_2/working
   oomp_src_flat: symbols_flat/kicad_transformer_tez2_5_d_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_tez2_5_d_2/working
-name: transformer_tez2_5_d_2
+name: tez2_5_d_2
 oomp:
   library_name: transformer
-  md5: f20b318316a8c542bec1c334b02e1d62
-  md5_10: f20b318316
-  md5_5: f20b3
-  md5_6: f20b31
-  oomp_key: oomp_transformer_tez2_5_d_2
-  oomp_key_extra: oomp_symbol_transformer_tez2_5_d_2
-  oomp_key_full: oomp_symbol_transformer_tez2_5_d_2_f20b31
-  oomp_key_simple: transformer_tez2_5_d_2
+  md5: 6489d31f4df638eb7baea0a9db7dd873
+  md5_10: 6489d31f4d
+  md5_5: 6489d
+  md5_6: 6489d3
+  oomp_key: oomp_tez2_5_d_2
+  oomp_key_extra: oomp_symbol_tez2_5_d_2
+  oomp_key_full: oomp_symbol_tez2_5_d_2_6489d3
+  oomp_key_simple: tez2_5_d_2
   owner_name: kicad
-  symbol_name: transformer_tez2_5_d_2
+  symbol_name: tez2_5_d_2
 oomp_key: oomp_kicad_transformer_tez2_5_d_2
 oomp_key_simple: kicad_transformer_tez2_5_d_2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

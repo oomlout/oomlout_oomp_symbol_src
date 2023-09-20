@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_current_ref200au/working
   oomp_src_flat: symbols_flat/kicad_reference_current_ref200au/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_current_ref200au/working
-name: reference_current_ref200au
+name: ref200au
 oomp:
   library_name: reference_current
-  md5: ebb74d3f03951c1dbc2f8de96a851d37
-  md5_10: ebb74d3f03
-  md5_5: ebb74
-  md5_6: ebb74d
-  oomp_key: oomp_reference_current_ref200au
-  oomp_key_extra: oomp_symbol_reference_current_ref200au
-  oomp_key_full: oomp_symbol_reference_current_ref200au_ebb74d
-  oomp_key_simple: reference_current_ref200au
+  md5: c02b65e5620eedf66622e87337c8d4a1
+  md5_10: c02b65e562
+  md5_5: c02b6
+  md5_6: c02b65
+  oomp_key: oomp_ref200au
+  oomp_key_extra: oomp_symbol_ref200au
+  oomp_key_full: oomp_symbol_ref200au_c02b65
+  oomp_key_simple: ref200au
   owner_name: kicad
-  symbol_name: reference_current_ref200au
+  symbol_name: ref200au
 oomp_key: oomp_kicad_reference_current_ref200au
 oomp_key_simple: kicad_reference_current_ref200au
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

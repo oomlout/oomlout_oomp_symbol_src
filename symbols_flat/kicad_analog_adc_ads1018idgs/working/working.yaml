@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ads1018idgs/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ads1018idgs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ads1018idgs/working
-name: analog_adc_ads1018idgs
+name: ads1018idgs
 oomp:
   library_name: analog_adc
-  md5: 7f82f966d5093884a795142a48851b1d
-  md5_10: 7f82f966d5
-  md5_5: 7f82f
-  md5_6: 7f82f9
-  oomp_key: oomp_analog_adc_ads1018idgs
-  oomp_key_extra: oomp_symbol_analog_adc_ads1018idgs
-  oomp_key_full: oomp_symbol_analog_adc_ads1018idgs_7f82f9
-  oomp_key_simple: analog_adc_ads1018idgs
+  md5: f136807a85c280589a85ec649204de8b
+  md5_10: f136807a85
+  md5_5: f1368
+  md5_6: f13680
+  oomp_key: oomp_ads1018idgs
+  oomp_key_extra: oomp_symbol_ads1018idgs
+  oomp_key_full: oomp_symbol_ads1018idgs_f13680
+  oomp_key_simple: ads1018idgs
   owner_name: kicad
-  symbol_name: analog_adc_ads1018idgs
+  symbol_name: ads1018idgs
 oomp_key: oomp_kicad_analog_adc_ads1018idgs
 oomp_key_simple: kicad_analog_adc_ads1018idgs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

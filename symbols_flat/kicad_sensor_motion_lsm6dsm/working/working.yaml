@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_lsm6dsm/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_lsm6dsm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_lsm6dsm/working
-name: sensor_motion_lsm6dsm
+name: lsm6dsm
 oomp:
   library_name: sensor_motion
-  md5: 19a18536c8ed20ee6b0e52d08a2a04ec
-  md5_10: 19a18536c8
-  md5_5: 19a18
-  md5_6: 19a185
-  oomp_key: oomp_sensor_motion_lsm6dsm
-  oomp_key_extra: oomp_symbol_sensor_motion_lsm6dsm
-  oomp_key_full: oomp_symbol_sensor_motion_lsm6dsm_19a185
-  oomp_key_simple: sensor_motion_lsm6dsm
+  md5: 60befe8e1d6334e1f08fcf69bda0b16e
+  md5_10: 60befe8e1d
+  md5_5: 60bef
+  md5_6: 60befe
+  oomp_key: oomp_lsm6dsm
+  oomp_key_extra: oomp_symbol_lsm6dsm
+  oomp_key_full: oomp_symbol_lsm6dsm_60befe
+  oomp_key_simple: lsm6dsm
   owner_name: kicad
-  symbol_name: sensor_motion_lsm6dsm
+  symbol_name: lsm6dsm
 oomp_key: oomp_kicad_sensor_motion_lsm6dsm
 oomp_key_simple: kicad_sensor_motion_lsm6dsm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

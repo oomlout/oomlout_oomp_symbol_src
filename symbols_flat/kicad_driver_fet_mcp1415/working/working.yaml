@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_mcp1415/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_mcp1415/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_mcp1415/working
-name: driver_fet_mcp1415
+name: mcp1415
 oomp:
   library_name: driver_fet
-  md5: 83c4131481b899bfad96cb8e6ab41d4d
-  md5_10: 83c4131481
-  md5_5: 83c41
-  md5_6: 83c413
-  oomp_key: oomp_driver_fet_mcp1415
-  oomp_key_extra: oomp_symbol_driver_fet_mcp1415
-  oomp_key_full: oomp_symbol_driver_fet_mcp1415_83c413
-  oomp_key_simple: driver_fet_mcp1415
+  md5: e0690039d6403bbe67103347d33986cc
+  md5_10: e0690039d6
+  md5_5: e0690
+  md5_6: e06900
+  oomp_key: oomp_mcp1415
+  oomp_key_extra: oomp_symbol_mcp1415
+  oomp_key_full: oomp_symbol_mcp1415_e06900
+  oomp_key_simple: mcp1415
   owner_name: kicad
-  symbol_name: driver_fet_mcp1415
+  symbol_name: mcp1415
 oomp_key: oomp_kicad_driver_fet_mcp1415
 oomp_key_simple: kicad_driver_fet_mcp1415
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_nmos_substrate/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_nmos_substrate/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_nmos_substrate/working
-name: simulation_spice_nmos_substrate
+name: nmos_substrate
 oomp:
   library_name: simulation_spice
-  md5: 25798245170466dc1cf54de9bac1625d
-  md5_10: '2579824517'
-  md5_5: '25798'
-  md5_6: '257982'
-  oomp_key: oomp_simulation_spice_nmos_substrate
-  oomp_key_extra: oomp_symbol_simulation_spice_nmos_substrate
-  oomp_key_full: oomp_symbol_simulation_spice_nmos_substrate_257982
-  oomp_key_simple: simulation_spice_nmos_substrate
+  md5: a7944ad7542d6e39747adc3296369c69
+  md5_10: a7944ad754
+  md5_5: a7944
+  md5_6: a7944a
+  oomp_key: oomp_nmos_substrate
+  oomp_key_extra: oomp_symbol_nmos_substrate
+  oomp_key_full: oomp_symbol_nmos_substrate_a7944a
+  oomp_key_simple: nmos_substrate
   owner_name: kicad
-  symbol_name: simulation_spice_nmos_substrate
+  symbol_name: nmos_substrate
 oomp_key: oomp_kicad_simulation_spice_nmos_substrate
 oomp_key_simple: kicad_simulation_spice_nmos_substrate
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

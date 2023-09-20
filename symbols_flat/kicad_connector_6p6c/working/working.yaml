@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_6p6c/working
   oomp_src_flat: symbols_flat/kicad_connector_6p6c/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_6p6c/working
-name: connector_6p6c
+name: 6p6c
 oomp:
   library_name: connector
-  md5: 3709e0ba524c856091e4488207b59f3c
-  md5_10: 3709e0ba52
-  md5_5: 3709e
-  md5_6: 3709e0
-  oomp_key: oomp_connector_6p6c
-  oomp_key_extra: oomp_symbol_connector_6p6c
-  oomp_key_full: oomp_symbol_connector_6p6c_3709e0
-  oomp_key_simple: connector_6p6c
+  md5: acf3c2853a9e7d61b594d47ba9ba7725
+  md5_10: acf3c2853a
+  md5_5: acf3c
+  md5_6: acf3c2
+  oomp_key: oomp_6p6c
+  oomp_key_extra: oomp_symbol_6p6c
+  oomp_key_full: oomp_symbol_6p6c_acf3c2
+  oomp_key_simple: 6p6c
   owner_name: kicad
-  symbol_name: connector_6p6c
+  symbol_name: 6p6c
 oomp_key: oomp_kicad_connector_6p6c
 oomp_key_simple: kicad_connector_6p6c
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

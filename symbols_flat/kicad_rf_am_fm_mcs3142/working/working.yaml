@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_am_fm_mcs3142/working
   oomp_src_flat: symbols_flat/kicad_rf_am_fm_mcs3142/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_am_fm_mcs3142/working
-name: rf_am_fm_mcs3142
+name: mcs3142
 oomp:
   library_name: rf_am_fm
-  md5: 45fa47f5ea27fe3c2d519d91156c3dbc
-  md5_10: 45fa47f5ea
-  md5_5: 45fa4
-  md5_6: 45fa47
-  oomp_key: oomp_rf_am_fm_mcs3142
-  oomp_key_extra: oomp_symbol_rf_am_fm_mcs3142
-  oomp_key_full: oomp_symbol_rf_am_fm_mcs3142_45fa47
-  oomp_key_simple: rf_am_fm_mcs3142
+  md5: 2e18663ed7a800f566535365d75e4c46
+  md5_10: 2e18663ed7
+  md5_5: 2e186
+  md5_6: 2e1866
+  oomp_key: oomp_mcs3142
+  oomp_key_extra: oomp_symbol_mcs3142
+  oomp_key_full: oomp_symbol_mcs3142_2e1866
+  oomp_key_simple: mcs3142
   owner_name: kicad
-  symbol_name: rf_am_fm_mcs3142
+  symbol_name: mcs3142
 oomp_key: oomp_kicad_rf_am_fm_mcs3142
 oomp_key_simple: kicad_rf_am_fm_mcs3142
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

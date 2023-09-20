@@ -1,19 +1,19 @@
 id: kicad_regulator_controller_ucc2894
 library: regulator_controller
 library_name: Regulator_Controller
-name: regulator_controller_ucc2894
+name: ucc2894
 oomp:
   library_name: regulator_controller
-  md5: 063e3e8fe0954b457f2862c5be932ac9
-  md5_10: 063e3e8fe0
-  md5_5: 063e3
-  md5_6: 063e3e
-  oomp_key: oomp_regulator_controller_ucc2894
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc2894
-  oomp_key_full: oomp_symbol_regulator_controller_ucc2894_063e3e
-  oomp_key_simple: regulator_controller_ucc2894
+  md5: 8ba1c164c67cf7b594a165b9476776f5
+  md5_10: 8ba1c164c6
+  md5_5: 8ba1c
+  md5_6: 8ba1c1
+  oomp_key: oomp_ucc2894
+  oomp_key_extra: oomp_symbol_ucc2894
+  oomp_key_full: oomp_symbol_ucc2894_8ba1c1
+  oomp_key_simple: ucc2894
   owner_name: kicad
-  symbol_name: regulator_controller_ucc2894
+  symbol_name: ucc2894
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

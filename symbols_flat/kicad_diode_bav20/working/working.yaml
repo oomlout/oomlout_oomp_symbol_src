@@ -1,19 +1,19 @@
 id: kicad_diode_bav20
 library: diode
 library_name: Diode
-name: diode_bav20
+name: bav20
 oomp:
   library_name: diode
-  md5: 2a0f949524c898c262321f1b6a171c13
-  md5_10: 2a0f949524
-  md5_5: 2a0f9
-  md5_6: 2a0f94
-  oomp_key: oomp_diode_bav20
-  oomp_key_extra: oomp_symbol_diode_bav20
-  oomp_key_full: oomp_symbol_diode_bav20_2a0f94
-  oomp_key_simple: diode_bav20
+  md5: e2aaa896d5f79c843bd88a00ac74e390
+  md5_10: e2aaa896d5
+  md5_5: e2aaa
+  md5_6: e2aaa8
+  oomp_key: oomp_bav20
+  oomp_key_extra: oomp_symbol_bav20
+  oomp_key_full: oomp_symbol_bav20_e2aaa8
+  oomp_key_simple: bav20
   owner_name: kicad
-  symbol_name: diode_bav20
+  symbol_name: bav20
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_njfet/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_njfet/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_njfet/working
-name: simulation_spice_njfet
+name: njfet
 oomp:
   library_name: simulation_spice
-  md5: a610b409a047aba10dde07df807dd49c
-  md5_10: a610b409a0
-  md5_5: a610b
-  md5_6: a610b4
-  oomp_key: oomp_simulation_spice_njfet
-  oomp_key_extra: oomp_symbol_simulation_spice_njfet
-  oomp_key_full: oomp_symbol_simulation_spice_njfet_a610b4
-  oomp_key_simple: simulation_spice_njfet
+  md5: 075cd27e8970f0b5b9b7aa5762314603
+  md5_10: 075cd27e89
+  md5_5: 075cd
+  md5_6: 075cd2
+  oomp_key: oomp_njfet
+  oomp_key_extra: oomp_symbol_njfet
+  oomp_key_full: oomp_symbol_njfet_075cd2
+  oomp_key_simple: njfet
   owner_name: kicad
-  symbol_name: simulation_spice_njfet
+  symbol_name: njfet
 oomp_key: oomp_kicad_simulation_spice_njfet
 oomp_key_simple: kicad_simulation_spice_njfet
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

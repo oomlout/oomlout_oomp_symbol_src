@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpu_nxp_6800_mc6802/working
   oomp_src_flat: symbols_flat/kicad_cpu_nxp_6800_mc6802/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpu_nxp_6800_mc6802/working
-name: cpu_nxp_6800_mc6802
+name: mc6802
 oomp:
   library_name: cpu_nxp_6800
-  md5: 6791ec8e9a3b6c225158dd7c88ada32e
-  md5_10: 6791ec8e9a
-  md5_5: 6791e
-  md5_6: 6791ec
-  oomp_key: oomp_cpu_nxp_6800_mc6802
-  oomp_key_extra: oomp_symbol_cpu_nxp_6800_mc6802
-  oomp_key_full: oomp_symbol_cpu_nxp_6800_mc6802_6791ec
-  oomp_key_simple: cpu_nxp_6800_mc6802
+  md5: 63d9ad9da5e8ef3dd168d350c74fb3ed
+  md5_10: 63d9ad9da5
+  md5_5: 63d9a
+  md5_6: 63d9ad
+  oomp_key: oomp_mc6802
+  oomp_key_extra: oomp_symbol_mc6802
+  oomp_key_full: oomp_symbol_mc6802_63d9ad
+  oomp_key_simple: mc6802
   owner_name: kicad
-  symbol_name: cpu_nxp_6800_mc6802
+  symbol_name: mc6802
 oomp_key: oomp_kicad_cpu_nxp_6800_mc6802
 oomp_key_simple: kicad_cpu_nxp_6800_mc6802
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

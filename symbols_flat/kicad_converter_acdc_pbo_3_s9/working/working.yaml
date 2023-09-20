@@ -1,19 +1,19 @@
 id: kicad_converter_acdc_pbo_3_s9
 library: converter_acdc
 library_name: Converter_ACDC
-name: converter_acdc_pbo_3_s9
+name: pbo_3_s9
 oomp:
   library_name: converter_acdc
-  md5: 29fbff623338bc3ac34bd2e29b39aa32
-  md5_10: 29fbff6233
-  md5_5: 29fbf
-  md5_6: 29fbff
-  oomp_key: oomp_converter_acdc_pbo_3_s9
-  oomp_key_extra: oomp_symbol_converter_acdc_pbo_3_s9
-  oomp_key_full: oomp_symbol_converter_acdc_pbo_3_s9_29fbff
-  oomp_key_simple: converter_acdc_pbo_3_s9
+  md5: ee12cf68d96f54491d149e8e7de9fadf
+  md5_10: ee12cf68d9
+  md5_5: ee12c
+  md5_6: ee12cf
+  oomp_key: oomp_pbo_3_s9
+  oomp_key_extra: oomp_symbol_pbo_3_s9
+  oomp_key_full: oomp_symbol_pbo_3_s9_ee12cf
+  oomp_key_simple: pbo_3_s9
   owner_name: kicad
-  symbol_name: converter_acdc_pbo_3_s9
+  symbol_name: pbo_3_s9
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

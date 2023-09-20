@@ -1,19 +1,19 @@
 id: kicad_amplifier_operational_lmh6702ma
 library: amplifier_operational
 library_name: Amplifier_Operational
-name: amplifier_operational_lmh6702ma
+name: lmh6702ma
 oomp:
   library_name: amplifier_operational
-  md5: 0f7740cd9ca28bc9d72748fe8e02664b
-  md5_10: 0f7740cd9c
-  md5_5: 0f774
-  md5_6: 0f7740
-  oomp_key: oomp_amplifier_operational_lmh6702ma
-  oomp_key_extra: oomp_symbol_amplifier_operational_lmh6702ma
-  oomp_key_full: oomp_symbol_amplifier_operational_lmh6702ma_0f7740
-  oomp_key_simple: amplifier_operational_lmh6702ma
+  md5: 89f2dcd2cb5fe185fa335ce59144e1bf
+  md5_10: 89f2dcd2cb
+  md5_5: 89f2d
+  md5_6: 89f2dc
+  oomp_key: oomp_lmh6702ma
+  oomp_key_extra: oomp_symbol_lmh6702ma
+  oomp_key_full: oomp_symbol_lmh6702ma_89f2dc
+  oomp_key_simple: lmh6702ma
   owner_name: kicad
-  symbol_name: amplifier_operational_lmh6702ma
+  symbol_name: lmh6702ma
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

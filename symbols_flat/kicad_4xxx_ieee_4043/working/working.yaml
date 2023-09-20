@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_4xxx_ieee_4043/working
   oomp_src_flat: symbols_flat/kicad_4xxx_ieee_4043/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_4xxx_ieee_4043/working
-name: 4xxx_ieee_4043
+name: '4043'
 oomp:
   library_name: 4xxx_ieee
-  md5: 28cf6cbce408e3dfc355a43aa61f1f71
-  md5_10: 28cf6cbce4
-  md5_5: 28cf6
-  md5_6: 28cf6c
-  oomp_key: oomp_4xxx_ieee_4043
-  oomp_key_extra: oomp_symbol_4xxx_ieee_4043
-  oomp_key_full: oomp_symbol_4xxx_ieee_4043_28cf6c
-  oomp_key_simple: 4xxx_ieee_4043
+  md5: 8fb134f258b1f7865a6ab2d935a897c9
+  md5_10: 8fb134f258
+  md5_5: 8fb13
+  md5_6: 8fb134
+  oomp_key: oomp_4043
+  oomp_key_extra: oomp_symbol_4043
+  oomp_key_full: oomp_symbol_4043_8fb134
+  oomp_key_simple: '4043'
   owner_name: kicad
-  symbol_name: 4xxx_ieee_4043
+  symbol_name: '4043'
 oomp_key: oomp_kicad_4xxx_ieee_4043
 oomp_key_simple: kicad_4xxx_ieee_4043
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

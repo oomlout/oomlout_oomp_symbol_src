@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_at24cs32_xhm/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_at24cs32_xhm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_at24cs32_xhm/working
-name: memory_eeprom_at24cs32_xhm
+name: at24cs32_xhm
 oomp:
   library_name: memory_eeprom
-  md5: 0d0bbe8b1f48f1cb5b79c7fe75b8fa4e
-  md5_10: 0d0bbe8b1f
-  md5_5: 0d0bb
-  md5_6: 0d0bbe
-  oomp_key: oomp_memory_eeprom_at24cs32_xhm
-  oomp_key_extra: oomp_symbol_memory_eeprom_at24cs32_xhm
-  oomp_key_full: oomp_symbol_memory_eeprom_at24cs32_xhm_0d0bbe
-  oomp_key_simple: memory_eeprom_at24cs32_xhm
+  md5: 9b2ff129100a5e610ac2fd2d26d2c11b
+  md5_10: 9b2ff12910
+  md5_5: 9b2ff
+  md5_6: 9b2ff1
+  oomp_key: oomp_at24cs32_xhm
+  oomp_key_extra: oomp_symbol_at24cs32_xhm
+  oomp_key_full: oomp_symbol_at24cs32_xhm_9b2ff1
+  oomp_key_simple: at24cs32_xhm
   owner_name: kicad
-  symbol_name: memory_eeprom_at24cs32_xhm
+  symbol_name: at24cs32_xhm
 oomp_key: oomp_kicad_memory_eeprom_at24cs32_xhm
 oomp_key_simple: kicad_memory_eeprom_at24cs32_xhm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

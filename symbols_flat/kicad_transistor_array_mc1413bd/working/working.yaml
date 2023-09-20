@@ -1,19 +1,19 @@
 id: kicad_transistor_array_mc1413bd
 library: transistor_array
 library_name: Transistor_Array
-name: transistor_array_mc1413bd
+name: mc1413bd
 oomp:
   library_name: transistor_array
-  md5: 8e20597f8977fbd305e2b889ca85b028
-  md5_10: 8e20597f89
-  md5_5: 8e205
-  md5_6: 8e2059
-  oomp_key: oomp_transistor_array_mc1413bd
-  oomp_key_extra: oomp_symbol_transistor_array_mc1413bd
-  oomp_key_full: oomp_symbol_transistor_array_mc1413bd_8e2059
-  oomp_key_simple: transistor_array_mc1413bd
+  md5: 73fe21071b48f4217e22eff3be325b5d
+  md5_10: 73fe21071b
+  md5_5: 73fe2
+  md5_6: 73fe21
+  oomp_key: oomp_mc1413bd
+  oomp_key_extra: oomp_symbol_mc1413bd
+  oomp_key_full: oomp_symbol_mc1413bd_73fe21
+  oomp_key_simple: mc1413bd
   owner_name: kicad
-  symbol_name: transistor_array_mc1413bd
+  symbol_name: mc1413bd
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

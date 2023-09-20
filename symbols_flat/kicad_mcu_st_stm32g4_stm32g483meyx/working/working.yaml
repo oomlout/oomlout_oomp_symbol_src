@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32g4_stm32g483meyx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32g4_stm32g483meyx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32g4_stm32g483meyx/working
-name: mcu_st_stm32g4_stm32g483meyx
+name: stm32g483meyx
 oomp:
   library_name: mcu_st_stm32g4
-  md5: 86199cfa6dd656ece7d0f017512fea1d
-  md5_10: 86199cfa6d
-  md5_5: '86199'
-  md5_6: 86199c
-  oomp_key: oomp_mcu_st_stm32g4_stm32g483meyx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g483meyx
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g483meyx_86199c
-  oomp_key_simple: mcu_st_stm32g4_stm32g483meyx
+  md5: b791340d931be284704f102fc82a7292
+  md5_10: b791340d93
+  md5_5: b7913
+  md5_6: b79134
+  oomp_key: oomp_stm32g483meyx
+  oomp_key_extra: oomp_symbol_stm32g483meyx
+  oomp_key_full: oomp_symbol_stm32g483meyx_b79134
+  oomp_key_simple: stm32g483meyx
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g483meyx
+  symbol_name: stm32g483meyx
 oomp_key: oomp_kicad_mcu_st_stm32g4_stm32g483meyx
 oomp_key_simple: kicad_mcu_st_stm32g4_stm32g483meyx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

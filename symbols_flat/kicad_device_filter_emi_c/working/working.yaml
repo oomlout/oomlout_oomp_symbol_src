@@ -1,19 +1,19 @@
 id: kicad_device_filter_emi_c
 library: device
 library_name: Device
-name: device_filter_emi_c
+name: filter_emi_c
 oomp:
   library_name: device
-  md5: c9785ce5d2eb9177e523cc59df132750
-  md5_10: c9785ce5d2
-  md5_5: c9785
-  md5_6: c9785c
-  oomp_key: oomp_device_filter_emi_c
-  oomp_key_extra: oomp_symbol_device_filter_emi_c
-  oomp_key_full: oomp_symbol_device_filter_emi_c_c9785c
-  oomp_key_simple: device_filter_emi_c
+  md5: 58e68e2c03003bb7e451280361015d6d
+  md5_10: 58e68e2c03
+  md5_5: 58e68
+  md5_6: 58e68e
+  oomp_key: oomp_filter_emi_c
+  oomp_key_extra: oomp_symbol_filter_emi_c
+  oomp_key_full: oomp_symbol_filter_emi_c_58e68e
+  oomp_key_simple: filter_emi_c
   owner_name: kicad
-  symbol_name: device_filter_emi_c
+  symbol_name: filter_emi_c
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

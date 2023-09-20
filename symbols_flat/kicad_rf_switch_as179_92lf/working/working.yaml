@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_switch_as179_92lf/working
   oomp_src_flat: symbols_flat/kicad_rf_switch_as179_92lf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_switch_as179_92lf/working
-name: rf_switch_as179_92lf
+name: as179_92lf
 oomp:
   library_name: rf_switch
-  md5: 76e8ee6073fab825c5923268fb0c17a6
-  md5_10: 76e8ee6073
-  md5_5: 76e8e
-  md5_6: 76e8ee
-  oomp_key: oomp_rf_switch_as179_92lf
-  oomp_key_extra: oomp_symbol_rf_switch_as179_92lf
-  oomp_key_full: oomp_symbol_rf_switch_as179_92lf_76e8ee
-  oomp_key_simple: rf_switch_as179_92lf
+  md5: 6e8597ab70182cbf73690dfc04e1647d
+  md5_10: 6e8597ab70
+  md5_5: 6e859
+  md5_6: 6e8597
+  oomp_key: oomp_as179_92lf
+  oomp_key_extra: oomp_symbol_as179_92lf
+  oomp_key_full: oomp_symbol_as179_92lf_6e8597
+  oomp_key_simple: as179_92lf
   owner_name: kicad
-  symbol_name: rf_switch_as179_92lf
+  symbol_name: as179_92lf
 oomp_key: oomp_kicad_rf_switch_as179_92lf
 oomp_key_simple: kicad_rf_switch_as179_92lf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

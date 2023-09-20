@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_pcal6416apw/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_pcal6416apw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_pcal6416apw/working
-name: interface_expansion_pcal6416apw
+name: pcal6416apw
 oomp:
   library_name: interface_expansion
-  md5: 55ac586fd42f4558fa17dc3012eb6ab4
-  md5_10: 55ac586fd4
-  md5_5: 55ac5
-  md5_6: 55ac58
-  oomp_key: oomp_interface_expansion_pcal6416apw
-  oomp_key_extra: oomp_symbol_interface_expansion_pcal6416apw
-  oomp_key_full: oomp_symbol_interface_expansion_pcal6416apw_55ac58
-  oomp_key_simple: interface_expansion_pcal6416apw
+  md5: 2e6658a0de55c51aebd0c6efa3930942
+  md5_10: 2e6658a0de
+  md5_5: 2e665
+  md5_6: 2e6658
+  oomp_key: oomp_pcal6416apw
+  oomp_key_extra: oomp_symbol_pcal6416apw
+  oomp_key_full: oomp_symbol_pcal6416apw_2e6658
+  oomp_key_simple: pcal6416apw
   owner_name: kicad
-  symbol_name: interface_expansion_pcal6416apw
+  symbol_name: pcal6416apw
 oomp_key: oomp_kicad_interface_expansion_pcal6416apw
 oomp_key_simple: kicad_interface_expansion_pcal6416apw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

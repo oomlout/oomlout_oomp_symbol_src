@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_am_fm_la1185/working
   oomp_src_flat: symbols_flat/kicad_rf_am_fm_la1185/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_am_fm_la1185/working
-name: rf_am_fm_la1185
+name: la1185
 oomp:
   library_name: rf_am_fm
-  md5: 042265698177fcf9d19b3c8ddf8dce72
-  md5_10: 0422656981
-  md5_5: '04226'
-  md5_6: '042265'
-  oomp_key: oomp_rf_am_fm_la1185
-  oomp_key_extra: oomp_symbol_rf_am_fm_la1185
-  oomp_key_full: oomp_symbol_rf_am_fm_la1185_042265
-  oomp_key_simple: rf_am_fm_la1185
+  md5: e59121432204cdfe11788586d98535ea
+  md5_10: e591214322
+  md5_5: e5912
+  md5_6: e59121
+  oomp_key: oomp_la1185
+  oomp_key_extra: oomp_symbol_la1185
+  oomp_key_full: oomp_symbol_la1185_e59121
+  oomp_key_simple: la1185
   owner_name: kicad
-  symbol_name: rf_am_fm_la1185
+  symbol_name: la1185
 oomp_key: oomp_kicad_rf_am_fm_la1185
 oomp_key_simple: kicad_rf_am_fm_la1185
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

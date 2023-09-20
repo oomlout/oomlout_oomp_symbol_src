@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_pa2001nl/working
   oomp_src_flat: symbols_flat/kicad_transformer_pa2001nl/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_pa2001nl/working
-name: transformer_pa2001nl
+name: pa2001nl
 oomp:
   library_name: transformer
-  md5: 31760d6bc825560310dbe342552353b0
-  md5_10: 31760d6bc8
-  md5_5: '31760'
-  md5_6: 31760d
-  oomp_key: oomp_transformer_pa2001nl
-  oomp_key_extra: oomp_symbol_transformer_pa2001nl
-  oomp_key_full: oomp_symbol_transformer_pa2001nl_31760d
-  oomp_key_simple: transformer_pa2001nl
+  md5: 4828ec5da5efc7d81414e0070398f917
+  md5_10: 4828ec5da5
+  md5_5: 4828e
+  md5_6: 4828ec
+  oomp_key: oomp_pa2001nl
+  oomp_key_extra: oomp_symbol_pa2001nl
+  oomp_key_full: oomp_symbol_pa2001nl_4828ec
+  oomp_key_simple: pa2001nl
   owner_name: kicad
-  symbol_name: transformer_pa2001nl
+  symbol_name: pa2001nl
 oomp_key: oomp_kicad_transformer_pa2001nl
 oomp_key_simple: kicad_transformer_pa2001nl
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

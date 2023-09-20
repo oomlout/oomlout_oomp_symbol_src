@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_dmn3033ldm/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_dmn3033ldm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_dmn3033ldm/working
-name: transistor_fet_dmn3033ldm
+name: dmn3033ldm
 oomp:
   library_name: transistor_fet
-  md5: 507b41b00ada8570c02c5057587185be
-  md5_10: 507b41b00a
-  md5_5: 507b4
-  md5_6: 507b41
-  oomp_key: oomp_transistor_fet_dmn3033ldm
-  oomp_key_extra: oomp_symbol_transistor_fet_dmn3033ldm
-  oomp_key_full: oomp_symbol_transistor_fet_dmn3033ldm_507b41
-  oomp_key_simple: transistor_fet_dmn3033ldm
+  md5: c58cb2abd9e5bd607ab3284459c4fb2e
+  md5_10: c58cb2abd9
+  md5_5: c58cb
+  md5_6: c58cb2
+  oomp_key: oomp_dmn3033ldm
+  oomp_key_extra: oomp_symbol_dmn3033ldm
+  oomp_key_full: oomp_symbol_dmn3033ldm_c58cb2
+  oomp_key_simple: dmn3033ldm
   owner_name: kicad
-  symbol_name: transistor_fet_dmn3033ldm
+  symbol_name: dmn3033ldm
 oomp_key: oomp_kicad_transistor_fet_dmn3033ldm
 oomp_key_simple: kicad_transistor_fet_dmn3033ldm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_power_management_bts5012sda
 library: power_management
 library_name: Power_Management
-name: power_management_bts5012sda
+name: bts5012sda
 oomp:
   library_name: power_management
-  md5: eb88efc7daac894877055b2dac001b7a
-  md5_10: eb88efc7da
-  md5_5: eb88e
-  md5_6: eb88ef
-  oomp_key: oomp_power_management_bts5012sda
-  oomp_key_extra: oomp_symbol_power_management_bts5012sda
-  oomp_key_full: oomp_symbol_power_management_bts5012sda_eb88ef
-  oomp_key_simple: power_management_bts5012sda
+  md5: 5f3c5a84df48b8f9ea002630d22233de
+  md5_10: 5f3c5a84df
+  md5_5: 5f3c5
+  md5_6: 5f3c5a
+  oomp_key: oomp_bts5012sda
+  oomp_key_extra: oomp_symbol_bts5012sda
+  oomp_key_full: oomp_symbol_bts5012sda_5f3c5a
+  oomp_key_simple: bts5012sda
   owner_name: kicad
-  symbol_name: power_management_bts5012sda
+  symbol_name: bts5012sda
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

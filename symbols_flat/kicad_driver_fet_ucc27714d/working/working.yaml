@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_ucc27714d/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_ucc27714d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_ucc27714d/working
-name: driver_fet_ucc27714d
+name: ucc27714d
 oomp:
   library_name: driver_fet
-  md5: b7bedf1917a8ee4035151bb56e620caf
-  md5_10: b7bedf1917
-  md5_5: b7bed
-  md5_6: b7bedf
-  oomp_key: oomp_driver_fet_ucc27714d
-  oomp_key_extra: oomp_symbol_driver_fet_ucc27714d
-  oomp_key_full: oomp_symbol_driver_fet_ucc27714d_b7bedf
-  oomp_key_simple: driver_fet_ucc27714d
+  md5: 0a30e60913634369980b925a937b2941
+  md5_10: 0a30e60913
+  md5_5: 0a30e
+  md5_6: 0a30e6
+  oomp_key: oomp_ucc27714d
+  oomp_key_extra: oomp_symbol_ucc27714d
+  oomp_key_full: oomp_symbol_ucc27714d_0a30e6
+  oomp_key_simple: ucc27714d
   owner_name: kicad
-  symbol_name: driver_fet_ucc27714d
+  symbol_name: ucc27714d
 oomp_key: oomp_kicad_driver_fet_ucc27714d
 oomp_key_simple: kicad_driver_fet_ucc27714d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

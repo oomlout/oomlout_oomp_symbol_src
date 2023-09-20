@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_sis443dn
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_sis443dn
+name: sis443dn
 oomp:
   library_name: transistor_fet
-  md5: 86531cb8a8136eae5fc0ec87a72344de
-  md5_10: 86531cb8a8
-  md5_5: '86531'
-  md5_6: 86531c
-  oomp_key: oomp_transistor_fet_sis443dn
-  oomp_key_extra: oomp_symbol_transistor_fet_sis443dn
-  oomp_key_full: oomp_symbol_transistor_fet_sis443dn_86531c
-  oomp_key_simple: transistor_fet_sis443dn
+  md5: 9ba41d85549d70c927bc5f19e5b8124f
+  md5_10: 9ba41d8554
+  md5_5: 9ba41
+  md5_6: 9ba41d
+  oomp_key: oomp_sis443dn
+  oomp_key_extra: oomp_symbol_sis443dn
+  oomp_key_full: oomp_symbol_sis443dn_9ba41d
+  oomp_key_simple: sis443dn
   owner_name: kicad
-  symbol_name: transistor_fet_sis443dn
+  symbol_name: sis443dn
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

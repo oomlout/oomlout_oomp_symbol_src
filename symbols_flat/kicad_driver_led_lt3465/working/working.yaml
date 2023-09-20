@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_lt3465/working
   oomp_src_flat: symbols_flat/kicad_driver_led_lt3465/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_lt3465/working
-name: driver_led_lt3465
+name: lt3465
 oomp:
   library_name: driver_led
-  md5: 1d657e1b25c7416211cb2a684832f696
-  md5_10: 1d657e1b25
-  md5_5: 1d657
-  md5_6: 1d657e
-  oomp_key: oomp_driver_led_lt3465
-  oomp_key_extra: oomp_symbol_driver_led_lt3465
-  oomp_key_full: oomp_symbol_driver_led_lt3465_1d657e
-  oomp_key_simple: driver_led_lt3465
+  md5: 2a3841e12e88ed3ee68cabc7764d8197
+  md5_10: 2a3841e12e
+  md5_5: 2a384
+  md5_6: 2a3841
+  oomp_key: oomp_lt3465
+  oomp_key_extra: oomp_symbol_lt3465
+  oomp_key_full: oomp_symbol_lt3465_2a3841
+  oomp_key_simple: lt3465
   owner_name: kicad
-  symbol_name: driver_led_lt3465
+  symbol_name: lt3465
 oomp_key: oomp_kicad_driver_led_lt3465
 oomp_key_simple: kicad_driver_led_lt3465
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

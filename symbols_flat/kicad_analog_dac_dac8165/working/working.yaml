@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_dac8165/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_dac8165/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_dac8165/working
-name: analog_dac_dac8165
+name: dac8165
 oomp:
   library_name: analog_dac
-  md5: ae8fdf0085f151b6765644338a535938
-  md5_10: ae8fdf0085
-  md5_5: ae8fd
-  md5_6: ae8fdf
-  oomp_key: oomp_analog_dac_dac8165
-  oomp_key_extra: oomp_symbol_analog_dac_dac8165
-  oomp_key_full: oomp_symbol_analog_dac_dac8165_ae8fdf
-  oomp_key_simple: analog_dac_dac8165
+  md5: 5395643f6e63cdea882032ea7a00019a
+  md5_10: 5395643f6e
+  md5_5: '53956'
+  md5_6: '539564'
+  oomp_key: oomp_dac8165
+  oomp_key_extra: oomp_symbol_dac8165
+  oomp_key_full: oomp_symbol_dac8165_539564
+  oomp_key_simple: dac8165
   owner_name: kicad
-  symbol_name: analog_dac_dac8165
+  symbol_name: dac8165
 oomp_key: oomp_kicad_analog_dac_dac8165
 oomp_key_simple: kicad_analog_dac_dac8165
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

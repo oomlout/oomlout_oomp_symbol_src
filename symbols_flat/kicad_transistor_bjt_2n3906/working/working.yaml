@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_2n3906/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_2n3906/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_2n3906/working
-name: transistor_bjt_2n3906
+name: 2n3906
 oomp:
   library_name: transistor_bjt
-  md5: 709cbc53e3659970c06209c023bdd41f
-  md5_10: 709cbc53e3
-  md5_5: 709cb
-  md5_6: 709cbc
-  oomp_key: oomp_transistor_bjt_2n3906
-  oomp_key_extra: oomp_symbol_transistor_bjt_2n3906
-  oomp_key_full: oomp_symbol_transistor_bjt_2n3906_709cbc
-  oomp_key_simple: transistor_bjt_2n3906
+  md5: b65fcb0898a542e0db59dc256dfda94d
+  md5_10: b65fcb0898
+  md5_5: b65fc
+  md5_6: b65fcb
+  oomp_key: oomp_2n3906
+  oomp_key_extra: oomp_symbol_2n3906
+  oomp_key_full: oomp_symbol_2n3906_b65fcb
+  oomp_key_simple: 2n3906
   owner_name: kicad
-  symbol_name: transistor_bjt_2n3906
+  symbol_name: 2n3906
 oomp_key: oomp_kicad_transistor_bjt_2n3906
 oomp_key_simple: kicad_transistor_bjt_2n3906
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

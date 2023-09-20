@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_antenna_chip/working
   oomp_src_flat: symbols_flat/kicad_device_antenna_chip/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_antenna_chip/working
-name: device_antenna_chip
+name: antenna_chip
 oomp:
   library_name: device
-  md5: c2bb97fccb6b6ebd3e9d47fa3a817f2a
-  md5_10: c2bb97fccb
-  md5_5: c2bb9
-  md5_6: c2bb97
-  oomp_key: oomp_device_antenna_chip
-  oomp_key_extra: oomp_symbol_device_antenna_chip
-  oomp_key_full: oomp_symbol_device_antenna_chip_c2bb97
-  oomp_key_simple: device_antenna_chip
+  md5: 978fa0700dbb5516bfe219ae6c52e70b
+  md5_10: 978fa0700d
+  md5_5: 978fa
+  md5_6: 978fa0
+  oomp_key: oomp_antenna_chip
+  oomp_key_extra: oomp_symbol_antenna_chip
+  oomp_key_full: oomp_symbol_antenna_chip_978fa0
+  oomp_key_simple: antenna_chip
   owner_name: kicad
-  symbol_name: device_antenna_chip
+  symbol_name: antenna_chip
 oomp_key: oomp_kicad_device_antenna_chip
 oomp_key_simple: kicad_device_antenna_chip
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

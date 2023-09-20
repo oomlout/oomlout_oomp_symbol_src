@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_stgap1as/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_stgap1as/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_stgap1as/working
-name: driver_fet_stgap1as
+name: stgap1as
 oomp:
   library_name: driver_fet
-  md5: e5e039d0e60f41ae3a3671f56653849b
-  md5_10: e5e039d0e6
-  md5_5: e5e03
-  md5_6: e5e039
-  oomp_key: oomp_driver_fet_stgap1as
-  oomp_key_extra: oomp_symbol_driver_fet_stgap1as
-  oomp_key_full: oomp_symbol_driver_fet_stgap1as_e5e039
-  oomp_key_simple: driver_fet_stgap1as
+  md5: 3ce7fc7a6751ad36c420cf9e8d55086b
+  md5_10: 3ce7fc7a67
+  md5_5: 3ce7f
+  md5_6: 3ce7fc
+  oomp_key: oomp_stgap1as
+  oomp_key_extra: oomp_symbol_stgap1as
+  oomp_key_full: oomp_symbol_stgap1as_3ce7fc
+  oomp_key_simple: stgap1as
   owner_name: kicad
-  symbol_name: driver_fet_stgap1as
+  symbol_name: stgap1as
 oomp_key: oomp_kicad_driver_fet_stgap1as
 oomp_key_simple: kicad_driver_fet_stgap1as
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

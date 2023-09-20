@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_cst2010_split/working
   oomp_src_flat: symbols_flat/kicad_transformer_cst2010_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_cst2010_split/working
-name: transformer_cst2010_split
+name: cst2010_split
 oomp:
   library_name: transformer
-  md5: e6a298a5fc0c3f39e2cb1b3aa996839f
-  md5_10: e6a298a5fc
-  md5_5: e6a29
-  md5_6: e6a298
-  oomp_key: oomp_transformer_cst2010_split
-  oomp_key_extra: oomp_symbol_transformer_cst2010_split
-  oomp_key_full: oomp_symbol_transformer_cst2010_split_e6a298
-  oomp_key_simple: transformer_cst2010_split
+  md5: 1fa40f72f78d3c59909e55d9428aa1c7
+  md5_10: 1fa40f72f7
+  md5_5: 1fa40
+  md5_6: 1fa40f
+  oomp_key: oomp_cst2010_split
+  oomp_key_extra: oomp_symbol_cst2010_split
+  oomp_key_full: oomp_symbol_cst2010_split_1fa40f
+  oomp_key_simple: cst2010_split
   owner_name: kicad
-  symbol_name: transformer_cst2010_split
+  symbol_name: cst2010_split
 oomp_key: oomp_kicad_transformer_cst2010_split
 oomp_key_simple: kicad_transformer_cst2010_split
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_cls6b_fkw/working
   oomp_src_flat: symbols_flat/kicad_led_cls6b_fkw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_cls6b_fkw/working
-name: led_cls6b_fkw
+name: cls6b_fkw
 oomp:
   library_name: led
-  md5: e3673ee35a8d51f8e759dd706068267c
-  md5_10: e3673ee35a
-  md5_5: e3673
-  md5_6: e3673e
-  oomp_key: oomp_led_cls6b_fkw
-  oomp_key_extra: oomp_symbol_led_cls6b_fkw
-  oomp_key_full: oomp_symbol_led_cls6b_fkw_e3673e
-  oomp_key_simple: led_cls6b_fkw
+  md5: 80fe7b20e469783af6b02d91fc9e848a
+  md5_10: 80fe7b20e4
+  md5_5: 80fe7
+  md5_6: 80fe7b
+  oomp_key: oomp_cls6b_fkw
+  oomp_key_extra: oomp_symbol_cls6b_fkw
+  oomp_key_full: oomp_symbol_cls6b_fkw_80fe7b
+  oomp_key_simple: cls6b_fkw
   owner_name: kicad
-  symbol_name: led_cls6b_fkw
+  symbol_name: cls6b_fkw
 oomp_key: oomp_kicad_led_cls6b_fkw
 oomp_key_simple: kicad_led_cls6b_fkw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

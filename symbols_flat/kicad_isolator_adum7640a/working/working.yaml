@@ -1,19 +1,19 @@
 id: kicad_isolator_adum7640a
 library: isolator
 library_name: Isolator
-name: isolator_adum7640a
+name: adum7640a
 oomp:
   library_name: isolator
-  md5: 7668453dff6dc244928e802df47390e8
-  md5_10: 7668453dff
-  md5_5: '76684'
-  md5_6: '766845'
-  oomp_key: oomp_isolator_adum7640a
-  oomp_key_extra: oomp_symbol_isolator_adum7640a
-  oomp_key_full: oomp_symbol_isolator_adum7640a_766845
-  oomp_key_simple: isolator_adum7640a
+  md5: e46c402ec9d15e87ccbdb4baaab7ba4c
+  md5_10: e46c402ec9
+  md5_5: e46c4
+  md5_6: e46c40
+  oomp_key: oomp_adum7640a
+  oomp_key_extra: oomp_symbol_adum7640a
+  oomp_key_full: oomp_symbol_adum7640a_e46c40
+  oomp_key_simple: adum7640a
   owner_name: kicad
-  symbol_name: isolator_adum7640a
+  symbol_name: adum7640a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

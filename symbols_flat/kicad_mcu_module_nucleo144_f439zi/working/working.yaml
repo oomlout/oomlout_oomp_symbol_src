@@ -1,19 +1,19 @@
 id: kicad_mcu_module_nucleo144_f439zi
 library: mcu_module
 library_name: MCU_Module
-name: mcu_module_nucleo144_f439zi
+name: nucleo144_f439zi
 oomp:
   library_name: mcu_module
-  md5: 89e116c4a1121e651313c22d3d745e05
-  md5_10: 89e116c4a1
-  md5_5: 89e11
-  md5_6: 89e116
-  oomp_key: oomp_mcu_module_nucleo144_f439zi
-  oomp_key_extra: oomp_symbol_mcu_module_nucleo144_f439zi
-  oomp_key_full: oomp_symbol_mcu_module_nucleo144_f439zi_89e116
-  oomp_key_simple: mcu_module_nucleo144_f439zi
+  md5: f1eb3b4b54fdb4bd0762fbfeeb2205dc
+  md5_10: f1eb3b4b54
+  md5_5: f1eb3
+  md5_6: f1eb3b
+  oomp_key: oomp_nucleo144_f439zi
+  oomp_key_extra: oomp_symbol_nucleo144_f439zi
+  oomp_key_full: oomp_symbol_nucleo144_f439zi_f1eb3b
+  oomp_key_simple: nucleo144_f439zi
   owner_name: kicad
-  symbol_name: mcu_module_nucleo144_f439zi
+  symbol_name: nucleo144_f439zi
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

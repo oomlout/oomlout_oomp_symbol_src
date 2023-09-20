@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_xlr4/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_xlr4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_xlr4/working
-name: connector_audio_xlr4
+name: xlr4
 oomp:
   library_name: connector_audio
-  md5: cf69c60f760703476a0d8c91fc83304b
-  md5_10: cf69c60f76
-  md5_5: cf69c
-  md5_6: cf69c6
-  oomp_key: oomp_connector_audio_xlr4
-  oomp_key_extra: oomp_symbol_connector_audio_xlr4
-  oomp_key_full: oomp_symbol_connector_audio_xlr4_cf69c6
-  oomp_key_simple: connector_audio_xlr4
+  md5: f17cba98bd5ca52a1f055f63b71b2664
+  md5_10: f17cba98bd
+  md5_5: f17cb
+  md5_6: f17cba
+  oomp_key: oomp_xlr4
+  oomp_key_extra: oomp_symbol_xlr4
+  oomp_key_full: oomp_symbol_xlr4_f17cba
+  oomp_key_simple: xlr4
   owner_name: kicad
-  symbol_name: connector_audio_xlr4
+  symbol_name: xlr4
 oomp_key: oomp_kicad_connector_audio_xlr4
 oomp_key_simple: kicad_connector_audio_xlr4
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

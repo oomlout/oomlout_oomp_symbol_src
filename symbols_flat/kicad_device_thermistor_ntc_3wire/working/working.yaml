@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_thermistor_ntc_3wire/working
   oomp_src_flat: symbols_flat/kicad_device_thermistor_ntc_3wire/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_thermistor_ntc_3wire/working
-name: device_thermistor_ntc_3wire
+name: thermistor_ntc_3wire
 oomp:
   library_name: device
-  md5: 0d1d061d027d5cc94e4382fd408f1fb1
-  md5_10: 0d1d061d02
-  md5_5: 0d1d0
-  md5_6: 0d1d06
-  oomp_key: oomp_device_thermistor_ntc_3wire
-  oomp_key_extra: oomp_symbol_device_thermistor_ntc_3wire
-  oomp_key_full: oomp_symbol_device_thermistor_ntc_3wire_0d1d06
-  oomp_key_simple: device_thermistor_ntc_3wire
+  md5: 447a2593bad79355e7b58a2b2248ea96
+  md5_10: 447a2593ba
+  md5_5: 447a2
+  md5_6: 447a25
+  oomp_key: oomp_thermistor_ntc_3wire
+  oomp_key_extra: oomp_symbol_thermistor_ntc_3wire
+  oomp_key_full: oomp_symbol_thermistor_ntc_3wire_447a25
+  oomp_key_simple: thermistor_ntc_3wire
   owner_name: kicad
-  symbol_name: device_thermistor_ntc_3wire
+  symbol_name: thermistor_ntc_3wire
 oomp_key: oomp_kicad_device_thermistor_ntc_3wire
 oomp_key_simple: kicad_device_thermistor_ntc_3wire
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

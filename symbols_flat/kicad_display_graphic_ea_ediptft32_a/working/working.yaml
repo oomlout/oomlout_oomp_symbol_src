@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_graphic_ea_ediptft32_a/working
   oomp_src_flat: symbols_flat/kicad_display_graphic_ea_ediptft32_a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_graphic_ea_ediptft32_a/working
-name: display_graphic_ea_ediptft32_a
+name: ea_ediptft32_a
 oomp:
   library_name: display_graphic
-  md5: 8444af9a3960ab3676a71cb372ec6bfd
-  md5_10: 8444af9a39
-  md5_5: 8444a
-  md5_6: 8444af
-  oomp_key: oomp_display_graphic_ea_ediptft32_a
-  oomp_key_extra: oomp_symbol_display_graphic_ea_ediptft32_a
-  oomp_key_full: oomp_symbol_display_graphic_ea_ediptft32_a_8444af
-  oomp_key_simple: display_graphic_ea_ediptft32_a
+  md5: 690c19a384c133600dab6979b268e348
+  md5_10: 690c19a384
+  md5_5: 690c1
+  md5_6: 690c19
+  oomp_key: oomp_ea_ediptft32_a
+  oomp_key_extra: oomp_symbol_ea_ediptft32_a
+  oomp_key_full: oomp_symbol_ea_ediptft32_a_690c19
+  oomp_key_simple: ea_ediptft32_a
   owner_name: kicad
-  symbol_name: display_graphic_ea_ediptft32_a
+  symbol_name: ea_ediptft32_a
 oomp_key: oomp_kicad_display_graphic_ea_ediptft32_a
 oomp_key_simple: kicad_display_graphic_ea_ediptft32_a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

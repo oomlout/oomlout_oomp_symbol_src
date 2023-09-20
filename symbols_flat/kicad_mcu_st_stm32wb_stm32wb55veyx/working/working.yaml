@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32wb_stm32wb55veyx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32wb_stm32wb55veyx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32wb_stm32wb55veyx/working
-name: mcu_st_stm32wb_stm32wb55veyx
+name: stm32wb55veyx
 oomp:
   library_name: mcu_st_stm32wb
-  md5: eb3d4d2e6dbf0f7d518ab2a741be9f2d
-  md5_10: eb3d4d2e6d
-  md5_5: eb3d4
-  md5_6: eb3d4d
-  oomp_key: oomp_mcu_st_stm32wb_stm32wb55veyx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32wb_stm32wb55veyx
-  oomp_key_full: oomp_symbol_mcu_st_stm32wb_stm32wb55veyx_eb3d4d
-  oomp_key_simple: mcu_st_stm32wb_stm32wb55veyx
+  md5: 0657c61e059686a039ec0cef2efaf619
+  md5_10: 0657c61e05
+  md5_5: 0657c
+  md5_6: 0657c6
+  oomp_key: oomp_stm32wb55veyx
+  oomp_key_extra: oomp_symbol_stm32wb55veyx
+  oomp_key_full: oomp_symbol_stm32wb55veyx_0657c6
+  oomp_key_simple: stm32wb55veyx
   owner_name: kicad
-  symbol_name: mcu_st_stm32wb_stm32wb55veyx
+  symbol_name: stm32wb55veyx
 oomp_key: oomp_kicad_mcu_st_stm32wb_stm32wb55veyx
 oomp_key_simple: kicad_mcu_st_stm32wb_stm32wb55veyx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

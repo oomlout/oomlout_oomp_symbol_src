@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_amplifier_sgl0622z/working
   oomp_src_flat: symbols_flat/kicad_rf_amplifier_sgl0622z/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_amplifier_sgl0622z/working
-name: rf_amplifier_sgl0622z
+name: sgl0622z
 oomp:
   library_name: rf_amplifier
-  md5: 6954053adc7587af2c7758bc848dd60a
-  md5_10: 6954053adc
-  md5_5: '69540'
-  md5_6: '695405'
-  oomp_key: oomp_rf_amplifier_sgl0622z
-  oomp_key_extra: oomp_symbol_rf_amplifier_sgl0622z
-  oomp_key_full: oomp_symbol_rf_amplifier_sgl0622z_695405
-  oomp_key_simple: rf_amplifier_sgl0622z
+  md5: ee8250a425bffcd2be4c611c9ebcc82a
+  md5_10: ee8250a425
+  md5_5: ee825
+  md5_6: ee8250
+  oomp_key: oomp_sgl0622z
+  oomp_key_extra: oomp_symbol_sgl0622z
+  oomp_key_full: oomp_symbol_sgl0622z_ee8250
+  oomp_key_simple: sgl0622z
   owner_name: kicad
-  symbol_name: rf_amplifier_sgl0622z
+  symbol_name: sgl0622z
 oomp_key: oomp_kicad_rf_amplifier_sgl0622z
 oomp_key_simple: kicad_rf_amplifier_sgl0622z
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

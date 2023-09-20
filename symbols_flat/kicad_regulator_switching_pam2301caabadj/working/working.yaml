@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_pam2301caabadj/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_pam2301caabadj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_pam2301caabadj/working
-name: regulator_switching_pam2301caabadj
+name: pam2301caabadj
 oomp:
   library_name: regulator_switching
-  md5: 47db01fdf77339015637d64c099ed158
-  md5_10: 47db01fdf7
-  md5_5: 47db0
-  md5_6: 47db01
-  oomp_key: oomp_regulator_switching_pam2301caabadj
-  oomp_key_extra: oomp_symbol_regulator_switching_pam2301caabadj
-  oomp_key_full: oomp_symbol_regulator_switching_pam2301caabadj_47db01
-  oomp_key_simple: regulator_switching_pam2301caabadj
+  md5: 9978d728cbbb2d65264478505afb9923
+  md5_10: 9978d728cb
+  md5_5: 9978d
+  md5_6: 9978d7
+  oomp_key: oomp_pam2301caabadj
+  oomp_key_extra: oomp_symbol_pam2301caabadj
+  oomp_key_full: oomp_symbol_pam2301caabadj_9978d7
+  oomp_key_simple: pam2301caabadj
   owner_name: kicad
-  symbol_name: regulator_switching_pam2301caabadj
+  symbol_name: pam2301caabadj
 oomp_key: oomp_kicad_regulator_switching_pam2301caabadj
 oomp_key_simple: kicad_regulator_switching_pam2301caabadj
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

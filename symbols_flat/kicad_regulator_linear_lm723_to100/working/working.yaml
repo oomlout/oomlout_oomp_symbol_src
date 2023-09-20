@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lm723_to100/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lm723_to100/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lm723_to100/working
-name: regulator_linear_lm723_to100
+name: lm723_to100
 oomp:
   library_name: regulator_linear
-  md5: fc42f8a697d4be75b76e8cc0612f2026
-  md5_10: fc42f8a697
-  md5_5: fc42f
-  md5_6: fc42f8
-  oomp_key: oomp_regulator_linear_lm723_to100
-  oomp_key_extra: oomp_symbol_regulator_linear_lm723_to100
-  oomp_key_full: oomp_symbol_regulator_linear_lm723_to100_fc42f8
-  oomp_key_simple: regulator_linear_lm723_to100
+  md5: 34f73a53a380a306b1e87381facb6c78
+  md5_10: 34f73a53a3
+  md5_5: 34f73
+  md5_6: 34f73a
+  oomp_key: oomp_lm723_to100
+  oomp_key_extra: oomp_symbol_lm723_to100
+  oomp_key_full: oomp_symbol_lm723_to100_34f73a
+  oomp_key_simple: lm723_to100
   owner_name: kicad
-  symbol_name: regulator_linear_lm723_to100
+  symbol_name: lm723_to100
 oomp_key: oomp_kicad_regulator_linear_lm723_to100
 oomp_key_simple: kicad_regulator_linear_lm723_to100
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

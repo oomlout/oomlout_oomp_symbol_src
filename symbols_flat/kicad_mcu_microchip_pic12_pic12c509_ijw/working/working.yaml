@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_pic12_pic12c509_ijw
 library: mcu_microchip_pic12
 library_name: MCU_Microchip_PIC12
-name: mcu_microchip_pic12_pic12c509_ijw
+name: pic12c509_ijw
 oomp:
   library_name: mcu_microchip_pic12
-  md5: fec12887a4f95947c9ce9b479f587690
-  md5_10: fec12887a4
-  md5_5: fec12
-  md5_6: fec128
-  oomp_key: oomp_mcu_microchip_pic12_pic12c509_ijw
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic12_pic12c509_ijw
-  oomp_key_full: oomp_symbol_mcu_microchip_pic12_pic12c509_ijw_fec128
-  oomp_key_simple: mcu_microchip_pic12_pic12c509_ijw
+  md5: 6ce15e582966b52bc95fe49794a90308
+  md5_10: 6ce15e5829
+  md5_5: 6ce15
+  md5_6: 6ce15e
+  oomp_key: oomp_pic12c509_ijw
+  oomp_key_extra: oomp_symbol_pic12c509_ijw
+  oomp_key_full: oomp_symbol_pic12c509_ijw_6ce15e
+  oomp_key_simple: pic12c509_ijw
   owner_name: kicad
-  symbol_name: mcu_microchip_pic12_pic12c509_ijw
+  symbol_name: pic12c509_ijw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

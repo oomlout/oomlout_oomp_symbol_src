@@ -1,19 +1,19 @@
 id: kicad_diode_1n4148ws
 library: diode
 library_name: Diode
-name: diode_1n4148ws
+name: 1n4148ws
 oomp:
   library_name: diode
-  md5: d25964dba87ee475835287ea8f2a324e
-  md5_10: d25964dba8
-  md5_5: d2596
-  md5_6: d25964
-  oomp_key: oomp_diode_1n4148ws
-  oomp_key_extra: oomp_symbol_diode_1n4148ws
-  oomp_key_full: oomp_symbol_diode_1n4148ws_d25964
-  oomp_key_simple: diode_1n4148ws
+  md5: 0f854988da61dda20bc878f700e5265d
+  md5_10: 0f854988da
+  md5_5: 0f854
+  md5_6: 0f8549
+  oomp_key: oomp_1n4148ws
+  oomp_key_extra: oomp_symbol_1n4148ws
+  oomp_key_full: oomp_symbol_1n4148ws_0f8549
+  oomp_key_simple: 1n4148ws
   owner_name: kicad
-  symbol_name: diode_1n4148ws
+  symbol_name: 1n4148ws
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

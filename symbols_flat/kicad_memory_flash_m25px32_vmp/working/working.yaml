@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_flash_m25px32_vmp/working
   oomp_src_flat: symbols_flat/kicad_memory_flash_m25px32_vmp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_flash_m25px32_vmp/working
-name: memory_flash_m25px32_vmp
+name: m25px32_vmp
 oomp:
   library_name: memory_flash
-  md5: b6fcef82eaf7b9ba9247a8d10c5b69a6
-  md5_10: b6fcef82ea
-  md5_5: b6fce
-  md5_6: b6fcef
-  oomp_key: oomp_memory_flash_m25px32_vmp
-  oomp_key_extra: oomp_symbol_memory_flash_m25px32_vmp
-  oomp_key_full: oomp_symbol_memory_flash_m25px32_vmp_b6fcef
-  oomp_key_simple: memory_flash_m25px32_vmp
+  md5: 17b2eefc577187da038486d37eaadb89
+  md5_10: 17b2eefc57
+  md5_5: 17b2e
+  md5_6: 17b2ee
+  oomp_key: oomp_m25px32_vmp
+  oomp_key_extra: oomp_symbol_m25px32_vmp
+  oomp_key_full: oomp_symbol_m25px32_vmp_17b2ee
+  oomp_key_simple: m25px32_vmp
   owner_name: kicad
-  symbol_name: memory_flash_m25px32_vmp
+  symbol_name: m25px32_vmp
 oomp_key: oomp_kicad_memory_flash_m25px32_vmp
 oomp_key_simple: kicad_memory_flash_m25px32_vmp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

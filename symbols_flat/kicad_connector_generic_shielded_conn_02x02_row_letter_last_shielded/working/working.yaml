@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_shielded_conn_02x02_row_letter_last_shielded/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_shielded_conn_02x02_row_letter_last_shielded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_shielded_conn_02x02_row_letter_last_shielded/working
-name: connector_generic_shielded_conn_02x02_row_letter_last_shielded
+name: conn_02x02_row_letter_last_shielded
 oomp:
   library_name: connector_generic_shielded
-  md5: 5a372f94c36d7f52c49111c1f2d111b3
-  md5_10: 5a372f94c3
-  md5_5: 5a372
-  md5_6: 5a372f
-  oomp_key: oomp_connector_generic_shielded_conn_02x02_row_letter_last_shielded
-  oomp_key_extra: oomp_symbol_connector_generic_shielded_conn_02x02_row_letter_last_shielded
-  oomp_key_full: oomp_symbol_connector_generic_shielded_conn_02x02_row_letter_last_shielded_5a372f
-  oomp_key_simple: connector_generic_shielded_conn_02x02_row_letter_last_shielded
+  md5: 918affcea0b3b9e2a9451e37b678e83a
+  md5_10: 918affcea0
+  md5_5: 918af
+  md5_6: 918aff
+  oomp_key: oomp_conn_02x02_row_letter_last_shielded
+  oomp_key_extra: oomp_symbol_conn_02x02_row_letter_last_shielded
+  oomp_key_full: oomp_symbol_conn_02x02_row_letter_last_shielded_918aff
+  oomp_key_simple: conn_02x02_row_letter_last_shielded
   owner_name: kicad
-  symbol_name: connector_generic_shielded_conn_02x02_row_letter_last_shielded
+  symbol_name: conn_02x02_row_letter_last_shielded
 oomp_key: oomp_kicad_connector_generic_shielded_conn_02x02_row_letter_last_shielded
 oomp_key_simple: kicad_connector_generic_shielded_conn_02x02_row_letter_last_shielded
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

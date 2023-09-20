@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_acpl_p343/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_acpl_p343/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_acpl_p343/working
-name: driver_fet_acpl_p343
+name: acpl_p343
 oomp:
   library_name: driver_fet
-  md5: b95a62c0d5e5534c756df4a927a35b55
-  md5_10: b95a62c0d5
-  md5_5: b95a6
-  md5_6: b95a62
-  oomp_key: oomp_driver_fet_acpl_p343
-  oomp_key_extra: oomp_symbol_driver_fet_acpl_p343
-  oomp_key_full: oomp_symbol_driver_fet_acpl_p343_b95a62
-  oomp_key_simple: driver_fet_acpl_p343
+  md5: b8cfcf7a6784e87ae67a6f57588b3190
+  md5_10: b8cfcf7a67
+  md5_5: b8cfc
+  md5_6: b8cfcf
+  oomp_key: oomp_acpl_p343
+  oomp_key_extra: oomp_symbol_acpl_p343
+  oomp_key_full: oomp_symbol_acpl_p343_b8cfcf
+  oomp_key_simple: acpl_p343
   owner_name: kicad
-  symbol_name: driver_fet_acpl_p343
+  symbol_name: acpl_p343
 oomp_key: oomp_kicad_driver_fet_acpl_p343
 oomp_key_simple: kicad_driver_fet_acpl_p343
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

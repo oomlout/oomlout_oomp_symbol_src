@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_hdmi_adv7611/working
   oomp_src_flat: symbols_flat/kicad_interface_hdmi_adv7611/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_hdmi_adv7611/working
-name: interface_hdmi_adv7611
+name: adv7611
 oomp:
   library_name: interface_hdmi
-  md5: 97d352fea59bbaa35066f84d1ec19a39
-  md5_10: 97d352fea5
-  md5_5: 97d35
-  md5_6: 97d352
-  oomp_key: oomp_interface_hdmi_adv7611
-  oomp_key_extra: oomp_symbol_interface_hdmi_adv7611
-  oomp_key_full: oomp_symbol_interface_hdmi_adv7611_97d352
-  oomp_key_simple: interface_hdmi_adv7611
+  md5: e67fb807266a003a3d1ad2afcc3c5380
+  md5_10: e67fb80726
+  md5_5: e67fb
+  md5_6: e67fb8
+  oomp_key: oomp_adv7611
+  oomp_key_extra: oomp_symbol_adv7611
+  oomp_key_full: oomp_symbol_adv7611_e67fb8
+  oomp_key_simple: adv7611
   owner_name: kicad
-  symbol_name: interface_hdmi_adv7611
+  symbol_name: adv7611
 oomp_key: oomp_kicad_interface_hdmi_adv7611
 oomp_key_simple: kicad_interface_hdmi_adv7611
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

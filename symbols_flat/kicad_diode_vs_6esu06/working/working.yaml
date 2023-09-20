@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_vs_6esu06/working
   oomp_src_flat: symbols_flat/kicad_diode_vs_6esu06/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_vs_6esu06/working
-name: diode_vs_6esu06
+name: vs_6esu06
 oomp:
   library_name: diode
-  md5: 566e5c3e2317075bf67296f26be11a1f
-  md5_10: 566e5c3e23
-  md5_5: 566e5
-  md5_6: 566e5c
-  oomp_key: oomp_diode_vs_6esu06
-  oomp_key_extra: oomp_symbol_diode_vs_6esu06
-  oomp_key_full: oomp_symbol_diode_vs_6esu06_566e5c
-  oomp_key_simple: diode_vs_6esu06
+  md5: 91660fb91cef77035b90e2a472094b2d
+  md5_10: 91660fb91c
+  md5_5: '91660'
+  md5_6: 91660f
+  oomp_key: oomp_vs_6esu06
+  oomp_key_extra: oomp_symbol_vs_6esu06
+  oomp_key_full: oomp_symbol_vs_6esu06_91660f
+  oomp_key_simple: vs_6esu06
   owner_name: kicad
-  symbol_name: diode_vs_6esu06
+  symbol_name: vs_6esu06
 oomp_key: oomp_kicad_diode_vs_6esu06
 oomp_key_simple: kicad_diode_vs_6esu06
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

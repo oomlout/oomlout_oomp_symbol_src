@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm8_stm8af6223/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm8_stm8af6223/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm8_stm8af6223/working
-name: mcu_st_stm8_stm8af6223
+name: stm8af6223
 oomp:
   library_name: mcu_st_stm8
-  md5: a049e682b91b968004a4eb3f375e5a4e
-  md5_10: a049e682b9
-  md5_5: a049e
-  md5_6: a049e6
-  oomp_key: oomp_mcu_st_stm8_stm8af6223
-  oomp_key_extra: oomp_symbol_mcu_st_stm8_stm8af6223
-  oomp_key_full: oomp_symbol_mcu_st_stm8_stm8af6223_a049e6
-  oomp_key_simple: mcu_st_stm8_stm8af6223
+  md5: 903ac6673f95268ecca7e2dc1a5612a5
+  md5_10: 903ac6673f
+  md5_5: 903ac
+  md5_6: 903ac6
+  oomp_key: oomp_stm8af6223
+  oomp_key_extra: oomp_symbol_stm8af6223
+  oomp_key_full: oomp_symbol_stm8af6223_903ac6
+  oomp_key_simple: stm8af6223
   owner_name: kicad
-  symbol_name: mcu_st_stm8_stm8af6223
+  symbol_name: stm8af6223
 oomp_key: oomp_kicad_mcu_st_stm8_stm8af6223
 oomp_key_simple: kicad_mcu_st_stm8_stm8af6223
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

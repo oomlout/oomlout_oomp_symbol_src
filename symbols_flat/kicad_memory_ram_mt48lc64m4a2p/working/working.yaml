@@ -1,19 +1,19 @@
 id: kicad_memory_ram_mt48lc64m4a2p
 library: memory_ram
 library_name: Memory_RAM
-name: memory_ram_mt48lc64m4a2p
+name: mt48lc64m4a2p
 oomp:
   library_name: memory_ram
-  md5: ccca56cec5da9403964eb34779b6e798
-  md5_10: ccca56cec5
-  md5_5: ccca5
-  md5_6: ccca56
-  oomp_key: oomp_memory_ram_mt48lc64m4a2p
-  oomp_key_extra: oomp_symbol_memory_ram_mt48lc64m4a2p
-  oomp_key_full: oomp_symbol_memory_ram_mt48lc64m4a2p_ccca56
-  oomp_key_simple: memory_ram_mt48lc64m4a2p
+  md5: ba54d945d395006a83e418820d76dcb1
+  md5_10: ba54d945d3
+  md5_5: ba54d
+  md5_6: ba54d9
+  oomp_key: oomp_mt48lc64m4a2p
+  oomp_key_extra: oomp_symbol_mt48lc64m4a2p
+  oomp_key_full: oomp_symbol_mt48lc64m4a2p_ba54d9
+  oomp_key_simple: mt48lc64m4a2p
   owner_name: kicad
-  symbol_name: memory_ram_mt48lc64m4a2p
+  symbol_name: mt48lc64m4a2p
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

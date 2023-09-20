@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_difference_ad8276/working
   oomp_src_flat: symbols_flat/kicad_amplifier_difference_ad8276/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_difference_ad8276/working
-name: amplifier_difference_ad8276
+name: ad8276
 oomp:
   library_name: amplifier_difference
-  md5: 884a4f06b9d52352fee64653520f5263
-  md5_10: 884a4f06b9
-  md5_5: 884a4
-  md5_6: 884a4f
-  oomp_key: oomp_amplifier_difference_ad8276
-  oomp_key_extra: oomp_symbol_amplifier_difference_ad8276
-  oomp_key_full: oomp_symbol_amplifier_difference_ad8276_884a4f
-  oomp_key_simple: amplifier_difference_ad8276
+  md5: 8f9babcdb8931e0818fa6072bff8b2f1
+  md5_10: 8f9babcdb8
+  md5_5: 8f9ba
+  md5_6: 8f9bab
+  oomp_key: oomp_ad8276
+  oomp_key_extra: oomp_symbol_ad8276
+  oomp_key_full: oomp_symbol_ad8276_8f9bab
+  oomp_key_simple: ad8276
   owner_name: kicad
-  symbol_name: amplifier_difference_ad8276
+  symbol_name: ad8276
 oomp_key: oomp_kicad_amplifier_difference_ad8276
 oomp_key_simple: kicad_amplifier_difference_ad8276
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_sensor_pressure_lps22hh
 library: sensor_pressure
 library_name: Sensor_Pressure
-name: sensor_pressure_lps22hh
+name: lps22hh
 oomp:
   library_name: sensor_pressure
-  md5: 2dda364818800a03c7b8cb6961debcf9
-  md5_10: 2dda364818
-  md5_5: 2dda3
-  md5_6: 2dda36
-  oomp_key: oomp_sensor_pressure_lps22hh
-  oomp_key_extra: oomp_symbol_sensor_pressure_lps22hh
-  oomp_key_full: oomp_symbol_sensor_pressure_lps22hh_2dda36
-  oomp_key_simple: sensor_pressure_lps22hh
+  md5: bc15349dd4d8cf3d299a55ad3114a84d
+  md5_10: bc15349dd4
+  md5_5: bc153
+  md5_6: bc1534
+  oomp_key: oomp_lps22hh
+  oomp_key_extra: oomp_symbol_lps22hh
+  oomp_key_full: oomp_symbol_lps22hh_bc1534
+  oomp_key_simple: lps22hh
   owner_name: kicad
-  symbol_name: sensor_pressure_lps22hh
+  symbol_name: lps22hh
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

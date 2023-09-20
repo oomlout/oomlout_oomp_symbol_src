@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_cp2102n_axx_xqfn20/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_cp2102n_axx_xqfn20/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_cp2102n_axx_xqfn20/working
-name: interface_usb_cp2102n_axx_xqfn20
+name: cp2102n_axx_xqfn20
 oomp:
   library_name: interface_usb
-  md5: 550cf21864eab22b0c7b4fe1d4a9b97a
-  md5_10: 550cf21864
-  md5_5: 550cf
-  md5_6: 550cf2
-  oomp_key: oomp_interface_usb_cp2102n_axx_xqfn20
-  oomp_key_extra: oomp_symbol_interface_usb_cp2102n_axx_xqfn20
-  oomp_key_full: oomp_symbol_interface_usb_cp2102n_axx_xqfn20_550cf2
-  oomp_key_simple: interface_usb_cp2102n_axx_xqfn20
+  md5: 8d5fb237ee982c8ea469ad08f6f4fc35
+  md5_10: 8d5fb237ee
+  md5_5: 8d5fb
+  md5_6: 8d5fb2
+  oomp_key: oomp_cp2102n_axx_xqfn20
+  oomp_key_extra: oomp_symbol_cp2102n_axx_xqfn20
+  oomp_key_full: oomp_symbol_cp2102n_axx_xqfn20_8d5fb2
+  oomp_key_simple: cp2102n_axx_xqfn20
   owner_name: kicad
-  symbol_name: interface_usb_cp2102n_axx_xqfn20
+  symbol_name: cp2102n_axx_xqfn20
 oomp_key: oomp_kicad_interface_usb_cp2102n_axx_xqfn20
 oomp_key_simple: kicad_interface_usb_cp2102n_axx_xqfn20
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

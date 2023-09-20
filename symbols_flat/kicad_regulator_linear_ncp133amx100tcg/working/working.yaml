@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ncp133amx100tcg/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ncp133amx100tcg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ncp133amx100tcg/working
-name: regulator_linear_ncp133amx100tcg
+name: ncp133amx100tcg
 oomp:
   library_name: regulator_linear
-  md5: fbba7093ad660c4ec7bf3179909ac056
-  md5_10: fbba7093ad
-  md5_5: fbba7
-  md5_6: fbba70
-  oomp_key: oomp_regulator_linear_ncp133amx100tcg
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp133amx100tcg
-  oomp_key_full: oomp_symbol_regulator_linear_ncp133amx100tcg_fbba70
-  oomp_key_simple: regulator_linear_ncp133amx100tcg
+  md5: 74733acd063aa58ac920643a5c7720d8
+  md5_10: 74733acd06
+  md5_5: '74733'
+  md5_6: 74733a
+  oomp_key: oomp_ncp133amx100tcg
+  oomp_key_extra: oomp_symbol_ncp133amx100tcg
+  oomp_key_full: oomp_symbol_ncp133amx100tcg_74733a
+  oomp_key_simple: ncp133amx100tcg
   owner_name: kicad
-  symbol_name: regulator_linear_ncp133amx100tcg
+  symbol_name: ncp133amx100tcg
 oomp_key: oomp_kicad_regulator_linear_ncp133amx100tcg
 oomp_key_simple: kicad_regulator_linear_ncp133amx100tcg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

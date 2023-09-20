@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_avr_at90pwm1_16m/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_avr_at90pwm1_16m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_avr_at90pwm1_16m/working
-name: mcu_microchip_avr_at90pwm1_16m
+name: at90pwm1_16m
 oomp:
   library_name: mcu_microchip_avr
-  md5: e0cc315e306db8aaf355d0c8adbd266a
-  md5_10: e0cc315e30
-  md5_5: e0cc3
-  md5_6: e0cc31
-  oomp_key: oomp_mcu_microchip_avr_at90pwm1_16m
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_at90pwm1_16m
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_at90pwm1_16m_e0cc31
-  oomp_key_simple: mcu_microchip_avr_at90pwm1_16m
+  md5: 0128ec9c995cfeaa37dc87622d7953ad
+  md5_10: 0128ec9c99
+  md5_5: 0128e
+  md5_6: 0128ec
+  oomp_key: oomp_at90pwm1_16m
+  oomp_key_extra: oomp_symbol_at90pwm1_16m
+  oomp_key_full: oomp_symbol_at90pwm1_16m_0128ec
+  oomp_key_simple: at90pwm1_16m
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_at90pwm1_16m
+  symbol_name: at90pwm1_16m
 oomp_key: oomp_kicad_mcu_microchip_avr_at90pwm1_16m
 oomp_key_simple: kicad_mcu_microchip_avr_at90pwm1_16m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_adp2108auj_1_8
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_adp2108auj_1_8
+name: adp2108auj_1_8
 oomp:
   library_name: regulator_switching
-  md5: c5612049327fc4842f78a7b6c2f4494f
-  md5_10: c561204932
-  md5_5: c5612
-  md5_6: c56120
-  oomp_key: oomp_regulator_switching_adp2108auj_1_8
-  oomp_key_extra: oomp_symbol_regulator_switching_adp2108auj_1_8
-  oomp_key_full: oomp_symbol_regulator_switching_adp2108auj_1_8_c56120
-  oomp_key_simple: regulator_switching_adp2108auj_1_8
+  md5: ca68b00becf0c66cca6a49a15276e79e
+  md5_10: ca68b00bec
+  md5_5: ca68b
+  md5_6: ca68b0
+  oomp_key: oomp_adp2108auj_1_8
+  oomp_key_extra: oomp_symbol_adp2108auj_1_8
+  oomp_key_full: oomp_symbol_adp2108auj_1_8_ca68b0
+  oomp_key_simple: adp2108auj_1_8
   owner_name: kicad
-  symbol_name: regulator_switching_adp2108auj_1_8
+  symbol_name: adp2108auj_1_8
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_ssi2164/working
   oomp_src_flat: symbols_flat/kicad_audio_ssi2164/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_ssi2164/working
-name: audio_ssi2164
+name: ssi2164
 oomp:
   library_name: audio
-  md5: a92f2174dde38d4f0c436f8dcfb79929
-  md5_10: a92f2174dd
-  md5_5: a92f2
-  md5_6: a92f21
-  oomp_key: oomp_audio_ssi2164
-  oomp_key_extra: oomp_symbol_audio_ssi2164
-  oomp_key_full: oomp_symbol_audio_ssi2164_a92f21
-  oomp_key_simple: audio_ssi2164
+  md5: 7a7a7288a405d50f24fd11dffab6b300
+  md5_10: 7a7a7288a4
+  md5_5: 7a7a7
+  md5_6: 7a7a72
+  oomp_key: oomp_ssi2164
+  oomp_key_extra: oomp_symbol_ssi2164
+  oomp_key_full: oomp_symbol_ssi2164_7a7a72
+  oomp_key_simple: ssi2164
   owner_name: kicad
-  symbol_name: audio_ssi2164
+  symbol_name: ssi2164
 oomp_key: oomp_kicad_audio_ssi2164
 oomp_key_simple: kicad_audio_ssi2164
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

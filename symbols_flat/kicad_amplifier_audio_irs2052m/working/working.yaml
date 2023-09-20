@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_irs2052m/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_irs2052m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_irs2052m/working
-name: amplifier_audio_irs2052m
+name: irs2052m
 oomp:
   library_name: amplifier_audio
-  md5: 7590ad97f59d08722fd126ddae335c9d
-  md5_10: 7590ad97f5
-  md5_5: 7590a
-  md5_6: 7590ad
-  oomp_key: oomp_amplifier_audio_irs2052m
-  oomp_key_extra: oomp_symbol_amplifier_audio_irs2052m
-  oomp_key_full: oomp_symbol_amplifier_audio_irs2052m_7590ad
-  oomp_key_simple: amplifier_audio_irs2052m
+  md5: 2c276c21215d941cad858552c9952132
+  md5_10: 2c276c2121
+  md5_5: 2c276
+  md5_6: 2c276c
+  oomp_key: oomp_irs2052m
+  oomp_key_extra: oomp_symbol_irs2052m
+  oomp_key_full: oomp_symbol_irs2052m_2c276c
+  oomp_key_simple: irs2052m
   owner_name: kicad
-  symbol_name: amplifier_audio_irs2052m
+  symbol_name: irs2052m
 oomp_key: oomp_kicad_amplifier_audio_irs2052m
 oomp_key_simple: kicad_amplifier_audio_irs2052m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

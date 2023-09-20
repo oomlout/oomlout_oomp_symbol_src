@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_tps2561/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_tps2561/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_tps2561/working
-name: interface_usb_tps2561
+name: tps2561
 oomp:
   library_name: interface_usb
-  md5: 6b17b4df9472fef9df5715e6430f8bf1
-  md5_10: 6b17b4df94
-  md5_5: 6b17b
-  md5_6: 6b17b4
-  oomp_key: oomp_interface_usb_tps2561
-  oomp_key_extra: oomp_symbol_interface_usb_tps2561
-  oomp_key_full: oomp_symbol_interface_usb_tps2561_6b17b4
-  oomp_key_simple: interface_usb_tps2561
+  md5: 7d42ed770ad9210d751bef36f474edb9
+  md5_10: 7d42ed770a
+  md5_5: 7d42e
+  md5_6: 7d42ed
+  oomp_key: oomp_tps2561
+  oomp_key_extra: oomp_symbol_tps2561
+  oomp_key_full: oomp_symbol_tps2561_7d42ed
+  oomp_key_simple: tps2561
   owner_name: kicad
-  symbol_name: interface_usb_tps2561
+  symbol_name: tps2561
 oomp_key: oomp_kicad_interface_usb_tps2561
 oomp_key_simple: kicad_interface_usb_tps2561
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

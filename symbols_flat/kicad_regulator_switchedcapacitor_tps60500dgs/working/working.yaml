@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switchedcapacitor_tps60500dgs/working
   oomp_src_flat: symbols_flat/kicad_regulator_switchedcapacitor_tps60500dgs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switchedcapacitor_tps60500dgs/working
-name: regulator_switchedcapacitor_tps60500dgs
+name: tps60500dgs
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: 00689f39a77cbbf289eae231cccefd35
-  md5_10: 00689f39a7
-  md5_5: 00689
-  md5_6: 00689f
-  oomp_key: oomp_regulator_switchedcapacitor_tps60500dgs
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_tps60500dgs
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_tps60500dgs_00689f
-  oomp_key_simple: regulator_switchedcapacitor_tps60500dgs
+  md5: f8ee8790b3aecac0fe5c2137a4993f7f
+  md5_10: f8ee8790b3
+  md5_5: f8ee8
+  md5_6: f8ee87
+  oomp_key: oomp_tps60500dgs
+  oomp_key_extra: oomp_symbol_tps60500dgs
+  oomp_key_full: oomp_symbol_tps60500dgs_f8ee87
+  oomp_key_simple: tps60500dgs
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_tps60500dgs
+  symbol_name: tps60500dgs
 oomp_key: oomp_kicad_regulator_switchedcapacitor_tps60500dgs
 oomp_key_simple: kicad_regulator_switchedcapacitor_tps60500dgs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

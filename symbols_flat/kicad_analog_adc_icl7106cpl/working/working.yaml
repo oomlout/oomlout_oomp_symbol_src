@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_icl7106cpl/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_icl7106cpl/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_icl7106cpl/working
-name: analog_adc_icl7106cpl
+name: icl7106cpl
 oomp:
   library_name: analog_adc
-  md5: b1289aa438da03d72ba4ca5c87faf719
-  md5_10: b1289aa438
-  md5_5: b1289
-  md5_6: b1289a
-  oomp_key: oomp_analog_adc_icl7106cpl
-  oomp_key_extra: oomp_symbol_analog_adc_icl7106cpl
-  oomp_key_full: oomp_symbol_analog_adc_icl7106cpl_b1289a
-  oomp_key_simple: analog_adc_icl7106cpl
+  md5: 33f13b701d0ff4ac2de618ab280bb953
+  md5_10: 33f13b701d
+  md5_5: 33f13
+  md5_6: 33f13b
+  oomp_key: oomp_icl7106cpl
+  oomp_key_extra: oomp_symbol_icl7106cpl
+  oomp_key_full: oomp_symbol_icl7106cpl_33f13b
+  oomp_key_simple: icl7106cpl
   owner_name: kicad
-  symbol_name: analog_adc_icl7106cpl
+  symbol_name: icl7106cpl
 oomp_key: oomp_kicad_analog_adc_icl7106cpl
 oomp_key_simple: kicad_analog_adc_icl7106cpl
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

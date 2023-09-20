@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_security_atecc608a_sshda/working
   oomp_src_flat: symbols_flat/kicad_security_atecc608a_sshda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_security_atecc608a_sshda/working
-name: security_atecc608a_sshda
+name: atecc608a_sshda
 oomp:
   library_name: security
-  md5: 5555afaacbd261d52413351fa42f978b
-  md5_10: 5555afaacb
-  md5_5: 5555a
-  md5_6: 5555af
-  oomp_key: oomp_security_atecc608a_sshda
-  oomp_key_extra: oomp_symbol_security_atecc608a_sshda
-  oomp_key_full: oomp_symbol_security_atecc608a_sshda_5555af
-  oomp_key_simple: security_atecc608a_sshda
+  md5: 629ebec8c219872236020ffa0a86ef22
+  md5_10: 629ebec8c2
+  md5_5: 629eb
+  md5_6: 629ebe
+  oomp_key: oomp_atecc608a_sshda
+  oomp_key_extra: oomp_symbol_atecc608a_sshda
+  oomp_key_full: oomp_symbol_atecc608a_sshda_629ebe
+  oomp_key_simple: atecc608a_sshda
   owner_name: kicad
-  symbol_name: security_atecc608a_sshda
+  symbol_name: atecc608a_sshda
 oomp_key: oomp_kicad_security_atecc608a_sshda
 oomp_key_simple: kicad_security_atecc608a_sshda
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ldk130_adj_sot23_sot353/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ldk130_adj_sot23_sot353/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ldk130_adj_sot23_sot353/working
-name: regulator_linear_ldk130_adj_sot23_sot353
+name: ldk130_adj_sot23_sot353
 oomp:
   library_name: regulator_linear
-  md5: 83a4493a817aa7192ed4524fcd4f5d6a
-  md5_10: 83a4493a81
-  md5_5: 83a44
-  md5_6: 83a449
-  oomp_key: oomp_regulator_linear_ldk130_adj_sot23_sot353
-  oomp_key_extra: oomp_symbol_regulator_linear_ldk130_adj_sot23_sot353
-  oomp_key_full: oomp_symbol_regulator_linear_ldk130_adj_sot23_sot353_83a449
-  oomp_key_simple: regulator_linear_ldk130_adj_sot23_sot353
+  md5: 4708531f1b70cf2767fc23c9d1fe72a2
+  md5_10: 4708531f1b
+  md5_5: '47085'
+  md5_6: '470853'
+  oomp_key: oomp_ldk130_adj_sot23_sot353
+  oomp_key_extra: oomp_symbol_ldk130_adj_sot23_sot353
+  oomp_key_full: oomp_symbol_ldk130_adj_sot23_sot353_470853
+  oomp_key_simple: ldk130_adj_sot23_sot353
   owner_name: kicad
-  symbol_name: regulator_linear_ldk130_adj_sot23_sot353
+  symbol_name: ldk130_adj_sot23_sot353
 oomp_key: oomp_kicad_regulator_linear_ldk130_adj_sot23_sot353
 oomp_key_simple: kicad_regulator_linear_ldk130_adj_sot23_sot353
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

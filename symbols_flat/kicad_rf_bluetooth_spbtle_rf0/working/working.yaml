@@ -1,19 +1,19 @@
 id: kicad_rf_bluetooth_spbtle_rf0
 library: rf_bluetooth
 library_name: RF_Bluetooth
-name: rf_bluetooth_spbtle_rf0
+name: spbtle_rf0
 oomp:
   library_name: rf_bluetooth
-  md5: 8cb17c5b713b6269f32fc35b24697167
-  md5_10: 8cb17c5b71
-  md5_5: 8cb17
-  md5_6: 8cb17c
-  oomp_key: oomp_rf_bluetooth_spbtle_rf0
-  oomp_key_extra: oomp_symbol_rf_bluetooth_spbtle_rf0
-  oomp_key_full: oomp_symbol_rf_bluetooth_spbtle_rf0_8cb17c
-  oomp_key_simple: rf_bluetooth_spbtle_rf0
+  md5: ec9b6d3e06e6565afff36dee7c4d938d
+  md5_10: ec9b6d3e06
+  md5_5: ec9b6
+  md5_6: ec9b6d
+  oomp_key: oomp_spbtle_rf0
+  oomp_key_extra: oomp_symbol_spbtle_rf0
+  oomp_key_full: oomp_symbol_spbtle_rf0_ec9b6d
+  oomp_key_simple: spbtle_rf0
   owner_name: kicad
-  symbol_name: rf_bluetooth_spbtle_rf0
+  symbol_name: spbtle_rf0
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_dsp_texas_tms320lf2406pz/working
   oomp_src_flat: symbols_flat/kicad_dsp_texas_tms320lf2406pz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_dsp_texas_tms320lf2406pz/working
-name: dsp_texas_tms320lf2406pz
+name: tms320lf2406pz
 oomp:
   library_name: dsp_texas
-  md5: 03006cfaf0c87d8e84744b3b97c3f8b3
-  md5_10: 03006cfaf0
-  md5_5: '03006'
-  md5_6: 03006c
-  oomp_key: oomp_dsp_texas_tms320lf2406pz
-  oomp_key_extra: oomp_symbol_dsp_texas_tms320lf2406pz
-  oomp_key_full: oomp_symbol_dsp_texas_tms320lf2406pz_03006c
-  oomp_key_simple: dsp_texas_tms320lf2406pz
+  md5: 7f8f6551816a1656d7fecda8d89a0ca9
+  md5_10: 7f8f655181
+  md5_5: 7f8f6
+  md5_6: 7f8f65
+  oomp_key: oomp_tms320lf2406pz
+  oomp_key_extra: oomp_symbol_tms320lf2406pz
+  oomp_key_full: oomp_symbol_tms320lf2406pz_7f8f65
+  oomp_key_simple: tms320lf2406pz
   owner_name: kicad
-  symbol_name: dsp_texas_tms320lf2406pz
+  symbol_name: tms320lf2406pz
 oomp_key: oomp_kicad_dsp_texas_tms320lf2406pz
 oomp_key_simple: kicad_dsp_texas_tms320lf2406pz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_kx022_1020/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_kx022_1020/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_kx022_1020/working
-name: sensor_motion_kx022_1020
+name: kx022_1020
 oomp:
   library_name: sensor_motion
-  md5: 5b6bef371b47e94b4085194a9c4c1631
-  md5_10: 5b6bef371b
-  md5_5: 5b6be
-  md5_6: 5b6bef
-  oomp_key: oomp_sensor_motion_kx022_1020
-  oomp_key_extra: oomp_symbol_sensor_motion_kx022_1020
-  oomp_key_full: oomp_symbol_sensor_motion_kx022_1020_5b6bef
-  oomp_key_simple: sensor_motion_kx022_1020
+  md5: e6188ec4d60264b53f236ee1d6c96340
+  md5_10: e6188ec4d6
+  md5_5: e6188
+  md5_6: e6188e
+  oomp_key: oomp_kx022_1020
+  oomp_key_extra: oomp_symbol_kx022_1020
+  oomp_key_full: oomp_symbol_kx022_1020_e6188e
+  oomp_key_simple: kx022_1020
   owner_name: kicad
-  symbol_name: sensor_motion_kx022_1020
+  symbol_name: kx022_1020
 oomp_key: oomp_kicad_sensor_motion_kx022_1020
 oomp_key_simple: kicad_sensor_motion_kx022_1020
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

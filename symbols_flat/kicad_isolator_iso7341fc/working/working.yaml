@@ -1,19 +1,19 @@
 id: kicad_isolator_iso7341fc
 library: isolator
 library_name: Isolator
-name: isolator_iso7341fc
+name: iso7341fc
 oomp:
   library_name: isolator
-  md5: 27e89f5af2f1407ba30e8efe8f79ba07
-  md5_10: 27e89f5af2
-  md5_5: 27e89
-  md5_6: 27e89f
-  oomp_key: oomp_isolator_iso7341fc
-  oomp_key_extra: oomp_symbol_isolator_iso7341fc
-  oomp_key_full: oomp_symbol_isolator_iso7341fc_27e89f
-  oomp_key_simple: isolator_iso7341fc
+  md5: 944035084c15da157c3edc53e0d35a1e
+  md5_10: 944035084c
+  md5_5: '94403'
+  md5_6: '944035'
+  oomp_key: oomp_iso7341fc
+  oomp_key_extra: oomp_symbol_iso7341fc
+  oomp_key_full: oomp_symbol_iso7341fc_944035
+  oomp_key_simple: iso7341fc
   owner_name: kicad
-  symbol_name: isolator_iso7341fc
+  symbol_name: iso7341fc
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

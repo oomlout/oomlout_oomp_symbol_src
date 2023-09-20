@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_sla7044m/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_sla7044m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_sla7044m/working
-name: driver_motor_sla7044m
+name: sla7044m
 oomp:
   library_name: driver_motor
-  md5: b3dbdb781b44911e7cf29c4eb3acdf34
-  md5_10: b3dbdb781b
-  md5_5: b3dbd
-  md5_6: b3dbdb
-  oomp_key: oomp_driver_motor_sla7044m
-  oomp_key_extra: oomp_symbol_driver_motor_sla7044m
-  oomp_key_full: oomp_symbol_driver_motor_sla7044m_b3dbdb
-  oomp_key_simple: driver_motor_sla7044m
+  md5: feda5aa19428860506e76e991128573f
+  md5_10: feda5aa194
+  md5_5: feda5
+  md5_6: feda5a
+  oomp_key: oomp_sla7044m
+  oomp_key_extra: oomp_symbol_sla7044m
+  oomp_key_full: oomp_symbol_sla7044m_feda5a
+  oomp_key_simple: sla7044m
   owner_name: kicad
-  symbol_name: driver_motor_sla7044m
+  symbol_name: sla7044m
 oomp_key: oomp_kicad_driver_motor_sla7044m
 oomp_key_simple: kicad_driver_motor_sla7044m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

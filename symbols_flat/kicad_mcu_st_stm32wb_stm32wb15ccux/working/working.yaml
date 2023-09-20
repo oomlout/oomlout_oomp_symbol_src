@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32wb_stm32wb15ccux/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32wb_stm32wb15ccux/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32wb_stm32wb15ccux/working
-name: mcu_st_stm32wb_stm32wb15ccux
+name: stm32wb15ccux
 oomp:
   library_name: mcu_st_stm32wb
-  md5: 119a9168be4049adb225621b2e7c3e0b
-  md5_10: 119a9168be
-  md5_5: 119a9
-  md5_6: 119a91
-  oomp_key: oomp_mcu_st_stm32wb_stm32wb15ccux
-  oomp_key_extra: oomp_symbol_mcu_st_stm32wb_stm32wb15ccux
-  oomp_key_full: oomp_symbol_mcu_st_stm32wb_stm32wb15ccux_119a91
-  oomp_key_simple: mcu_st_stm32wb_stm32wb15ccux
+  md5: 73fa62555ad0df7ab46420010dad7b30
+  md5_10: 73fa62555a
+  md5_5: 73fa6
+  md5_6: 73fa62
+  oomp_key: oomp_stm32wb15ccux
+  oomp_key_extra: oomp_symbol_stm32wb15ccux
+  oomp_key_full: oomp_symbol_stm32wb15ccux_73fa62
+  oomp_key_simple: stm32wb15ccux
   owner_name: kicad
-  symbol_name: mcu_st_stm32wb_stm32wb15ccux
+  symbol_name: stm32wb15ccux
 oomp_key: oomp_kicad_mcu_st_stm32wb_stm32wb15ccux
 oomp_key_simple: kicad_mcu_st_stm32wb_stm32wb15ccux
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

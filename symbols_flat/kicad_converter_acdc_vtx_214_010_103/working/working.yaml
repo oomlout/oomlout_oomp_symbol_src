@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_vtx_214_010_103/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_vtx_214_010_103/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_vtx_214_010_103/working
-name: converter_acdc_vtx_214_010_103
+name: vtx_214_010_103
 oomp:
   library_name: converter_acdc
-  md5: 98b257c035e87a65436fe1f83aa6dfc0
-  md5_10: 98b257c035
-  md5_5: 98b25
-  md5_6: 98b257
-  oomp_key: oomp_converter_acdc_vtx_214_010_103
-  oomp_key_extra: oomp_symbol_converter_acdc_vtx_214_010_103
-  oomp_key_full: oomp_symbol_converter_acdc_vtx_214_010_103_98b257
-  oomp_key_simple: converter_acdc_vtx_214_010_103
+  md5: d0d8653eaca8e2497a1b595c0e23d82c
+  md5_10: d0d8653eac
+  md5_5: d0d86
+  md5_6: d0d865
+  oomp_key: oomp_vtx_214_010_103
+  oomp_key_extra: oomp_symbol_vtx_214_010_103
+  oomp_key_full: oomp_symbol_vtx_214_010_103_d0d865
+  oomp_key_simple: vtx_214_010_103
   owner_name: kicad
-  symbol_name: converter_acdc_vtx_214_010_103
+  symbol_name: vtx_214_010_103
 oomp_key: oomp_kicad_converter_acdc_vtx_214_010_103
 oomp_key_simple: kicad_converter_acdc_vtx_214_010_103
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

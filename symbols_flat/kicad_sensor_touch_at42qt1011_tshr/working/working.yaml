@@ -1,19 +1,19 @@
 id: kicad_sensor_touch_at42qt1011_tshr
 library: sensor_touch
 library_name: Sensor_Touch
-name: sensor_touch_at42qt1011_tshr
+name: at42qt1011_tshr
 oomp:
   library_name: sensor_touch
-  md5: 5c9f174602f302b03455d1c5ed620497
-  md5_10: 5c9f174602
-  md5_5: 5c9f1
-  md5_6: 5c9f17
-  oomp_key: oomp_sensor_touch_at42qt1011_tshr
-  oomp_key_extra: oomp_symbol_sensor_touch_at42qt1011_tshr
-  oomp_key_full: oomp_symbol_sensor_touch_at42qt1011_tshr_5c9f17
-  oomp_key_simple: sensor_touch_at42qt1011_tshr
+  md5: dd97049f470bcf1f7bf1a223f9a63ca9
+  md5_10: dd97049f47
+  md5_5: dd970
+  md5_6: dd9704
+  oomp_key: oomp_at42qt1011_tshr
+  oomp_key_extra: oomp_symbol_at42qt1011_tshr
+  oomp_key_full: oomp_symbol_at42qt1011_tshr_dd9704
+  oomp_key_simple: at42qt1011_tshr
   owner_name: kicad
-  symbol_name: sensor_touch_at42qt1011_tshr
+  symbol_name: at42qt1011_tshr
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

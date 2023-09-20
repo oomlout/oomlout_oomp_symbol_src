@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_mcp2557fd_xmny/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_mcp2557fd_xmny/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_mcp2557fd_xmny/working
-name: interface_can_lin_mcp2557fd_xmny
+name: mcp2557fd_xmny
 oomp:
   library_name: interface_can_lin
-  md5: 21114f5ccb8e621fafd26d9a5d3e06d8
-  md5_10: 21114f5ccb
-  md5_5: '21114'
-  md5_6: 21114f
-  oomp_key: oomp_interface_can_lin_mcp2557fd_xmny
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2557fd_xmny
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2557fd_xmny_21114f
-  oomp_key_simple: interface_can_lin_mcp2557fd_xmny
+  md5: bfd6afd1d8fde328a15705bb8aa37fc4
+  md5_10: bfd6afd1d8
+  md5_5: bfd6a
+  md5_6: bfd6af
+  oomp_key: oomp_mcp2557fd_xmny
+  oomp_key_extra: oomp_symbol_mcp2557fd_xmny
+  oomp_key_full: oomp_symbol_mcp2557fd_xmny_bfd6af
+  oomp_key_simple: mcp2557fd_xmny
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2557fd_xmny
+  symbol_name: mcp2557fd_xmny
 oomp_key: oomp_kicad_interface_can_lin_mcp2557fd_xmny
 oomp_key_simple: kicad_interface_can_lin_mcp2557fd_xmny
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

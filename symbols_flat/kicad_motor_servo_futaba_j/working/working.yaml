@@ -1,19 +1,19 @@
 id: kicad_motor_servo_futaba_j
 library: motor
 library_name: Motor
-name: motor_motor_servo_futaba_j
+name: servo_futaba_j
 oomp:
   library_name: motor
-  md5: cfb087bda420cf1c961ea26dbd285f91
-  md5_10: cfb087bda4
-  md5_5: cfb08
-  md5_6: cfb087
-  oomp_key: oomp_motor_motor_servo_futaba_j
-  oomp_key_extra: oomp_symbol_motor_motor_servo_futaba_j
-  oomp_key_full: oomp_symbol_motor_motor_servo_futaba_j_cfb087
-  oomp_key_simple: motor_motor_servo_futaba_j
+  md5: aa66b9167092652716d76353f6afec21
+  md5_10: aa66b91670
+  md5_5: aa66b
+  md5_6: aa66b9
+  oomp_key: oomp_servo_futaba_j
+  oomp_key_extra: oomp_symbol_servo_futaba_j
+  oomp_key_full: oomp_symbol_servo_futaba_j_aa66b9
+  oomp_key_simple: servo_futaba_j
   owner_name: kicad
-  symbol_name: motor_motor_servo_futaba_j
+  symbol_name: servo_futaba_j
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

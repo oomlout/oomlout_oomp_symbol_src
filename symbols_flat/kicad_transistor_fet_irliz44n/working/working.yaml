@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_irliz44n/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_irliz44n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_irliz44n/working
-name: transistor_fet_irliz44n
+name: irliz44n
 oomp:
   library_name: transistor_fet
-  md5: 95e44689d64117e8d48ee0071ec53cf3
-  md5_10: 95e44689d6
-  md5_5: 95e44
-  md5_6: 95e446
-  oomp_key: oomp_transistor_fet_irliz44n
-  oomp_key_extra: oomp_symbol_transistor_fet_irliz44n
-  oomp_key_full: oomp_symbol_transistor_fet_irliz44n_95e446
-  oomp_key_simple: transistor_fet_irliz44n
+  md5: 4b5d351ed8ba93ec289c6f5e4d61c950
+  md5_10: 4b5d351ed8
+  md5_5: 4b5d3
+  md5_6: 4b5d35
+  oomp_key: oomp_irliz44n
+  oomp_key_extra: oomp_symbol_irliz44n
+  oomp_key_full: oomp_symbol_irliz44n_4b5d35
+  oomp_key_simple: irliz44n
   owner_name: kicad
-  symbol_name: transistor_fet_irliz44n
+  symbol_name: irliz44n
 oomp_key: oomp_kicad_transistor_fet_irliz44n
 oomp_key_simple: kicad_transistor_fet_irliz44n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

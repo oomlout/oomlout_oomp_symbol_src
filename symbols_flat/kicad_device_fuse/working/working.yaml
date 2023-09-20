@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_fuse/working
   oomp_src_flat: symbols_flat/kicad_device_fuse/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_fuse/working
-name: device_fuse
+name: fuse
 oomp:
   library_name: device
-  md5: 854ec9551ef555c67c1c34a6578ca180
-  md5_10: 854ec9551e
-  md5_5: 854ec
-  md5_6: 854ec9
-  oomp_key: oomp_device_fuse
-  oomp_key_extra: oomp_symbol_device_fuse
-  oomp_key_full: oomp_symbol_device_fuse_854ec9
-  oomp_key_simple: device_fuse
+  md5: ffe839615e13215abacaf519ff139066
+  md5_10: ffe839615e
+  md5_5: ffe83
+  md5_6: ffe839
+  oomp_key: oomp_fuse
+  oomp_key_extra: oomp_symbol_fuse
+  oomp_key_full: oomp_symbol_fuse_ffe839
+  oomp_key_simple: fuse
   owner_name: kicad
-  symbol_name: device_fuse
+  symbol_name: fuse
 oomp_key: oomp_kicad_device_fuse
 oomp_key_simple: kicad_device_fuse
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

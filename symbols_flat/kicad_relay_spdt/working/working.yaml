@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_spdt/working
   oomp_src_flat: symbols_flat/kicad_relay_spdt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_spdt/working
-name: relay_relay_spdt
+name: spdt
 oomp:
   library_name: relay
-  md5: f07490f30de9acdc05987e557e606d87
-  md5_10: f07490f30d
-  md5_5: f0749
-  md5_6: f07490
-  oomp_key: oomp_relay_relay_spdt
-  oomp_key_extra: oomp_symbol_relay_relay_spdt
-  oomp_key_full: oomp_symbol_relay_relay_spdt_f07490
-  oomp_key_simple: relay_relay_spdt
+  md5: f2c0044ac3258412fcc542aa47fe8b9d
+  md5_10: f2c0044ac3
+  md5_5: f2c00
+  md5_6: f2c004
+  oomp_key: oomp_spdt
+  oomp_key_extra: oomp_symbol_spdt
+  oomp_key_full: oomp_symbol_spdt_f2c004
+  oomp_key_simple: spdt
   owner_name: kicad
-  symbol_name: relay_relay_spdt
+  symbol_name: spdt
 oomp_key: oomp_kicad_relay_spdt
 oomp_key_simple: kicad_relay_spdt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

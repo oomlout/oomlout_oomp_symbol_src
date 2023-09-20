@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lm22678tj_adj/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lm22678tj_adj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lm22678tj_adj/working
-name: regulator_switching_lm22678tj_adj
+name: lm22678tj_adj
 oomp:
   library_name: regulator_switching
-  md5: c441a6a63af2b6fd621bc6f122cf9667
-  md5_10: c441a6a63a
-  md5_5: c441a
-  md5_6: c441a6
-  oomp_key: oomp_regulator_switching_lm22678tj_adj
-  oomp_key_extra: oomp_symbol_regulator_switching_lm22678tj_adj
-  oomp_key_full: oomp_symbol_regulator_switching_lm22678tj_adj_c441a6
-  oomp_key_simple: regulator_switching_lm22678tj_adj
+  md5: c3aa3765f483910b863a4740e7a4d798
+  md5_10: c3aa3765f4
+  md5_5: c3aa3
+  md5_6: c3aa37
+  oomp_key: oomp_lm22678tj_adj
+  oomp_key_extra: oomp_symbol_lm22678tj_adj
+  oomp_key_full: oomp_symbol_lm22678tj_adj_c3aa37
+  oomp_key_simple: lm22678tj_adj
   owner_name: kicad
-  symbol_name: regulator_switching_lm22678tj_adj
+  symbol_name: lm22678tj_adj
 oomp_key: oomp_kicad_regulator_switching_lm22678tj_adj
 oomp_key_simple: kicad_regulator_switching_lm22678tj_adj
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

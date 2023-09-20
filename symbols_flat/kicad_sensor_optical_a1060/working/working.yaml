@@ -1,19 +1,19 @@
 id: kicad_sensor_optical_a1060
 library: sensor_optical
 library_name: Sensor_Optical
-name: sensor_optical_a1060
+name: a1060
 oomp:
   library_name: sensor_optical
-  md5: 78bebeb11ccb227e67622932a0bb97b4
-  md5_10: 78bebeb11c
-  md5_5: 78beb
-  md5_6: 78bebe
-  oomp_key: oomp_sensor_optical_a1060
-  oomp_key_extra: oomp_symbol_sensor_optical_a1060
-  oomp_key_full: oomp_symbol_sensor_optical_a1060_78bebe
-  oomp_key_simple: sensor_optical_a1060
+  md5: e8ec4c5a45b428e06c85677c7d9f35b2
+  md5_10: e8ec4c5a45
+  md5_5: e8ec4
+  md5_6: e8ec4c
+  oomp_key: oomp_a1060
+  oomp_key_extra: oomp_symbol_a1060
+  oomp_key_full: oomp_symbol_a1060_e8ec4c
+  oomp_key_simple: a1060
   owner_name: kicad
-  symbol_name: sensor_optical_a1060
+  symbol_name: a1060
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

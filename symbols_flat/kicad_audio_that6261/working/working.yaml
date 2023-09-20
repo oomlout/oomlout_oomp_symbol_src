@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_that6261/working
   oomp_src_flat: symbols_flat/kicad_audio_that6261/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_that6261/working
-name: audio_that6261
+name: that6261
 oomp:
   library_name: audio
-  md5: 5c6d6e2e4b973dc153db1bcc3f9f2fc8
-  md5_10: 5c6d6e2e4b
-  md5_5: 5c6d6
-  md5_6: 5c6d6e
-  oomp_key: oomp_audio_that6261
-  oomp_key_extra: oomp_symbol_audio_that6261
-  oomp_key_full: oomp_symbol_audio_that6261_5c6d6e
-  oomp_key_simple: audio_that6261
+  md5: 2db57bceb5dcac2a51513fc83b92bcb9
+  md5_10: 2db57bceb5
+  md5_5: 2db57
+  md5_6: 2db57b
+  oomp_key: oomp_that6261
+  oomp_key_extra: oomp_symbol_that6261
+  oomp_key_full: oomp_symbol_that6261_2db57b
+  oomp_key_simple: that6261
   owner_name: kicad
-  symbol_name: audio_that6261
+  symbol_name: that6261
 oomp_key: oomp_kicad_audio_that6261
 oomp_key_simple: kicad_audio_that6261
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

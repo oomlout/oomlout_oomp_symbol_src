@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_ape8865nr_32_hf_3
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_ape8865nr_32_hf_3
+name: ape8865nr_32_hf_3
 oomp:
   library_name: regulator_linear
-  md5: ca57eec26aba5cab7a78e8c419125711
-  md5_10: ca57eec26a
-  md5_5: ca57e
-  md5_6: ca57ee
-  oomp_key: oomp_regulator_linear_ape8865nr_32_hf_3
-  oomp_key_extra: oomp_symbol_regulator_linear_ape8865nr_32_hf_3
-  oomp_key_full: oomp_symbol_regulator_linear_ape8865nr_32_hf_3_ca57ee
-  oomp_key_simple: regulator_linear_ape8865nr_32_hf_3
+  md5: eb900f56220b3796381ea13cb3f062ba
+  md5_10: eb900f5622
+  md5_5: eb900
+  md5_6: eb900f
+  oomp_key: oomp_ape8865nr_32_hf_3
+  oomp_key_extra: oomp_symbol_ape8865nr_32_hf_3
+  oomp_key_full: oomp_symbol_ape8865nr_32_hf_3_eb900f
+  oomp_key_simple: ape8865nr_32_hf_3
   owner_name: kicad
-  symbol_name: regulator_linear_ape8865nr_32_hf_3
+  symbol_name: ape8865nr_32_hf_3
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

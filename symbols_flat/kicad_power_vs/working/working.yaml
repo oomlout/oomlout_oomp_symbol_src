@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_vs/working
   oomp_src_flat: symbols_flat/kicad_power_vs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_vs/working
-name: power_vs
+name: vs
 oomp:
   library_name: power
-  md5: e56839c03b9c30da592b0403ce8f1c89
-  md5_10: e56839c03b
-  md5_5: e5683
-  md5_6: e56839
-  oomp_key: oomp_power_vs
-  oomp_key_extra: oomp_symbol_power_vs
-  oomp_key_full: oomp_symbol_power_vs_e56839
-  oomp_key_simple: power_vs
+  md5: f4842dcb685d490e2a43212b8072a6fe
+  md5_10: f4842dcb68
+  md5_5: f4842
+  md5_6: f4842d
+  oomp_key: oomp_vs
+  oomp_key_extra: oomp_symbol_vs
+  oomp_key_full: oomp_symbol_vs_f4842d
+  oomp_key_simple: vs
   owner_name: kicad
-  symbol_name: power_vs
+  symbol_name: vs
 oomp_key: oomp_kicad_power_vs
 oomp_key_simple: kicad_power_vs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

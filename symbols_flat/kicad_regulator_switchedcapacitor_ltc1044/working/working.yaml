@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switchedcapacitor_ltc1044/working
   oomp_src_flat: symbols_flat/kicad_regulator_switchedcapacitor_ltc1044/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switchedcapacitor_ltc1044/working
-name: regulator_switchedcapacitor_ltc1044
+name: ltc1044
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: 55cbae20b0d5b0891666a7c3817d2656
-  md5_10: 55cbae20b0
-  md5_5: 55cba
-  md5_6: 55cbae
-  oomp_key: oomp_regulator_switchedcapacitor_ltc1044
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_ltc1044
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_ltc1044_55cbae
-  oomp_key_simple: regulator_switchedcapacitor_ltc1044
+  md5: 24c90f9ff50764be8476bcca78e907da
+  md5_10: 24c90f9ff5
+  md5_5: 24c90
+  md5_6: 24c90f
+  oomp_key: oomp_ltc1044
+  oomp_key_extra: oomp_symbol_ltc1044
+  oomp_key_full: oomp_symbol_ltc1044_24c90f
+  oomp_key_simple: ltc1044
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_ltc1044
+  symbol_name: ltc1044
 oomp_key: oomp_kicad_regulator_switchedcapacitor_ltc1044
 oomp_key_simple: kicad_regulator_switchedcapacitor_ltc1044
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

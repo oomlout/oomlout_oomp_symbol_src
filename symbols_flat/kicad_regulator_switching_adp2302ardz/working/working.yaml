@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_adp2302ardz/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_adp2302ardz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_adp2302ardz/working
-name: regulator_switching_adp2302ardz
+name: adp2302ardz
 oomp:
   library_name: regulator_switching
-  md5: 6d5e6a655d2a9046b855718378c4921b
-  md5_10: 6d5e6a655d
-  md5_5: 6d5e6
-  md5_6: 6d5e6a
-  oomp_key: oomp_regulator_switching_adp2302ardz
-  oomp_key_extra: oomp_symbol_regulator_switching_adp2302ardz
-  oomp_key_full: oomp_symbol_regulator_switching_adp2302ardz_6d5e6a
-  oomp_key_simple: regulator_switching_adp2302ardz
+  md5: 4274d1e2b0a3235d153ffa175216510c
+  md5_10: 4274d1e2b0
+  md5_5: 4274d
+  md5_6: 4274d1
+  oomp_key: oomp_adp2302ardz
+  oomp_key_extra: oomp_symbol_adp2302ardz
+  oomp_key_full: oomp_symbol_adp2302ardz_4274d1
+  oomp_key_simple: adp2302ardz
   owner_name: kicad
-  symbol_name: regulator_switching_adp2302ardz
+  symbol_name: adp2302ardz
 oomp_key: oomp_kicad_regulator_switching_adp2302ardz
 oomp_key_simple: kicad_regulator_switching_adp2302ardz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

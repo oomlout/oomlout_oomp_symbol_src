@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_frt5_separated/working
   oomp_src_flat: symbols_flat/kicad_relay_frt5_separated/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_frt5_separated/working
-name: relay_frt5_separated
+name: frt5_separated
 oomp:
   library_name: relay
-  md5: 6bf4d9e600ac57ca87ec4b20fe0f2bd9
-  md5_10: 6bf4d9e600
-  md5_5: 6bf4d
-  md5_6: 6bf4d9
-  oomp_key: oomp_relay_frt5_separated
-  oomp_key_extra: oomp_symbol_relay_frt5_separated
-  oomp_key_full: oomp_symbol_relay_frt5_separated_6bf4d9
-  oomp_key_simple: relay_frt5_separated
+  md5: 9b77e674e6634df841abdde3e4727648
+  md5_10: 9b77e674e6
+  md5_5: 9b77e
+  md5_6: 9b77e6
+  oomp_key: oomp_frt5_separated
+  oomp_key_extra: oomp_symbol_frt5_separated
+  oomp_key_full: oomp_symbol_frt5_separated_9b77e6
+  oomp_key_simple: frt5_separated
   owner_name: kicad
-  symbol_name: relay_frt5_separated
+  symbol_name: frt5_separated
 oomp_key: oomp_kicad_relay_frt5_separated
 oomp_key_simple: kicad_relay_frt5_separated
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

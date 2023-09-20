@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_npn_cbe/working
   oomp_src_flat: symbols_flat/kicad_device_q_npn_cbe/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_npn_cbe/working
-name: device_q_npn_cbe
+name: q_npn_cbe
 oomp:
   library_name: device
-  md5: e8d4f5ef91ef2d36491fe046cca398d3
-  md5_10: e8d4f5ef91
-  md5_5: e8d4f
-  md5_6: e8d4f5
-  oomp_key: oomp_device_q_npn_cbe
-  oomp_key_extra: oomp_symbol_device_q_npn_cbe
-  oomp_key_full: oomp_symbol_device_q_npn_cbe_e8d4f5
-  oomp_key_simple: device_q_npn_cbe
+  md5: 534454bd49397389b69ea8cc0072dff2
+  md5_10: 534454bd49
+  md5_5: '53445'
+  md5_6: '534454'
+  oomp_key: oomp_q_npn_cbe
+  oomp_key_extra: oomp_symbol_q_npn_cbe
+  oomp_key_full: oomp_symbol_q_npn_cbe_534454
+  oomp_key_simple: q_npn_cbe
   owner_name: kicad
-  symbol_name: device_q_npn_cbe
+  symbol_name: q_npn_cbe
 oomp_key: oomp_kicad_device_q_npn_cbe
 oomp_key_simple: kicad_device_q_npn_cbe
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

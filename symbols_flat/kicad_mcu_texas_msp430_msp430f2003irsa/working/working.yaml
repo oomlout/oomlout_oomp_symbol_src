@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_texas_msp430_msp430f2003irsa/working
   oomp_src_flat: symbols_flat/kicad_mcu_texas_msp430_msp430f2003irsa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_texas_msp430_msp430f2003irsa/working
-name: mcu_texas_msp430_msp430f2003irsa
+name: msp430f2003irsa
 oomp:
   library_name: mcu_texas_msp430
-  md5: e86b5f20b04005836e3ca07c153f0744
-  md5_10: e86b5f20b0
-  md5_5: e86b5
-  md5_6: e86b5f
-  oomp_key: oomp_mcu_texas_msp430_msp430f2003irsa
-  oomp_key_extra: oomp_symbol_mcu_texas_msp430_msp430f2003irsa
-  oomp_key_full: oomp_symbol_mcu_texas_msp430_msp430f2003irsa_e86b5f
-  oomp_key_simple: mcu_texas_msp430_msp430f2003irsa
+  md5: f33bd74b76973b527eb9744b4ec6e05d
+  md5_10: f33bd74b76
+  md5_5: f33bd
+  md5_6: f33bd7
+  oomp_key: oomp_msp430f2003irsa
+  oomp_key_extra: oomp_symbol_msp430f2003irsa
+  oomp_key_full: oomp_symbol_msp430f2003irsa_f33bd7
+  oomp_key_simple: msp430f2003irsa
   owner_name: kicad
-  symbol_name: mcu_texas_msp430_msp430f2003irsa
+  symbol_name: msp430f2003irsa
 oomp_key: oomp_kicad_mcu_texas_msp430_msp430f2003irsa
 oomp_key_simple: kicad_mcu_texas_msp430_msp430f2003irsa
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

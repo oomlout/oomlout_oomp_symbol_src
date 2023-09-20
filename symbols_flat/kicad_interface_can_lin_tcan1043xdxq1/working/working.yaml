@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_tcan1043xdxq1/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_tcan1043xdxq1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_tcan1043xdxq1/working
-name: interface_can_lin_tcan1043xdxq1
+name: tcan1043xdxq1
 oomp:
   library_name: interface_can_lin
-  md5: 411b29d4ccb646c699ece972d024c21d
-  md5_10: 411b29d4cc
-  md5_5: 411b2
-  md5_6: 411b29
-  oomp_key: oomp_interface_can_lin_tcan1043xdxq1
-  oomp_key_extra: oomp_symbol_interface_can_lin_tcan1043xdxq1
-  oomp_key_full: oomp_symbol_interface_can_lin_tcan1043xdxq1_411b29
-  oomp_key_simple: interface_can_lin_tcan1043xdxq1
+  md5: 146bae92af3415ff88f19c67ff9dccea
+  md5_10: 146bae92af
+  md5_5: 146ba
+  md5_6: 146bae
+  oomp_key: oomp_tcan1043xdxq1
+  oomp_key_extra: oomp_symbol_tcan1043xdxq1
+  oomp_key_full: oomp_symbol_tcan1043xdxq1_146bae
+  oomp_key_simple: tcan1043xdxq1
   owner_name: kicad
-  symbol_name: interface_can_lin_tcan1043xdxq1
+  symbol_name: tcan1043xdxq1
 oomp_key: oomp_kicad_interface_can_lin_tcan1043xdxq1
 oomp_key_simple: kicad_interface_can_lin_tcan1043xdxq1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

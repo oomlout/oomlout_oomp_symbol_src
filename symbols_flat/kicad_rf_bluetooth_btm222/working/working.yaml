@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_bluetooth_btm222/working
   oomp_src_flat: symbols_flat/kicad_rf_bluetooth_btm222/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_bluetooth_btm222/working
-name: rf_bluetooth_btm222
+name: btm222
 oomp:
   library_name: rf_bluetooth
-  md5: 188be262af9fa3f085efaf98e9341871
-  md5_10: 188be262af
-  md5_5: 188be
-  md5_6: 188be2
-  oomp_key: oomp_rf_bluetooth_btm222
-  oomp_key_extra: oomp_symbol_rf_bluetooth_btm222
-  oomp_key_full: oomp_symbol_rf_bluetooth_btm222_188be2
-  oomp_key_simple: rf_bluetooth_btm222
+  md5: eeb241cfe5238adb65d1fc7743c7c936
+  md5_10: eeb241cfe5
+  md5_5: eeb24
+  md5_6: eeb241
+  oomp_key: oomp_btm222
+  oomp_key_extra: oomp_symbol_btm222
+  oomp_key_full: oomp_symbol_btm222_eeb241
+  oomp_key_simple: btm222
   owner_name: kicad
-  symbol_name: rf_bluetooth_btm222
+  symbol_name: btm222
 oomp_key: oomp_kicad_rf_bluetooth_btm222
 oomp_key_simple: kicad_rf_bluetooth_btm222
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

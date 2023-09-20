@@ -1,19 +1,19 @@
 id: kicad_analog_dac_max5217
 library: analog_dac
 library_name: Analog_DAC
-name: analog_dac_max5217
+name: max5217
 oomp:
   library_name: analog_dac
-  md5: 288d2e93b2504620b00be80b55546d5a
-  md5_10: 288d2e93b2
-  md5_5: 288d2
-  md5_6: 288d2e
-  oomp_key: oomp_analog_dac_max5217
-  oomp_key_extra: oomp_symbol_analog_dac_max5217
-  oomp_key_full: oomp_symbol_analog_dac_max5217_288d2e
-  oomp_key_simple: analog_dac_max5217
+  md5: 46fdbefb7df48009e84e22036480a972
+  md5_10: 46fdbefb7d
+  md5_5: 46fdb
+  md5_6: 46fdbe
+  oomp_key: oomp_max5217
+  oomp_key_extra: oomp_symbol_max5217
+  oomp_key_full: oomp_symbol_max5217_46fdbe
+  oomp_key_simple: max5217
   owner_name: kicad
-  symbol_name: analog_dac_max5217
+  symbol_name: max5217
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

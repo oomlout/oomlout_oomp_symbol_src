@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_proximity_bpr_205/working
   oomp_src_flat: symbols_flat/kicad_sensor_proximity_bpr_205/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_proximity_bpr_205/working
-name: sensor_proximity_bpr_205
+name: bpr_205
 oomp:
   library_name: sensor_proximity
-  md5: efc0cc4bb3f51df0032ef689bd0fbbd8
-  md5_10: efc0cc4bb3
-  md5_5: efc0c
-  md5_6: efc0cc
-  oomp_key: oomp_sensor_proximity_bpr_205
-  oomp_key_extra: oomp_symbol_sensor_proximity_bpr_205
-  oomp_key_full: oomp_symbol_sensor_proximity_bpr_205_efc0cc
-  oomp_key_simple: sensor_proximity_bpr_205
+  md5: 82fb8f5e1c9d5c08544361eea41ebbd0
+  md5_10: 82fb8f5e1c
+  md5_5: 82fb8
+  md5_6: 82fb8f
+  oomp_key: oomp_bpr_205
+  oomp_key_extra: oomp_symbol_bpr_205
+  oomp_key_full: oomp_symbol_bpr_205_82fb8f
+  oomp_key_simple: bpr_205
   owner_name: kicad
-  symbol_name: sensor_proximity_bpr_205
+  symbol_name: bpr_205
 oomp_key: oomp_kicad_sensor_proximity_bpr_205
 oomp_key_simple: kicad_sensor_proximity_bpr_205
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

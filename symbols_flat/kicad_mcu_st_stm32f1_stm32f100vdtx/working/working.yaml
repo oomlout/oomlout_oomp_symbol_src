@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f1_stm32f100vdtx
 library: mcu_st_stm32f1
 library_name: MCU_ST_STM32F1
-name: mcu_st_stm32f1_stm32f100vdtx
+name: stm32f100vdtx
 oomp:
   library_name: mcu_st_stm32f1
-  md5: 71b3e8869d8cd5641a85c61faec4ab33
-  md5_10: 71b3e8869d
-  md5_5: 71b3e
-  md5_6: 71b3e8
-  oomp_key: oomp_mcu_st_stm32f1_stm32f100vdtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f1_stm32f100vdtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f1_stm32f100vdtx_71b3e8
-  oomp_key_simple: mcu_st_stm32f1_stm32f100vdtx
+  md5: cc1089183fb29d6adf2ffb3d00a64cc8
+  md5_10: cc1089183f
+  md5_5: cc108
+  md5_6: cc1089
+  oomp_key: oomp_stm32f100vdtx
+  oomp_key_extra: oomp_symbol_stm32f100vdtx
+  oomp_key_full: oomp_symbol_stm32f100vdtx_cc1089
+  oomp_key_simple: stm32f100vdtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f1_stm32f100vdtx
+  symbol_name: stm32f100vdtx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

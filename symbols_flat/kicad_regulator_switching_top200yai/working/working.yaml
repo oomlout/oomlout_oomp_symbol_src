@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_top200yai/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_top200yai/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_top200yai/working
-name: regulator_switching_top200yai
+name: top200yai
 oomp:
   library_name: regulator_switching
-  md5: ef8874b29d58e8b28bc597bacb1f7858
-  md5_10: ef8874b29d
-  md5_5: ef887
-  md5_6: ef8874
-  oomp_key: oomp_regulator_switching_top200yai
-  oomp_key_extra: oomp_symbol_regulator_switching_top200yai
-  oomp_key_full: oomp_symbol_regulator_switching_top200yai_ef8874
-  oomp_key_simple: regulator_switching_top200yai
+  md5: 62d5d4bee6d54ad784c957a452cba94d
+  md5_10: 62d5d4bee6
+  md5_5: 62d5d
+  md5_6: 62d5d4
+  oomp_key: oomp_top200yai
+  oomp_key_extra: oomp_symbol_top200yai
+  oomp_key_full: oomp_symbol_top200yai_62d5d4
+  oomp_key_simple: top200yai
   owner_name: kicad
-  symbol_name: regulator_switching_top200yai
+  symbol_name: top200yai
 oomp_key: oomp_kicad_regulator_switching_top200yai
 oomp_key_simple: kicad_regulator_switching_top200yai
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

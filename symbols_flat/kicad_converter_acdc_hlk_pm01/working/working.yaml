@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_hlk_pm01/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_hlk_pm01/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_hlk_pm01/working
-name: converter_acdc_hlk_pm01
+name: hlk_pm01
 oomp:
   library_name: converter_acdc
-  md5: 182f0b534d606014b13bac934b0e4ada
-  md5_10: 182f0b534d
-  md5_5: 182f0
-  md5_6: 182f0b
-  oomp_key: oomp_converter_acdc_hlk_pm01
-  oomp_key_extra: oomp_symbol_converter_acdc_hlk_pm01
-  oomp_key_full: oomp_symbol_converter_acdc_hlk_pm01_182f0b
-  oomp_key_simple: converter_acdc_hlk_pm01
+  md5: 8a4ffded411e6cbe9d2afcd24528236e
+  md5_10: 8a4ffded41
+  md5_5: 8a4ff
+  md5_6: 8a4ffd
+  oomp_key: oomp_hlk_pm01
+  oomp_key_extra: oomp_symbol_hlk_pm01
+  oomp_key_full: oomp_symbol_hlk_pm01_8a4ffd
+  oomp_key_simple: hlk_pm01
   owner_name: kicad
-  symbol_name: converter_acdc_hlk_pm01
+  symbol_name: hlk_pm01
 oomp_key: oomp_kicad_converter_acdc_hlk_pm01
 oomp_key_simple: kicad_converter_acdc_hlk_pm01
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

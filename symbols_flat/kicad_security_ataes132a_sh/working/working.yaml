@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_security_ataes132a_sh/working
   oomp_src_flat: symbols_flat/kicad_security_ataes132a_sh/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_security_ataes132a_sh/working
-name: security_ataes132a_sh
+name: ataes132a_sh
 oomp:
   library_name: security
-  md5: 124e75d9794355143656984a4b636ac0
-  md5_10: 124e75d979
-  md5_5: 124e7
-  md5_6: 124e75
-  oomp_key: oomp_security_ataes132a_sh
-  oomp_key_extra: oomp_symbol_security_ataes132a_sh
-  oomp_key_full: oomp_symbol_security_ataes132a_sh_124e75
-  oomp_key_simple: security_ataes132a_sh
+  md5: 7f5fc212b63d1661878b0d578ce662dd
+  md5_10: 7f5fc212b6
+  md5_5: 7f5fc
+  md5_6: 7f5fc2
+  oomp_key: oomp_ataes132a_sh
+  oomp_key_extra: oomp_symbol_ataes132a_sh
+  oomp_key_full: oomp_symbol_ataes132a_sh_7f5fc2
+  oomp_key_simple: ataes132a_sh
   owner_name: kicad
-  symbol_name: security_ataes132a_sh
+  symbol_name: ataes132a_sh
 oomp_key: oomp_kicad_security_ataes132a_sh
 oomp_key_simple: kicad_security_ataes132a_sh
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

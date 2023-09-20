@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_max5717xsd/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_max5717xsd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_max5717xsd/working
-name: analog_dac_max5717xsd
+name: max5717xsd
 oomp:
   library_name: analog_dac
-  md5: 0605f1eaf9ade1a109f6dd7bc05dc117
-  md5_10: 0605f1eaf9
-  md5_5: 0605f
-  md5_6: 0605f1
-  oomp_key: oomp_analog_dac_max5717xsd
-  oomp_key_extra: oomp_symbol_analog_dac_max5717xsd
-  oomp_key_full: oomp_symbol_analog_dac_max5717xsd_0605f1
-  oomp_key_simple: analog_dac_max5717xsd
+  md5: bb0a069e4b38cff7d3fb47435c419f73
+  md5_10: bb0a069e4b
+  md5_5: bb0a0
+  md5_6: bb0a06
+  oomp_key: oomp_max5717xsd
+  oomp_key_extra: oomp_symbol_max5717xsd
+  oomp_key_full: oomp_symbol_max5717xsd_bb0a06
+  oomp_key_simple: max5717xsd
   owner_name: kicad
-  symbol_name: analog_dac_max5717xsd
+  symbol_name: max5717xsd
 oomp_key: oomp_kicad_analog_dac_max5717xsd
 oomp_key_simple: kicad_analog_dac_max5717xsd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

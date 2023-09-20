@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_wifi_usr_c322/working
   oomp_src_flat: symbols_flat/kicad_rf_wifi_usr_c322/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_wifi_usr_c322/working
-name: rf_wifi_usr_c322
+name: usr_c322
 oomp:
   library_name: rf_wifi
-  md5: 3779d8c22a58a56e1b89d9fc0987fa22
-  md5_10: 3779d8c22a
-  md5_5: 3779d
-  md5_6: 3779d8
-  oomp_key: oomp_rf_wifi_usr_c322
-  oomp_key_extra: oomp_symbol_rf_wifi_usr_c322
-  oomp_key_full: oomp_symbol_rf_wifi_usr_c322_3779d8
-  oomp_key_simple: rf_wifi_usr_c322
+  md5: 83ba5d9f1e5b9713ba1d4e6198ab652a
+  md5_10: 83ba5d9f1e
+  md5_5: 83ba5
+  md5_6: 83ba5d
+  oomp_key: oomp_usr_c322
+  oomp_key_extra: oomp_symbol_usr_c322
+  oomp_key_full: oomp_symbol_usr_c322_83ba5d
+  oomp_key_simple: usr_c322
   owner_name: kicad
-  symbol_name: rf_wifi_usr_c322
+  symbol_name: usr_c322
 oomp_key: oomp_kicad_rf_wifi_usr_c322
 oomp_key_simple: kicad_rf_wifi_usr_c322
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

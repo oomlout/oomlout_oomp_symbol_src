@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_prtr5v0u2x/working
   oomp_src_flat: symbols_flat/kicad_power_protection_prtr5v0u2x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_prtr5v0u2x/working
-name: power_protection_prtr5v0u2x
+name: prtr5v0u2x
 oomp:
   library_name: power_protection
-  md5: 22466b8e84424d1f5dad111efaa16f64
-  md5_10: 22466b8e84
-  md5_5: '22466'
-  md5_6: 22466b
-  oomp_key: oomp_power_protection_prtr5v0u2x
-  oomp_key_extra: oomp_symbol_power_protection_prtr5v0u2x
-  oomp_key_full: oomp_symbol_power_protection_prtr5v0u2x_22466b
-  oomp_key_simple: power_protection_prtr5v0u2x
+  md5: 35c1de0067ef29a7fd42174a215239dc
+  md5_10: 35c1de0067
+  md5_5: 35c1d
+  md5_6: 35c1de
+  oomp_key: oomp_prtr5v0u2x
+  oomp_key_extra: oomp_symbol_prtr5v0u2x
+  oomp_key_full: oomp_symbol_prtr5v0u2x_35c1de
+  oomp_key_simple: prtr5v0u2x
   owner_name: kicad
-  symbol_name: power_protection_prtr5v0u2x
+  symbol_name: prtr5v0u2x
 oomp_key: oomp_kicad_power_protection_prtr5v0u2x
 oomp_key_simple: kicad_power_protection_prtr5v0u2x
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

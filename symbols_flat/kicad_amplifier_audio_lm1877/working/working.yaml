@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_lm1877/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_lm1877/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_lm1877/working
-name: amplifier_audio_lm1877
+name: lm1877
 oomp:
   library_name: amplifier_audio
-  md5: af825546308195ba00b16aed38748cf2
-  md5_10: af82554630
-  md5_5: af825
-  md5_6: af8255
-  oomp_key: oomp_amplifier_audio_lm1877
-  oomp_key_extra: oomp_symbol_amplifier_audio_lm1877
-  oomp_key_full: oomp_symbol_amplifier_audio_lm1877_af8255
-  oomp_key_simple: amplifier_audio_lm1877
+  md5: 2978266211481501527e8fc92c25dfd8
+  md5_10: '2978266211'
+  md5_5: '29782'
+  md5_6: '297826'
+  oomp_key: oomp_lm1877
+  oomp_key_extra: oomp_symbol_lm1877
+  oomp_key_full: oomp_symbol_lm1877_297826
+  oomp_key_simple: lm1877
   owner_name: kicad
-  symbol_name: amplifier_audio_lm1877
+  symbol_name: lm1877
 oomp_key: oomp_kicad_amplifier_audio_lm1877
 oomp_key_simple: kicad_amplifier_audio_lm1877
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

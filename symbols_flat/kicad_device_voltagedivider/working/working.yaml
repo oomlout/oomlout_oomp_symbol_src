@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_voltagedivider/working
   oomp_src_flat: symbols_flat/kicad_device_voltagedivider/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_voltagedivider/working
-name: device_voltagedivider
+name: voltagedivider
 oomp:
   library_name: device
-  md5: c376a031e64a600b3240a6776ae4e7f9
-  md5_10: c376a031e6
-  md5_5: c376a
-  md5_6: c376a0
-  oomp_key: oomp_device_voltagedivider
-  oomp_key_extra: oomp_symbol_device_voltagedivider
-  oomp_key_full: oomp_symbol_device_voltagedivider_c376a0
-  oomp_key_simple: device_voltagedivider
+  md5: f7fc878506d0564f80b32e446735f0fc
+  md5_10: f7fc878506
+  md5_5: f7fc8
+  md5_6: f7fc87
+  oomp_key: oomp_voltagedivider
+  oomp_key_extra: oomp_symbol_voltagedivider
+  oomp_key_full: oomp_symbol_voltagedivider_f7fc87
+  oomp_key_simple: voltagedivider
   owner_name: kicad
-  symbol_name: device_voltagedivider
+  symbol_name: voltagedivider
 oomp_key: oomp_kicad_device_voltagedivider
 oomp_key_simple: kicad_device_voltagedivider
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

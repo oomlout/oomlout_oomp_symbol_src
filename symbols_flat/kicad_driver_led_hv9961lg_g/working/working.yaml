@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_hv9961lg_g/working
   oomp_src_flat: symbols_flat/kicad_driver_led_hv9961lg_g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_hv9961lg_g/working
-name: driver_led_hv9961lg_g
+name: hv9961lg_g
 oomp:
   library_name: driver_led
-  md5: ae99838d5df8b00f9a60638445d75df9
-  md5_10: ae99838d5d
-  md5_5: ae998
-  md5_6: ae9983
-  oomp_key: oomp_driver_led_hv9961lg_g
-  oomp_key_extra: oomp_symbol_driver_led_hv9961lg_g
-  oomp_key_full: oomp_symbol_driver_led_hv9961lg_g_ae9983
-  oomp_key_simple: driver_led_hv9961lg_g
+  md5: 1f3df884ef4abcae93fc6534d5576d44
+  md5_10: 1f3df884ef
+  md5_5: 1f3df
+  md5_6: 1f3df8
+  oomp_key: oomp_hv9961lg_g
+  oomp_key_extra: oomp_symbol_hv9961lg_g
+  oomp_key_full: oomp_symbol_hv9961lg_g_1f3df8
+  oomp_key_simple: hv9961lg_g
   owner_name: kicad
-  symbol_name: driver_led_hv9961lg_g
+  symbol_name: hv9961lg_g
 oomp_key: oomp_kicad_driver_led_hv9961lg_g
 oomp_key_simple: kicad_driver_led_hv9961lg_g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

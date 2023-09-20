@@ -1,19 +1,19 @@
 id: kicad_interface_uart_max202
 library: interface_uart
 library_name: Interface_UART
-name: interface_uart_max202
+name: max202
 oomp:
   library_name: interface_uart
-  md5: 7b9f67f84ace3ccb97bdc4672a7ab2a2
-  md5_10: 7b9f67f84a
-  md5_5: 7b9f6
-  md5_6: 7b9f67
-  oomp_key: oomp_interface_uart_max202
-  oomp_key_extra: oomp_symbol_interface_uart_max202
-  oomp_key_full: oomp_symbol_interface_uart_max202_7b9f67
-  oomp_key_simple: interface_uart_max202
+  md5: a0c0b90841a1f1df4e823e2ef90f47f4
+  md5_10: a0c0b90841
+  md5_5: a0c0b
+  md5_6: a0c0b9
+  oomp_key: oomp_max202
+  oomp_key_extra: oomp_symbol_max202
+  oomp_key_full: oomp_symbol_max202_a0c0b9
+  oomp_key_simple: max202
   owner_name: kicad
-  symbol_name: interface_uart_max202
+  symbol_name: max202
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_stth212s/working
   oomp_src_flat: symbols_flat/kicad_diode_stth212s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_stth212s/working
-name: diode_stth212s
+name: stth212s
 oomp:
   library_name: diode
-  md5: 6aa30547c9387374248e4d55f637dd25
-  md5_10: 6aa30547c9
-  md5_5: 6aa30
-  md5_6: 6aa305
-  oomp_key: oomp_diode_stth212s
-  oomp_key_extra: oomp_symbol_diode_stth212s
-  oomp_key_full: oomp_symbol_diode_stth212s_6aa305
-  oomp_key_simple: diode_stth212s
+  md5: 9dcd2e21446724125830006501acc453
+  md5_10: 9dcd2e2144
+  md5_5: 9dcd2
+  md5_6: 9dcd2e
+  oomp_key: oomp_stth212s
+  oomp_key_extra: oomp_symbol_stth212s
+  oomp_key_full: oomp_symbol_stth212s_9dcd2e
+  oomp_key_simple: stth212s
   owner_name: kicad
-  symbol_name: diode_stth212s
+  symbol_name: stth212s
 oomp_key: oomp_kicad_diode_stth212s
 oomp_key_simple: kicad_diode_stth212s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

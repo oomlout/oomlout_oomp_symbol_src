@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_wd2793/working
   oomp_src_flat: symbols_flat/kicad_interface_wd2793/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_wd2793/working
-name: interface_wd2793
+name: wd2793
 oomp:
   library_name: interface
-  md5: 6ef7ca403d8c3efab91b8d61c8bd1d99
-  md5_10: 6ef7ca403d
-  md5_5: 6ef7c
-  md5_6: 6ef7ca
-  oomp_key: oomp_interface_wd2793
-  oomp_key_extra: oomp_symbol_interface_wd2793
-  oomp_key_full: oomp_symbol_interface_wd2793_6ef7ca
-  oomp_key_simple: interface_wd2793
+  md5: 2cb3fc0d8cb88d6ee22c3362d8c3811f
+  md5_10: 2cb3fc0d8c
+  md5_5: 2cb3f
+  md5_6: 2cb3fc
+  oomp_key: oomp_wd2793
+  oomp_key_extra: oomp_symbol_wd2793
+  oomp_key_full: oomp_symbol_wd2793_2cb3fc
+  oomp_key_simple: wd2793
   owner_name: kicad
-  symbol_name: interface_wd2793
+  symbol_name: wd2793
 oomp_key: oomp_kicad_interface_wd2793
 oomp_key_simple: kicad_interface_wd2793
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

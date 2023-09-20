@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_ft245bm/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_ft245bm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_ft245bm/working
-name: interface_usb_ft245bm
+name: ft245bm
 oomp:
   library_name: interface_usb
-  md5: c26fd9b37b8ae6fd9f5894c8859cda88
-  md5_10: c26fd9b37b
-  md5_5: c26fd
-  md5_6: c26fd9
-  oomp_key: oomp_interface_usb_ft245bm
-  oomp_key_extra: oomp_symbol_interface_usb_ft245bm
-  oomp_key_full: oomp_symbol_interface_usb_ft245bm_c26fd9
-  oomp_key_simple: interface_usb_ft245bm
+  md5: 83792fc4902f1f863ed41bfa35bfe5fd
+  md5_10: 83792fc490
+  md5_5: '83792'
+  md5_6: 83792f
+  oomp_key: oomp_ft245bm
+  oomp_key_extra: oomp_symbol_ft245bm
+  oomp_key_full: oomp_symbol_ft245bm_83792f
+  oomp_key_simple: ft245bm
   owner_name: kicad
-  symbol_name: interface_usb_ft245bm
+  symbol_name: ft245bm
 oomp_key: oomp_kicad_interface_usb_ft245bm
 oomp_key_simple: kicad_interface_usb_ft245bm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

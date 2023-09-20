@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_ldk130pu15r_dfn6
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_ldk130pu15r_dfn6
+name: ldk130pu15r_dfn6
 oomp:
   library_name: regulator_linear
-  md5: bda3449ccef755e8de0dbd15cc6ea4b3
-  md5_10: bda3449cce
-  md5_5: bda34
-  md5_6: bda344
-  oomp_key: oomp_regulator_linear_ldk130pu15r_dfn6
-  oomp_key_extra: oomp_symbol_regulator_linear_ldk130pu15r_dfn6
-  oomp_key_full: oomp_symbol_regulator_linear_ldk130pu15r_dfn6_bda344
-  oomp_key_simple: regulator_linear_ldk130pu15r_dfn6
+  md5: c7b9e4c61394dc100ed1ba4de5fa575e
+  md5_10: c7b9e4c613
+  md5_5: c7b9e
+  md5_6: c7b9e4
+  oomp_key: oomp_ldk130pu15r_dfn6
+  oomp_key_extra: oomp_symbol_ldk130pu15r_dfn6
+  oomp_key_full: oomp_symbol_ldk130pu15r_dfn6_c7b9e4
+  oomp_key_simple: ldk130pu15r_dfn6
   owner_name: kicad
-  symbol_name: regulator_linear_ldk130pu15r_dfn6
+  symbol_name: ldk130pu15r_dfn6
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

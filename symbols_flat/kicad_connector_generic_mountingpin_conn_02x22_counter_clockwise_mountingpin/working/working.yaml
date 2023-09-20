@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin/working
-name: connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin
+name: conn_02x22_counter_clockwise_mountingpin
 oomp:
   library_name: connector_generic_mountingpin
-  md5: ad86c756a8d3f66cf34a26a55a38ad5a
-  md5_10: ad86c756a8
-  md5_5: ad86c
-  md5_6: ad86c7
-  oomp_key: oomp_connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin
-  oomp_key_extra: oomp_symbol_connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin
-  oomp_key_full: oomp_symbol_connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin_ad86c7
-  oomp_key_simple: connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin
+  md5: 5785dfd398943998897094e697d30b8b
+  md5_10: 5785dfd398
+  md5_5: 5785d
+  md5_6: 5785df
+  oomp_key: oomp_conn_02x22_counter_clockwise_mountingpin
+  oomp_key_extra: oomp_symbol_conn_02x22_counter_clockwise_mountingpin
+  oomp_key_full: oomp_symbol_conn_02x22_counter_clockwise_mountingpin_5785df
+  oomp_key_simple: conn_02x22_counter_clockwise_mountingpin
   owner_name: kicad
-  symbol_name: connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin
+  symbol_name: conn_02x22_counter_clockwise_mountingpin
 oomp_key: oomp_kicad_connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin
 oomp_key_simple: kicad_connector_generic_mountingpin_conn_02x22_counter_clockwise_mountingpin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

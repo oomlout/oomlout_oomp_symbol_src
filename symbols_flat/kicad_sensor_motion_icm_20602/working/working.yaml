@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_icm_20602/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_icm_20602/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_icm_20602/working
-name: sensor_motion_icm_20602
+name: icm_20602
 oomp:
   library_name: sensor_motion
-  md5: 0ceffd5be62723ea47fcd3ef049b8ef0
-  md5_10: 0ceffd5be6
-  md5_5: 0ceff
-  md5_6: 0ceffd
-  oomp_key: oomp_sensor_motion_icm_20602
-  oomp_key_extra: oomp_symbol_sensor_motion_icm_20602
-  oomp_key_full: oomp_symbol_sensor_motion_icm_20602_0ceffd
-  oomp_key_simple: sensor_motion_icm_20602
+  md5: 02f47a56110e6e0978625deaaacf4c1e
+  md5_10: 02f47a5611
+  md5_5: 02f47
+  md5_6: 02f47a
+  oomp_key: oomp_icm_20602
+  oomp_key_extra: oomp_symbol_icm_20602
+  oomp_key_full: oomp_symbol_icm_20602_02f47a
+  oomp_key_simple: icm_20602
   owner_name: kicad
-  symbol_name: sensor_motion_icm_20602
+  symbol_name: icm_20602
 oomp_key: oomp_kicad_sensor_motion_icm_20602
 oomp_key_simple: kicad_sensor_motion_icm_20602
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

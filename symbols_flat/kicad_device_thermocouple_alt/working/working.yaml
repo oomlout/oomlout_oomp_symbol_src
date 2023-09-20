@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_thermocouple_alt/working
   oomp_src_flat: symbols_flat/kicad_device_thermocouple_alt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_thermocouple_alt/working
-name: device_thermocouple_alt
+name: thermocouple_alt
 oomp:
   library_name: device
-  md5: 1b04d3c0f22975592565213acbd5a2e9
-  md5_10: 1b04d3c0f2
-  md5_5: 1b04d
-  md5_6: 1b04d3
-  oomp_key: oomp_device_thermocouple_alt
-  oomp_key_extra: oomp_symbol_device_thermocouple_alt
-  oomp_key_full: oomp_symbol_device_thermocouple_alt_1b04d3
-  oomp_key_simple: device_thermocouple_alt
+  md5: a0c3983d4c78418c56a84ca76af959b3
+  md5_10: a0c3983d4c
+  md5_5: a0c39
+  md5_6: a0c398
+  oomp_key: oomp_thermocouple_alt
+  oomp_key_extra: oomp_symbol_thermocouple_alt
+  oomp_key_full: oomp_symbol_thermocouple_alt_a0c398
+  oomp_key_simple: thermocouple_alt
   owner_name: kicad
-  symbol_name: device_thermocouple_alt
+  symbol_name: thermocouple_alt
 oomp_key: oomp_kicad_device_thermocouple_alt
 oomp_key_simple: kicad_device_thermocouple_alt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

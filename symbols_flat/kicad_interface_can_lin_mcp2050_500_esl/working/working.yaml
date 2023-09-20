@@ -1,19 +1,19 @@
 id: kicad_interface_can_lin_mcp2050_500_esl
 library: interface_can_lin
 library_name: Interface_CAN_LIN
-name: interface_can_lin_mcp2050_500_esl
+name: mcp2050_500_esl
 oomp:
   library_name: interface_can_lin
-  md5: 050f2e2b5185dc9de2eec4f9adc97ddc
-  md5_10: 050f2e2b51
-  md5_5: 050f2
-  md5_6: 050f2e
-  oomp_key: oomp_interface_can_lin_mcp2050_500_esl
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2050_500_esl
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2050_500_esl_050f2e
-  oomp_key_simple: interface_can_lin_mcp2050_500_esl
+  md5: bbd4a28ff99ac2df46253792fe8ec668
+  md5_10: bbd4a28ff9
+  md5_5: bbd4a
+  md5_6: bbd4a2
+  oomp_key: oomp_mcp2050_500_esl
+  oomp_key_extra: oomp_symbol_mcp2050_500_esl
+  oomp_key_full: oomp_symbol_mcp2050_500_esl_bbd4a2
+  oomp_key_simple: mcp2050_500_esl
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2050_500_esl
+  symbol_name: mcp2050_500_esl
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

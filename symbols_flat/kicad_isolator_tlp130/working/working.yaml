@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_tlp130/working
   oomp_src_flat: symbols_flat/kicad_isolator_tlp130/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_tlp130/working
-name: isolator_tlp130
+name: tlp130
 oomp:
   library_name: isolator
-  md5: e93b330c5e96ddf5482025e47e0a5439
-  md5_10: e93b330c5e
-  md5_5: e93b3
-  md5_6: e93b33
-  oomp_key: oomp_isolator_tlp130
-  oomp_key_extra: oomp_symbol_isolator_tlp130
-  oomp_key_full: oomp_symbol_isolator_tlp130_e93b33
-  oomp_key_simple: isolator_tlp130
+  md5: 2411fd298e4ce830c4eceda5ffda91d1
+  md5_10: 2411fd298e
+  md5_5: 2411f
+  md5_6: 2411fd
+  oomp_key: oomp_tlp130
+  oomp_key_extra: oomp_symbol_tlp130
+  oomp_key_full: oomp_symbol_tlp130_2411fd
+  oomp_key_simple: tlp130
   owner_name: kicad
-  symbol_name: isolator_tlp130
+  symbol_name: tlp130
 oomp_key: oomp_kicad_isolator_tlp130
 oomp_key_simple: kicad_isolator_tlp130
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

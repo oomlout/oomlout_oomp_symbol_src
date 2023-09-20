@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_max9850xti/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_max9850xti/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_max9850xti/working
-name: amplifier_audio_max9850xti
+name: max9850xti
 oomp:
   library_name: amplifier_audio
-  md5: b176dd39da4faf1b24ccd1c96d7da594
-  md5_10: b176dd39da
-  md5_5: b176d
-  md5_6: b176dd
-  oomp_key: oomp_amplifier_audio_max9850xti
-  oomp_key_extra: oomp_symbol_amplifier_audio_max9850xti
-  oomp_key_full: oomp_symbol_amplifier_audio_max9850xti_b176dd
-  oomp_key_simple: amplifier_audio_max9850xti
+  md5: c13ec2b2181ea6c9990a11d49fea0352
+  md5_10: c13ec2b218
+  md5_5: c13ec
+  md5_6: c13ec2
+  oomp_key: oomp_max9850xti
+  oomp_key_extra: oomp_symbol_max9850xti
+  oomp_key_full: oomp_symbol_max9850xti_c13ec2
+  oomp_key_simple: max9850xti
   owner_name: kicad
-  symbol_name: amplifier_audio_max9850xti
+  symbol_name: max9850xti
 oomp_key: oomp_kicad_amplifier_audio_max9850xti
 oomp_key_simple: kicad_amplifier_audio_max9850xti
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

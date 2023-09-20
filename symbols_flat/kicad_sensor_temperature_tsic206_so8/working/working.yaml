@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_tsic206_so8/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_tsic206_so8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_tsic206_so8/working
-name: sensor_temperature_tsic206_so8
+name: tsic206_so8
 oomp:
   library_name: sensor_temperature
-  md5: 880f64e753ddcbf6e7b60a87dceac012
-  md5_10: 880f64e753
-  md5_5: 880f6
-  md5_6: 880f64
-  oomp_key: oomp_sensor_temperature_tsic206_so8
-  oomp_key_extra: oomp_symbol_sensor_temperature_tsic206_so8
-  oomp_key_full: oomp_symbol_sensor_temperature_tsic206_so8_880f64
-  oomp_key_simple: sensor_temperature_tsic206_so8
+  md5: e3107a434aad804a9652efe7fb551c63
+  md5_10: e3107a434a
+  md5_5: e3107
+  md5_6: e3107a
+  oomp_key: oomp_tsic206_so8
+  oomp_key_extra: oomp_symbol_tsic206_so8
+  oomp_key_full: oomp_symbol_tsic206_so8_e3107a
+  oomp_key_simple: tsic206_so8
   owner_name: kicad
-  symbol_name: sensor_temperature_tsic206_so8
+  symbol_name: tsic206_so8
 oomp_key: oomp_kicad_sensor_temperature_tsic206_so8
 oomp_key_simple: kicad_sensor_temperature_tsic206_so8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

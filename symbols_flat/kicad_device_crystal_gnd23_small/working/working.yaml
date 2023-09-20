@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_crystal_gnd23_small/working
   oomp_src_flat: symbols_flat/kicad_device_crystal_gnd23_small/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_crystal_gnd23_small/working
-name: device_crystal_gnd23_small
+name: crystal_gnd23_small
 oomp:
   library_name: device
-  md5: 2ef8c537842a8c38affcda15a9e53d1d
-  md5_10: 2ef8c53784
-  md5_5: 2ef8c
-  md5_6: 2ef8c5
-  oomp_key: oomp_device_crystal_gnd23_small
-  oomp_key_extra: oomp_symbol_device_crystal_gnd23_small
-  oomp_key_full: oomp_symbol_device_crystal_gnd23_small_2ef8c5
-  oomp_key_simple: device_crystal_gnd23_small
+  md5: 242958ba2fa26eb6aa6c4533c3101d5d
+  md5_10: 242958ba2f
+  md5_5: '24295'
+  md5_6: '242958'
+  oomp_key: oomp_crystal_gnd23_small
+  oomp_key_extra: oomp_symbol_crystal_gnd23_small
+  oomp_key_full: oomp_symbol_crystal_gnd23_small_242958
+  oomp_key_simple: crystal_gnd23_small
   owner_name: kicad
-  symbol_name: device_crystal_gnd23_small
+  symbol_name: crystal_gnd23_small
 oomp_key: oomp_kicad_device_crystal_gnd23_small
 oomp_key_simple: kicad_device_crystal_gnd23_small
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

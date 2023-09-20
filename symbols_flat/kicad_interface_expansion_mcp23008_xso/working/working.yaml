@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_mcp23008_xso/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_mcp23008_xso/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_mcp23008_xso/working
-name: interface_expansion_mcp23008_xso
+name: mcp23008_xso
 oomp:
   library_name: interface_expansion
-  md5: 0b2e17da8eb6ba6e0896eaa7932b1723
-  md5_10: 0b2e17da8e
-  md5_5: 0b2e1
-  md5_6: 0b2e17
-  oomp_key: oomp_interface_expansion_mcp23008_xso
-  oomp_key_extra: oomp_symbol_interface_expansion_mcp23008_xso
-  oomp_key_full: oomp_symbol_interface_expansion_mcp23008_xso_0b2e17
-  oomp_key_simple: interface_expansion_mcp23008_xso
+  md5: c86ce2c1e9bb1907e4b5918ede3bddf6
+  md5_10: c86ce2c1e9
+  md5_5: c86ce
+  md5_6: c86ce2
+  oomp_key: oomp_mcp23008_xso
+  oomp_key_extra: oomp_symbol_mcp23008_xso
+  oomp_key_full: oomp_symbol_mcp23008_xso_c86ce2
+  oomp_key_simple: mcp23008_xso
   owner_name: kicad
-  symbol_name: interface_expansion_mcp23008_xso
+  symbol_name: mcp23008_xso
 oomp_key: oomp_kicad_interface_expansion_mcp23008_xso
 oomp_key_simple: kicad_interface_expansion_mcp23008_xso
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

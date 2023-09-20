@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_tps22810drv/working
   oomp_src_flat: symbols_flat/kicad_power_management_tps22810drv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_tps22810drv/working
-name: power_management_tps22810drv
+name: tps22810drv
 oomp:
   library_name: power_management
-  md5: b06562e1fea6c6c817b49dc4d69fe2c7
-  md5_10: b06562e1fe
-  md5_5: b0656
-  md5_6: b06562
-  oomp_key: oomp_power_management_tps22810drv
-  oomp_key_extra: oomp_symbol_power_management_tps22810drv
-  oomp_key_full: oomp_symbol_power_management_tps22810drv_b06562
-  oomp_key_simple: power_management_tps22810drv
+  md5: d49defaa7e59e4c3d5d098e4919c0684
+  md5_10: d49defaa7e
+  md5_5: d49de
+  md5_6: d49def
+  oomp_key: oomp_tps22810drv
+  oomp_key_extra: oomp_symbol_tps22810drv
+  oomp_key_full: oomp_symbol_tps22810drv_d49def
+  oomp_key_simple: tps22810drv
   owner_name: kicad
-  symbol_name: power_management_tps22810drv
+  symbol_name: tps22810drv
 oomp_key: oomp_kicad_power_management_tps22810drv
 oomp_key_simple: kicad_power_management_tps22810drv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_mc1408_dip/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_mc1408_dip/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_mc1408_dip/working
-name: analog_dac_mc1408_dip
+name: mc1408_dip
 oomp:
   library_name: analog_dac
-  md5: 7d408a64d70d9779d1aec1252cce45cc
-  md5_10: 7d408a64d7
-  md5_5: 7d408
-  md5_6: 7d408a
-  oomp_key: oomp_analog_dac_mc1408_dip
-  oomp_key_extra: oomp_symbol_analog_dac_mc1408_dip
-  oomp_key_full: oomp_symbol_analog_dac_mc1408_dip_7d408a
-  oomp_key_simple: analog_dac_mc1408_dip
+  md5: 70d07083a2efbbe62c5263f2dd74658a
+  md5_10: 70d07083a2
+  md5_5: 70d07
+  md5_6: 70d070
+  oomp_key: oomp_mc1408_dip
+  oomp_key_extra: oomp_symbol_mc1408_dip
+  oomp_key_full: oomp_symbol_mc1408_dip_70d070
+  oomp_key_simple: mc1408_dip
   owner_name: kicad
-  symbol_name: analog_dac_mc1408_dip
+  symbol_name: mc1408_dip
 oomp_key: oomp_kicad_analog_dac_mc1408_dip
 oomp_key_simple: kicad_analog_dac_mc1408_dip
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

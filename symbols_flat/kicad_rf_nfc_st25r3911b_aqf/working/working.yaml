@@ -1,19 +1,19 @@
 id: kicad_rf_nfc_st25r3911b_aqf
 library: rf_nfc
 library_name: RF_NFC
-name: rf_nfc_st25r3911b_aqf
+name: st25r3911b_aqf
 oomp:
   library_name: rf_nfc
-  md5: 1a75b951212a09b99f16107cd907775d
-  md5_10: 1a75b95121
-  md5_5: 1a75b
-  md5_6: 1a75b9
-  oomp_key: oomp_rf_nfc_st25r3911b_aqf
-  oomp_key_extra: oomp_symbol_rf_nfc_st25r3911b_aqf
-  oomp_key_full: oomp_symbol_rf_nfc_st25r3911b_aqf_1a75b9
-  oomp_key_simple: rf_nfc_st25r3911b_aqf
+  md5: 7553742550fde65d571e98e8c607d10c
+  md5_10: '7553742550'
+  md5_5: '75537'
+  md5_6: '755374'
+  oomp_key: oomp_st25r3911b_aqf
+  oomp_key_extra: oomp_symbol_st25r3911b_aqf
+  oomp_key_full: oomp_symbol_st25r3911b_aqf_755374
+  oomp_key_simple: st25r3911b_aqf
   owner_name: kicad
-  symbol_name: rf_nfc_st25r3911b_aqf
+  symbol_name: st25r3911b_aqf
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

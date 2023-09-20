@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_mbr735/working
   oomp_src_flat: symbols_flat/kicad_diode_mbr735/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_mbr735/working
-name: diode_mbr735
+name: mbr735
 oomp:
   library_name: diode
-  md5: cb0d322f5260a2ed7992b222ebdda803
-  md5_10: cb0d322f52
-  md5_5: cb0d3
-  md5_6: cb0d32
-  oomp_key: oomp_diode_mbr735
-  oomp_key_extra: oomp_symbol_diode_mbr735
-  oomp_key_full: oomp_symbol_diode_mbr735_cb0d32
-  oomp_key_simple: diode_mbr735
+  md5: 7e9de15198e31acc480ea35118ce3baa
+  md5_10: 7e9de15198
+  md5_5: 7e9de
+  md5_6: 7e9de1
+  oomp_key: oomp_mbr735
+  oomp_key_extra: oomp_symbol_mbr735
+  oomp_key_full: oomp_symbol_mbr735_7e9de1
+  oomp_key_simple: mbr735
   owner_name: kicad
-  symbol_name: diode_mbr735
+  symbol_name: mbr735
 oomp_key: oomp_kicad_diode_mbr735
 oomp_key_simple: kicad_diode_mbr735
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

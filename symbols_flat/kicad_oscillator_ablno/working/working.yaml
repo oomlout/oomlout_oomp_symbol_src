@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_ablno/working
   oomp_src_flat: symbols_flat/kicad_oscillator_ablno/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_ablno/working
-name: oscillator_ablno
+name: ablno
 oomp:
   library_name: oscillator
-  md5: a9e28c8670ae021586762815e8777357
-  md5_10: a9e28c8670
-  md5_5: a9e28
-  md5_6: a9e28c
-  oomp_key: oomp_oscillator_ablno
-  oomp_key_extra: oomp_symbol_oscillator_ablno
-  oomp_key_full: oomp_symbol_oscillator_ablno_a9e28c
-  oomp_key_simple: oscillator_ablno
+  md5: 27fe3e2be29238e62a514638a5689dfc
+  md5_10: 27fe3e2be2
+  md5_5: 27fe3
+  md5_6: 27fe3e
+  oomp_key: oomp_ablno
+  oomp_key_extra: oomp_symbol_ablno
+  oomp_key_full: oomp_symbol_ablno_27fe3e
+  oomp_key_simple: ablno
   owner_name: kicad
-  symbol_name: oscillator_ablno
+  symbol_name: ablno
 oomp_key: oomp_kicad_oscillator_ablno
 oomp_key_simple: kicad_oscillator_ablno
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

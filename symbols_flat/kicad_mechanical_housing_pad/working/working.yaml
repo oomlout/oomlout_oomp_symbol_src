@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mechanical_housing_pad/working
   oomp_src_flat: symbols_flat/kicad_mechanical_housing_pad/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mechanical_housing_pad/working
-name: mechanical_housing_pad
+name: housing_pad
 oomp:
   library_name: mechanical
-  md5: 860c51a61b578627bb773755fe0448b8
-  md5_10: 860c51a61b
-  md5_5: 860c5
-  md5_6: 860c51
-  oomp_key: oomp_mechanical_housing_pad
-  oomp_key_extra: oomp_symbol_mechanical_housing_pad
-  oomp_key_full: oomp_symbol_mechanical_housing_pad_860c51
-  oomp_key_simple: mechanical_housing_pad
+  md5: 5588f8bb627ef46a053f2e22d28281ed
+  md5_10: 5588f8bb62
+  md5_5: 5588f
+  md5_6: 5588f8
+  oomp_key: oomp_housing_pad
+  oomp_key_extra: oomp_symbol_housing_pad
+  oomp_key_full: oomp_symbol_housing_pad_5588f8
+  oomp_key_simple: housing_pad
   owner_name: kicad
-  symbol_name: mechanical_housing_pad
+  symbol_name: housing_pad
 oomp_key: oomp_kicad_mechanical_housing_pad
 oomp_key_simple: kicad_mechanical_housing_pad
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

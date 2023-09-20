@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_adn4651/working
   oomp_src_flat: symbols_flat/kicad_isolator_adn4651/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_adn4651/working
-name: isolator_adn4651
+name: adn4651
 oomp:
   library_name: isolator
-  md5: e122e2235d6ae1d9d8fb3f84768f1332
-  md5_10: e122e2235d
-  md5_5: e122e
-  md5_6: e122e2
-  oomp_key: oomp_isolator_adn4651
-  oomp_key_extra: oomp_symbol_isolator_adn4651
-  oomp_key_full: oomp_symbol_isolator_adn4651_e122e2
-  oomp_key_simple: isolator_adn4651
+  md5: 5c3e04b2e477a5e10c9ca5251085b3f9
+  md5_10: 5c3e04b2e4
+  md5_5: 5c3e0
+  md5_6: 5c3e04
+  oomp_key: oomp_adn4651
+  oomp_key_extra: oomp_symbol_adn4651
+  oomp_key_full: oomp_symbol_adn4651_5c3e04
+  oomp_key_simple: adn4651
   owner_name: kicad
-  symbol_name: isolator_adn4651
+  symbol_name: adn4651
 oomp_key: oomp_kicad_isolator_adn4651
 oomp_key_simple: kicad_isolator_adn4651
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

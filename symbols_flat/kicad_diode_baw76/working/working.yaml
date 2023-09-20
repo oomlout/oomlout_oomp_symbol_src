@@ -1,19 +1,19 @@
 id: kicad_diode_baw76
 library: diode
 library_name: Diode
-name: diode_baw76
+name: baw76
 oomp:
   library_name: diode
-  md5: a280538ecf540afc8803b2deb421d099
-  md5_10: a280538ecf
-  md5_5: a2805
-  md5_6: a28053
-  oomp_key: oomp_diode_baw76
-  oomp_key_extra: oomp_symbol_diode_baw76
-  oomp_key_full: oomp_symbol_diode_baw76_a28053
-  oomp_key_simple: diode_baw76
+  md5: 04ca588829bcb9d8f13fe7e81fb4ced2
+  md5_10: 04ca588829
+  md5_5: 04ca5
+  md5_6: 04ca58
+  oomp_key: oomp_baw76
+  oomp_key_extra: oomp_symbol_baw76
+  oomp_key_full: oomp_symbol_baw76_04ca58
+  oomp_key_simple: baw76
   owner_name: kicad
-  symbol_name: diode_baw76
+  symbol_name: baw76
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

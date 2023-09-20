@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_ad7224kp/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_ad7224kp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_ad7224kp/working
-name: analog_dac_ad7224kp
+name: ad7224kp
 oomp:
   library_name: analog_dac
-  md5: 53968b5c80dcd5de546b1416098e4c56
-  md5_10: 53968b5c80
-  md5_5: '53968'
-  md5_6: 53968b
-  oomp_key: oomp_analog_dac_ad7224kp
-  oomp_key_extra: oomp_symbol_analog_dac_ad7224kp
-  oomp_key_full: oomp_symbol_analog_dac_ad7224kp_53968b
-  oomp_key_simple: analog_dac_ad7224kp
+  md5: 0ffe59d217803f4dd74f79503862f893
+  md5_10: 0ffe59d217
+  md5_5: 0ffe5
+  md5_6: 0ffe59
+  oomp_key: oomp_ad7224kp
+  oomp_key_extra: oomp_symbol_ad7224kp
+  oomp_key_full: oomp_symbol_ad7224kp_0ffe59
+  oomp_key_simple: ad7224kp
   owner_name: kicad
-  symbol_name: analog_dac_ad7224kp
+  symbol_name: ad7224kp
 oomp_key: oomp_kicad_analog_dac_ad7224kp
 oomp_key_simple: kicad_analog_dac_ad7224kp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

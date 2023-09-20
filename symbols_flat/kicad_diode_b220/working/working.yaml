@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_b220/working
   oomp_src_flat: symbols_flat/kicad_diode_b220/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_b220/working
-name: diode_b220
+name: b220
 oomp:
   library_name: diode
-  md5: 5e4f260db1fb9601ec6727f344a4f312
-  md5_10: 5e4f260db1
-  md5_5: 5e4f2
-  md5_6: 5e4f26
-  oomp_key: oomp_diode_b220
-  oomp_key_extra: oomp_symbol_diode_b220
-  oomp_key_full: oomp_symbol_diode_b220_5e4f26
-  oomp_key_simple: diode_b220
+  md5: ec0b0810ad9a3214687e028009854225
+  md5_10: ec0b0810ad
+  md5_5: ec0b0
+  md5_6: ec0b08
+  oomp_key: oomp_b220
+  oomp_key_extra: oomp_symbol_b220
+  oomp_key_full: oomp_symbol_b220_ec0b08
+  oomp_key_simple: b220
   owner_name: kicad
-  symbol_name: diode_b220
+  symbol_name: b220
 oomp_key: oomp_kicad_diode_b220
 oomp_key_simple: kicad_diode_b220
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

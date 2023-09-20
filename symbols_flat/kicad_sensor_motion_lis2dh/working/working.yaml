@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_lis2dh/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_lis2dh/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_lis2dh/working
-name: sensor_motion_lis2dh
+name: lis2dh
 oomp:
   library_name: sensor_motion
-  md5: 04aecff9714674b620f77bc094dd4615
-  md5_10: 04aecff971
-  md5_5: 04aec
-  md5_6: 04aecf
-  oomp_key: oomp_sensor_motion_lis2dh
-  oomp_key_extra: oomp_symbol_sensor_motion_lis2dh
-  oomp_key_full: oomp_symbol_sensor_motion_lis2dh_04aecf
-  oomp_key_simple: sensor_motion_lis2dh
+  md5: c42dd0e9bbe14bda38cdc314e8014469
+  md5_10: c42dd0e9bb
+  md5_5: c42dd
+  md5_6: c42dd0
+  oomp_key: oomp_lis2dh
+  oomp_key_extra: oomp_symbol_lis2dh
+  oomp_key_full: oomp_symbol_lis2dh_c42dd0
+  oomp_key_simple: lis2dh
   owner_name: kicad
-  symbol_name: sensor_motion_lis2dh
+  symbol_name: lis2dh
 oomp_key: oomp_kicad_sensor_motion_lis2dh
 oomp_key_simple: kicad_sensor_motion_lis2dh
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

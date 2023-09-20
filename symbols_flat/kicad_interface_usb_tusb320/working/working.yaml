@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_tusb320/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_tusb320/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_tusb320/working
-name: interface_usb_tusb320
+name: tusb320
 oomp:
   library_name: interface_usb
-  md5: c126d5d3ee54e6b041229fbb3b8e6465
-  md5_10: c126d5d3ee
-  md5_5: c126d
-  md5_6: c126d5
-  oomp_key: oomp_interface_usb_tusb320
-  oomp_key_extra: oomp_symbol_interface_usb_tusb320
-  oomp_key_full: oomp_symbol_interface_usb_tusb320_c126d5
-  oomp_key_simple: interface_usb_tusb320
+  md5: e3a20062a564e3d9ae762884a11788d8
+  md5_10: e3a20062a5
+  md5_5: e3a20
+  md5_6: e3a200
+  oomp_key: oomp_tusb320
+  oomp_key_extra: oomp_symbol_tusb320
+  oomp_key_full: oomp_symbol_tusb320_e3a200
+  oomp_key_simple: tusb320
   owner_name: kicad
-  symbol_name: interface_usb_tusb320
+  symbol_name: tusb320
 oomp_key: oomp_kicad_interface_usb_tusb320
 oomp_key_simple: kicad_interface_usb_tusb320
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

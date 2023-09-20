@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_raspberry_pi/working
   oomp_src_flat: symbols_flat/kicad_connector_raspberry_pi/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_raspberry_pi/working
-name: connector_raspberry_pi
+name: raspberry_pi
 oomp:
   library_name: connector
-  md5: c78bc3095b7df8b38b6bc3835dd399a7
-  md5_10: c78bc3095b
-  md5_5: c78bc
-  md5_6: c78bc3
-  oomp_key: oomp_connector_raspberry_pi
-  oomp_key_extra: oomp_symbol_connector_raspberry_pi
-  oomp_key_full: oomp_symbol_connector_raspberry_pi_c78bc3
-  oomp_key_simple: connector_raspberry_pi
+  md5: 2b99a2bbb63cf6ec44e1b88b635a1016
+  md5_10: 2b99a2bbb6
+  md5_5: 2b99a
+  md5_6: 2b99a2
+  oomp_key: oomp_raspberry_pi
+  oomp_key_extra: oomp_symbol_raspberry_pi
+  oomp_key_full: oomp_symbol_raspberry_pi_2b99a2
+  oomp_key_simple: raspberry_pi
   owner_name: kicad
-  symbol_name: connector_raspberry_pi
+  symbol_name: raspberry_pi
 oomp_key: oomp_kicad_connector_raspberry_pi
 oomp_key_simple: kicad_connector_raspberry_pi
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

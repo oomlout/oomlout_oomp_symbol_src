@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_zener_dual_commoncathode_aak/working
   oomp_src_flat: symbols_flat/kicad_device_d_zener_dual_commoncathode_aak/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_zener_dual_commoncathode_aak/working
-name: device_d_zener_dual_commoncathode_aak
+name: d_zener_dual_commoncathode_aak
 oomp:
   library_name: device
-  md5: fe80e70fb7ff9125579af63e21ce2551
-  md5_10: fe80e70fb7
-  md5_5: fe80e
-  md5_6: fe80e7
-  oomp_key: oomp_device_d_zener_dual_commoncathode_aak
-  oomp_key_extra: oomp_symbol_device_d_zener_dual_commoncathode_aak
-  oomp_key_full: oomp_symbol_device_d_zener_dual_commoncathode_aak_fe80e7
-  oomp_key_simple: device_d_zener_dual_commoncathode_aak
+  md5: 75cf399a4dd4c86ec004aa29da3cc27e
+  md5_10: 75cf399a4d
+  md5_5: 75cf3
+  md5_6: 75cf39
+  oomp_key: oomp_d_zener_dual_commoncathode_aak
+  oomp_key_extra: oomp_symbol_d_zener_dual_commoncathode_aak
+  oomp_key_full: oomp_symbol_d_zener_dual_commoncathode_aak_75cf39
+  oomp_key_simple: d_zener_dual_commoncathode_aak
   owner_name: kicad
-  symbol_name: device_d_zener_dual_commoncathode_aak
+  symbol_name: d_zener_dual_commoncathode_aak
 oomp_key: oomp_kicad_device_d_zener_dual_commoncathode_aak
 oomp_key_simple: kicad_device_d_zener_dual_commoncathode_aak
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

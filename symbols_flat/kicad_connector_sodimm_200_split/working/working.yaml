@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_sodimm_200_split/working
   oomp_src_flat: symbols_flat/kicad_connector_sodimm_200_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_sodimm_200_split/working
-name: connector_sodimm_200_split
+name: sodimm_200_split
 oomp:
   library_name: connector
-  md5: 030dc249d37d29d00c794a5bfc10e67c
-  md5_10: 030dc249d3
-  md5_5: 030dc
-  md5_6: 030dc2
-  oomp_key: oomp_connector_sodimm_200_split
-  oomp_key_extra: oomp_symbol_connector_sodimm_200_split
-  oomp_key_full: oomp_symbol_connector_sodimm_200_split_030dc2
-  oomp_key_simple: connector_sodimm_200_split
+  md5: 4850b5ae8753a1fe3f740e604b121bbb
+  md5_10: 4850b5ae87
+  md5_5: 4850b
+  md5_6: 4850b5
+  oomp_key: oomp_sodimm_200_split
+  oomp_key_extra: oomp_symbol_sodimm_200_split
+  oomp_key_full: oomp_symbol_sodimm_200_split_4850b5
+  oomp_key_simple: sodimm_200_split
   owner_name: kicad
-  symbol_name: connector_sodimm_200_split
+  symbol_name: sodimm_200_split
 oomp_key: oomp_kicad_connector_sodimm_200_split
 oomp_key_simple: kicad_connector_sodimm_200_split
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

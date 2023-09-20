@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_dual_series_cak_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_dual_series_cak_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_dual_series_cak_split/working
-name: device_d_schottky_dual_series_cak_split
+name: d_schottky_dual_series_cak_split
 oomp:
   library_name: device
-  md5: dfa8763427b3af676096f47bc12137ba
-  md5_10: dfa8763427
-  md5_5: dfa87
-  md5_6: dfa876
-  oomp_key: oomp_device_d_schottky_dual_series_cak_split
-  oomp_key_extra: oomp_symbol_device_d_schottky_dual_series_cak_split
-  oomp_key_full: oomp_symbol_device_d_schottky_dual_series_cak_split_dfa876
-  oomp_key_simple: device_d_schottky_dual_series_cak_split
+  md5: f6a7508adc78a2266bd6351820616fc9
+  md5_10: f6a7508adc
+  md5_5: f6a75
+  md5_6: f6a750
+  oomp_key: oomp_d_schottky_dual_series_cak_split
+  oomp_key_extra: oomp_symbol_d_schottky_dual_series_cak_split
+  oomp_key_full: oomp_symbol_d_schottky_dual_series_cak_split_f6a750
+  oomp_key_simple: d_schottky_dual_series_cak_split
   owner_name: kicad
-  symbol_name: device_d_schottky_dual_series_cak_split
+  symbol_name: d_schottky_dual_series_cak_split
 oomp_key: oomp_kicad_device_d_schottky_dual_series_cak_split
 oomp_key_simple: kicad_device_d_schottky_dual_series_cak_split
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

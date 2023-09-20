@@ -1,19 +1,19 @@
 id: kicad_interface_uart_adm3488exr
 library: interface_uart
 library_name: Interface_UART
-name: interface_uart_adm3488exr
+name: adm3488exr
 oomp:
   library_name: interface_uart
-  md5: fc415ca78264e9a89c02967e3d21c10d
-  md5_10: fc415ca782
-  md5_5: fc415
-  md5_6: fc415c
-  oomp_key: oomp_interface_uart_adm3488exr
-  oomp_key_extra: oomp_symbol_interface_uart_adm3488exr
-  oomp_key_full: oomp_symbol_interface_uart_adm3488exr_fc415c
-  oomp_key_simple: interface_uart_adm3488exr
+  md5: 5316b1322d27853009e42db9c01e9d01
+  md5_10: 5316b1322d
+  md5_5: 5316b
+  md5_6: 5316b1
+  oomp_key: oomp_adm3488exr
+  oomp_key_extra: oomp_symbol_adm3488exr
+  oomp_key_full: oomp_symbol_adm3488exr_5316b1
+  oomp_key_simple: adm3488exr
   owner_name: kicad
-  symbol_name: interface_uart_adm3488exr
+  symbol_name: adm3488exr
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

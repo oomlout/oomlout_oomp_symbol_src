@@ -1,19 +1,19 @@
 id: kicad_interface_mc68a40
 library: interface
 library_name: Interface
-name: interface_mc68a40
+name: mc68a40
 oomp:
   library_name: interface
-  md5: 8dc01c0ead14ac6038ed2b855e5d9148
-  md5_10: 8dc01c0ead
-  md5_5: 8dc01
-  md5_6: 8dc01c
-  oomp_key: oomp_interface_mc68a40
-  oomp_key_extra: oomp_symbol_interface_mc68a40
-  oomp_key_full: oomp_symbol_interface_mc68a40_8dc01c
-  oomp_key_simple: interface_mc68a40
+  md5: 916c03f0e255132ede9976bf98cf3dc3
+  md5_10: 916c03f0e2
+  md5_5: 916c0
+  md5_6: 916c03
+  oomp_key: oomp_mc68a40
+  oomp_key_extra: oomp_symbol_mc68a40
+  oomp_key_full: oomp_symbol_mc68a40_916c03
+  oomp_key_simple: mc68a40
   owner_name: kicad
-  symbol_name: interface_mc68a40
+  symbol_name: mc68a40
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_bus_pci_32bit_5v/working
   oomp_src_flat: symbols_flat/kicad_connector_bus_pci_32bit_5v/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_bus_pci_32bit_5v/working
-name: connector_bus_pci_32bit_5v
+name: bus_pci_32bit_5v
 oomp:
   library_name: connector
-  md5: 76435be86d769e44aee055349646918a
-  md5_10: 76435be86d
-  md5_5: '76435'
-  md5_6: 76435b
-  oomp_key: oomp_connector_bus_pci_32bit_5v
-  oomp_key_extra: oomp_symbol_connector_bus_pci_32bit_5v
-  oomp_key_full: oomp_symbol_connector_bus_pci_32bit_5v_76435b
-  oomp_key_simple: connector_bus_pci_32bit_5v
+  md5: 5d12c06f7cf9fcbb0dc338d167688473
+  md5_10: 5d12c06f7c
+  md5_5: 5d12c
+  md5_6: 5d12c0
+  oomp_key: oomp_bus_pci_32bit_5v
+  oomp_key_extra: oomp_symbol_bus_pci_32bit_5v
+  oomp_key_full: oomp_symbol_bus_pci_32bit_5v_5d12c0
+  oomp_key_simple: bus_pci_32bit_5v
   owner_name: kicad
-  symbol_name: connector_bus_pci_32bit_5v
+  symbol_name: bus_pci_32bit_5v
 oomp_key: oomp_kicad_connector_bus_pci_32bit_5v
 oomp_key_simple: kicad_connector_bus_pci_32bit_5v
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

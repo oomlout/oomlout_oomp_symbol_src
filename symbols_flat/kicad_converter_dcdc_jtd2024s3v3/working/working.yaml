@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_jtd2024s3v3/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_jtd2024s3v3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_jtd2024s3v3/working
-name: converter_dcdc_jtd2024s3v3
+name: jtd2024s3v3
 oomp:
   library_name: converter_dcdc
-  md5: 503ab7bc6b563bf667c345776ae31582
-  md5_10: 503ab7bc6b
-  md5_5: 503ab
-  md5_6: 503ab7
-  oomp_key: oomp_converter_dcdc_jtd2024s3v3
-  oomp_key_extra: oomp_symbol_converter_dcdc_jtd2024s3v3
-  oomp_key_full: oomp_symbol_converter_dcdc_jtd2024s3v3_503ab7
-  oomp_key_simple: converter_dcdc_jtd2024s3v3
+  md5: 2f9aa14f4714c58e8e8660d5455aef64
+  md5_10: 2f9aa14f47
+  md5_5: 2f9aa
+  md5_6: 2f9aa1
+  oomp_key: oomp_jtd2024s3v3
+  oomp_key_extra: oomp_symbol_jtd2024s3v3
+  oomp_key_full: oomp_symbol_jtd2024s3v3_2f9aa1
+  oomp_key_simple: jtd2024s3v3
   owner_name: kicad
-  symbol_name: converter_dcdc_jtd2024s3v3
+  symbol_name: jtd2024s3v3
 oomp_key: oomp_kicad_converter_dcdc_jtd2024s3v3
 oomp_key_simple: kicad_converter_dcdc_jtd2024s3v3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_628128_tsop32/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_628128_tsop32/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_628128_tsop32/working
-name: memory_ram_628128_tsop32
+name: 628128_tsop32
 oomp:
   library_name: memory_ram
-  md5: 57162c0f31708e6399d1404b7e2f2671
-  md5_10: 57162c0f31
-  md5_5: '57162'
-  md5_6: 57162c
-  oomp_key: oomp_memory_ram_628128_tsop32
-  oomp_key_extra: oomp_symbol_memory_ram_628128_tsop32
-  oomp_key_full: oomp_symbol_memory_ram_628128_tsop32_57162c
-  oomp_key_simple: memory_ram_628128_tsop32
+  md5: 08ccdc4bc22019cddb4860b7c3b80bff
+  md5_10: 08ccdc4bc2
+  md5_5: 08ccd
+  md5_6: 08ccdc
+  oomp_key: oomp_628128_tsop32
+  oomp_key_extra: oomp_symbol_628128_tsop32
+  oomp_key_full: oomp_symbol_628128_tsop32_08ccdc
+  oomp_key_simple: 628128_tsop32
   owner_name: kicad
-  symbol_name: memory_ram_628128_tsop32
+  symbol_name: 628128_tsop32
 oomp_key: oomp_kicad_memory_ram_628128_tsop32
 oomp_key_simple: kicad_memory_ram_628128_tsop32
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

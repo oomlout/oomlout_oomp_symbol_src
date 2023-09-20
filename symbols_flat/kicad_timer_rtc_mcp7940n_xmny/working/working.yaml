@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_rtc_mcp7940n_xmny/working
   oomp_src_flat: symbols_flat/kicad_timer_rtc_mcp7940n_xmny/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_rtc_mcp7940n_xmny/working
-name: timer_rtc_mcp7940n_xmny
+name: mcp7940n_xmny
 oomp:
   library_name: timer_rtc
-  md5: c83907669e1a092a945ce010e8e29117
-  md5_10: c83907669e
-  md5_5: c8390
-  md5_6: c83907
-  oomp_key: oomp_timer_rtc_mcp7940n_xmny
-  oomp_key_extra: oomp_symbol_timer_rtc_mcp7940n_xmny
-  oomp_key_full: oomp_symbol_timer_rtc_mcp7940n_xmny_c83907
-  oomp_key_simple: timer_rtc_mcp7940n_xmny
+  md5: c4f7f31b0840579b6710a1acdbb82732
+  md5_10: c4f7f31b08
+  md5_5: c4f7f
+  md5_6: c4f7f3
+  oomp_key: oomp_mcp7940n_xmny
+  oomp_key_extra: oomp_symbol_mcp7940n_xmny
+  oomp_key_full: oomp_symbol_mcp7940n_xmny_c4f7f3
+  oomp_key_simple: mcp7940n_xmny
   owner_name: kicad
-  symbol_name: timer_rtc_mcp7940n_xmny
+  symbol_name: mcp7940n_xmny
 oomp_key: oomp_kicad_timer_rtc_mcp7940n_xmny
 oomp_key_simple: kicad_timer_rtc_mcp7940n_xmny
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_jumper_2_open/working
   oomp_src_flat: symbols_flat/kicad_jumper_2_open/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_jumper_2_open/working
-name: jumper_jumper_2_open
+name: 2_open
 oomp:
   library_name: jumper
-  md5: e6ebb47251024cf42ca08d68bdd6dea6
-  md5_10: e6ebb47251
-  md5_5: e6ebb
-  md5_6: e6ebb4
-  oomp_key: oomp_jumper_jumper_2_open
-  oomp_key_extra: oomp_symbol_jumper_jumper_2_open
-  oomp_key_full: oomp_symbol_jumper_jumper_2_open_e6ebb4
-  oomp_key_simple: jumper_jumper_2_open
+  md5: 90bd07bf741d660014d343283f1e78d2
+  md5_10: 90bd07bf74
+  md5_5: 90bd0
+  md5_6: 90bd07
+  oomp_key: oomp_2_open
+  oomp_key_extra: oomp_symbol_2_open
+  oomp_key_full: oomp_symbol_2_open_90bd07
+  oomp_key_simple: 2_open
   owner_name: kicad
-  symbol_name: jumper_jumper_2_open
+  symbol_name: 2_open
 oomp_key: oomp_kicad_jumper_2_open
 oomp_key_simple: kicad_jumper_2_open
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

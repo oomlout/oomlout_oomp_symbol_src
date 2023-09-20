@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpu_cdp1802ace/working
   oomp_src_flat: symbols_flat/kicad_cpu_cdp1802ace/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpu_cdp1802ace/working
-name: cpu_cdp1802ace
+name: cdp1802ace
 oomp:
   library_name: cpu
-  md5: c81bef446b4bc2dad821737836e313cd
-  md5_10: c81bef446b
-  md5_5: c81be
-  md5_6: c81bef
-  oomp_key: oomp_cpu_cdp1802ace
-  oomp_key_extra: oomp_symbol_cpu_cdp1802ace
-  oomp_key_full: oomp_symbol_cpu_cdp1802ace_c81bef
-  oomp_key_simple: cpu_cdp1802ace
+  md5: d6a2b67a9104c626a08d4d692adbc41f
+  md5_10: d6a2b67a91
+  md5_5: d6a2b
+  md5_6: d6a2b6
+  oomp_key: oomp_cdp1802ace
+  oomp_key_extra: oomp_symbol_cdp1802ace
+  oomp_key_full: oomp_symbol_cdp1802ace_d6a2b6
+  oomp_key_simple: cdp1802ace
   owner_name: kicad
-  symbol_name: cpu_cdp1802ace
+  symbol_name: cdp1802ace
 oomp_key: oomp_kicad_cpu_cdp1802ace
 oomp_key_simple: kicad_cpu_cdp1802ace
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_lm4752ts/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_lm4752ts/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_lm4752ts/working
-name: amplifier_audio_lm4752ts
+name: lm4752ts
 oomp:
   library_name: amplifier_audio
-  md5: 47ddbe21598fbaa8d610555c9e0a440b
-  md5_10: 47ddbe2159
-  md5_5: 47ddb
-  md5_6: 47ddbe
-  oomp_key: oomp_amplifier_audio_lm4752ts
-  oomp_key_extra: oomp_symbol_amplifier_audio_lm4752ts
-  oomp_key_full: oomp_symbol_amplifier_audio_lm4752ts_47ddbe
-  oomp_key_simple: amplifier_audio_lm4752ts
+  md5: 04713b937b11ce2ea32499a0b23c84d7
+  md5_10: 04713b937b
+  md5_5: '04713'
+  md5_6: 04713b
+  oomp_key: oomp_lm4752ts
+  oomp_key_extra: oomp_symbol_lm4752ts
+  oomp_key_full: oomp_symbol_lm4752ts_04713b
+  oomp_key_simple: lm4752ts
   owner_name: kicad
-  symbol_name: amplifier_audio_lm4752ts
+  symbol_name: lm4752ts
 oomp_key: oomp_kicad_amplifier_audio_lm4752ts
 oomp_key_simple: kicad_amplifier_audio_lm4752ts
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

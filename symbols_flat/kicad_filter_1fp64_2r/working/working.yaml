@@ -1,19 +1,19 @@
 id: kicad_filter_1fp64_2r
 library: filter
 library_name: Filter
-name: filter_1fp64_2r
+name: 1fp64_2r
 oomp:
   library_name: filter
-  md5: ee8b9cc0b53aafd096f8db33066f05cf
-  md5_10: ee8b9cc0b5
-  md5_5: ee8b9
-  md5_6: ee8b9c
-  oomp_key: oomp_filter_1fp64_2r
-  oomp_key_extra: oomp_symbol_filter_1fp64_2r
-  oomp_key_full: oomp_symbol_filter_1fp64_2r_ee8b9c
-  oomp_key_simple: filter_1fp64_2r
+  md5: b6620810383571094f9349742eaf5178
+  md5_10: b662081038
+  md5_5: b6620
+  md5_6: b66208
+  oomp_key: oomp_1fp64_2r
+  oomp_key_extra: oomp_symbol_1fp64_2r
+  oomp_key_full: oomp_symbol_1fp64_2r_b66208
+  oomp_key_simple: 1fp64_2r
   owner_name: kicad
-  symbol_name: filter_1fp64_2r
+  symbol_name: 1fp64_2r
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

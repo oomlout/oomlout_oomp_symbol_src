@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_viper25ln/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_viper25ln/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_viper25ln/working
-name: regulator_switching_viper25ln
+name: viper25ln
 oomp:
   library_name: regulator_switching
-  md5: 66e5b4c4fec58f89a5ec9fe95e063094
-  md5_10: 66e5b4c4fe
-  md5_5: 66e5b
-  md5_6: 66e5b4
-  oomp_key: oomp_regulator_switching_viper25ln
-  oomp_key_extra: oomp_symbol_regulator_switching_viper25ln
-  oomp_key_full: oomp_symbol_regulator_switching_viper25ln_66e5b4
-  oomp_key_simple: regulator_switching_viper25ln
+  md5: b37125af1d6df0f8f161c76159d3e535
+  md5_10: b37125af1d
+  md5_5: b3712
+  md5_6: b37125
+  oomp_key: oomp_viper25ln
+  oomp_key_extra: oomp_symbol_viper25ln
+  oomp_key_full: oomp_symbol_viper25ln_b37125
+  oomp_key_simple: viper25ln
   owner_name: kicad
-  symbol_name: regulator_switching_viper25ln
+  symbol_name: viper25ln
 oomp_key: oomp_kicad_regulator_switching_viper25ln
 oomp_key_simple: kicad_regulator_switching_viper25ln
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

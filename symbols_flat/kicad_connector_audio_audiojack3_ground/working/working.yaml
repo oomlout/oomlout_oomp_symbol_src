@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_audiojack3_ground/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_audiojack3_ground/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_audiojack3_ground/working
-name: connector_audio_audiojack3_ground
+name: audiojack3_ground
 oomp:
   library_name: connector_audio
-  md5: 1c2712592064b5f63da1f49abca7af8f
-  md5_10: 1c27125920
-  md5_5: 1c271
-  md5_6: 1c2712
-  oomp_key: oomp_connector_audio_audiojack3_ground
-  oomp_key_extra: oomp_symbol_connector_audio_audiojack3_ground
-  oomp_key_full: oomp_symbol_connector_audio_audiojack3_ground_1c2712
-  oomp_key_simple: connector_audio_audiojack3_ground
+  md5: 7073f60388d16487a318080c0e6a3635
+  md5_10: 7073f60388
+  md5_5: 7073f
+  md5_6: 7073f6
+  oomp_key: oomp_audiojack3_ground
+  oomp_key_extra: oomp_symbol_audiojack3_ground
+  oomp_key_full: oomp_symbol_audiojack3_ground_7073f6
+  oomp_key_simple: audiojack3_ground
   owner_name: kicad
-  symbol_name: connector_audio_audiojack3_ground
+  symbol_name: audiojack3_ground
 oomp_key: oomp_kicad_connector_audio_audiojack3_ground
 oomp_key_simple: kicad_connector_audio_audiojack3_ground
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

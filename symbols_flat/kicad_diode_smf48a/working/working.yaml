@@ -1,19 +1,19 @@
 id: kicad_diode_smf48a
 library: diode
 library_name: Diode
-name: diode_smf48a
+name: smf48a
 oomp:
   library_name: diode
-  md5: 48754aab3edfd9060cabce677914180a
-  md5_10: 48754aab3e
-  md5_5: '48754'
-  md5_6: 48754a
-  oomp_key: oomp_diode_smf48a
-  oomp_key_extra: oomp_symbol_diode_smf48a
-  oomp_key_full: oomp_symbol_diode_smf48a_48754a
-  oomp_key_simple: diode_smf48a
+  md5: bd30baf764a0ac89f88ef59dc5587302
+  md5_10: bd30baf764
+  md5_5: bd30b
+  md5_6: bd30ba
+  oomp_key: oomp_smf48a
+  oomp_key_extra: oomp_symbol_smf48a
+  oomp_key_full: oomp_symbol_smf48a_bd30ba
+  oomp_key_simple: smf48a
   owner_name: kicad
-  symbol_name: diode_smf48a
+  symbol_name: smf48a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

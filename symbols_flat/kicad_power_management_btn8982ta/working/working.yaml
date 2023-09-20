@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_btn8982ta/working
   oomp_src_flat: symbols_flat/kicad_power_management_btn8982ta/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_btn8982ta/working
-name: power_management_btn8982ta
+name: btn8982ta
 oomp:
   library_name: power_management
-  md5: 22f3e237a4fac3bb16b0673b21d5955d
-  md5_10: 22f3e237a4
-  md5_5: 22f3e
-  md5_6: 22f3e2
-  oomp_key: oomp_power_management_btn8982ta
-  oomp_key_extra: oomp_symbol_power_management_btn8982ta
-  oomp_key_full: oomp_symbol_power_management_btn8982ta_22f3e2
-  oomp_key_simple: power_management_btn8982ta
+  md5: 2d883aab95400f15775845df5d17e78a
+  md5_10: 2d883aab95
+  md5_5: 2d883
+  md5_6: 2d883a
+  oomp_key: oomp_btn8982ta
+  oomp_key_extra: oomp_symbol_btn8982ta
+  oomp_key_full: oomp_symbol_btn8982ta_2d883a
+  oomp_key_simple: btn8982ta
   owner_name: kicad
-  symbol_name: power_management_btn8982ta
+  symbol_name: btn8982ta
 oomp_key: oomp_kicad_power_management_btn8982ta
 oomp_key_simple: kicad_power_management_btn8982ta
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

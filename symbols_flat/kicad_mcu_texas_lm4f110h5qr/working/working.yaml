@@ -1,19 +1,19 @@
 id: kicad_mcu_texas_lm4f110h5qr
 library: mcu_texas
 library_name: MCU_Texas
-name: mcu_texas_lm4f110h5qr
+name: lm4f110h5qr
 oomp:
   library_name: mcu_texas
-  md5: 1a7b550f698cd1294a55e6b2bc260f45
-  md5_10: 1a7b550f69
-  md5_5: 1a7b5
-  md5_6: 1a7b55
-  oomp_key: oomp_mcu_texas_lm4f110h5qr
-  oomp_key_extra: oomp_symbol_mcu_texas_lm4f110h5qr
-  oomp_key_full: oomp_symbol_mcu_texas_lm4f110h5qr_1a7b55
-  oomp_key_simple: mcu_texas_lm4f110h5qr
+  md5: 1c0b071283229935b3c994bfdc11309c
+  md5_10: 1c0b071283
+  md5_5: 1c0b0
+  md5_6: 1c0b07
+  oomp_key: oomp_lm4f110h5qr
+  oomp_key_extra: oomp_symbol_lm4f110h5qr
+  oomp_key_full: oomp_symbol_lm4f110h5qr_1c0b07
+  oomp_key_simple: lm4f110h5qr
   owner_name: kicad
-  symbol_name: mcu_texas_lm4f110h5qr
+  symbol_name: lm4f110h5qr
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

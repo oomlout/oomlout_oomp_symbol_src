@@ -1,19 +1,19 @@
 id: kicad_filter_fn405_10_02
 library: filter
 library_name: Filter
-name: filter_fn405_10_02
+name: fn405_10_02
 oomp:
   library_name: filter
-  md5: 99807074d1306c91818e2d71455b5feb
-  md5_10: 99807074d1
-  md5_5: '99807'
-  md5_6: '998070'
-  oomp_key: oomp_filter_fn405_10_02
-  oomp_key_extra: oomp_symbol_filter_fn405_10_02
-  oomp_key_full: oomp_symbol_filter_fn405_10_02_998070
-  oomp_key_simple: filter_fn405_10_02
+  md5: 4aafbf187ff394289e691fddc9836d2c
+  md5_10: 4aafbf187f
+  md5_5: 4aafb
+  md5_6: 4aafbf
+  oomp_key: oomp_fn405_10_02
+  oomp_key_extra: oomp_symbol_fn405_10_02
+  oomp_key_full: oomp_symbol_fn405_10_02_4aafbf
+  oomp_key_simple: fn405_10_02
   owner_name: kicad
-  symbol_name: filter_fn405_10_02
+  symbol_name: fn405_10_02
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

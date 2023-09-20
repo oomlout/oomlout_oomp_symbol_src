@@ -1,19 +1,19 @@
 id: kicad_memory_flash_at25sf081_sshf_x
 library: memory_flash
 library_name: Memory_Flash
-name: memory_flash_at25sf081_sshf_x
+name: at25sf081_sshf_x
 oomp:
   library_name: memory_flash
-  md5: cc9c606429b493b29bc7f7cbe40f2f28
-  md5_10: cc9c606429
-  md5_5: cc9c6
-  md5_6: cc9c60
-  oomp_key: oomp_memory_flash_at25sf081_sshf_x
-  oomp_key_extra: oomp_symbol_memory_flash_at25sf081_sshf_x
-  oomp_key_full: oomp_symbol_memory_flash_at25sf081_sshf_x_cc9c60
-  oomp_key_simple: memory_flash_at25sf081_sshf_x
+  md5: fd8a6c13acf7d603e4c747a28c851056
+  md5_10: fd8a6c13ac
+  md5_5: fd8a6
+  md5_6: fd8a6c
+  oomp_key: oomp_at25sf081_sshf_x
+  oomp_key_extra: oomp_symbol_at25sf081_sshf_x
+  oomp_key_full: oomp_symbol_at25sf081_sshf_x_fd8a6c
+  oomp_key_simple: at25sf081_sshf_x
   owner_name: kicad
-  symbol_name: memory_flash_at25sf081_sshf_x
+  symbol_name: at25sf081_sshf_x
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

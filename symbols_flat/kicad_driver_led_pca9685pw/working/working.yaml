@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_pca9685pw/working
   oomp_src_flat: symbols_flat/kicad_driver_led_pca9685pw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_pca9685pw/working
-name: driver_led_pca9685pw
+name: pca9685pw
 oomp:
   library_name: driver_led
-  md5: b0b1e28120ed5cf0e5ffce7e1be211ca
-  md5_10: b0b1e28120
-  md5_5: b0b1e
-  md5_6: b0b1e2
-  oomp_key: oomp_driver_led_pca9685pw
-  oomp_key_extra: oomp_symbol_driver_led_pca9685pw
-  oomp_key_full: oomp_symbol_driver_led_pca9685pw_b0b1e2
-  oomp_key_simple: driver_led_pca9685pw
+  md5: 8038be06eeeb0a82186277cf6a2d2888
+  md5_10: 8038be06ee
+  md5_5: 8038b
+  md5_6: 8038be
+  oomp_key: oomp_pca9685pw
+  oomp_key_extra: oomp_symbol_pca9685pw
+  oomp_key_full: oomp_symbol_pca9685pw_8038be
+  oomp_key_simple: pca9685pw
   owner_name: kicad
-  symbol_name: driver_led_pca9685pw
+  symbol_name: pca9685pw
 oomp_key: oomp_kicad_driver_led_pca9685pw
 oomp_key_simple: kicad_driver_led_pca9685pw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

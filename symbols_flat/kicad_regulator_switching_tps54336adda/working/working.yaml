@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps54336adda/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps54336adda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps54336adda/working
-name: regulator_switching_tps54336adda
+name: tps54336adda
 oomp:
   library_name: regulator_switching
-  md5: 3e128a541686465c5806d53dcef15fd8
-  md5_10: 3e128a5416
-  md5_5: 3e128
-  md5_6: 3e128a
-  oomp_key: oomp_regulator_switching_tps54336adda
-  oomp_key_extra: oomp_symbol_regulator_switching_tps54336adda
-  oomp_key_full: oomp_symbol_regulator_switching_tps54336adda_3e128a
-  oomp_key_simple: regulator_switching_tps54336adda
+  md5: 83f2a22caed12d8c095c39c120ff259d
+  md5_10: 83f2a22cae
+  md5_5: 83f2a
+  md5_6: 83f2a2
+  oomp_key: oomp_tps54336adda
+  oomp_key_extra: oomp_symbol_tps54336adda
+  oomp_key_full: oomp_symbol_tps54336adda_83f2a2
+  oomp_key_simple: tps54336adda
   owner_name: kicad
-  symbol_name: regulator_switching_tps54336adda
+  symbol_name: tps54336adda
 oomp_key: oomp_kicad_regulator_switching_tps54336adda
 oomp_key_simple: kicad_regulator_switching_tps54336adda
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

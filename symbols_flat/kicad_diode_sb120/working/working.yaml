@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_sb120/working
   oomp_src_flat: symbols_flat/kicad_diode_sb120/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_sb120/working
-name: diode_sb120
+name: sb120
 oomp:
   library_name: diode
-  md5: e98aada5a2b09fb0673049886c5c0daf
-  md5_10: e98aada5a2
-  md5_5: e98aa
-  md5_6: e98aad
-  oomp_key: oomp_diode_sb120
-  oomp_key_extra: oomp_symbol_diode_sb120
-  oomp_key_full: oomp_symbol_diode_sb120_e98aad
-  oomp_key_simple: diode_sb120
+  md5: 0a36a2e20680e5e96f5fbd0271233c33
+  md5_10: 0a36a2e206
+  md5_5: 0a36a
+  md5_6: 0a36a2
+  oomp_key: oomp_sb120
+  oomp_key_extra: oomp_symbol_sb120
+  oomp_key_full: oomp_symbol_sb120_0a36a2
+  oomp_key_simple: sb120
   owner_name: kicad
-  symbol_name: diode_sb120
+  symbol_name: sb120
 oomp_key: oomp_kicad_diode_sb120
 oomp_key_simple: kicad_diode_sb120
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ht75xx_1_sot89/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ht75xx_1_sot89/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ht75xx_1_sot89/working
-name: regulator_linear_ht75xx_1_sot89
+name: ht75xx_1_sot89
 oomp:
   library_name: regulator_linear
-  md5: e733893f9565adc3e30af9983b91bd1e
-  md5_10: e733893f95
-  md5_5: e7338
-  md5_6: e73389
-  oomp_key: oomp_regulator_linear_ht75xx_1_sot89
-  oomp_key_extra: oomp_symbol_regulator_linear_ht75xx_1_sot89
-  oomp_key_full: oomp_symbol_regulator_linear_ht75xx_1_sot89_e73389
-  oomp_key_simple: regulator_linear_ht75xx_1_sot89
+  md5: b1c4208ba957085966954e9b20ec5000
+  md5_10: b1c4208ba9
+  md5_5: b1c42
+  md5_6: b1c420
+  oomp_key: oomp_ht75xx_1_sot89
+  oomp_key_extra: oomp_symbol_ht75xx_1_sot89
+  oomp_key_full: oomp_symbol_ht75xx_1_sot89_b1c420
+  oomp_key_simple: ht75xx_1_sot89
   owner_name: kicad
-  symbol_name: regulator_linear_ht75xx_1_sot89
+  symbol_name: ht75xx_1_sot89
 oomp_key: oomp_kicad_regulator_linear_ht75xx_1_sot89
 oomp_key_simple: kicad_regulator_linear_ht75xx_1_sot89
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_mcp2022a_xxxxp/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_mcp2022a_xxxxp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_mcp2022a_xxxxp/working
-name: interface_can_lin_mcp2022a_xxxxp
+name: mcp2022a_xxxxp
 oomp:
   library_name: interface_can_lin
-  md5: 7e5dd98e2d87a66122ef86bd12ec270d
-  md5_10: 7e5dd98e2d
-  md5_5: 7e5dd
-  md5_6: 7e5dd9
-  oomp_key: oomp_interface_can_lin_mcp2022a_xxxxp
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2022a_xxxxp
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2022a_xxxxp_7e5dd9
-  oomp_key_simple: interface_can_lin_mcp2022a_xxxxp
+  md5: 4f8388f9fbea59a48ecf1908c63081f2
+  md5_10: 4f8388f9fb
+  md5_5: 4f838
+  md5_6: 4f8388
+  oomp_key: oomp_mcp2022a_xxxxp
+  oomp_key_extra: oomp_symbol_mcp2022a_xxxxp
+  oomp_key_full: oomp_symbol_mcp2022a_xxxxp_4f8388
+  oomp_key_simple: mcp2022a_xxxxp
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2022a_xxxxp
+  symbol_name: mcp2022a_xxxxp
 oomp_key: oomp_kicad_interface_can_lin_mcp2022a_xxxxp
 oomp_key_simple: kicad_interface_can_lin_mcp2022a_xxxxp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

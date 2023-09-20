@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_rfid_htrc11001t/working
   oomp_src_flat: symbols_flat/kicad_rf_rfid_htrc11001t/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_rfid_htrc11001t/working
-name: rf_rfid_htrc11001t
+name: htrc11001t
 oomp:
   library_name: rf_rfid
-  md5: a10fda3a0e474783a54d9617784a6786
-  md5_10: a10fda3a0e
-  md5_5: a10fd
-  md5_6: a10fda
-  oomp_key: oomp_rf_rfid_htrc11001t
-  oomp_key_extra: oomp_symbol_rf_rfid_htrc11001t
-  oomp_key_full: oomp_symbol_rf_rfid_htrc11001t_a10fda
-  oomp_key_simple: rf_rfid_htrc11001t
+  md5: dbdb1a6759d84a70321bbad1cb3afa30
+  md5_10: dbdb1a6759
+  md5_5: dbdb1
+  md5_6: dbdb1a
+  oomp_key: oomp_htrc11001t
+  oomp_key_extra: oomp_symbol_htrc11001t
+  oomp_key_full: oomp_symbol_htrc11001t_dbdb1a
+  oomp_key_simple: htrc11001t
   owner_name: kicad
-  symbol_name: rf_rfid_htrc11001t
+  symbol_name: htrc11001t
 oomp_key: oomp_kicad_rf_rfid_htrc11001t
 oomp_key_simple: kicad_rf_rfid_htrc11001t
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

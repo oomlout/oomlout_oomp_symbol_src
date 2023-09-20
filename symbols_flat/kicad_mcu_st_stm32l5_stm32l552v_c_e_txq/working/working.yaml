@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l5_stm32l552v_c_e_txq/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l5_stm32l552v_c_e_txq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l5_stm32l552v_c_e_txq/working
-name: mcu_st_stm32l5_stm32l552v_c_e_txq
+name: stm32l552v_c_e_txq
 oomp:
   library_name: mcu_st_stm32l5
-  md5: 2e6cdac53962c32ff0a3e01cbaeac940
-  md5_10: 2e6cdac539
-  md5_5: 2e6cd
-  md5_6: 2e6cda
-  oomp_key: oomp_mcu_st_stm32l5_stm32l552v_c_e_txq
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l5_stm32l552v_c_e_txq
-  oomp_key_full: oomp_symbol_mcu_st_stm32l5_stm32l552v_c_e_txq_2e6cda
-  oomp_key_simple: mcu_st_stm32l5_stm32l552v_c_e_txq
+  md5: e6d9d3201321a2f130a23c8a3e4a5e02
+  md5_10: e6d9d32013
+  md5_5: e6d9d
+  md5_6: e6d9d3
+  oomp_key: oomp_stm32l552v_c_e_txq
+  oomp_key_extra: oomp_symbol_stm32l552v_c_e_txq
+  oomp_key_full: oomp_symbol_stm32l552v_c_e_txq_e6d9d3
+  oomp_key_simple: stm32l552v_c_e_txq
   owner_name: kicad
-  symbol_name: mcu_st_stm32l5_stm32l552v_c_e_txq
+  symbol_name: stm32l552v_c_e_txq
 oomp_key: oomp_kicad_mcu_st_stm32l5_stm32l552v_c_e_txq
 oomp_key_simple: kicad_mcu_st_stm32l5_stm32l552v_c_e_txq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_az850_x/working
   oomp_src_flat: symbols_flat/kicad_relay_az850_x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_az850_x/working
-name: relay_az850_x
+name: az850_x
 oomp:
   library_name: relay
-  md5: b700fa7f69439d77ecffa8e7229ec9a0
-  md5_10: b700fa7f69
-  md5_5: b700f
-  md5_6: b700fa
-  oomp_key: oomp_relay_az850_x
-  oomp_key_extra: oomp_symbol_relay_az850_x
-  oomp_key_full: oomp_symbol_relay_az850_x_b700fa
-  oomp_key_simple: relay_az850_x
+  md5: b425c40acc14f3f93108f944af4f845a
+  md5_10: b425c40acc
+  md5_5: b425c
+  md5_6: b425c4
+  oomp_key: oomp_az850_x
+  oomp_key_extra: oomp_symbol_az850_x
+  oomp_key_full: oomp_symbol_az850_x_b425c4
+  oomp_key_simple: az850_x
   owner_name: kicad
-  symbol_name: relay_az850_x
+  symbol_name: az850_x
 oomp_key: oomp_kicad_relay_az850_x
 oomp_key_simple: kicad_relay_az850_x
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

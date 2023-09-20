@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_fsbh0f70a/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_fsbh0f70a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_fsbh0f70a/working
-name: regulator_switching_fsbh0f70a
+name: fsbh0f70a
 oomp:
   library_name: regulator_switching
-  md5: 356076ddf720f2a03188695fdbd6f38c
-  md5_10: 356076ddf7
-  md5_5: '35607'
-  md5_6: '356076'
-  oomp_key: oomp_regulator_switching_fsbh0f70a
-  oomp_key_extra: oomp_symbol_regulator_switching_fsbh0f70a
-  oomp_key_full: oomp_symbol_regulator_switching_fsbh0f70a_356076
-  oomp_key_simple: regulator_switching_fsbh0f70a
+  md5: 5a67b2436b7fca92fa7af7570c575526
+  md5_10: 5a67b2436b
+  md5_5: 5a67b
+  md5_6: 5a67b2
+  oomp_key: oomp_fsbh0f70a
+  oomp_key_extra: oomp_symbol_fsbh0f70a
+  oomp_key_full: oomp_symbol_fsbh0f70a_5a67b2
+  oomp_key_simple: fsbh0f70a
   owner_name: kicad
-  symbol_name: regulator_switching_fsbh0f70a
+  symbol_name: fsbh0f70a
 oomp_key: oomp_kicad_regulator_switching_fsbh0f70a
 oomp_key_simple: kicad_regulator_switching_fsbh0f70a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

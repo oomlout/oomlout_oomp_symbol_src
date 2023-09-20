@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_atmega_atmega649p_a
 library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
-name: mcu_microchip_atmega_atmega649p_a
+name: atmega649p_a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: e7f47f7d305917d486c7df786621fbac
-  md5_10: e7f47f7d30
-  md5_5: e7f47
-  md5_6: e7f47f
-  oomp_key: oomp_mcu_microchip_atmega_atmega649p_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega649p_a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega649p_a_e7f47f
-  oomp_key_simple: mcu_microchip_atmega_atmega649p_a
+  md5: 403e8386288229c5e1ee2d694932b2dc
+  md5_10: 403e838628
+  md5_5: 403e8
+  md5_6: 403e83
+  oomp_key: oomp_atmega649p_a
+  oomp_key_extra: oomp_symbol_atmega649p_a
+  oomp_key_full: oomp_symbol_atmega649p_a_403e83
+  oomp_key_simple: atmega649p_a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega649p_a
+  symbol_name: atmega649p_a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

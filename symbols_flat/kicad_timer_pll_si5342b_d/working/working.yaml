@@ -1,19 +1,19 @@
 id: kicad_timer_pll_si5342b_d
 library: timer_pll
 library_name: Timer_PLL
-name: timer_pll_si5342b_d
+name: si5342b_d
 oomp:
   library_name: timer_pll
-  md5: 2a6c00b9f71301f58e2352ffdc745fa1
-  md5_10: 2a6c00b9f7
-  md5_5: 2a6c0
-  md5_6: 2a6c00
-  oomp_key: oomp_timer_pll_si5342b_d
-  oomp_key_extra: oomp_symbol_timer_pll_si5342b_d
-  oomp_key_full: oomp_symbol_timer_pll_si5342b_d_2a6c00
-  oomp_key_simple: timer_pll_si5342b_d
+  md5: 538c829aa5d053d796074868d1c8a87f
+  md5_10: 538c829aa5
+  md5_5: 538c8
+  md5_6: 538c82
+  oomp_key: oomp_si5342b_d
+  oomp_key_extra: oomp_symbol_si5342b_d
+  oomp_key_full: oomp_symbol_si5342b_d_538c82
+  oomp_key_simple: si5342b_d
   owner_name: kicad
-  symbol_name: timer_pll_si5342b_d
+  symbol_name: si5342b_d
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

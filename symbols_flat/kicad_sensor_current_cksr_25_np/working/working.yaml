@@ -1,19 +1,19 @@
 id: kicad_sensor_current_cksr_25_np
 library: sensor_current
 library_name: Sensor_Current
-name: sensor_current_cksr_25_np
+name: cksr_25_np
 oomp:
   library_name: sensor_current
-  md5: d19f2c148c018cc6077bdde908b5d74a
-  md5_10: d19f2c148c
-  md5_5: d19f2
-  md5_6: d19f2c
-  oomp_key: oomp_sensor_current_cksr_25_np
-  oomp_key_extra: oomp_symbol_sensor_current_cksr_25_np
-  oomp_key_full: oomp_symbol_sensor_current_cksr_25_np_d19f2c
-  oomp_key_simple: sensor_current_cksr_25_np
+  md5: 5f01c64b27fe01cbf245e3633b1a7e94
+  md5_10: 5f01c64b27
+  md5_5: 5f01c
+  md5_6: 5f01c6
+  oomp_key: oomp_cksr_25_np
+  oomp_key_extra: oomp_symbol_cksr_25_np
+  oomp_key_full: oomp_symbol_cksr_25_np_5f01c6
+  oomp_key_simple: cksr_25_np
   owner_name: kicad
-  symbol_name: sensor_current_cksr_25_np
+  symbol_name: cksr_25_np
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

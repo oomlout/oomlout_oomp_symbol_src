@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_potentiometer_digital_ds1267_tssop/working
   oomp_src_flat: symbols_flat/kicad_potentiometer_digital_ds1267_tssop/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_potentiometer_digital_ds1267_tssop/working
-name: potentiometer_digital_ds1267_tssop
+name: ds1267_tssop
 oomp:
   library_name: potentiometer_digital
-  md5: b650bf9d7d5ec19c6f8999a6bcaa08a2
-  md5_10: b650bf9d7d
-  md5_5: b650b
-  md5_6: b650bf
-  oomp_key: oomp_potentiometer_digital_ds1267_tssop
-  oomp_key_extra: oomp_symbol_potentiometer_digital_ds1267_tssop
-  oomp_key_full: oomp_symbol_potentiometer_digital_ds1267_tssop_b650bf
-  oomp_key_simple: potentiometer_digital_ds1267_tssop
+  md5: 687ce80dc5b1457bbc03cdda55ad90b8
+  md5_10: 687ce80dc5
+  md5_5: 687ce
+  md5_6: 687ce8
+  oomp_key: oomp_ds1267_tssop
+  oomp_key_extra: oomp_symbol_ds1267_tssop
+  oomp_key_full: oomp_symbol_ds1267_tssop_687ce8
+  oomp_key_simple: ds1267_tssop
   owner_name: kicad
-  symbol_name: potentiometer_digital_ds1267_tssop
+  symbol_name: ds1267_tssop
 oomp_key: oomp_kicad_potentiometer_digital_ds1267_tssop
 oomp_key_simple: kicad_potentiometer_digital_ds1267_tssop
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

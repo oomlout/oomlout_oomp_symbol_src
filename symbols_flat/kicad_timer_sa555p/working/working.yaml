@@ -1,19 +1,19 @@
 id: kicad_timer_sa555p
 library: timer
 library_name: Timer
-name: timer_sa555p
+name: sa555p
 oomp:
   library_name: timer
-  md5: 5c890b64f8d20670bfe50dc595913c85
-  md5_10: 5c890b64f8
-  md5_5: 5c890
-  md5_6: 5c890b
-  oomp_key: oomp_timer_sa555p
-  oomp_key_extra: oomp_symbol_timer_sa555p
-  oomp_key_full: oomp_symbol_timer_sa555p_5c890b
-  oomp_key_simple: timer_sa555p
+  md5: 14772b13107a5f535e5006b6315a696d
+  md5_10: 14772b1310
+  md5_5: '14772'
+  md5_6: 14772b
+  oomp_key: oomp_sa555p
+  oomp_key_extra: oomp_symbol_sa555p
+  oomp_key_full: oomp_symbol_sa555p_14772b
+  oomp_key_simple: sa555p
   owner_name: kicad
-  symbol_name: timer_sa555p
+  symbol_name: sa555p
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

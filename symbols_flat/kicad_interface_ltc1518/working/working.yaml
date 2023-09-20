@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ltc1518/working
   oomp_src_flat: symbols_flat/kicad_interface_ltc1518/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ltc1518/working
-name: interface_ltc1518
+name: ltc1518
 oomp:
   library_name: interface
-  md5: 0071695368a43c9227255b1ea90a1323
-  md5_10: 0071695368
-  md5_5: '00716'
-  md5_6: 007169
-  oomp_key: oomp_interface_ltc1518
-  oomp_key_extra: oomp_symbol_interface_ltc1518
-  oomp_key_full: oomp_symbol_interface_ltc1518_007169
-  oomp_key_simple: interface_ltc1518
+  md5: f0acffd1193fdd428c8d1a12f64a94cb
+  md5_10: f0acffd119
+  md5_5: f0acf
+  md5_6: f0acff
+  oomp_key: oomp_ltc1518
+  oomp_key_extra: oomp_symbol_ltc1518
+  oomp_key_full: oomp_symbol_ltc1518_f0acff
+  oomp_key_simple: ltc1518
   owner_name: kicad
-  symbol_name: interface_ltc1518
+  symbol_name: ltc1518
 oomp_key: oomp_kicad_interface_ltc1518
 oomp_key_simple: kicad_interface_ltc1518
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

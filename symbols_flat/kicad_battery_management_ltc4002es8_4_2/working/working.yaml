@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_ltc4002es8_4_2/working
   oomp_src_flat: symbols_flat/kicad_battery_management_ltc4002es8_4_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_ltc4002es8_4_2/working
-name: battery_management_ltc4002es8_4_2
+name: ltc4002es8_4_2
 oomp:
   library_name: battery_management
-  md5: 1358fd9ed8d68d2014087e0f20d3ea03
-  md5_10: 1358fd9ed8
-  md5_5: 1358f
-  md5_6: 1358fd
-  oomp_key: oomp_battery_management_ltc4002es8_4_2
-  oomp_key_extra: oomp_symbol_battery_management_ltc4002es8_4_2
-  oomp_key_full: oomp_symbol_battery_management_ltc4002es8_4_2_1358fd
-  oomp_key_simple: battery_management_ltc4002es8_4_2
+  md5: 346f41729fb6d93dfb7347481bde221b
+  md5_10: 346f41729f
+  md5_5: 346f4
+  md5_6: 346f41
+  oomp_key: oomp_ltc4002es8_4_2
+  oomp_key_extra: oomp_symbol_ltc4002es8_4_2
+  oomp_key_full: oomp_symbol_ltc4002es8_4_2_346f41
+  oomp_key_simple: ltc4002es8_4_2
   owner_name: kicad
-  symbol_name: battery_management_ltc4002es8_4_2
+  symbol_name: ltc4002es8_4_2
 oomp_key: oomp_kicad_battery_management_ltc4002es8_4_2
 oomp_key_simple: kicad_battery_management_ltc4002es8_4_2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

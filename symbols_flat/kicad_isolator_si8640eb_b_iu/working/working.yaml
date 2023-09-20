@@ -1,19 +1,19 @@
 id: kicad_isolator_si8640eb_b_iu
 library: isolator
 library_name: Isolator
-name: isolator_si8640eb_b_iu
+name: si8640eb_b_iu
 oomp:
   library_name: isolator
-  md5: 7553add900bf5705ee90d767fa8d22ab
-  md5_10: 7553add900
-  md5_5: 7553a
-  md5_6: 7553ad
-  oomp_key: oomp_isolator_si8640eb_b_iu
-  oomp_key_extra: oomp_symbol_isolator_si8640eb_b_iu
-  oomp_key_full: oomp_symbol_isolator_si8640eb_b_iu_7553ad
-  oomp_key_simple: isolator_si8640eb_b_iu
+  md5: 7fcc85fc5ebc2d791bbb4de82b8c2fb2
+  md5_10: 7fcc85fc5e
+  md5_5: 7fcc8
+  md5_6: 7fcc85
+  oomp_key: oomp_si8640eb_b_iu
+  oomp_key_extra: oomp_symbol_si8640eb_b_iu
+  oomp_key_full: oomp_symbol_si8640eb_b_iu_7fcc85
+  oomp_key_simple: si8640eb_b_iu
   owner_name: kicad
-  symbol_name: isolator_si8640eb_b_iu
+  symbol_name: si8640eb_b_iu
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

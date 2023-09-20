@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_pca9615dp/working
   oomp_src_flat: symbols_flat/kicad_interface_pca9615dp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_pca9615dp/working
-name: interface_pca9615dp
+name: pca9615dp
 oomp:
   library_name: interface
-  md5: b65e81cdb1b3fe6037be733216fe82de
-  md5_10: b65e81cdb1
-  md5_5: b65e8
-  md5_6: b65e81
-  oomp_key: oomp_interface_pca9615dp
-  oomp_key_extra: oomp_symbol_interface_pca9615dp
-  oomp_key_full: oomp_symbol_interface_pca9615dp_b65e81
-  oomp_key_simple: interface_pca9615dp
+  md5: 7b96c8fee2081f9aad17b22eb50619be
+  md5_10: 7b96c8fee2
+  md5_5: 7b96c
+  md5_6: 7b96c8
+  oomp_key: oomp_pca9615dp
+  oomp_key_extra: oomp_symbol_pca9615dp
+  oomp_key_full: oomp_symbol_pca9615dp_7b96c8
+  oomp_key_simple: pca9615dp
   owner_name: kicad
-  symbol_name: interface_pca9615dp
+  symbol_name: pca9615dp
 oomp_key: oomp_kicad_interface_pca9615dp
 oomp_key_simple: kicad_interface_pca9615dp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

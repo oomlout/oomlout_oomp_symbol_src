@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_iso1644dwr/working
   oomp_src_flat: symbols_flat/kicad_isolator_iso1644dwr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_iso1644dwr/working
-name: isolator_iso1644dwr
+name: iso1644dwr
 oomp:
   library_name: isolator
-  md5: 1ee6a6c50c767a5ad147a8825513a9ee
-  md5_10: 1ee6a6c50c
-  md5_5: 1ee6a
-  md5_6: 1ee6a6
-  oomp_key: oomp_isolator_iso1644dwr
-  oomp_key_extra: oomp_symbol_isolator_iso1644dwr
-  oomp_key_full: oomp_symbol_isolator_iso1644dwr_1ee6a6
-  oomp_key_simple: isolator_iso1644dwr
+  md5: d98cc3d1fc87a3dcf9ed43001acab875
+  md5_10: d98cc3d1fc
+  md5_5: d98cc
+  md5_6: d98cc3
+  oomp_key: oomp_iso1644dwr
+  oomp_key_extra: oomp_symbol_iso1644dwr
+  oomp_key_full: oomp_symbol_iso1644dwr_d98cc3
+  oomp_key_simple: iso1644dwr
   owner_name: kicad
-  symbol_name: isolator_iso1644dwr
+  symbol_name: iso1644dwr
 oomp_key: oomp_kicad_isolator_iso1644dwr
 oomp_key_simple: kicad_isolator_iso1644dwr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

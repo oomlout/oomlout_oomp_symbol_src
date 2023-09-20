@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_lm2840y
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_lm2840y
+name: lm2840y
 oomp:
   library_name: regulator_switching
-  md5: e9a8bc08d4671739e11fb0b537063b0a
-  md5_10: e9a8bc08d4
-  md5_5: e9a8b
-  md5_6: e9a8bc
-  oomp_key: oomp_regulator_switching_lm2840y
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2840y
-  oomp_key_full: oomp_symbol_regulator_switching_lm2840y_e9a8bc
-  oomp_key_simple: regulator_switching_lm2840y
+  md5: 2f5955f9b67ee759d94c76d5a33fd782
+  md5_10: 2f5955f9b6
+  md5_5: 2f595
+  md5_6: 2f5955
+  oomp_key: oomp_lm2840y
+  oomp_key_extra: oomp_symbol_lm2840y
+  oomp_key_full: oomp_symbol_lm2840y_2f5955
+  oomp_key_simple: lm2840y
   owner_name: kicad
-  symbol_name: regulator_switching_lm2840y
+  symbol_name: lm2840y
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

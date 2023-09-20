@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_asdmb_xxxmhz/working
   oomp_src_flat: symbols_flat/kicad_oscillator_asdmb_xxxmhz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_asdmb_xxxmhz/working
-name: oscillator_asdmb_xxxmhz
+name: asdmb_xxxmhz
 oomp:
   library_name: oscillator
-  md5: e9b94fc997410d3be75ed138c16ec112
-  md5_10: e9b94fc997
-  md5_5: e9b94
-  md5_6: e9b94f
-  oomp_key: oomp_oscillator_asdmb_xxxmhz
-  oomp_key_extra: oomp_symbol_oscillator_asdmb_xxxmhz
-  oomp_key_full: oomp_symbol_oscillator_asdmb_xxxmhz_e9b94f
-  oomp_key_simple: oscillator_asdmb_xxxmhz
+  md5: 88f1e231ad0ca10ef6feda80d06f9ecf
+  md5_10: 88f1e231ad
+  md5_5: 88f1e
+  md5_6: 88f1e2
+  oomp_key: oomp_asdmb_xxxmhz
+  oomp_key_extra: oomp_symbol_asdmb_xxxmhz
+  oomp_key_full: oomp_symbol_asdmb_xxxmhz_88f1e2
+  oomp_key_simple: asdmb_xxxmhz
   owner_name: kicad
-  symbol_name: oscillator_asdmb_xxxmhz
+  symbol_name: asdmb_xxxmhz
 oomp_key: oomp_kicad_oscillator_asdmb_xxxmhz
 oomp_key_simple: kicad_oscillator_asdmb_xxxmhz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

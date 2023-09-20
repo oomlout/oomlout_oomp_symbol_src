@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_fuse_polarized/working
   oomp_src_flat: symbols_flat/kicad_device_fuse_polarized/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_fuse_polarized/working
-name: device_fuse_polarized
+name: fuse_polarized
 oomp:
   library_name: device
-  md5: fb92d111b669673b114caee60d854382
-  md5_10: fb92d111b6
-  md5_5: fb92d
-  md5_6: fb92d1
-  oomp_key: oomp_device_fuse_polarized
-  oomp_key_extra: oomp_symbol_device_fuse_polarized
-  oomp_key_full: oomp_symbol_device_fuse_polarized_fb92d1
-  oomp_key_simple: device_fuse_polarized
+  md5: 465b9f1a7572dd17ba71f9ceb2d420ac
+  md5_10: 465b9f1a75
+  md5_5: 465b9
+  md5_6: 465b9f
+  oomp_key: oomp_fuse_polarized
+  oomp_key_extra: oomp_symbol_fuse_polarized
+  oomp_key_full: oomp_symbol_fuse_polarized_465b9f
+  oomp_key_simple: fuse_polarized
   owner_name: kicad
-  symbol_name: device_fuse_polarized
+  symbol_name: fuse_polarized
 oomp_key: oomp_kicad_device_fuse_polarized
 oomp_key_simple: kicad_device_fuse_polarized
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

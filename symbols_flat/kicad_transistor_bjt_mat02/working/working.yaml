@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_mat02/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_mat02/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_mat02/working
-name: transistor_bjt_mat02
+name: mat02
 oomp:
   library_name: transistor_bjt
-  md5: 05f77771439c2634cf528c0246a72e6d
-  md5_10: 05f7777143
-  md5_5: 05f77
-  md5_6: 05f777
-  oomp_key: oomp_transistor_bjt_mat02
-  oomp_key_extra: oomp_symbol_transistor_bjt_mat02
-  oomp_key_full: oomp_symbol_transistor_bjt_mat02_05f777
-  oomp_key_simple: transistor_bjt_mat02
+  md5: aef14dbca3c1beb90d4efef562315b1c
+  md5_10: aef14dbca3
+  md5_5: aef14
+  md5_6: aef14d
+  oomp_key: oomp_mat02
+  oomp_key_extra: oomp_symbol_mat02
+  oomp_key_full: oomp_symbol_mat02_aef14d
+  oomp_key_simple: mat02
   owner_name: kicad
-  symbol_name: transistor_bjt_mat02
+  symbol_name: mat02
 oomp_key: oomp_kicad_transistor_bjt_mat02
 oomp_key_simple: kicad_transistor_bjt_mat02
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

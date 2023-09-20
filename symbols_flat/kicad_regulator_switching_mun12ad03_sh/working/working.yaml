@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_mun12ad03_sh/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_mun12ad03_sh/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_mun12ad03_sh/working
-name: regulator_switching_mun12ad03_sh
+name: mun12ad03_sh
 oomp:
   library_name: regulator_switching
-  md5: 995d2b3d9ec006e025f1d87f2e6a2bd7
-  md5_10: 995d2b3d9e
-  md5_5: 995d2
-  md5_6: 995d2b
-  oomp_key: oomp_regulator_switching_mun12ad03_sh
-  oomp_key_extra: oomp_symbol_regulator_switching_mun12ad03_sh
-  oomp_key_full: oomp_symbol_regulator_switching_mun12ad03_sh_995d2b
-  oomp_key_simple: regulator_switching_mun12ad03_sh
+  md5: 8d9ff3c02b70f936cd382907cfbf903e
+  md5_10: 8d9ff3c02b
+  md5_5: 8d9ff
+  md5_6: 8d9ff3
+  oomp_key: oomp_mun12ad03_sh
+  oomp_key_extra: oomp_symbol_mun12ad03_sh
+  oomp_key_full: oomp_symbol_mun12ad03_sh_8d9ff3
+  oomp_key_simple: mun12ad03_sh
   owner_name: kicad
-  symbol_name: regulator_switching_mun12ad03_sh
+  symbol_name: mun12ad03_sh
 oomp_key: oomp_kicad_regulator_switching_mun12ad03_sh
 oomp_key_simple: kicad_regulator_switching_mun12ad03_sh
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

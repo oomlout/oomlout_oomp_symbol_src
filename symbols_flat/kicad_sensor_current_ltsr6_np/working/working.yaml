@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_ltsr6_np/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_ltsr6_np/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_ltsr6_np/working
-name: sensor_current_ltsr6_np
+name: ltsr6_np
 oomp:
   library_name: sensor_current
-  md5: c158fa1d5359b2d30ca2d05a4de85702
-  md5_10: c158fa1d53
-  md5_5: c158f
-  md5_6: c158fa
-  oomp_key: oomp_sensor_current_ltsr6_np
-  oomp_key_extra: oomp_symbol_sensor_current_ltsr6_np
-  oomp_key_full: oomp_symbol_sensor_current_ltsr6_np_c158fa
-  oomp_key_simple: sensor_current_ltsr6_np
+  md5: 99b1c6f83f6bcfc68b8feeb297ede922
+  md5_10: 99b1c6f83f
+  md5_5: 99b1c
+  md5_6: 99b1c6
+  oomp_key: oomp_ltsr6_np
+  oomp_key_extra: oomp_symbol_ltsr6_np
+  oomp_key_full: oomp_symbol_ltsr6_np_99b1c6
+  oomp_key_simple: ltsr6_np
   owner_name: kicad
-  symbol_name: sensor_current_ltsr6_np
+  symbol_name: ltsr6_np
 oomp_key: oomp_kicad_sensor_current_ltsr6_np
 oomp_key_simple: kicad_sensor_current_ltsr6_np
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

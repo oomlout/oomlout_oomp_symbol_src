@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_ammeter_ac/working
   oomp_src_flat: symbols_flat/kicad_device_ammeter_ac/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_ammeter_ac/working
-name: device_ammeter_ac
+name: ammeter_ac
 oomp:
   library_name: device
-  md5: 8ce48fdf59e7b2c03568af4e1cc24a9d
-  md5_10: 8ce48fdf59
-  md5_5: 8ce48
-  md5_6: 8ce48f
-  oomp_key: oomp_device_ammeter_ac
-  oomp_key_extra: oomp_symbol_device_ammeter_ac
-  oomp_key_full: oomp_symbol_device_ammeter_ac_8ce48f
-  oomp_key_simple: device_ammeter_ac
+  md5: d75790836ffb4ad1cd3dac3990b79ceb
+  md5_10: d75790836f
+  md5_5: d7579
+  md5_6: d75790
+  oomp_key: oomp_ammeter_ac
+  oomp_key_extra: oomp_symbol_ammeter_ac
+  oomp_key_full: oomp_symbol_ammeter_ac_d75790
+  oomp_key_simple: ammeter_ac
   owner_name: kicad
-  symbol_name: device_ammeter_ac
+  symbol_name: ammeter_ac
 oomp_key: oomp_kicad_device_ammeter_ac
 oomp_key_simple: kicad_device_ammeter_ac
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

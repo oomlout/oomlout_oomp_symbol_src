@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_rom_xc18v01so20/working
   oomp_src_flat: symbols_flat/kicad_memory_rom_xc18v01so20/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_rom_xc18v01so20/working
-name: memory_rom_xc18v01so20
+name: xc18v01so20
 oomp:
   library_name: memory_rom
-  md5: 7f417f3d7b5c8a19938e17232b9d7047
-  md5_10: 7f417f3d7b
-  md5_5: 7f417
-  md5_6: 7f417f
-  oomp_key: oomp_memory_rom_xc18v01so20
-  oomp_key_extra: oomp_symbol_memory_rom_xc18v01so20
-  oomp_key_full: oomp_symbol_memory_rom_xc18v01so20_7f417f
-  oomp_key_simple: memory_rom_xc18v01so20
+  md5: e3336171efba4967a107ef799747501d
+  md5_10: e3336171ef
+  md5_5: e3336
+  md5_6: e33361
+  oomp_key: oomp_xc18v01so20
+  oomp_key_extra: oomp_symbol_xc18v01so20
+  oomp_key_full: oomp_symbol_xc18v01so20_e33361
+  oomp_key_simple: xc18v01so20
   owner_name: kicad
-  symbol_name: memory_rom_xc18v01so20
+  symbol_name: xc18v01so20
 oomp_key: oomp_kicad_memory_rom_xc18v01so20
 oomp_key_simple: kicad_memory_rom_xc18v01so20
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

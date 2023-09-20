@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_max691xwe/working
   oomp_src_flat: symbols_flat/kicad_power_supervisor_max691xwe/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_max691xwe/working
-name: power_supervisor_max691xwe
+name: max691xwe
 oomp:
   library_name: power_supervisor
-  md5: ecbd87252220b5b526a286e5b29200ea
-  md5_10: ecbd872522
-  md5_5: ecbd8
-  md5_6: ecbd87
-  oomp_key: oomp_power_supervisor_max691xwe
-  oomp_key_extra: oomp_symbol_power_supervisor_max691xwe
-  oomp_key_full: oomp_symbol_power_supervisor_max691xwe_ecbd87
-  oomp_key_simple: power_supervisor_max691xwe
+  md5: fcbd8fdb38a5a831c3a5e00556185b64
+  md5_10: fcbd8fdb38
+  md5_5: fcbd8
+  md5_6: fcbd8f
+  oomp_key: oomp_max691xwe
+  oomp_key_extra: oomp_symbol_max691xwe
+  oomp_key_full: oomp_symbol_max691xwe_fcbd8f
+  oomp_key_simple: max691xwe
   owner_name: kicad
-  symbol_name: power_supervisor_max691xwe
+  symbol_name: max691xwe
 oomp_key: oomp_kicad_power_supervisor_max691xwe
 oomp_key_simple: kicad_power_supervisor_max691xwe
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

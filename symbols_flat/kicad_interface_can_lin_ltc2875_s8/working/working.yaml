@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_ltc2875_s8/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_ltc2875_s8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_ltc2875_s8/working
-name: interface_can_lin_ltc2875_s8
+name: ltc2875_s8
 oomp:
   library_name: interface_can_lin
-  md5: d07684225c7bda868c6a30b15df963bf
-  md5_10: d07684225c
-  md5_5: d0768
-  md5_6: d07684
-  oomp_key: oomp_interface_can_lin_ltc2875_s8
-  oomp_key_extra: oomp_symbol_interface_can_lin_ltc2875_s8
-  oomp_key_full: oomp_symbol_interface_can_lin_ltc2875_s8_d07684
-  oomp_key_simple: interface_can_lin_ltc2875_s8
+  md5: cb5014c9fc42cdd9b5890a2e744036f3
+  md5_10: cb5014c9fc
+  md5_5: cb501
+  md5_6: cb5014
+  oomp_key: oomp_ltc2875_s8
+  oomp_key_extra: oomp_symbol_ltc2875_s8
+  oomp_key_full: oomp_symbol_ltc2875_s8_cb5014
+  oomp_key_simple: ltc2875_s8
   owner_name: kicad
-  symbol_name: interface_can_lin_ltc2875_s8
+  symbol_name: ltc2875_s8
 oomp_key: oomp_kicad_interface_can_lin_ltc2875_s8
 oomp_key_simple: kicad_interface_can_lin_ltc2875_s8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

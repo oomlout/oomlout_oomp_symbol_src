@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_bme280/working
   oomp_src_flat: symbols_flat/kicad_sensor_bme280/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_bme280/working
-name: sensor_bme280
+name: bme280
 oomp:
   library_name: sensor
-  md5: cb3ea94454c080174e4ad6149fbc1788
-  md5_10: cb3ea94454
-  md5_5: cb3ea
-  md5_6: cb3ea9
-  oomp_key: oomp_sensor_bme280
-  oomp_key_extra: oomp_symbol_sensor_bme280
-  oomp_key_full: oomp_symbol_sensor_bme280_cb3ea9
-  oomp_key_simple: sensor_bme280
+  md5: 1598c473236033fab97706f26614552d
+  md5_10: 1598c47323
+  md5_5: 1598c
+  md5_6: 1598c4
+  oomp_key: oomp_bme280
+  oomp_key_extra: oomp_symbol_bme280
+  oomp_key_full: oomp_symbol_bme280_1598c4
+  oomp_key_simple: bme280
   owner_name: kicad
-  symbol_name: sensor_bme280
+  symbol_name: bme280
 oomp_key: oomp_kicad_sensor_bme280
 oomp_key_simple: kicad_sensor_bme280
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

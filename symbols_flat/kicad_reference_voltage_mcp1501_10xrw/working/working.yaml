@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_mcp1501_10xrw/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_mcp1501_10xrw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_mcp1501_10xrw/working
-name: reference_voltage_mcp1501_10xrw
+name: mcp1501_10xrw
 oomp:
   library_name: reference_voltage
-  md5: 2f50abe53d7e58f401451002871b1ced
-  md5_10: 2f50abe53d
-  md5_5: 2f50a
-  md5_6: 2f50ab
-  oomp_key: oomp_reference_voltage_mcp1501_10xrw
-  oomp_key_extra: oomp_symbol_reference_voltage_mcp1501_10xrw
-  oomp_key_full: oomp_symbol_reference_voltage_mcp1501_10xrw_2f50ab
-  oomp_key_simple: reference_voltage_mcp1501_10xrw
+  md5: e120f27f1a67b262630f8b0767030992
+  md5_10: e120f27f1a
+  md5_5: e120f
+  md5_6: e120f2
+  oomp_key: oomp_mcp1501_10xrw
+  oomp_key_extra: oomp_symbol_mcp1501_10xrw
+  oomp_key_full: oomp_symbol_mcp1501_10xrw_e120f2
+  oomp_key_simple: mcp1501_10xrw
   owner_name: kicad
-  symbol_name: reference_voltage_mcp1501_10xrw
+  symbol_name: mcp1501_10xrw
 oomp_key: oomp_kicad_reference_voltage_mcp1501_10xrw
 oomp_key_simple: kicad_reference_voltage_mcp1501_10xrw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

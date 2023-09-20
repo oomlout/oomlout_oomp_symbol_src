@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_module_opos6ul/working
   oomp_src_flat: symbols_flat/kicad_mcu_module_opos6ul/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_module_opos6ul/working
-name: mcu_module_opos6ul
+name: opos6ul
 oomp:
   library_name: mcu_module
-  md5: 462d0eb07c3ae1ffbd25b9e9a5721970
-  md5_10: 462d0eb07c
-  md5_5: 462d0
-  md5_6: 462d0e
-  oomp_key: oomp_mcu_module_opos6ul
-  oomp_key_extra: oomp_symbol_mcu_module_opos6ul
-  oomp_key_full: oomp_symbol_mcu_module_opos6ul_462d0e
-  oomp_key_simple: mcu_module_opos6ul
+  md5: 8c2053241e09fcd8330bb5e38c8a6188
+  md5_10: 8c2053241e
+  md5_5: 8c205
+  md5_6: 8c2053
+  oomp_key: oomp_opos6ul
+  oomp_key_extra: oomp_symbol_opos6ul
+  oomp_key_full: oomp_symbol_opos6ul_8c2053
+  oomp_key_simple: opos6ul
   owner_name: kicad
-  symbol_name: mcu_module_opos6ul
+  symbol_name: opos6ul
 oomp_key: oomp_kicad_mcu_module_opos6ul
 oomp_key_simple: kicad_mcu_module_opos6ul
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

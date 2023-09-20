@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_rtc_ab1815/working
   oomp_src_flat: symbols_flat/kicad_timer_rtc_ab1815/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_rtc_ab1815/working
-name: timer_rtc_ab1815
+name: ab1815
 oomp:
   library_name: timer_rtc
-  md5: 77051e24e889f3c6b709e9a333a8d19f
-  md5_10: 77051e24e8
-  md5_5: '77051'
-  md5_6: 77051e
-  oomp_key: oomp_timer_rtc_ab1815
-  oomp_key_extra: oomp_symbol_timer_rtc_ab1815
-  oomp_key_full: oomp_symbol_timer_rtc_ab1815_77051e
-  oomp_key_simple: timer_rtc_ab1815
+  md5: a1c7f2f661737602aa00175f5948f12c
+  md5_10: a1c7f2f661
+  md5_5: a1c7f
+  md5_6: a1c7f2
+  oomp_key: oomp_ab1815
+  oomp_key_extra: oomp_symbol_ab1815
+  oomp_key_full: oomp_symbol_ab1815_a1c7f2
+  oomp_key_simple: ab1815
   owner_name: kicad
-  symbol_name: timer_rtc_ab1815
+  symbol_name: ab1815
 oomp_key: oomp_kicad_timer_rtc_ab1815
 oomp_key_simple: kicad_timer_rtc_ab1815
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

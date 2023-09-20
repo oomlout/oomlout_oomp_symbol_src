@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_nuclear_radiation_detector/working
   oomp_src_flat: symbols_flat/kicad_sensor_nuclear_radiation_detector/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_nuclear_radiation_detector/working
-name: sensor_nuclear_radiation_detector
+name: nuclear_radiation_detector
 oomp:
   library_name: sensor
-  md5: c574f70a9db1d239146110dda2c6d573
-  md5_10: c574f70a9d
-  md5_5: c574f
-  md5_6: c574f7
-  oomp_key: oomp_sensor_nuclear_radiation_detector
-  oomp_key_extra: oomp_symbol_sensor_nuclear_radiation_detector
-  oomp_key_full: oomp_symbol_sensor_nuclear_radiation_detector_c574f7
-  oomp_key_simple: sensor_nuclear_radiation_detector
+  md5: 8197284d67364764e4364d4adb0c179d
+  md5_10: 8197284d67
+  md5_5: '81972'
+  md5_6: '819728'
+  oomp_key: oomp_nuclear_radiation_detector
+  oomp_key_extra: oomp_symbol_nuclear_radiation_detector
+  oomp_key_full: oomp_symbol_nuclear_radiation_detector_819728
+  oomp_key_simple: nuclear_radiation_detector
   owner_name: kicad
-  symbol_name: sensor_nuclear_radiation_detector
+  symbol_name: nuclear_radiation_detector
 oomp_key: oomp_kicad_sensor_nuclear_radiation_detector
 oomp_key_simple: kicad_sensor_nuclear_radiation_detector
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

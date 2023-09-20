@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_mlx90314xdf/working
   oomp_src_flat: symbols_flat/kicad_analog_mlx90314xdf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_mlx90314xdf/working
-name: analog_mlx90314xdf
+name: mlx90314xdf
 oomp:
   library_name: analog
-  md5: 778dafbf1f28fe93b70adf0dfe1a2106
-  md5_10: 778dafbf1f
-  md5_5: 778da
-  md5_6: 778daf
-  oomp_key: oomp_analog_mlx90314xdf
-  oomp_key_extra: oomp_symbol_analog_mlx90314xdf
-  oomp_key_full: oomp_symbol_analog_mlx90314xdf_778daf
-  oomp_key_simple: analog_mlx90314xdf
+  md5: 1f4f5bdaa93769d704602f2eb713f295
+  md5_10: 1f4f5bdaa9
+  md5_5: 1f4f5
+  md5_6: 1f4f5b
+  oomp_key: oomp_mlx90314xdf
+  oomp_key_extra: oomp_symbol_mlx90314xdf
+  oomp_key_full: oomp_symbol_mlx90314xdf_1f4f5b
+  oomp_key_simple: mlx90314xdf
   owner_name: kicad
-  symbol_name: analog_mlx90314xdf
+  symbol_name: mlx90314xdf
 oomp_key: oomp_kicad_analog_mlx90314xdf
 oomp_key_simple: kicad_analog_mlx90314xdf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

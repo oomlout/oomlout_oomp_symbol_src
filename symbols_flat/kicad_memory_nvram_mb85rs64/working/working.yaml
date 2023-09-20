@@ -1,19 +1,19 @@
 id: kicad_memory_nvram_mb85rs64
 library: memory_nvram
 library_name: Memory_NVRAM
-name: memory_nvram_mb85rs64
+name: mb85rs64
 oomp:
   library_name: memory_nvram
-  md5: 2b2a88ad538669eb2f44d205751bdbca
-  md5_10: 2b2a88ad53
-  md5_5: 2b2a8
-  md5_6: 2b2a88
-  oomp_key: oomp_memory_nvram_mb85rs64
-  oomp_key_extra: oomp_symbol_memory_nvram_mb85rs64
-  oomp_key_full: oomp_symbol_memory_nvram_mb85rs64_2b2a88
-  oomp_key_simple: memory_nvram_mb85rs64
+  md5: 0688cee296da69b6ad99f8cad0af4de2
+  md5_10: 0688cee296
+  md5_5: 0688c
+  md5_6: 0688ce
+  oomp_key: oomp_mb85rs64
+  oomp_key_extra: oomp_symbol_mb85rs64
+  oomp_key_full: oomp_symbol_mb85rs64_0688ce
+  oomp_key_simple: mb85rs64
   owner_name: kicad
-  symbol_name: memory_nvram_mb85rs64
+  symbol_name: mb85rs64
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

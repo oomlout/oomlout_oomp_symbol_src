@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_akk/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_akk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_akk/working
-name: device_d_schottky_akk
+name: d_schottky_akk
 oomp:
   library_name: device
-  md5: 73b4668ff94b06f507021853c5a9e367
-  md5_10: 73b4668ff9
-  md5_5: 73b46
-  md5_6: 73b466
-  oomp_key: oomp_device_d_schottky_akk
-  oomp_key_extra: oomp_symbol_device_d_schottky_akk
-  oomp_key_full: oomp_symbol_device_d_schottky_akk_73b466
-  oomp_key_simple: device_d_schottky_akk
+  md5: 153a924a1384859f2bd1f636f7dfc35b
+  md5_10: 153a924a13
+  md5_5: 153a9
+  md5_6: 153a92
+  oomp_key: oomp_d_schottky_akk
+  oomp_key_extra: oomp_symbol_d_schottky_akk
+  oomp_key_full: oomp_symbol_d_schottky_akk_153a92
+  oomp_key_simple: d_schottky_akk
   owner_name: kicad
-  symbol_name: device_d_schottky_akk
+  symbol_name: d_schottky_akk
 oomp_key: oomp_kicad_device_d_schottky_akk
 oomp_key_simple: kicad_device_d_schottky_akk
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_series_cka_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_series_cka_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_series_cka_split/working
-name: device_d_dual_series_cka_split
+name: d_dual_series_cka_split
 oomp:
   library_name: device
-  md5: 655cb5b941e2e6806013c5d728a9cee9
-  md5_10: 655cb5b941
-  md5_5: 655cb
-  md5_6: 655cb5
-  oomp_key: oomp_device_d_dual_series_cka_split
-  oomp_key_extra: oomp_symbol_device_d_dual_series_cka_split
-  oomp_key_full: oomp_symbol_device_d_dual_series_cka_split_655cb5
-  oomp_key_simple: device_d_dual_series_cka_split
+  md5: 517e7a98f798d249555a2d5b9f95ddbc
+  md5_10: 517e7a98f7
+  md5_5: 517e7
+  md5_6: 517e7a
+  oomp_key: oomp_d_dual_series_cka_split
+  oomp_key_extra: oomp_symbol_d_dual_series_cka_split
+  oomp_key_full: oomp_symbol_d_dual_series_cka_split_517e7a
+  oomp_key_simple: d_dual_series_cka_split
   owner_name: kicad
-  symbol_name: device_d_dual_series_cka_split
+  symbol_name: d_dual_series_cka_split
 oomp_key: oomp_kicad_device_d_dual_series_cka_split
 oomp_key_simple: kicad_device_d_dual_series_cka_split
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

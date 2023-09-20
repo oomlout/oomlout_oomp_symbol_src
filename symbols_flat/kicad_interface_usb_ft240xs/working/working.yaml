@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_ft240xs/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_ft240xs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_ft240xs/working
-name: interface_usb_ft240xs
+name: ft240xs
 oomp:
   library_name: interface_usb
-  md5: 4de921a74515b56abb00c1de933c444c
-  md5_10: 4de921a745
-  md5_5: 4de92
-  md5_6: 4de921
-  oomp_key: oomp_interface_usb_ft240xs
-  oomp_key_extra: oomp_symbol_interface_usb_ft240xs
-  oomp_key_full: oomp_symbol_interface_usb_ft240xs_4de921
-  oomp_key_simple: interface_usb_ft240xs
+  md5: b7aab37645659bc0a806d7ff1a7e2882
+  md5_10: b7aab37645
+  md5_5: b7aab
+  md5_6: b7aab3
+  oomp_key: oomp_ft240xs
+  oomp_key_extra: oomp_symbol_ft240xs
+  oomp_key_full: oomp_symbol_ft240xs_b7aab3
+  oomp_key_simple: ft240xs
   owner_name: kicad
-  symbol_name: interface_usb_ft240xs
+  symbol_name: ft240xs
 oomp_key: oomp_kicad_interface_usb_ft240xs
 oomp_key_simple: kicad_interface_usb_ft240xs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_samd_atsamda1e16b_a
 library: mcu_microchip_samd
 library_name: MCU_Microchip_SAMD
-name: mcu_microchip_samd_atsamda1e16b_a
+name: atsamda1e16b_a
 oomp:
   library_name: mcu_microchip_samd
-  md5: f2674deb4bd12b7f441a3883f40efc47
-  md5_10: f2674deb4b
-  md5_5: f2674
-  md5_6: f2674d
-  oomp_key: oomp_mcu_microchip_samd_atsamda1e16b_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_samd_atsamda1e16b_a
-  oomp_key_full: oomp_symbol_mcu_microchip_samd_atsamda1e16b_a_f2674d
-  oomp_key_simple: mcu_microchip_samd_atsamda1e16b_a
+  md5: 99a643207ce2a7d58473189abcf2cf02
+  md5_10: 99a643207c
+  md5_5: 99a64
+  md5_6: 99a643
+  oomp_key: oomp_atsamda1e16b_a
+  oomp_key_extra: oomp_symbol_atsamda1e16b_a
+  oomp_key_full: oomp_symbol_atsamda1e16b_a_99a643
+  oomp_key_simple: atsamda1e16b_a
   owner_name: kicad
-  symbol_name: mcu_microchip_samd_atsamda1e16b_a
+  symbol_name: atsamda1e16b_a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

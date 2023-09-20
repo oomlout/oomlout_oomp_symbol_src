@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_voltmeter_diff/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_voltmeter_diff/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_voltmeter_diff/working
-name: simulation_spice_voltmeter_diff
+name: voltmeter_diff
 oomp:
   library_name: simulation_spice
-  md5: e0e297ad5478e25366d6b6ff156e7ab2
-  md5_10: e0e297ad54
-  md5_5: e0e29
-  md5_6: e0e297
-  oomp_key: oomp_simulation_spice_voltmeter_diff
-  oomp_key_extra: oomp_symbol_simulation_spice_voltmeter_diff
-  oomp_key_full: oomp_symbol_simulation_spice_voltmeter_diff_e0e297
-  oomp_key_simple: simulation_spice_voltmeter_diff
+  md5: cb7747cb3ae2ec6bc9d39a21c6b302b2
+  md5_10: cb7747cb3a
+  md5_5: cb774
+  md5_6: cb7747
+  oomp_key: oomp_voltmeter_diff
+  oomp_key_extra: oomp_symbol_voltmeter_diff
+  oomp_key_full: oomp_symbol_voltmeter_diff_cb7747
+  oomp_key_simple: voltmeter_diff
   owner_name: kicad
-  symbol_name: simulation_spice_voltmeter_diff
+  symbol_name: voltmeter_diff
 oomp_key: oomp_kicad_simulation_spice_voltmeter_diff
 oomp_key_simple: kicad_simulation_spice_voltmeter_diff
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

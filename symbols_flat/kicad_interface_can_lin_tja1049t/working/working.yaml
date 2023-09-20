@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_tja1049t/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_tja1049t/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_tja1049t/working
-name: interface_can_lin_tja1049t
+name: tja1049t
 oomp:
   library_name: interface_can_lin
-  md5: bf84af5a0bcfeef656f2b741ab82bd45
-  md5_10: bf84af5a0b
-  md5_5: bf84a
-  md5_6: bf84af
-  oomp_key: oomp_interface_can_lin_tja1049t
-  oomp_key_extra: oomp_symbol_interface_can_lin_tja1049t
-  oomp_key_full: oomp_symbol_interface_can_lin_tja1049t_bf84af
-  oomp_key_simple: interface_can_lin_tja1049t
+  md5: 6266f100647e46414c4ac108d3955074
+  md5_10: 6266f10064
+  md5_5: 6266f
+  md5_6: 6266f1
+  oomp_key: oomp_tja1049t
+  oomp_key_extra: oomp_symbol_tja1049t
+  oomp_key_full: oomp_symbol_tja1049t_6266f1
+  oomp_key_simple: tja1049t
   owner_name: kicad
-  symbol_name: interface_can_lin_tja1049t
+  symbol_name: tja1049t
 oomp_key: oomp_kicad_interface_can_lin_tja1049t
 oomp_key_simple: kicad_interface_can_lin_tja1049t
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

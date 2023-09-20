@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_dual_bidirectional/working
   oomp_src_flat: symbols_flat/kicad_device_led_dual_bidirectional/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_dual_bidirectional/working
-name: device_led_dual_bidirectional
+name: led_dual_bidirectional
 oomp:
   library_name: device
-  md5: 0e4df1c22c61b17f43d0b083c456ad74
-  md5_10: 0e4df1c22c
-  md5_5: 0e4df
-  md5_6: 0e4df1
-  oomp_key: oomp_device_led_dual_bidirectional
-  oomp_key_extra: oomp_symbol_device_led_dual_bidirectional
-  oomp_key_full: oomp_symbol_device_led_dual_bidirectional_0e4df1
-  oomp_key_simple: device_led_dual_bidirectional
+  md5: f17ff3eb78226382c9102ea7ccc5380e
+  md5_10: f17ff3eb78
+  md5_5: f17ff
+  md5_6: f17ff3
+  oomp_key: oomp_led_dual_bidirectional
+  oomp_key_extra: oomp_symbol_led_dual_bidirectional
+  oomp_key_full: oomp_symbol_led_dual_bidirectional_f17ff3
+  oomp_key_simple: led_dual_bidirectional
   owner_name: kicad
-  symbol_name: device_led_dual_bidirectional
+  symbol_name: led_dual_bidirectional
 oomp_key: oomp_kicad_device_led_dual_bidirectional
 oomp_key_simple: kicad_device_led_dual_bidirectional
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

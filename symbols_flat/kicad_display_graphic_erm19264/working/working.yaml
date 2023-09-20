@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_graphic_erm19264/working
   oomp_src_flat: symbols_flat/kicad_display_graphic_erm19264/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_graphic_erm19264/working
-name: display_graphic_erm19264
+name: erm19264
 oomp:
   library_name: display_graphic
-  md5: fea04b03c2dc3fc9e4fe6d57bcb4b267
-  md5_10: fea04b03c2
-  md5_5: fea04
-  md5_6: fea04b
-  oomp_key: oomp_display_graphic_erm19264
-  oomp_key_extra: oomp_symbol_display_graphic_erm19264
-  oomp_key_full: oomp_symbol_display_graphic_erm19264_fea04b
-  oomp_key_simple: display_graphic_erm19264
+  md5: 38b83127c2ae01e7f9fce923dea74989
+  md5_10: 38b83127c2
+  md5_5: 38b83
+  md5_6: 38b831
+  oomp_key: oomp_erm19264
+  oomp_key_extra: oomp_symbol_erm19264
+  oomp_key_full: oomp_symbol_erm19264_38b831
+  oomp_key_simple: erm19264
   owner_name: kicad
-  symbol_name: display_graphic_erm19264
+  symbol_name: erm19264
 oomp_key: oomp_kicad_display_graphic_erm19264
 oomp_key_simple: kicad_display_graphic_erm19264
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_bm1422agmv/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_bm1422agmv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_bm1422agmv/working
-name: sensor_magnetic_bm1422agmv
+name: bm1422agmv
 oomp:
   library_name: sensor_magnetic
-  md5: 49cade2d3396a8a2bc8ec2322b10f4a6
-  md5_10: 49cade2d33
-  md5_5: 49cad
-  md5_6: 49cade
-  oomp_key: oomp_sensor_magnetic_bm1422agmv
-  oomp_key_extra: oomp_symbol_sensor_magnetic_bm1422agmv
-  oomp_key_full: oomp_symbol_sensor_magnetic_bm1422agmv_49cade
-  oomp_key_simple: sensor_magnetic_bm1422agmv
+  md5: f11d8d81ac2e01fbf842cb991fff1af0
+  md5_10: f11d8d81ac
+  md5_5: f11d8
+  md5_6: f11d8d
+  oomp_key: oomp_bm1422agmv
+  oomp_key_extra: oomp_symbol_bm1422agmv
+  oomp_key_full: oomp_symbol_bm1422agmv_f11d8d
+  oomp_key_simple: bm1422agmv
   owner_name: kicad
-  symbol_name: sensor_magnetic_bm1422agmv
+  symbol_name: bm1422agmv
 oomp_key: oomp_kicad_sensor_magnetic_bm1422agmv
 oomp_key_simple: kicad_sensor_magnetic_bm1422agmv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

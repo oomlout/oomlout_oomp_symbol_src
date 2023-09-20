@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_tca9800/working
   oomp_src_flat: symbols_flat/kicad_interface_tca9800/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_tca9800/working
-name: interface_tca9800
+name: tca9800
 oomp:
   library_name: interface
-  md5: 815331a40663245cf9262812a59559df
-  md5_10: 815331a406
-  md5_5: '81533'
-  md5_6: '815331'
-  oomp_key: oomp_interface_tca9800
-  oomp_key_extra: oomp_symbol_interface_tca9800
-  oomp_key_full: oomp_symbol_interface_tca9800_815331
-  oomp_key_simple: interface_tca9800
+  md5: 637815514a14ec544ddbaf49d1d4c9ab
+  md5_10: 637815514a
+  md5_5: '63781'
+  md5_6: '637815'
+  oomp_key: oomp_tca9800
+  oomp_key_extra: oomp_symbol_tca9800
+  oomp_key_full: oomp_symbol_tca9800_637815
+  oomp_key_simple: tca9800
   owner_name: kicad
-  symbol_name: interface_tca9800
+  symbol_name: tca9800
 oomp_key: oomp_kicad_interface_tca9800
 oomp_key_simple: kicad_interface_tca9800
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

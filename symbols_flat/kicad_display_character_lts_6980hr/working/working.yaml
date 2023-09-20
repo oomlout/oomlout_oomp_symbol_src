@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_lts_6980hr/working
   oomp_src_flat: symbols_flat/kicad_display_character_lts_6980hr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_lts_6980hr/working
-name: display_character_lts_6980hr
+name: lts_6980hr
 oomp:
   library_name: display_character
-  md5: 4df40a323fbc809f511600095433f029
-  md5_10: 4df40a323f
-  md5_5: 4df40
-  md5_6: 4df40a
-  oomp_key: oomp_display_character_lts_6980hr
-  oomp_key_extra: oomp_symbol_display_character_lts_6980hr
-  oomp_key_full: oomp_symbol_display_character_lts_6980hr_4df40a
-  oomp_key_simple: display_character_lts_6980hr
+  md5: 3d513dc9c03fc60fc0c0e520d8d27e34
+  md5_10: 3d513dc9c0
+  md5_5: 3d513
+  md5_6: 3d513d
+  oomp_key: oomp_lts_6980hr
+  oomp_key_extra: oomp_symbol_lts_6980hr
+  oomp_key_full: oomp_symbol_lts_6980hr_3d513d
+  oomp_key_simple: lts_6980hr
   owner_name: kicad
-  symbol_name: display_character_lts_6980hr
+  symbol_name: lts_6980hr
 oomp_key: oomp_kicad_display_character_lts_6980hr
 oomp_key_simple: kicad_display_character_lts_6980hr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

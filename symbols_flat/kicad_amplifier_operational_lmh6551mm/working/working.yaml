@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lmh6551mm/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lmh6551mm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lmh6551mm/working
-name: amplifier_operational_lmh6551mm
+name: lmh6551mm
 oomp:
   library_name: amplifier_operational
-  md5: 381760fad1d8995f4d9a6c44dff9903c
-  md5_10: 381760fad1
-  md5_5: '38176'
-  md5_6: '381760'
-  oomp_key: oomp_amplifier_operational_lmh6551mm
-  oomp_key_extra: oomp_symbol_amplifier_operational_lmh6551mm
-  oomp_key_full: oomp_symbol_amplifier_operational_lmh6551mm_381760
-  oomp_key_simple: amplifier_operational_lmh6551mm
+  md5: eb326fb603d60e7ead48161fad13e76c
+  md5_10: eb326fb603
+  md5_5: eb326
+  md5_6: eb326f
+  oomp_key: oomp_lmh6551mm
+  oomp_key_extra: oomp_symbol_lmh6551mm
+  oomp_key_full: oomp_symbol_lmh6551mm_eb326f
+  oomp_key_simple: lmh6551mm
   owner_name: kicad
-  symbol_name: amplifier_operational_lmh6551mm
+  symbol_name: lmh6551mm
 oomp_key: oomp_kicad_amplifier_operational_lmh6551mm
 oomp_key_simple: kicad_amplifier_operational_lmh6551mm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

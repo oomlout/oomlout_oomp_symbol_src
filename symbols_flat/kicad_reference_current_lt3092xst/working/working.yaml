@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_current_lt3092xst/working
   oomp_src_flat: symbols_flat/kicad_reference_current_lt3092xst/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_current_lt3092xst/working
-name: reference_current_lt3092xst
+name: lt3092xst
 oomp:
   library_name: reference_current
-  md5: c43ee24bf6af065379ce33abe43c6fd8
-  md5_10: c43ee24bf6
-  md5_5: c43ee
-  md5_6: c43ee2
-  oomp_key: oomp_reference_current_lt3092xst
-  oomp_key_extra: oomp_symbol_reference_current_lt3092xst
-  oomp_key_full: oomp_symbol_reference_current_lt3092xst_c43ee2
-  oomp_key_simple: reference_current_lt3092xst
+  md5: 20fcf78deac6547c88b8e0e4baec3f42
+  md5_10: 20fcf78dea
+  md5_5: 20fcf
+  md5_6: 20fcf7
+  oomp_key: oomp_lt3092xst
+  oomp_key_extra: oomp_symbol_lt3092xst
+  oomp_key_full: oomp_symbol_lt3092xst_20fcf7
+  oomp_key_simple: lt3092xst
   owner_name: kicad
-  symbol_name: reference_current_lt3092xst
+  symbol_name: lt3092xst
 oomp_key: oomp_kicad_reference_current_lt3092xst
 oomp_key_simple: kicad_reference_current_lt3092xst
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

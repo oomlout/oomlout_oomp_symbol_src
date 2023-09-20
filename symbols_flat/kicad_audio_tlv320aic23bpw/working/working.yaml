@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_tlv320aic23bpw/working
   oomp_src_flat: symbols_flat/kicad_audio_tlv320aic23bpw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_tlv320aic23bpw/working
-name: audio_tlv320aic23bpw
+name: tlv320aic23bpw
 oomp:
   library_name: audio
-  md5: 8006430b17d97ea6428200cf6440009a
-  md5_10: 8006430b17
-  md5_5: '80064'
-  md5_6: '800643'
-  oomp_key: oomp_audio_tlv320aic23bpw
-  oomp_key_extra: oomp_symbol_audio_tlv320aic23bpw
-  oomp_key_full: oomp_symbol_audio_tlv320aic23bpw_800643
-  oomp_key_simple: audio_tlv320aic23bpw
+  md5: 33f8dc17ac965ee51f6596fdbb1a9bd2
+  md5_10: 33f8dc17ac
+  md5_5: 33f8d
+  md5_6: 33f8dc
+  oomp_key: oomp_tlv320aic23bpw
+  oomp_key_extra: oomp_symbol_tlv320aic23bpw
+  oomp_key_full: oomp_symbol_tlv320aic23bpw_33f8dc
+  oomp_key_simple: tlv320aic23bpw
   owner_name: kicad
-  symbol_name: audio_tlv320aic23bpw
+  symbol_name: tlv320aic23bpw
 oomp_key: oomp_kicad_audio_tlv320aic23bpw
 oomp_key_simple: kicad_audio_tlv320aic23bpw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

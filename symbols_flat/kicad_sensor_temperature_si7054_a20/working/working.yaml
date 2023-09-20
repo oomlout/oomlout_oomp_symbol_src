@@ -1,19 +1,19 @@
 id: kicad_sensor_temperature_si7054_a20
 library: sensor_temperature
 library_name: Sensor_Temperature
-name: sensor_temperature_si7054_a20
+name: si7054_a20
 oomp:
   library_name: sensor_temperature
-  md5: b5da809ee0a4b00f0e0250f3927ea36b
-  md5_10: b5da809ee0
-  md5_5: b5da8
-  md5_6: b5da80
-  oomp_key: oomp_sensor_temperature_si7054_a20
-  oomp_key_extra: oomp_symbol_sensor_temperature_si7054_a20
-  oomp_key_full: oomp_symbol_sensor_temperature_si7054_a20_b5da80
-  oomp_key_simple: sensor_temperature_si7054_a20
+  md5: 756d5881500317d4b84e39763c1f7a2e
+  md5_10: 756d588150
+  md5_5: 756d5
+  md5_6: 756d58
+  oomp_key: oomp_si7054_a20
+  oomp_key_extra: oomp_symbol_si7054_a20
+  oomp_key_full: oomp_symbol_si7054_a20_756d58
+  oomp_key_simple: si7054_a20
   owner_name: kicad
-  symbol_name: sensor_temperature_si7054_a20
+  symbol_name: si7054_a20
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

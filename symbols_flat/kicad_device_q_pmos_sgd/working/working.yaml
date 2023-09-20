@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_pmos_sgd/working
   oomp_src_flat: symbols_flat/kicad_device_q_pmos_sgd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_pmos_sgd/working
-name: device_q_pmos_sgd
+name: q_pmos_sgd
 oomp:
   library_name: device
-  md5: 537a579dd4a9a1b9b42ac70eb9e79f40
-  md5_10: 537a579dd4
-  md5_5: 537a5
-  md5_6: 537a57
-  oomp_key: oomp_device_q_pmos_sgd
-  oomp_key_extra: oomp_symbol_device_q_pmos_sgd
-  oomp_key_full: oomp_symbol_device_q_pmos_sgd_537a57
-  oomp_key_simple: device_q_pmos_sgd
+  md5: bb1b286991701ac8aea206d90f60fdc1
+  md5_10: bb1b286991
+  md5_5: bb1b2
+  md5_6: bb1b28
+  oomp_key: oomp_q_pmos_sgd
+  oomp_key_extra: oomp_symbol_q_pmos_sgd
+  oomp_key_full: oomp_symbol_q_pmos_sgd_bb1b28
+  oomp_key_simple: q_pmos_sgd
   owner_name: kicad
-  symbol_name: device_q_pmos_sgd
+  symbol_name: q_pmos_sgd
 oomp_key: oomp_kicad_device_q_pmos_sgd
 oomp_key_simple: kicad_device_q_pmos_sgd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_regulator_controller_lm3478qmm
 library: regulator_controller
 library_name: Regulator_Controller
-name: regulator_controller_lm3478qmm
+name: lm3478qmm
 oomp:
   library_name: regulator_controller
-  md5: 75bfd25d24021bdb96d71d42d240c29b
-  md5_10: 75bfd25d24
-  md5_5: 75bfd
-  md5_6: 75bfd2
-  oomp_key: oomp_regulator_controller_lm3478qmm
-  oomp_key_extra: oomp_symbol_regulator_controller_lm3478qmm
-  oomp_key_full: oomp_symbol_regulator_controller_lm3478qmm_75bfd2
-  oomp_key_simple: regulator_controller_lm3478qmm
+  md5: 8082b9a9aa1f103760b37e4ec97180c3
+  md5_10: 8082b9a9aa
+  md5_5: 8082b
+  md5_6: 8082b9
+  oomp_key: oomp_lm3478qmm
+  oomp_key_extra: oomp_symbol_lm3478qmm
+  oomp_key_full: oomp_symbol_lm3478qmm_8082b9
+  oomp_key_simple: lm3478qmm
   owner_name: kicad
-  symbol_name: regulator_controller_lm3478qmm
+  symbol_name: lm3478qmm
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

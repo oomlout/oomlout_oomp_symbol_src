@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_rtl8211eg_vb_cg/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_rtl8211eg_vb_cg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_rtl8211eg_vb_cg/working
-name: interface_ethernet_rtl8211eg_vb_cg
+name: rtl8211eg_vb_cg
 oomp:
   library_name: interface_ethernet
-  md5: 65d28e3433fc88c2a304a4717c5ca939
-  md5_10: 65d28e3433
-  md5_5: 65d28
-  md5_6: 65d28e
-  oomp_key: oomp_interface_ethernet_rtl8211eg_vb_cg
-  oomp_key_extra: oomp_symbol_interface_ethernet_rtl8211eg_vb_cg
-  oomp_key_full: oomp_symbol_interface_ethernet_rtl8211eg_vb_cg_65d28e
-  oomp_key_simple: interface_ethernet_rtl8211eg_vb_cg
+  md5: e853dc843c46ba5b52b774def1f3997e
+  md5_10: e853dc843c
+  md5_5: e853d
+  md5_6: e853dc
+  oomp_key: oomp_rtl8211eg_vb_cg
+  oomp_key_extra: oomp_symbol_rtl8211eg_vb_cg
+  oomp_key_full: oomp_symbol_rtl8211eg_vb_cg_e853dc
+  oomp_key_simple: rtl8211eg_vb_cg
   owner_name: kicad
-  symbol_name: interface_ethernet_rtl8211eg_vb_cg
+  symbol_name: rtl8211eg_vb_cg
 oomp_key: oomp_kicad_interface_ethernet_rtl8211eg_vb_cg
 oomp_key_simple: kicad_interface_ethernet_rtl8211eg_vb_cg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

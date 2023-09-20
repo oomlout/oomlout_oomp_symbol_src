@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lt3080xst/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lt3080xst/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lt3080xst/working
-name: regulator_linear_lt3080xst
+name: lt3080xst
 oomp:
   library_name: regulator_linear
-  md5: acdfe476a8b412081713118ff62f954b
-  md5_10: acdfe476a8
-  md5_5: acdfe
-  md5_6: acdfe4
-  oomp_key: oomp_regulator_linear_lt3080xst
-  oomp_key_extra: oomp_symbol_regulator_linear_lt3080xst
-  oomp_key_full: oomp_symbol_regulator_linear_lt3080xst_acdfe4
-  oomp_key_simple: regulator_linear_lt3080xst
+  md5: 2e57adfd3f89fc9bf69ba2026ae1191d
+  md5_10: 2e57adfd3f
+  md5_5: 2e57a
+  md5_6: 2e57ad
+  oomp_key: oomp_lt3080xst
+  oomp_key_extra: oomp_symbol_lt3080xst
+  oomp_key_full: oomp_symbol_lt3080xst_2e57ad
+  oomp_key_simple: lt3080xst
   owner_name: kicad
-  symbol_name: regulator_linear_lt3080xst
+  symbol_name: lt3080xst
 oomp_key: oomp_kicad_regulator_linear_lt3080xst
 oomp_key_simple: kicad_regulator_linear_lt3080xst
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

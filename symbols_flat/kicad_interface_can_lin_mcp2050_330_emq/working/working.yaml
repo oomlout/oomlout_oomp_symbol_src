@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_mcp2050_330_emq/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_mcp2050_330_emq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_mcp2050_330_emq/working
-name: interface_can_lin_mcp2050_330_emq
+name: mcp2050_330_emq
 oomp:
   library_name: interface_can_lin
-  md5: ab979d7cae4923137abc1e012ac0e801
-  md5_10: ab979d7cae
-  md5_5: ab979
-  md5_6: ab979d
-  oomp_key: oomp_interface_can_lin_mcp2050_330_emq
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2050_330_emq
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2050_330_emq_ab979d
-  oomp_key_simple: interface_can_lin_mcp2050_330_emq
+  md5: a33c97f31f6b01b999581f318bb4e8e1
+  md5_10: a33c97f31f
+  md5_5: a33c9
+  md5_6: a33c97
+  oomp_key: oomp_mcp2050_330_emq
+  oomp_key_extra: oomp_symbol_mcp2050_330_emq
+  oomp_key_full: oomp_symbol_mcp2050_330_emq_a33c97
+  oomp_key_simple: mcp2050_330_emq
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2050_330_emq
+  symbol_name: mcp2050_330_emq
 oomp_key: oomp_kicad_interface_can_lin_mcp2050_330_emq
 oomp_key_simple: kicad_interface_can_lin_mcp2050_330_emq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

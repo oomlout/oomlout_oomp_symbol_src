@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_si7210_b_xx_im2/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_si7210_b_xx_im2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_si7210_b_xx_im2/working
-name: sensor_magnetic_si7210_b_xx_im2
+name: si7210_b_xx_im2
 oomp:
   library_name: sensor_magnetic
-  md5: cd86d64864d0628a868e457972056b5a
-  md5_10: cd86d64864
-  md5_5: cd86d
-  md5_6: cd86d6
-  oomp_key: oomp_sensor_magnetic_si7210_b_xx_im2
-  oomp_key_extra: oomp_symbol_sensor_magnetic_si7210_b_xx_im2
-  oomp_key_full: oomp_symbol_sensor_magnetic_si7210_b_xx_im2_cd86d6
-  oomp_key_simple: sensor_magnetic_si7210_b_xx_im2
+  md5: 3ed47d54fb919f5dbc848a2be16ebe7e
+  md5_10: 3ed47d54fb
+  md5_5: 3ed47
+  md5_6: 3ed47d
+  oomp_key: oomp_si7210_b_xx_im2
+  oomp_key_extra: oomp_symbol_si7210_b_xx_im2
+  oomp_key_full: oomp_symbol_si7210_b_xx_im2_3ed47d
+  oomp_key_simple: si7210_b_xx_im2
   owner_name: kicad
-  symbol_name: sensor_magnetic_si7210_b_xx_im2
+  symbol_name: si7210_b_xx_im2
 oomp_key: oomp_kicad_sensor_magnetic_si7210_b_xx_im2
 oomp_key_simple: kicad_sensor_magnetic_si7210_b_xx_im2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_rf_amplifier_bga2865
 library: rf_amplifier
 library_name: RF_Amplifier
-name: rf_amplifier_bga2865
+name: bga2865
 oomp:
   library_name: rf_amplifier
-  md5: 428468eb596a7314002e4a4f820e5929
-  md5_10: 428468eb59
-  md5_5: '42846'
-  md5_6: '428468'
-  oomp_key: oomp_rf_amplifier_bga2865
-  oomp_key_extra: oomp_symbol_rf_amplifier_bga2865
-  oomp_key_full: oomp_symbol_rf_amplifier_bga2865_428468
-  oomp_key_simple: rf_amplifier_bga2865
+  md5: 988835cdcc3835bde05caab19e4ba8e4
+  md5_10: 988835cdcc
+  md5_5: '98883'
+  md5_6: '988835'
+  oomp_key: oomp_bga2865
+  oomp_key_extra: oomp_symbol_bga2865
+  oomp_key_full: oomp_symbol_bga2865_988835
+  oomp_key_simple: bga2865
   owner_name: kicad
-  symbol_name: rf_amplifier_bga2865
+  symbol_name: bga2865
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

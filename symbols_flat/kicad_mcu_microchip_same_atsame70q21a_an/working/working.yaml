@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_same_atsame70q21a_an/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_same_atsame70q21a_an/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_same_atsame70q21a_an/working
-name: mcu_microchip_same_atsame70q21a_an
+name: atsame70q21a_an
 oomp:
   library_name: mcu_microchip_same
-  md5: be365b46df69a4410820669d8092abd5
-  md5_10: be365b46df
-  md5_5: be365
-  md5_6: be365b
-  oomp_key: oomp_mcu_microchip_same_atsame70q21a_an
-  oomp_key_extra: oomp_symbol_mcu_microchip_same_atsame70q21a_an
-  oomp_key_full: oomp_symbol_mcu_microchip_same_atsame70q21a_an_be365b
-  oomp_key_simple: mcu_microchip_same_atsame70q21a_an
+  md5: e1748568da52b3e5b2cef0dfea7d8467
+  md5_10: e1748568da
+  md5_5: e1748
+  md5_6: e17485
+  oomp_key: oomp_atsame70q21a_an
+  oomp_key_extra: oomp_symbol_atsame70q21a_an
+  oomp_key_full: oomp_symbol_atsame70q21a_an_e17485
+  oomp_key_simple: atsame70q21a_an
   owner_name: kicad
-  symbol_name: mcu_microchip_same_atsame70q21a_an
+  symbol_name: atsame70q21a_an
 oomp_key: oomp_kicad_mcu_microchip_same_atsame70q21a_an
 oomp_key_simple: kicad_mcu_microchip_same_atsame70q21a_an
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

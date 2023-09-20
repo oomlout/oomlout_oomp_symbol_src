@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tps77815_htssop20/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tps77815_htssop20/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tps77815_htssop20/working
-name: regulator_linear_tps77815_htssop20
+name: tps77815_htssop20
 oomp:
   library_name: regulator_linear
-  md5: 7d9df8b6e3b2c12f05efc0d76de2088c
-  md5_10: 7d9df8b6e3
-  md5_5: 7d9df
-  md5_6: 7d9df8
-  oomp_key: oomp_regulator_linear_tps77815_htssop20
-  oomp_key_extra: oomp_symbol_regulator_linear_tps77815_htssop20
-  oomp_key_full: oomp_symbol_regulator_linear_tps77815_htssop20_7d9df8
-  oomp_key_simple: regulator_linear_tps77815_htssop20
+  md5: 5e31ae7001239c667f1b407b0044c146
+  md5_10: 5e31ae7001
+  md5_5: 5e31a
+  md5_6: 5e31ae
+  oomp_key: oomp_tps77815_htssop20
+  oomp_key_extra: oomp_symbol_tps77815_htssop20
+  oomp_key_full: oomp_symbol_tps77815_htssop20_5e31ae
+  oomp_key_simple: tps77815_htssop20
   owner_name: kicad
-  symbol_name: regulator_linear_tps77815_htssop20
+  symbol_name: tps77815_htssop20
 oomp_key: oomp_kicad_regulator_linear_tps77815_htssop20
 oomp_key_simple: kicad_regulator_linear_tps77815_htssop20
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

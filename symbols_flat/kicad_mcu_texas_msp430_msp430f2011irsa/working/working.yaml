@@ -1,19 +1,19 @@
 id: kicad_mcu_texas_msp430_msp430f2011irsa
 library: mcu_texas_msp430
 library_name: MCU_Texas_MSP430
-name: mcu_texas_msp430_msp430f2011irsa
+name: msp430f2011irsa
 oomp:
   library_name: mcu_texas_msp430
-  md5: edb905d39ec2f45580c1e69d1545f485
-  md5_10: edb905d39e
-  md5_5: edb90
-  md5_6: edb905
-  oomp_key: oomp_mcu_texas_msp430_msp430f2011irsa
-  oomp_key_extra: oomp_symbol_mcu_texas_msp430_msp430f2011irsa
-  oomp_key_full: oomp_symbol_mcu_texas_msp430_msp430f2011irsa_edb905
-  oomp_key_simple: mcu_texas_msp430_msp430f2011irsa
+  md5: 3243237e3628da15fcacd2f644b07999
+  md5_10: 3243237e36
+  md5_5: '32432'
+  md5_6: '324323'
+  oomp_key: oomp_msp430f2011irsa
+  oomp_key_extra: oomp_symbol_msp430f2011irsa
+  oomp_key_full: oomp_symbol_msp430f2011irsa_324323
+  oomp_key_simple: msp430f2011irsa
   owner_name: kicad
-  symbol_name: mcu_texas_msp430_msp430f2011irsa
+  symbol_name: msp430f2011irsa
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

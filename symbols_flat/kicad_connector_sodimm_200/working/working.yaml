@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_sodimm_200/working
   oomp_src_flat: symbols_flat/kicad_connector_sodimm_200/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_sodimm_200/working
-name: connector_sodimm_200
+name: sodimm_200
 oomp:
   library_name: connector
-  md5: e05e1b7c356d51b5b6f3648e1e7166ce
-  md5_10: e05e1b7c35
-  md5_5: e05e1
-  md5_6: e05e1b
-  oomp_key: oomp_connector_sodimm_200
-  oomp_key_extra: oomp_symbol_connector_sodimm_200
-  oomp_key_full: oomp_symbol_connector_sodimm_200_e05e1b
-  oomp_key_simple: connector_sodimm_200
+  md5: 9d94260111a90aeb349d53cdc0d11bf3
+  md5_10: 9d94260111
+  md5_5: 9d942
+  md5_6: 9d9426
+  oomp_key: oomp_sodimm_200
+  oomp_key_extra: oomp_symbol_sodimm_200
+  oomp_key_full: oomp_symbol_sodimm_200_9d9426
+  oomp_key_simple: sodimm_200
   owner_name: kicad
-  symbol_name: connector_sodimm_200
+  symbol_name: sodimm_200
 oomp_key: oomp_kicad_connector_sodimm_200
 oomp_key_simple: kicad_connector_sodimm_200
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

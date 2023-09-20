@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_barrel_jack_mountingpin/working
   oomp_src_flat: symbols_flat/kicad_connector_barrel_jack_mountingpin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_barrel_jack_mountingpin/working
-name: connector_barrel_jack_mountingpin
+name: barrel_jack_mountingpin
 oomp:
   library_name: connector
-  md5: 85fd1063d567490aaf44955e09452df7
-  md5_10: 85fd1063d5
-  md5_5: 85fd1
-  md5_6: 85fd10
-  oomp_key: oomp_connector_barrel_jack_mountingpin
-  oomp_key_extra: oomp_symbol_connector_barrel_jack_mountingpin
-  oomp_key_full: oomp_symbol_connector_barrel_jack_mountingpin_85fd10
-  oomp_key_simple: connector_barrel_jack_mountingpin
+  md5: 615b332570414bd6d82b69c53061a87f
+  md5_10: 615b332570
+  md5_5: 615b3
+  md5_6: 615b33
+  oomp_key: oomp_barrel_jack_mountingpin
+  oomp_key_extra: oomp_symbol_barrel_jack_mountingpin
+  oomp_key_full: oomp_symbol_barrel_jack_mountingpin_615b33
+  oomp_key_simple: barrel_jack_mountingpin
   owner_name: kicad
-  symbol_name: connector_barrel_jack_mountingpin
+  symbol_name: barrel_jack_mountingpin
 oomp_key: oomp_kicad_connector_barrel_jack_mountingpin
 oomp_key_simple: kicad_connector_barrel_jack_mountingpin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

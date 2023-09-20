@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_pic18_pic18f26k83_xsp
 library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
-name: mcu_microchip_pic18_pic18f26k83_xsp
+name: pic18f26k83_xsp
 oomp:
   library_name: mcu_microchip_pic18
-  md5: 2ad54b64ec87ff792fb81439487e909a
-  md5_10: 2ad54b64ec
-  md5_5: 2ad54
-  md5_6: 2ad54b
-  oomp_key: oomp_mcu_microchip_pic18_pic18f26k83_xsp
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18f26k83_xsp
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18f26k83_xsp_2ad54b
-  oomp_key_simple: mcu_microchip_pic18_pic18f26k83_xsp
+  md5: dd74082c80175b405a92d4a38833770f
+  md5_10: dd74082c80
+  md5_5: dd740
+  md5_6: dd7408
+  oomp_key: oomp_pic18f26k83_xsp
+  oomp_key_extra: oomp_symbol_pic18f26k83_xsp
+  oomp_key_full: oomp_symbol_pic18f26k83_xsp_dd7408
+  oomp_key_simple: pic18f26k83_xsp
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18f26k83_xsp
+  symbol_name: pic18f26k83_xsp
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_fd1771/working
   oomp_src_flat: symbols_flat/kicad_interface_fd1771/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_fd1771/working
-name: interface_fd1771
+name: fd1771
 oomp:
   library_name: interface
-  md5: 12d9034052dd8bc630fb354be1bd8951
-  md5_10: 12d9034052
-  md5_5: 12d90
-  md5_6: 12d903
-  oomp_key: oomp_interface_fd1771
-  oomp_key_extra: oomp_symbol_interface_fd1771
-  oomp_key_full: oomp_symbol_interface_fd1771_12d903
-  oomp_key_simple: interface_fd1771
+  md5: affa2c9a1493826c798b3db53972a2a4
+  md5_10: affa2c9a14
+  md5_5: affa2
+  md5_6: affa2c
+  oomp_key: oomp_fd1771
+  oomp_key_extra: oomp_symbol_fd1771
+  oomp_key_full: oomp_symbol_fd1771_affa2c
+  oomp_key_simple: fd1771
   owner_name: kicad
-  symbol_name: interface_fd1771
+  symbol_name: fd1771
 oomp_key: oomp_kicad_interface_fd1771
 oomp_key_simple: kicad_interface_fd1771
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

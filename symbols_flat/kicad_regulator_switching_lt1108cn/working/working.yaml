@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_lt1108cn
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_lt1108cn
+name: lt1108cn
 oomp:
   library_name: regulator_switching
-  md5: 538ec8576727541cd6fb8fd9701b61ff
-  md5_10: 538ec85767
-  md5_5: 538ec
-  md5_6: 538ec8
-  oomp_key: oomp_regulator_switching_lt1108cn
-  oomp_key_extra: oomp_symbol_regulator_switching_lt1108cn
-  oomp_key_full: oomp_symbol_regulator_switching_lt1108cn_538ec8
-  oomp_key_simple: regulator_switching_lt1108cn
+  md5: 6b19eaa44c79a3362a729eb8a51762e8
+  md5_10: 6b19eaa44c
+  md5_5: 6b19e
+  md5_6: 6b19ea
+  oomp_key: oomp_lt1108cn
+  oomp_key_extra: oomp_symbol_lt1108cn
+  oomp_key_full: oomp_symbol_lt1108cn_6b19ea
+  oomp_key_simple: lt1108cn
   owner_name: kicad
-  symbol_name: regulator_switching_lt1108cn
+  symbol_name: lt1108cn
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

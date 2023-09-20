@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_tlv172idck/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_tlv172idck/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_tlv172idck/working
-name: amplifier_operational_tlv172idck
+name: tlv172idck
 oomp:
   library_name: amplifier_operational
-  md5: 94ab0a855c9950c5a312b2d46c675512
-  md5_10: 94ab0a855c
-  md5_5: 94ab0
-  md5_6: 94ab0a
-  oomp_key: oomp_amplifier_operational_tlv172idck
-  oomp_key_extra: oomp_symbol_amplifier_operational_tlv172idck
-  oomp_key_full: oomp_symbol_amplifier_operational_tlv172idck_94ab0a
-  oomp_key_simple: amplifier_operational_tlv172idck
+  md5: 85c9f14561823575e42e54d427975fc4
+  md5_10: 85c9f14561
+  md5_5: 85c9f
+  md5_6: 85c9f1
+  oomp_key: oomp_tlv172idck
+  oomp_key_extra: oomp_symbol_tlv172idck
+  oomp_key_full: oomp_symbol_tlv172idck_85c9f1
+  oomp_key_simple: tlv172idck
   owner_name: kicad
-  symbol_name: amplifier_operational_tlv172idck
+  symbol_name: tlv172idck
 oomp_key: oomp_kicad_amplifier_operational_tlv172idck
 oomp_key_simple: kicad_amplifier_operational_tlv172idck
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_sensor_optical_sfh203fa
 library: sensor_optical
 library_name: Sensor_Optical
-name: sensor_optical_sfh203fa
+name: sfh203fa
 oomp:
   library_name: sensor_optical
-  md5: f54b9be614102e1c872b7fa3fb92a9fe
-  md5_10: f54b9be614
-  md5_5: f54b9
-  md5_6: f54b9b
-  oomp_key: oomp_sensor_optical_sfh203fa
-  oomp_key_extra: oomp_symbol_sensor_optical_sfh203fa
-  oomp_key_full: oomp_symbol_sensor_optical_sfh203fa_f54b9b
-  oomp_key_simple: sensor_optical_sfh203fa
+  md5: 9f6e7e60d43ad1672b70b0c0a5731127
+  md5_10: 9f6e7e60d4
+  md5_5: 9f6e7
+  md5_6: 9f6e7e
+  oomp_key: oomp_sfh203fa
+  oomp_key_extra: oomp_symbol_sfh203fa
+  oomp_key_full: oomp_symbol_sfh203fa_9f6e7e
+  oomp_key_simple: sfh203fa
   owner_name: kicad
-  symbol_name: sensor_optical_sfh203fa
+  symbol_name: sfh203fa
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

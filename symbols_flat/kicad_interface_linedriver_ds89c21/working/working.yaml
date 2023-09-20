@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_linedriver_ds89c21/working
   oomp_src_flat: symbols_flat/kicad_interface_linedriver_ds89c21/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_linedriver_ds89c21/working
-name: interface_linedriver_ds89c21
+name: ds89c21
 oomp:
   library_name: interface_linedriver
-  md5: 0b2a8dc65b7d81b11174938a40be0328
-  md5_10: 0b2a8dc65b
-  md5_5: 0b2a8
-  md5_6: 0b2a8d
-  oomp_key: oomp_interface_linedriver_ds89c21
-  oomp_key_extra: oomp_symbol_interface_linedriver_ds89c21
-  oomp_key_full: oomp_symbol_interface_linedriver_ds89c21_0b2a8d
-  oomp_key_simple: interface_linedriver_ds89c21
+  md5: 61bd213430df5e25896144be2c3784de
+  md5_10: 61bd213430
+  md5_5: 61bd2
+  md5_6: 61bd21
+  oomp_key: oomp_ds89c21
+  oomp_key_extra: oomp_symbol_ds89c21
+  oomp_key_full: oomp_symbol_ds89c21_61bd21
+  oomp_key_simple: ds89c21
   owner_name: kicad
-  symbol_name: interface_linedriver_ds89c21
+  symbol_name: ds89c21
 oomp_key: oomp_kicad_interface_linedriver_ds89c21
 oomp_key_simple: kicad_interface_linedriver_ds89c21
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

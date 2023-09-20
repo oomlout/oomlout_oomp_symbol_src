@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_dipxx_1axx_11x/working
   oomp_src_flat: symbols_flat/kicad_relay_dipxx_1axx_11x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_dipxx_1axx_11x/working
-name: relay_dipxx_1axx_11x
+name: dipxx_1axx_11x
 oomp:
   library_name: relay
-  md5: af61520511642b2fb533e687437db611
-  md5_10: af61520511
-  md5_5: af615
-  md5_6: af6152
-  oomp_key: oomp_relay_dipxx_1axx_11x
-  oomp_key_extra: oomp_symbol_relay_dipxx_1axx_11x
-  oomp_key_full: oomp_symbol_relay_dipxx_1axx_11x_af6152
-  oomp_key_simple: relay_dipxx_1axx_11x
+  md5: 384b06f783d5807ebf0f91011c2151ef
+  md5_10: 384b06f783
+  md5_5: 384b0
+  md5_6: 384b06
+  oomp_key: oomp_dipxx_1axx_11x
+  oomp_key_extra: oomp_symbol_dipxx_1axx_11x
+  oomp_key_full: oomp_symbol_dipxx_1axx_11x_384b06
+  oomp_key_simple: dipxx_1axx_11x
   owner_name: kicad
-  symbol_name: relay_dipxx_1axx_11x
+  symbol_name: dipxx_1axx_11x
 oomp_key: oomp_kicad_relay_dipxx_1axx_11x
 oomp_key_simple: kicad_relay_dipxx_1axx_11x
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

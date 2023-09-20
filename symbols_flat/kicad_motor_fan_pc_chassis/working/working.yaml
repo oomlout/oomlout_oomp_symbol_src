@@ -1,19 +1,19 @@
 id: kicad_motor_fan_pc_chassis
 library: motor
 library_name: Motor
-name: motor_fan_pc_chassis
+name: fan_pc_chassis
 oomp:
   library_name: motor
-  md5: 7730ec10f5f52c8a415984709922dd17
-  md5_10: 7730ec10f5
-  md5_5: 7730e
-  md5_6: 7730ec
-  oomp_key: oomp_motor_fan_pc_chassis
-  oomp_key_extra: oomp_symbol_motor_fan_pc_chassis
-  oomp_key_full: oomp_symbol_motor_fan_pc_chassis_7730ec
-  oomp_key_simple: motor_fan_pc_chassis
+  md5: e6d35f6bb848fa61257394ce533e71d5
+  md5_10: e6d35f6bb8
+  md5_5: e6d35
+  md5_6: e6d35f
+  oomp_key: oomp_fan_pc_chassis
+  oomp_key_extra: oomp_symbol_fan_pc_chassis
+  oomp_key_full: oomp_symbol_fan_pc_chassis_e6d35f
+  oomp_key_simple: fan_pc_chassis
   owner_name: kicad
-  symbol_name: motor_fan_pc_chassis
+  symbol_name: fan_pc_chassis
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

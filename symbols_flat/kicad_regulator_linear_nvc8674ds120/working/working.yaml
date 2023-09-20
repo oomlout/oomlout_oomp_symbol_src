@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_nvc8674ds120
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_nvc8674ds120
+name: nvc8674ds120
 oomp:
   library_name: regulator_linear
-  md5: 220e3b18f1a364e1a90b23d55b901a94
-  md5_10: 220e3b18f1
-  md5_5: 220e3
-  md5_6: 220e3b
-  oomp_key: oomp_regulator_linear_nvc8674ds120
-  oomp_key_extra: oomp_symbol_regulator_linear_nvc8674ds120
-  oomp_key_full: oomp_symbol_regulator_linear_nvc8674ds120_220e3b
-  oomp_key_simple: regulator_linear_nvc8674ds120
+  md5: 09f40daeaa9835b57e9c79b2d28fb502
+  md5_10: 09f40daeaa
+  md5_5: 09f40
+  md5_6: 09f40d
+  oomp_key: oomp_nvc8674ds120
+  oomp_key_extra: oomp_symbol_nvc8674ds120
+  oomp_key_full: oomp_symbol_nvc8674ds120_09f40d
+  oomp_key_simple: nvc8674ds120
   owner_name: kicad
-  symbol_name: regulator_linear_nvc8674ds120
+  symbol_name: nvc8674ds120
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

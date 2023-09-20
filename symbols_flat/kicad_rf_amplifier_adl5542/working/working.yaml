@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_amplifier_adl5542/working
   oomp_src_flat: symbols_flat/kicad_rf_amplifier_adl5542/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_amplifier_adl5542/working
-name: rf_amplifier_adl5542
+name: adl5542
 oomp:
   library_name: rf_amplifier
-  md5: 8437d515984d9b341ba4261b16896078
-  md5_10: 8437d51598
-  md5_5: 8437d
-  md5_6: 8437d5
-  oomp_key: oomp_rf_amplifier_adl5542
-  oomp_key_extra: oomp_symbol_rf_amplifier_adl5542
-  oomp_key_full: oomp_symbol_rf_amplifier_adl5542_8437d5
-  oomp_key_simple: rf_amplifier_adl5542
+  md5: b1854c4453e0b7b4c7613bfe1b0c22c7
+  md5_10: b1854c4453
+  md5_5: b1854
+  md5_6: b1854c
+  oomp_key: oomp_adl5542
+  oomp_key_extra: oomp_symbol_adl5542
+  oomp_key_full: oomp_symbol_adl5542_b1854c
+  oomp_key_simple: adl5542
   owner_name: kicad
-  symbol_name: rf_amplifier_adl5542
+  symbol_name: adl5542
 oomp_key: oomp_kicad_rf_amplifier_adl5542
 oomp_key_simple: kicad_rf_amplifier_adl5542
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

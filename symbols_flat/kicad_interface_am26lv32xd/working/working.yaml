@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_am26lv32xd/working
   oomp_src_flat: symbols_flat/kicad_interface_am26lv32xd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_am26lv32xd/working
-name: interface_am26lv32xd
+name: am26lv32xd
 oomp:
   library_name: interface
-  md5: 32411c693b64df1f3b0d3228034f3f2f
-  md5_10: 32411c693b
-  md5_5: '32411'
-  md5_6: 32411c
-  oomp_key: oomp_interface_am26lv32xd
-  oomp_key_extra: oomp_symbol_interface_am26lv32xd
-  oomp_key_full: oomp_symbol_interface_am26lv32xd_32411c
-  oomp_key_simple: interface_am26lv32xd
+  md5: 623595c533e20694f53c2ea272c7264a
+  md5_10: 623595c533
+  md5_5: '62359'
+  md5_6: '623595'
+  oomp_key: oomp_am26lv32xd
+  oomp_key_extra: oomp_symbol_am26lv32xd
+  oomp_key_full: oomp_symbol_am26lv32xd_623595
+  oomp_key_simple: am26lv32xd
   owner_name: kicad
-  symbol_name: interface_am26lv32xd
+  symbol_name: am26lv32xd
 oomp_key: oomp_kicad_interface_am26lv32xd
 oomp_key_simple: kicad_interface_am26lv32xd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

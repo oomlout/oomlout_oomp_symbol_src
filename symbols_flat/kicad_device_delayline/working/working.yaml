@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_delayline/working
   oomp_src_flat: symbols_flat/kicad_device_delayline/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_delayline/working
-name: device_delayline
+name: delayline
 oomp:
   library_name: device
-  md5: 67171d364e9bcc0cb6404d59adbe19ba
-  md5_10: 67171d364e
-  md5_5: '67171'
-  md5_6: 67171d
-  oomp_key: oomp_device_delayline
-  oomp_key_extra: oomp_symbol_device_delayline
-  oomp_key_full: oomp_symbol_device_delayline_67171d
-  oomp_key_simple: device_delayline
+  md5: 5215fa8620e5911d56ca393314d123dd
+  md5_10: 5215fa8620
+  md5_5: 5215f
+  md5_6: 5215fa
+  oomp_key: oomp_delayline
+  oomp_key_extra: oomp_symbol_delayline
+  oomp_key_full: oomp_symbol_delayline_5215fa
+  oomp_key_simple: delayline
   owner_name: kicad
-  symbol_name: device_delayline
+  symbol_name: delayline
 oomp_key: oomp_kicad_device_delayline
 oomp_key_simple: kicad_device_delayline
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

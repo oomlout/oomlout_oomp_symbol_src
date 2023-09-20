@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_aat4610bigv_1_t1/working
   oomp_src_flat: symbols_flat/kicad_power_management_aat4610bigv_1_t1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_aat4610bigv_1_t1/working
-name: power_management_aat4610bigv_1_t1
+name: aat4610bigv_1_t1
 oomp:
   library_name: power_management
-  md5: 4f1b9552ffd4a22a346aa985d32bb6be
-  md5_10: 4f1b9552ff
-  md5_5: 4f1b9
-  md5_6: 4f1b95
-  oomp_key: oomp_power_management_aat4610bigv_1_t1
-  oomp_key_extra: oomp_symbol_power_management_aat4610bigv_1_t1
-  oomp_key_full: oomp_symbol_power_management_aat4610bigv_1_t1_4f1b95
-  oomp_key_simple: power_management_aat4610bigv_1_t1
+  md5: 68db6ecd161f249c40d8ee60727231c0
+  md5_10: 68db6ecd16
+  md5_5: 68db6
+  md5_6: 68db6e
+  oomp_key: oomp_aat4610bigv_1_t1
+  oomp_key_extra: oomp_symbol_aat4610bigv_1_t1
+  oomp_key_full: oomp_symbol_aat4610bigv_1_t1_68db6e
+  oomp_key_simple: aat4610bigv_1_t1
   owner_name: kicad
-  symbol_name: power_management_aat4610bigv_1_t1
+  symbol_name: aat4610bigv_1_t1
 oomp_key: oomp_kicad_power_management_aat4610bigv_1_t1
 oomp_key_simple: kicad_power_management_aat4610bigv_1_t1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

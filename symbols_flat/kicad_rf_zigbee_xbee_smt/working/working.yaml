@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_zigbee_xbee_smt/working
   oomp_src_flat: symbols_flat/kicad_rf_zigbee_xbee_smt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_zigbee_xbee_smt/working
-name: rf_zigbee_xbee_smt
+name: xbee_smt
 oomp:
   library_name: rf_zigbee
-  md5: f681f7e4e07704de1a9a9212702fa45e
-  md5_10: f681f7e4e0
-  md5_5: f681f
-  md5_6: f681f7
-  oomp_key: oomp_rf_zigbee_xbee_smt
-  oomp_key_extra: oomp_symbol_rf_zigbee_xbee_smt
-  oomp_key_full: oomp_symbol_rf_zigbee_xbee_smt_f681f7
-  oomp_key_simple: rf_zigbee_xbee_smt
+  md5: 417d93ec03e997bb365bb86a9ecb3e17
+  md5_10: 417d93ec03
+  md5_5: 417d9
+  md5_6: 417d93
+  oomp_key: oomp_xbee_smt
+  oomp_key_extra: oomp_symbol_xbee_smt
+  oomp_key_full: oomp_symbol_xbee_smt_417d93
+  oomp_key_simple: xbee_smt
   owner_name: kicad
-  symbol_name: rf_zigbee_xbee_smt
+  symbol_name: xbee_smt
 oomp_key: oomp_kicad_rf_zigbee_xbee_smt
 oomp_key_simple: kicad_rf_zigbee_xbee_smt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

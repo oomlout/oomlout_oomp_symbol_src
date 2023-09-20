@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_tip2955g/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_tip2955g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_tip2955g/working
-name: transistor_bjt_tip2955g
+name: tip2955g
 oomp:
   library_name: transistor_bjt
-  md5: 532b9e34a83431a2fdb8b280d8bd26f1
-  md5_10: 532b9e34a8
-  md5_5: 532b9
-  md5_6: 532b9e
-  oomp_key: oomp_transistor_bjt_tip2955g
-  oomp_key_extra: oomp_symbol_transistor_bjt_tip2955g
-  oomp_key_full: oomp_symbol_transistor_bjt_tip2955g_532b9e
-  oomp_key_simple: transistor_bjt_tip2955g
+  md5: acabf5e4e3db2ce45705e16a622e53f7
+  md5_10: acabf5e4e3
+  md5_5: acabf
+  md5_6: acabf5
+  oomp_key: oomp_tip2955g
+  oomp_key_extra: oomp_symbol_tip2955g
+  oomp_key_full: oomp_symbol_tip2955g_acabf5
+  oomp_key_simple: tip2955g
   owner_name: kicad
-  symbol_name: transistor_bjt_tip2955g
+  symbol_name: tip2955g
 oomp_key: oomp_kicad_transistor_bjt_tip2955g
 oomp_key_simple: kicad_transistor_bjt_tip2955g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

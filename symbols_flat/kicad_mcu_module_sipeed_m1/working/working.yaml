@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_module_sipeed_m1/working
   oomp_src_flat: symbols_flat/kicad_mcu_module_sipeed_m1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_module_sipeed_m1/working
-name: mcu_module_sipeed_m1
+name: sipeed_m1
 oomp:
   library_name: mcu_module
-  md5: 13dc2507c362f0cad1c24ddeabc53893
-  md5_10: 13dc2507c3
-  md5_5: 13dc2
-  md5_6: 13dc25
-  oomp_key: oomp_mcu_module_sipeed_m1
-  oomp_key_extra: oomp_symbol_mcu_module_sipeed_m1
-  oomp_key_full: oomp_symbol_mcu_module_sipeed_m1_13dc25
-  oomp_key_simple: mcu_module_sipeed_m1
+  md5: f66844436ad48e166cbae5cfaebf37ce
+  md5_10: f66844436a
+  md5_5: f6684
+  md5_6: f66844
+  oomp_key: oomp_sipeed_m1
+  oomp_key_extra: oomp_symbol_sipeed_m1
+  oomp_key_full: oomp_symbol_sipeed_m1_f66844
+  oomp_key_simple: sipeed_m1
   owner_name: kicad
-  symbol_name: mcu_module_sipeed_m1
+  symbol_name: sipeed_m1
 oomp_key: oomp_kicad_mcu_module_sipeed_m1
 oomp_key_simple: kicad_mcu_module_sipeed_m1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

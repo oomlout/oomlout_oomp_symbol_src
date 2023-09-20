@@ -1,19 +1,19 @@
 id: kicad_diode_sd24_sod323
 library: diode
 library_name: Diode
-name: diode_sd24_sod323
+name: sd24_sod323
 oomp:
   library_name: diode
-  md5: e455f8626c0c1938539ac92dcf8f50db
-  md5_10: e455f8626c
-  md5_5: e455f
-  md5_6: e455f8
-  oomp_key: oomp_diode_sd24_sod323
-  oomp_key_extra: oomp_symbol_diode_sd24_sod323
-  oomp_key_full: oomp_symbol_diode_sd24_sod323_e455f8
-  oomp_key_simple: diode_sd24_sod323
+  md5: 10f78b801d457373bb2f8586cf890e46
+  md5_10: 10f78b801d
+  md5_5: 10f78
+  md5_6: 10f78b
+  oomp_key: oomp_sd24_sod323
+  oomp_key_extra: oomp_symbol_sd24_sod323
+  oomp_key_full: oomp_symbol_sd24_sod323_10f78b
+  oomp_key_simple: sd24_sod323
   owner_name: kicad
-  symbol_name: diode_sd24_sod323
+  symbol_name: sd24_sod323
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

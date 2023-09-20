@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_earth_clean/working
   oomp_src_flat: symbols_flat/kicad_power_earth_clean/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_earth_clean/working
-name: power_earth_clean
+name: earth_clean
 oomp:
   library_name: power
-  md5: f505898336f13527d4bb4ef67e9455f7
-  md5_10: f505898336
-  md5_5: f5058
-  md5_6: f50589
-  oomp_key: oomp_power_earth_clean
-  oomp_key_extra: oomp_symbol_power_earth_clean
-  oomp_key_full: oomp_symbol_power_earth_clean_f50589
-  oomp_key_simple: power_earth_clean
+  md5: 6e779e75a68ab5c43884e58493e87abd
+  md5_10: 6e779e75a6
+  md5_5: 6e779
+  md5_6: 6e779e
+  oomp_key: oomp_earth_clean
+  oomp_key_extra: oomp_symbol_earth_clean
+  oomp_key_full: oomp_symbol_earth_clean_6e779e
+  oomp_key_simple: earth_clean
   owner_name: kicad
-  symbol_name: power_earth_clean
+  symbol_name: earth_clean
 oomp_key: oomp_kicad_power_earth_clean
 oomp_key_simple: kicad_power_earth_clean
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

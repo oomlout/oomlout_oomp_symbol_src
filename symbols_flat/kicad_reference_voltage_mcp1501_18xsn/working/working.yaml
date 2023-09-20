@@ -1,19 +1,19 @@
 id: kicad_reference_voltage_mcp1501_18xsn
 library: reference_voltage
 library_name: Reference_Voltage
-name: reference_voltage_mcp1501_18xsn
+name: mcp1501_18xsn
 oomp:
   library_name: reference_voltage
-  md5: 2f56d4bd97c71c9f75bae933c4214675
-  md5_10: 2f56d4bd97
-  md5_5: 2f56d
-  md5_6: 2f56d4
-  oomp_key: oomp_reference_voltage_mcp1501_18xsn
-  oomp_key_extra: oomp_symbol_reference_voltage_mcp1501_18xsn
-  oomp_key_full: oomp_symbol_reference_voltage_mcp1501_18xsn_2f56d4
-  oomp_key_simple: reference_voltage_mcp1501_18xsn
+  md5: de30a2417c6e54adefacebfc8f208b7b
+  md5_10: de30a2417c
+  md5_5: de30a
+  md5_6: de30a2
+  oomp_key: oomp_mcp1501_18xsn
+  oomp_key_extra: oomp_symbol_mcp1501_18xsn
+  oomp_key_full: oomp_symbol_mcp1501_18xsn_de30a2
+  oomp_key_simple: mcp1501_18xsn
   owner_name: kicad
-  symbol_name: reference_voltage_mcp1501_18xsn
+  symbol_name: mcp1501_18xsn
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

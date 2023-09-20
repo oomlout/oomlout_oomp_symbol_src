@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps61230drc/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps61230drc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps61230drc/working
-name: regulator_switching_tps61230drc
+name: tps61230drc
 oomp:
   library_name: regulator_switching
-  md5: 447ae8a44a04ee535459030487099520
-  md5_10: 447ae8a44a
-  md5_5: 447ae
-  md5_6: 447ae8
-  oomp_key: oomp_regulator_switching_tps61230drc
-  oomp_key_extra: oomp_symbol_regulator_switching_tps61230drc
-  oomp_key_full: oomp_symbol_regulator_switching_tps61230drc_447ae8
-  oomp_key_simple: regulator_switching_tps61230drc
+  md5: 5b6b6dba7f3ab0fe8ec0e6fda9b4c812
+  md5_10: 5b6b6dba7f
+  md5_5: 5b6b6
+  md5_6: 5b6b6d
+  oomp_key: oomp_tps61230drc
+  oomp_key_extra: oomp_symbol_tps61230drc
+  oomp_key_full: oomp_symbol_tps61230drc_5b6b6d
+  oomp_key_simple: tps61230drc
   owner_name: kicad
-  symbol_name: regulator_switching_tps61230drc
+  symbol_name: tps61230drc
 oomp_key: oomp_kicad_regulator_switching_tps61230drc
 oomp_key_simple: kicad_regulator_switching_tps61230drc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_sensor_temperature_tc1047xnb
 library: sensor_temperature
 library_name: Sensor_Temperature
-name: sensor_temperature_tc1047xnb
+name: tc1047xnb
 oomp:
   library_name: sensor_temperature
-  md5: 9287caa4b8195136fe1ee541031a738f
-  md5_10: 9287caa4b8
-  md5_5: 9287c
-  md5_6: 9287ca
-  oomp_key: oomp_sensor_temperature_tc1047xnb
-  oomp_key_extra: oomp_symbol_sensor_temperature_tc1047xnb
-  oomp_key_full: oomp_symbol_sensor_temperature_tc1047xnb_9287ca
-  oomp_key_simple: sensor_temperature_tc1047xnb
+  md5: c27200223cb49938371a4434e72e8f04
+  md5_10: c27200223c
+  md5_5: c2720
+  md5_6: c27200
+  oomp_key: oomp_tc1047xnb
+  oomp_key_extra: oomp_symbol_tc1047xnb
+  oomp_key_full: oomp_symbol_tc1047xnb_c27200
+  oomp_key_simple: tc1047xnb
   owner_name: kicad
-  symbol_name: sensor_temperature_tc1047xnb
+  symbol_name: tc1047xnb
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

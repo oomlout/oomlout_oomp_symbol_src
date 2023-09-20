@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_ncp718xsn330
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_ncp718xsn330
+name: ncp718xsn330
 oomp:
   library_name: regulator_linear
-  md5: b3e4ba432af0824e70cf4b95e2599e2b
-  md5_10: b3e4ba432a
-  md5_5: b3e4b
-  md5_6: b3e4ba
-  oomp_key: oomp_regulator_linear_ncp718xsn330
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp718xsn330
-  oomp_key_full: oomp_symbol_regulator_linear_ncp718xsn330_b3e4ba
-  oomp_key_simple: regulator_linear_ncp718xsn330
+  md5: cfbeda6e60891e2cfba2a8cfd179afb0
+  md5_10: cfbeda6e60
+  md5_5: cfbed
+  md5_6: cfbeda
+  oomp_key: oomp_ncp718xsn330
+  oomp_key_extra: oomp_symbol_ncp718xsn330
+  oomp_key_full: oomp_symbol_ncp718xsn330_cfbeda
+  oomp_key_simple: ncp718xsn330
   owner_name: kicad
-  symbol_name: regulator_linear_ncp718xsn330
+  symbol_name: ncp718xsn330
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

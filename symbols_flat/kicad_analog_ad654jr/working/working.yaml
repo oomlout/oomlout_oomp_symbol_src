@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_ad654jr/working
   oomp_src_flat: symbols_flat/kicad_analog_ad654jr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_ad654jr/working
-name: analog_ad654jr
+name: ad654jr
 oomp:
   library_name: analog
-  md5: 3abdd44c692398b0c64f111028be238b
-  md5_10: 3abdd44c69
-  md5_5: 3abdd
-  md5_6: 3abdd4
-  oomp_key: oomp_analog_ad654jr
-  oomp_key_extra: oomp_symbol_analog_ad654jr
-  oomp_key_full: oomp_symbol_analog_ad654jr_3abdd4
-  oomp_key_simple: analog_ad654jr
+  md5: 68c0b4f54b3b9f86d9ce433c0c8f8f7d
+  md5_10: 68c0b4f54b
+  md5_5: 68c0b
+  md5_6: 68c0b4
+  oomp_key: oomp_ad654jr
+  oomp_key_extra: oomp_symbol_ad654jr
+  oomp_key_full: oomp_symbol_ad654jr_68c0b4
+  oomp_key_simple: ad654jr
   owner_name: kicad
-  symbol_name: analog_ad654jr
+  symbol_name: ad654jr
 oomp_key: oomp_kicad_analog_ad654jr
 oomp_key_simple: kicad_analog_ad654jr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

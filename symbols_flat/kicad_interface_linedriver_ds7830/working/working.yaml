@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_linedriver_ds7830/working
   oomp_src_flat: symbols_flat/kicad_interface_linedriver_ds7830/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_linedriver_ds7830/working
-name: interface_linedriver_ds7830
+name: ds7830
 oomp:
   library_name: interface_linedriver
-  md5: 5fbe382323f5f94bb5e1671de69529f8
-  md5_10: 5fbe382323
-  md5_5: 5fbe3
-  md5_6: 5fbe38
-  oomp_key: oomp_interface_linedriver_ds7830
-  oomp_key_extra: oomp_symbol_interface_linedriver_ds7830
-  oomp_key_full: oomp_symbol_interface_linedriver_ds7830_5fbe38
-  oomp_key_simple: interface_linedriver_ds7830
+  md5: 1dd45553da9f79a817ddf3a2875fc007
+  md5_10: 1dd45553da
+  md5_5: 1dd45
+  md5_6: 1dd455
+  oomp_key: oomp_ds7830
+  oomp_key_extra: oomp_symbol_ds7830
+  oomp_key_full: oomp_symbol_ds7830_1dd455
+  oomp_key_simple: ds7830
   owner_name: kicad
-  symbol_name: interface_linedriver_ds7830
+  symbol_name: ds7830
 oomp_key: oomp_kicad_interface_linedriver_ds7830
 oomp_key_simple: kicad_interface_linedriver_ds7830
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

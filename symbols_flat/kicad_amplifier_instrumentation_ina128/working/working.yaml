@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_instrumentation_ina128/working
   oomp_src_flat: symbols_flat/kicad_amplifier_instrumentation_ina128/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_instrumentation_ina128/working
-name: amplifier_instrumentation_ina128
+name: ina128
 oomp:
   library_name: amplifier_instrumentation
-  md5: fe065fd54febb908883084c090f7402f
-  md5_10: fe065fd54f
-  md5_5: fe065
-  md5_6: fe065f
-  oomp_key: oomp_amplifier_instrumentation_ina128
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ina128
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ina128_fe065f
-  oomp_key_simple: amplifier_instrumentation_ina128
+  md5: 09820c919a9492d6d72a3a28678d0298
+  md5_10: 09820c919a
+  md5_5: 09820
+  md5_6: 09820c
+  oomp_key: oomp_ina128
+  oomp_key_extra: oomp_symbol_ina128
+  oomp_key_full: oomp_symbol_ina128_09820c
+  oomp_key_simple: ina128
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ina128
+  symbol_name: ina128
 oomp_key: oomp_kicad_amplifier_instrumentation_ina128
 oomp_key_simple: kicad_amplifier_instrumentation_ina128
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

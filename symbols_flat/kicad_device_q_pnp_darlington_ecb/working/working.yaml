@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_pnp_darlington_ecb/working
   oomp_src_flat: symbols_flat/kicad_device_q_pnp_darlington_ecb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_pnp_darlington_ecb/working
-name: device_q_pnp_darlington_ecb
+name: q_pnp_darlington_ecb
 oomp:
   library_name: device
-  md5: 665f89c5d57ae6a9fd2334a28e047cb1
-  md5_10: 665f89c5d5
-  md5_5: 665f8
-  md5_6: 665f89
-  oomp_key: oomp_device_q_pnp_darlington_ecb
-  oomp_key_extra: oomp_symbol_device_q_pnp_darlington_ecb
-  oomp_key_full: oomp_symbol_device_q_pnp_darlington_ecb_665f89
-  oomp_key_simple: device_q_pnp_darlington_ecb
+  md5: 91298ecec9b4fcc3ad393b57158028fa
+  md5_10: 91298ecec9
+  md5_5: '91298'
+  md5_6: 91298e
+  oomp_key: oomp_q_pnp_darlington_ecb
+  oomp_key_extra: oomp_symbol_q_pnp_darlington_ecb
+  oomp_key_full: oomp_symbol_q_pnp_darlington_ecb_91298e
+  oomp_key_simple: q_pnp_darlington_ecb
   owner_name: kicad
-  symbol_name: device_q_pnp_darlington_ecb
+  symbol_name: q_pnp_darlington_ecb
 oomp_key: oomp_kicad_device_q_pnp_darlington_ecb
 oomp_key_simple: kicad_device_q_pnp_darlington_ecb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

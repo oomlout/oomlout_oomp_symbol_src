@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_max6350/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_max6350/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_max6350/working
-name: reference_voltage_max6350
+name: max6350
 oomp:
   library_name: reference_voltage
-  md5: a4a3e4faca1c1c479fb969a76feded60
-  md5_10: a4a3e4faca
-  md5_5: a4a3e
-  md5_6: a4a3e4
-  oomp_key: oomp_reference_voltage_max6350
-  oomp_key_extra: oomp_symbol_reference_voltage_max6350
-  oomp_key_full: oomp_symbol_reference_voltage_max6350_a4a3e4
-  oomp_key_simple: reference_voltage_max6350
+  md5: 342c0b277d1a3cbaa29d9aaa7b1deb23
+  md5_10: 342c0b277d
+  md5_5: 342c0
+  md5_6: 342c0b
+  oomp_key: oomp_max6350
+  oomp_key_extra: oomp_symbol_max6350
+  oomp_key_full: oomp_symbol_max6350_342c0b
+  oomp_key_simple: max6350
   owner_name: kicad
-  symbol_name: reference_voltage_max6350
+  symbol_name: max6350
 oomp_key: oomp_kicad_reference_voltage_max6350
 oomp_key_simple: kicad_reference_voltage_max6350
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

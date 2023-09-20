@@ -1,19 +1,19 @@
 id: kicad_sensor_current_ir2277s
 library: sensor_current
 library_name: Sensor_Current
-name: sensor_current_ir2277s
+name: ir2277s
 oomp:
   library_name: sensor_current
-  md5: d3ce7da1dbb1d18db5a6a3716d9ef3a2
-  md5_10: d3ce7da1db
-  md5_5: d3ce7
-  md5_6: d3ce7d
-  oomp_key: oomp_sensor_current_ir2277s
-  oomp_key_extra: oomp_symbol_sensor_current_ir2277s
-  oomp_key_full: oomp_symbol_sensor_current_ir2277s_d3ce7d
-  oomp_key_simple: sensor_current_ir2277s
+  md5: 76b52edf937d4246a11fed40799acd07
+  md5_10: 76b52edf93
+  md5_5: 76b52
+  md5_6: 76b52e
+  oomp_key: oomp_ir2277s
+  oomp_key_extra: oomp_symbol_ir2277s
+  oomp_key_full: oomp_symbol_ir2277s_76b52e
+  oomp_key_simple: ir2277s
   owner_name: kicad
-  symbol_name: sensor_current_ir2277s
+  symbol_name: ir2277s
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

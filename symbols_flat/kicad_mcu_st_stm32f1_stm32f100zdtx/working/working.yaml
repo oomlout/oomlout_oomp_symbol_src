@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f1_stm32f100zdtx
 library: mcu_st_stm32f1
 library_name: MCU_ST_STM32F1
-name: mcu_st_stm32f1_stm32f100zdtx
+name: stm32f100zdtx
 oomp:
   library_name: mcu_st_stm32f1
-  md5: 17520be6800a8261816178221cd5afbc
-  md5_10: 17520be680
-  md5_5: '17520'
-  md5_6: 17520b
-  oomp_key: oomp_mcu_st_stm32f1_stm32f100zdtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f1_stm32f100zdtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f1_stm32f100zdtx_17520b
-  oomp_key_simple: mcu_st_stm32f1_stm32f100zdtx
+  md5: da35b0324e486e4d715d02431157548b
+  md5_10: da35b0324e
+  md5_5: da35b
+  md5_6: da35b0
+  oomp_key: oomp_stm32f100zdtx
+  oomp_key_extra: oomp_symbol_stm32f100zdtx
+  oomp_key_full: oomp_symbol_stm32f100zdtx_da35b0
+  oomp_key_simple: stm32f100zdtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f1_stm32f100zdtx
+  symbol_name: stm32f100zdtx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_ipdd60r080g7
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_ipdd60r080g7
+name: ipdd60r080g7
 oomp:
   library_name: transistor_fet
-  md5: 77a7fe8036ed9a9ba6b596e09ecb2e41
-  md5_10: 77a7fe8036
-  md5_5: 77a7f
-  md5_6: 77a7fe
-  oomp_key: oomp_transistor_fet_ipdd60r080g7
-  oomp_key_extra: oomp_symbol_transistor_fet_ipdd60r080g7
-  oomp_key_full: oomp_symbol_transistor_fet_ipdd60r080g7_77a7fe
-  oomp_key_simple: transistor_fet_ipdd60r080g7
+  md5: acda7e6b7a1a389e0dfa1438d11fca47
+  md5_10: acda7e6b7a
+  md5_5: acda7
+  md5_6: acda7e
+  oomp_key: oomp_ipdd60r080g7
+  oomp_key_extra: oomp_symbol_ipdd60r080g7
+  oomp_key_full: oomp_symbol_ipdd60r080g7_acda7e
+  oomp_key_simple: ipdd60r080g7
   owner_name: kicad
-  symbol_name: transistor_fet_ipdd60r080g7
+  symbol_name: ipdd60r080g7
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

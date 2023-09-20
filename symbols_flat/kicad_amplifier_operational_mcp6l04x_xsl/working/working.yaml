@@ -1,19 +1,19 @@
 id: kicad_amplifier_operational_mcp6l04x_xsl
 library: amplifier_operational
 library_name: Amplifier_Operational
-name: amplifier_operational_mcp6l04x_xsl
+name: mcp6l04x_xsl
 oomp:
   library_name: amplifier_operational
-  md5: ce4e95eec011fbdb09300c616a60b97a
-  md5_10: ce4e95eec0
-  md5_5: ce4e9
-  md5_6: ce4e95
-  oomp_key: oomp_amplifier_operational_mcp6l04x_xsl
-  oomp_key_extra: oomp_symbol_amplifier_operational_mcp6l04x_xsl
-  oomp_key_full: oomp_symbol_amplifier_operational_mcp6l04x_xsl_ce4e95
-  oomp_key_simple: amplifier_operational_mcp6l04x_xsl
+  md5: 70523b7715fb2a75cde0a1b4d77acd98
+  md5_10: 70523b7715
+  md5_5: '70523'
+  md5_6: 70523b
+  oomp_key: oomp_mcp6l04x_xsl
+  oomp_key_extra: oomp_symbol_mcp6l04x_xsl
+  oomp_key_full: oomp_symbol_mcp6l04x_xsl_70523b
+  oomp_key_simple: mcp6l04x_xsl
   owner_name: kicad
-  symbol_name: amplifier_operational_mcp6l04x_xsl
+  symbol_name: mcp6l04x_xsl
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lmv601/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lmv601/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lmv601/working
-name: amplifier_operational_lmv601
+name: lmv601
 oomp:
   library_name: amplifier_operational
-  md5: 32857fbfbdf99034ef3855d4c5f8ed42
-  md5_10: 32857fbfbd
-  md5_5: '32857'
-  md5_6: 32857f
-  oomp_key: oomp_amplifier_operational_lmv601
-  oomp_key_extra: oomp_symbol_amplifier_operational_lmv601
-  oomp_key_full: oomp_symbol_amplifier_operational_lmv601_32857f
-  oomp_key_simple: amplifier_operational_lmv601
+  md5: 2d6fd8cede9bdc56de17bcf1eabee2f5
+  md5_10: 2d6fd8cede
+  md5_5: 2d6fd
+  md5_6: 2d6fd8
+  oomp_key: oomp_lmv601
+  oomp_key_extra: oomp_symbol_lmv601
+  oomp_key_full: oomp_symbol_lmv601_2d6fd8
+  oomp_key_simple: lmv601
   owner_name: kicad
-  symbol_name: amplifier_operational_lmv601
+  symbol_name: lmv601
 oomp_key: oomp_kicad_amplifier_operational_lmv601
 oomp_key_simple: kicad_amplifier_operational_lmv601
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

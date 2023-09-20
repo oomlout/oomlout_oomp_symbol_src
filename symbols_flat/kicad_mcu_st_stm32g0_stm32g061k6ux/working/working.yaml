@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32g0_stm32g061k6ux
 library: mcu_st_stm32g0
 library_name: MCU_ST_STM32G0
-name: mcu_st_stm32g0_stm32g061k6ux
+name: stm32g061k6ux
 oomp:
   library_name: mcu_st_stm32g0
-  md5: 017ba93519c2d6045b8eb8f5d8a58fdd
-  md5_10: 017ba93519
-  md5_5: 017ba
-  md5_6: 017ba9
-  oomp_key: oomp_mcu_st_stm32g0_stm32g061k6ux
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g0_stm32g061k6ux
-  oomp_key_full: oomp_symbol_mcu_st_stm32g0_stm32g061k6ux_017ba9
-  oomp_key_simple: mcu_st_stm32g0_stm32g061k6ux
+  md5: efc257d5c451213cf44a488f19cfd70e
+  md5_10: efc257d5c4
+  md5_5: efc25
+  md5_6: efc257
+  oomp_key: oomp_stm32g061k6ux
+  oomp_key_extra: oomp_symbol_stm32g061k6ux
+  oomp_key_full: oomp_symbol_stm32g061k6ux_efc257
+  oomp_key_simple: stm32g061k6ux
   owner_name: kicad
-  symbol_name: mcu_st_stm32g0_stm32g061k6ux
+  symbol_name: stm32g061k6ux
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

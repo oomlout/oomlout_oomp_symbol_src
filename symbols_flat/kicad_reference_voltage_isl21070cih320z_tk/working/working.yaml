@@ -1,19 +1,19 @@
 id: kicad_reference_voltage_isl21070cih320z_tk
 library: reference_voltage
 library_name: Reference_Voltage
-name: reference_voltage_isl21070cih320z_tk
+name: isl21070cih320z_tk
 oomp:
   library_name: reference_voltage
-  md5: 31d6033d993246413520a175866f7409
-  md5_10: 31d6033d99
-  md5_5: 31d60
-  md5_6: 31d603
-  oomp_key: oomp_reference_voltage_isl21070cih320z_tk
-  oomp_key_extra: oomp_symbol_reference_voltage_isl21070cih320z_tk
-  oomp_key_full: oomp_symbol_reference_voltage_isl21070cih320z_tk_31d603
-  oomp_key_simple: reference_voltage_isl21070cih320z_tk
+  md5: 2df9fd3efe360576634c38e2208c6372
+  md5_10: 2df9fd3efe
+  md5_5: 2df9f
+  md5_6: 2df9fd
+  oomp_key: oomp_isl21070cih320z_tk
+  oomp_key_extra: oomp_symbol_isl21070cih320z_tk
+  oomp_key_full: oomp_symbol_isl21070cih320z_tk_2df9fd
+  oomp_key_simple: isl21070cih320z_tk
   owner_name: kicad
-  symbol_name: reference_voltage_isl21070cih320z_tk
+  symbol_name: isl21070cih320z_tk
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

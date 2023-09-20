@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_laser_photo_mtype/working
   oomp_src_flat: symbols_flat/kicad_device_d_laser_photo_mtype/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_laser_photo_mtype/working
-name: device_d_laser_photo_mtype
+name: d_laser_photo_mtype
 oomp:
   library_name: device
-  md5: 2a222fff70c78c3e57774b68e04ccbe7
-  md5_10: 2a222fff70
-  md5_5: 2a222
-  md5_6: 2a222f
-  oomp_key: oomp_device_d_laser_photo_mtype
-  oomp_key_extra: oomp_symbol_device_d_laser_photo_mtype
-  oomp_key_full: oomp_symbol_device_d_laser_photo_mtype_2a222f
-  oomp_key_simple: device_d_laser_photo_mtype
+  md5: 9c362445eabb677f4a77d5247efcf250
+  md5_10: 9c362445ea
+  md5_5: 9c362
+  md5_6: 9c3624
+  oomp_key: oomp_d_laser_photo_mtype
+  oomp_key_extra: oomp_symbol_d_laser_photo_mtype
+  oomp_key_full: oomp_symbol_d_laser_photo_mtype_9c3624
+  oomp_key_simple: d_laser_photo_mtype
   owner_name: kicad
-  symbol_name: device_d_laser_photo_mtype
+  symbol_name: d_laser_photo_mtype
 oomp_key: oomp_kicad_device_d_laser_photo_mtype
 oomp_key_simple: kicad_device_d_laser_photo_mtype
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

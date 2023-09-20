@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_ncv8114asn150t1g
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_ncv8114asn150t1g
+name: ncv8114asn150t1g
 oomp:
   library_name: regulator_linear
-  md5: 898b8d9b2c3e7ee63290fc3c7d77ec5b
-  md5_10: 898b8d9b2c
-  md5_5: 898b8
-  md5_6: 898b8d
-  oomp_key: oomp_regulator_linear_ncv8114asn150t1g
-  oomp_key_extra: oomp_symbol_regulator_linear_ncv8114asn150t1g
-  oomp_key_full: oomp_symbol_regulator_linear_ncv8114asn150t1g_898b8d
-  oomp_key_simple: regulator_linear_ncv8114asn150t1g
+  md5: 199e657e574a38e3c63d38b4935cc87e
+  md5_10: 199e657e57
+  md5_5: 199e6
+  md5_6: 199e65
+  oomp_key: oomp_ncv8114asn150t1g
+  oomp_key_extra: oomp_symbol_ncv8114asn150t1g
+  oomp_key_full: oomp_symbol_ncv8114asn150t1g_199e65
+  oomp_key_simple: ncv8114asn150t1g
   owner_name: kicad
-  symbol_name: regulator_linear_ncv8114asn150t1g
+  symbol_name: ncv8114asn150t1g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

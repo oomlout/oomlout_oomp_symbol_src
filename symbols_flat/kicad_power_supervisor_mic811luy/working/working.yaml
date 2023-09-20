@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_mic811luy/working
   oomp_src_flat: symbols_flat/kicad_power_supervisor_mic811luy/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_mic811luy/working
-name: power_supervisor_mic811luy
+name: mic811luy
 oomp:
   library_name: power_supervisor
-  md5: 5c95769216acd53104d1394c5920c3ff
-  md5_10: 5c95769216
-  md5_5: 5c957
-  md5_6: 5c9576
-  oomp_key: oomp_power_supervisor_mic811luy
-  oomp_key_extra: oomp_symbol_power_supervisor_mic811luy
-  oomp_key_full: oomp_symbol_power_supervisor_mic811luy_5c9576
-  oomp_key_simple: power_supervisor_mic811luy
+  md5: 7c53d3594a20788089d2017d78343dec
+  md5_10: 7c53d3594a
+  md5_5: 7c53d
+  md5_6: 7c53d3
+  oomp_key: oomp_mic811luy
+  oomp_key_extra: oomp_symbol_mic811luy
+  oomp_key_full: oomp_symbol_mic811luy_7c53d3
+  oomp_key_simple: mic811luy
   owner_name: kicad
-  symbol_name: power_supervisor_mic811luy
+  symbol_name: mic811luy
 oomp_key: oomp_kicad_power_supervisor_mic811luy
 oomp_key_simple: kicad_power_supervisor_mic811luy
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_telecom_ht9170d/working
   oomp_src_flat: symbols_flat/kicad_interface_telecom_ht9170d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_telecom_ht9170d/working
-name: interface_telecom_ht9170d
+name: ht9170d
 oomp:
   library_name: interface_telecom
-  md5: 6a874914a72e3e03f3b3ffa56306f7bb
-  md5_10: 6a874914a7
-  md5_5: 6a874
-  md5_6: 6a8749
-  oomp_key: oomp_interface_telecom_ht9170d
-  oomp_key_extra: oomp_symbol_interface_telecom_ht9170d
-  oomp_key_full: oomp_symbol_interface_telecom_ht9170d_6a8749
-  oomp_key_simple: interface_telecom_ht9170d
+  md5: a9a6251787b9221a8e9f7be072988fb9
+  md5_10: a9a6251787
+  md5_5: a9a62
+  md5_6: a9a625
+  oomp_key: oomp_ht9170d
+  oomp_key_extra: oomp_symbol_ht9170d
+  oomp_key_full: oomp_symbol_ht9170d_a9a625
+  oomp_key_simple: ht9170d
   owner_name: kicad
-  symbol_name: interface_telecom_ht9170d
+  symbol_name: ht9170d
 oomp_key: oomp_kicad_interface_telecom_ht9170d
 oomp_key_simple: kicad_interface_telecom_ht9170d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

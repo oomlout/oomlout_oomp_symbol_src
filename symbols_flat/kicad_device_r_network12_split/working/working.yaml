@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_network12_split/working
   oomp_src_flat: symbols_flat/kicad_device_r_network12_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_network12_split/working
-name: device_r_network12_split
+name: r_network12_split
 oomp:
   library_name: device
-  md5: 4f7187eb93063f68b26dfebd53dccbea
-  md5_10: 4f7187eb93
-  md5_5: 4f718
-  md5_6: 4f7187
-  oomp_key: oomp_device_r_network12_split
-  oomp_key_extra: oomp_symbol_device_r_network12_split
-  oomp_key_full: oomp_symbol_device_r_network12_split_4f7187
-  oomp_key_simple: device_r_network12_split
+  md5: 572d66f131e58261ced58210385fc839
+  md5_10: 572d66f131
+  md5_5: 572d6
+  md5_6: 572d66
+  oomp_key: oomp_r_network12_split
+  oomp_key_extra: oomp_symbol_r_network12_split
+  oomp_key_full: oomp_symbol_r_network12_split_572d66
+  oomp_key_simple: r_network12_split
   owner_name: kicad
-  symbol_name: device_r_network12_split
+  symbol_name: r_network12_split
 oomp_key: oomp_kicad_device_r_network12_split
 oomp_key_simple: kicad_device_r_network12_split
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_adxl363/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_adxl363/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_adxl363/working
-name: sensor_motion_adxl363
+name: adxl363
 oomp:
   library_name: sensor_motion
-  md5: b9efd74ff192953a9ab8ebc7adcc4eac
-  md5_10: b9efd74ff1
-  md5_5: b9efd
-  md5_6: b9efd7
-  oomp_key: oomp_sensor_motion_adxl363
-  oomp_key_extra: oomp_symbol_sensor_motion_adxl363
-  oomp_key_full: oomp_symbol_sensor_motion_adxl363_b9efd7
-  oomp_key_simple: sensor_motion_adxl363
+  md5: c6e58018617580aefeb7f0f82eca036e
+  md5_10: c6e5801861
+  md5_5: c6e58
+  md5_6: c6e580
+  oomp_key: oomp_adxl363
+  oomp_key_extra: oomp_symbol_adxl363
+  oomp_key_full: oomp_symbol_adxl363_c6e580
+  oomp_key_simple: adxl363
   owner_name: kicad
-  symbol_name: sensor_motion_adxl363
+  symbol_name: adxl363
 oomp_key: oomp_kicad_sensor_motion_adxl363
 oomp_key_simple: kicad_sensor_motion_adxl363
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

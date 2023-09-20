@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_switch_maswss0178/working
   oomp_src_flat: symbols_flat/kicad_rf_switch_maswss0178/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_switch_maswss0178/working
-name: rf_switch_maswss0178
+name: maswss0178
 oomp:
   library_name: rf_switch
-  md5: 835c13f818474ed689d336a4b56dea05
-  md5_10: 835c13f818
-  md5_5: 835c1
-  md5_6: 835c13
-  oomp_key: oomp_rf_switch_maswss0178
-  oomp_key_extra: oomp_symbol_rf_switch_maswss0178
-  oomp_key_full: oomp_symbol_rf_switch_maswss0178_835c13
-  oomp_key_simple: rf_switch_maswss0178
+  md5: b07570a1602e34a22480312624b9d438
+  md5_10: b07570a160
+  md5_5: b0757
+  md5_6: b07570
+  oomp_key: oomp_maswss0178
+  oomp_key_extra: oomp_symbol_maswss0178
+  oomp_key_full: oomp_symbol_maswss0178_b07570
+  oomp_key_simple: maswss0178
   owner_name: kicad
-  symbol_name: rf_switch_maswss0178
+  symbol_name: maswss0178
 oomp_key: oomp_kicad_rf_switch_maswss0178
 oomp_key_simple: kicad_rf_switch_maswss0178
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

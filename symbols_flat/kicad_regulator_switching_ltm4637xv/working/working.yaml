@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ltm4637xv/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ltm4637xv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ltm4637xv/working
-name: regulator_switching_ltm4637xv
+name: ltm4637xv
 oomp:
   library_name: regulator_switching
-  md5: 047a080412672132e712077cf9acd142
-  md5_10: 047a080412
-  md5_5: 047a0
-  md5_6: 047a08
-  oomp_key: oomp_regulator_switching_ltm4637xv
-  oomp_key_extra: oomp_symbol_regulator_switching_ltm4637xv
-  oomp_key_full: oomp_symbol_regulator_switching_ltm4637xv_047a08
-  oomp_key_simple: regulator_switching_ltm4637xv
+  md5: ecac7f7bcdb60151ab9dace54997b91f
+  md5_10: ecac7f7bcd
+  md5_5: ecac7
+  md5_6: ecac7f
+  oomp_key: oomp_ltm4637xv
+  oomp_key_extra: oomp_symbol_ltm4637xv
+  oomp_key_full: oomp_symbol_ltm4637xv_ecac7f
+  oomp_key_simple: ltm4637xv
   owner_name: kicad
-  symbol_name: regulator_switching_ltm4637xv
+  symbol_name: ltm4637xv
 oomp_key: oomp_kicad_regulator_switching_ltm4637xv
 oomp_key_simple: kicad_regulator_switching_ltm4637xv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

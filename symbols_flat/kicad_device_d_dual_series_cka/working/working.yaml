@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_series_cka/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_series_cka/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_series_cka/working
-name: device_d_dual_series_cka
+name: d_dual_series_cka
 oomp:
   library_name: device
-  md5: 73c7180dd4b302cef7f27add48d593e7
-  md5_10: 73c7180dd4
-  md5_5: 73c71
-  md5_6: 73c718
-  oomp_key: oomp_device_d_dual_series_cka
-  oomp_key_extra: oomp_symbol_device_d_dual_series_cka
-  oomp_key_full: oomp_symbol_device_d_dual_series_cka_73c718
-  oomp_key_simple: device_d_dual_series_cka
+  md5: 030a2837d95fb85c28c25256a88a1e24
+  md5_10: 030a2837d9
+  md5_5: 030a2
+  md5_6: 030a28
+  oomp_key: oomp_d_dual_series_cka
+  oomp_key_extra: oomp_symbol_d_dual_series_cka
+  oomp_key_full: oomp_symbol_d_dual_series_cka_030a28
+  oomp_key_simple: d_dual_series_cka
   owner_name: kicad
-  symbol_name: device_d_dual_series_cka
+  symbol_name: d_dual_series_cka
 oomp_key: oomp_kicad_device_d_dual_series_cka
 oomp_key_simple: kicad_device_d_dual_series_cka
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

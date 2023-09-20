@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_esda6v1bc6/working
   oomp_src_flat: symbols_flat/kicad_power_protection_esda6v1bc6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_esda6v1bc6/working
-name: power_protection_esda6v1bc6
+name: esda6v1bc6
 oomp:
   library_name: power_protection
-  md5: 8fba7bf4981be4fb8ebeae9cca88c76d
-  md5_10: 8fba7bf498
-  md5_5: 8fba7
-  md5_6: 8fba7b
-  oomp_key: oomp_power_protection_esda6v1bc6
-  oomp_key_extra: oomp_symbol_power_protection_esda6v1bc6
-  oomp_key_full: oomp_symbol_power_protection_esda6v1bc6_8fba7b
-  oomp_key_simple: power_protection_esda6v1bc6
+  md5: d4f9511f998c199bcf5fdb9b209c875e
+  md5_10: d4f9511f99
+  md5_5: d4f95
+  md5_6: d4f951
+  oomp_key: oomp_esda6v1bc6
+  oomp_key_extra: oomp_symbol_esda6v1bc6
+  oomp_key_full: oomp_symbol_esda6v1bc6_d4f951
+  oomp_key_simple: esda6v1bc6
   owner_name: kicad
-  symbol_name: power_protection_esda6v1bc6
+  symbol_name: esda6v1bc6
 oomp_key: oomp_kicad_power_protection_esda6v1bc6
 oomp_key_simple: kicad_power_protection_esda6v1bc6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

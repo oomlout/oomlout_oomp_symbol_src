@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_acs730xlctr_20ab/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_acs730xlctr_20ab/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_acs730xlctr_20ab/working
-name: sensor_current_acs730xlctr_20ab
+name: acs730xlctr_20ab
 oomp:
   library_name: sensor_current
-  md5: b12a7e29111012988bd2beb565ec0f95
-  md5_10: b12a7e2911
-  md5_5: b12a7
-  md5_6: b12a7e
-  oomp_key: oomp_sensor_current_acs730xlctr_20ab
-  oomp_key_extra: oomp_symbol_sensor_current_acs730xlctr_20ab
-  oomp_key_full: oomp_symbol_sensor_current_acs730xlctr_20ab_b12a7e
-  oomp_key_simple: sensor_current_acs730xlctr_20ab
+  md5: 06fd9e0b9f458d559ce304ab1b44bf37
+  md5_10: 06fd9e0b9f
+  md5_5: 06fd9
+  md5_6: 06fd9e
+  oomp_key: oomp_acs730xlctr_20ab
+  oomp_key_extra: oomp_symbol_acs730xlctr_20ab
+  oomp_key_full: oomp_symbol_acs730xlctr_20ab_06fd9e
+  oomp_key_simple: acs730xlctr_20ab
   owner_name: kicad
-  symbol_name: sensor_current_acs730xlctr_20ab
+  symbol_name: acs730xlctr_20ab
 oomp_key: oomp_kicad_sensor_current_acs730xlctr_20ab
 oomp_key_simple: kicad_sensor_current_acs730xlctr_20ab
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

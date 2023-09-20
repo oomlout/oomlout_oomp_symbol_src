@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_c_trim_small/working
   oomp_src_flat: symbols_flat/kicad_device_c_trim_small/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_c_trim_small/working
-name: device_c_trim_small
+name: c_trim_small
 oomp:
   library_name: device
-  md5: f57be63bd1fdd4aadfb70416e6f83779
-  md5_10: f57be63bd1
-  md5_5: f57be
-  md5_6: f57be6
-  oomp_key: oomp_device_c_trim_small
-  oomp_key_extra: oomp_symbol_device_c_trim_small
-  oomp_key_full: oomp_symbol_device_c_trim_small_f57be6
-  oomp_key_simple: device_c_trim_small
+  md5: 866c5ef63693db7c13cb12461742f106
+  md5_10: 866c5ef636
+  md5_5: 866c5
+  md5_6: 866c5e
+  oomp_key: oomp_c_trim_small
+  oomp_key_extra: oomp_symbol_c_trim_small
+  oomp_key_full: oomp_symbol_c_trim_small_866c5e
+  oomp_key_simple: c_trim_small
   owner_name: kicad
-  symbol_name: device_c_trim_small
+  symbol_name: c_trim_small
 oomp_key: oomp_kicad_device_c_trim_small
 oomp_key_simple: kicad_device_c_trim_small
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

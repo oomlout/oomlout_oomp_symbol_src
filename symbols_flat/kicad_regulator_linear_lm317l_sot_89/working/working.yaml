@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lm317l_sot_89/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lm317l_sot_89/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lm317l_sot_89/working
-name: regulator_linear_lm317l_sot_89
+name: lm317l_sot_89
 oomp:
   library_name: regulator_linear
-  md5: ea5e483f66b9319fe0c6cf6d26549a50
-  md5_10: ea5e483f66
-  md5_5: ea5e4
-  md5_6: ea5e48
-  oomp_key: oomp_regulator_linear_lm317l_sot_89
-  oomp_key_extra: oomp_symbol_regulator_linear_lm317l_sot_89
-  oomp_key_full: oomp_symbol_regulator_linear_lm317l_sot_89_ea5e48
-  oomp_key_simple: regulator_linear_lm317l_sot_89
+  md5: 1c9e1b7e2bb3c939a4f7e5c28c2c0d89
+  md5_10: 1c9e1b7e2b
+  md5_5: 1c9e1
+  md5_6: 1c9e1b
+  oomp_key: oomp_lm317l_sot_89
+  oomp_key_extra: oomp_symbol_lm317l_sot_89
+  oomp_key_full: oomp_symbol_lm317l_sot_89_1c9e1b
+  oomp_key_simple: lm317l_sot_89
   owner_name: kicad
-  symbol_name: regulator_linear_lm317l_sot_89
+  symbol_name: lm317l_sot_89
 oomp_key: oomp_kicad_regulator_linear_lm317l_sot_89
 oomp_key_simple: kicad_regulator_linear_lm317l_sot_89
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

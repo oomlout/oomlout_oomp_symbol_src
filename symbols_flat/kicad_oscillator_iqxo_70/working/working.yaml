@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_iqxo_70/working
   oomp_src_flat: symbols_flat/kicad_oscillator_iqxo_70/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_iqxo_70/working
-name: oscillator_iqxo_70
+name: iqxo_70
 oomp:
   library_name: oscillator
-  md5: 25895e038fbb8b742855a5f9fbdc721a
-  md5_10: 25895e038f
-  md5_5: '25895'
-  md5_6: 25895e
-  oomp_key: oomp_oscillator_iqxo_70
-  oomp_key_extra: oomp_symbol_oscillator_iqxo_70
-  oomp_key_full: oomp_symbol_oscillator_iqxo_70_25895e
-  oomp_key_simple: oscillator_iqxo_70
+  md5: 989231ebd745823e12467b226409a4b5
+  md5_10: 989231ebd7
+  md5_5: '98923'
+  md5_6: '989231'
+  oomp_key: oomp_iqxo_70
+  oomp_key_extra: oomp_symbol_iqxo_70
+  oomp_key_full: oomp_symbol_iqxo_70_989231
+  oomp_key_simple: iqxo_70
   owner_name: kicad
-  symbol_name: oscillator_iqxo_70
+  symbol_name: iqxo_70
 oomp_key: oomp_kicad_oscillator_iqxo_70
 oomp_key_simple: kicad_oscillator_iqxo_70
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

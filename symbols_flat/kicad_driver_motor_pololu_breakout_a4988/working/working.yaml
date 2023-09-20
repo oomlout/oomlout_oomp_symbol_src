@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_pololu_breakout_a4988/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_pololu_breakout_a4988/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_pololu_breakout_a4988/working
-name: driver_motor_pololu_breakout_a4988
+name: pololu_breakout_a4988
 oomp:
   library_name: driver_motor
-  md5: a90277c4289996887ba46b542ff4847b
-  md5_10: a90277c428
-  md5_5: a9027
-  md5_6: a90277
-  oomp_key: oomp_driver_motor_pololu_breakout_a4988
-  oomp_key_extra: oomp_symbol_driver_motor_pololu_breakout_a4988
-  oomp_key_full: oomp_symbol_driver_motor_pololu_breakout_a4988_a90277
-  oomp_key_simple: driver_motor_pololu_breakout_a4988
+  md5: bf7ab5951e4e632b8e216a328b7ba7a4
+  md5_10: bf7ab5951e
+  md5_5: bf7ab
+  md5_6: bf7ab5
+  oomp_key: oomp_pololu_breakout_a4988
+  oomp_key_extra: oomp_symbol_pololu_breakout_a4988
+  oomp_key_full: oomp_symbol_pololu_breakout_a4988_bf7ab5
+  oomp_key_simple: pololu_breakout_a4988
   owner_name: kicad
-  symbol_name: driver_motor_pololu_breakout_a4988
+  symbol_name: pololu_breakout_a4988
 oomp_key: oomp_kicad_driver_motor_pololu_breakout_a4988
 oomp_key_simple: kicad_driver_motor_pololu_breakout_a4988
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

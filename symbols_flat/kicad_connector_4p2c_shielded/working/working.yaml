@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_4p2c_shielded/working
   oomp_src_flat: symbols_flat/kicad_connector_4p2c_shielded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_4p2c_shielded/working
-name: connector_4p2c_shielded
+name: 4p2c_shielded
 oomp:
   library_name: connector
-  md5: 76fc9401ab79431ba6aa3cb969977859
-  md5_10: 76fc9401ab
-  md5_5: 76fc9
-  md5_6: 76fc94
-  oomp_key: oomp_connector_4p2c_shielded
-  oomp_key_extra: oomp_symbol_connector_4p2c_shielded
-  oomp_key_full: oomp_symbol_connector_4p2c_shielded_76fc94
-  oomp_key_simple: connector_4p2c_shielded
+  md5: 0209553bc0ff33e049459486a7f50595
+  md5_10: 0209553bc0
+  md5_5: 02095
+  md5_6: 020955
+  oomp_key: oomp_4p2c_shielded
+  oomp_key_extra: oomp_symbol_4p2c_shielded
+  oomp_key_full: oomp_symbol_4p2c_shielded_020955
+  oomp_key_simple: 4p2c_shielded
   owner_name: kicad
-  symbol_name: connector_4p2c_shielded
+  symbol_name: 4p2c_shielded
 oomp_key: oomp_kicad_connector_4p2c_shielded
 oomp_key_simple: kicad_connector_4p2c_shielded
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

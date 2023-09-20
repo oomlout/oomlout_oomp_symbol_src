@@ -1,19 +1,19 @@
 id: kicad_timer_rtc_pcf85363att1
 library: timer_rtc
 library_name: Timer_RTC
-name: timer_rtc_pcf85363att1
+name: pcf85363att1
 oomp:
   library_name: timer_rtc
-  md5: 49a4376705e591ada370f6309e08ff78
-  md5_10: 49a4376705
-  md5_5: 49a43
-  md5_6: 49a437
-  oomp_key: oomp_timer_rtc_pcf85363att1
-  oomp_key_extra: oomp_symbol_timer_rtc_pcf85363att1
-  oomp_key_full: oomp_symbol_timer_rtc_pcf85363att1_49a437
-  oomp_key_simple: timer_rtc_pcf85363att1
+  md5: f5d9904e1741d53c96f486a1e12cfe04
+  md5_10: f5d9904e17
+  md5_5: f5d99
+  md5_6: f5d990
+  oomp_key: oomp_pcf85363att1
+  oomp_key_extra: oomp_symbol_pcf85363att1
+  oomp_key_full: oomp_symbol_pcf85363att1_f5d990
+  oomp_key_simple: pcf85363att1
   owner_name: kicad
-  symbol_name: timer_rtc_pcf85363att1
+  symbol_name: pcf85363att1
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

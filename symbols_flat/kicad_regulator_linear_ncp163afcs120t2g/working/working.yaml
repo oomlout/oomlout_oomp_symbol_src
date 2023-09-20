@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ncp163afcs120t2g/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ncp163afcs120t2g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ncp163afcs120t2g/working
-name: regulator_linear_ncp163afcs120t2g
+name: ncp163afcs120t2g
 oomp:
   library_name: regulator_linear
-  md5: ef7f6d6677c840c6521bdebabf3f371c
-  md5_10: ef7f6d6677
-  md5_5: ef7f6
-  md5_6: ef7f6d
-  oomp_key: oomp_regulator_linear_ncp163afcs120t2g
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp163afcs120t2g
-  oomp_key_full: oomp_symbol_regulator_linear_ncp163afcs120t2g_ef7f6d
-  oomp_key_simple: regulator_linear_ncp163afcs120t2g
+  md5: f5752ebda86a9551c777ffa4eb4fbd2b
+  md5_10: f5752ebda8
+  md5_5: f5752
+  md5_6: f5752e
+  oomp_key: oomp_ncp163afcs120t2g
+  oomp_key_extra: oomp_symbol_ncp163afcs120t2g
+  oomp_key_full: oomp_symbol_ncp163afcs120t2g_f5752e
+  oomp_key_simple: ncp163afcs120t2g
   owner_name: kicad
-  symbol_name: regulator_linear_ncp163afcs120t2g
+  symbol_name: ncp163afcs120t2g
 oomp_key: oomp_kicad_regulator_linear_ncp163afcs120t2g
 oomp_key_simple: kicad_regulator_linear_ncp163afcs120t2g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

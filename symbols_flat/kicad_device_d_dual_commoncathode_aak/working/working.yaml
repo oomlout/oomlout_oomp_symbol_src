@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_commoncathode_aak/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_commoncathode_aak/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_commoncathode_aak/working
-name: device_d_dual_commoncathode_aak
+name: d_dual_commoncathode_aak
 oomp:
   library_name: device
-  md5: 35525e8efb3621bedb5512e84b2a6d73
-  md5_10: 35525e8efb
-  md5_5: '35525'
-  md5_6: 35525e
-  oomp_key: oomp_device_d_dual_commoncathode_aak
-  oomp_key_extra: oomp_symbol_device_d_dual_commoncathode_aak
-  oomp_key_full: oomp_symbol_device_d_dual_commoncathode_aak_35525e
-  oomp_key_simple: device_d_dual_commoncathode_aak
+  md5: b460e62d15ee753d7f6618fe7bc5ecb0
+  md5_10: b460e62d15
+  md5_5: b460e
+  md5_6: b460e6
+  oomp_key: oomp_d_dual_commoncathode_aak
+  oomp_key_extra: oomp_symbol_d_dual_commoncathode_aak
+  oomp_key_full: oomp_symbol_d_dual_commoncathode_aak_b460e6
+  oomp_key_simple: d_dual_commoncathode_aak
   owner_name: kicad
-  symbol_name: device_d_dual_commoncathode_aak
+  symbol_name: d_dual_commoncathode_aak
 oomp_key: oomp_kicad_device_d_dual_commoncathode_aak
 oomp_key_simple: kicad_device_d_dual_commoncathode_aak
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

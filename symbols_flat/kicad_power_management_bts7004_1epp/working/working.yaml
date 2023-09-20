@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_bts7004_1epp/working
   oomp_src_flat: symbols_flat/kicad_power_management_bts7004_1epp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_bts7004_1epp/working
-name: power_management_bts7004_1epp
+name: bts7004_1epp
 oomp:
   library_name: power_management
-  md5: 3b9e16a8f8aa23b8a29fe49e2f43163a
-  md5_10: 3b9e16a8f8
-  md5_5: 3b9e1
-  md5_6: 3b9e16
-  oomp_key: oomp_power_management_bts7004_1epp
-  oomp_key_extra: oomp_symbol_power_management_bts7004_1epp
-  oomp_key_full: oomp_symbol_power_management_bts7004_1epp_3b9e16
-  oomp_key_simple: power_management_bts7004_1epp
+  md5: 288e99c4d1d0e8dfd02e77fa86c75888
+  md5_10: 288e99c4d1
+  md5_5: 288e9
+  md5_6: 288e99
+  oomp_key: oomp_bts7004_1epp
+  oomp_key_extra: oomp_symbol_bts7004_1epp
+  oomp_key_full: oomp_symbol_bts7004_1epp_288e99
+  oomp_key_simple: bts7004_1epp
   owner_name: kicad
-  symbol_name: power_management_bts7004_1epp
+  symbol_name: bts7004_1epp
 oomp_key: oomp_kicad_power_management_bts7004_1epp
 oomp_key_simple: kicad_power_management_bts7004_1epp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

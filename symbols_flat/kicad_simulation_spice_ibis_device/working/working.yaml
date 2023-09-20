@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_ibis_device/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_ibis_device/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_ibis_device/working
-name: simulation_spice_ibis_device
+name: ibis_device
 oomp:
   library_name: simulation_spice
-  md5: 7962db69768c44d8862a090b78944c4b
-  md5_10: 7962db6976
-  md5_5: 7962d
-  md5_6: 7962db
-  oomp_key: oomp_simulation_spice_ibis_device
-  oomp_key_extra: oomp_symbol_simulation_spice_ibis_device
-  oomp_key_full: oomp_symbol_simulation_spice_ibis_device_7962db
-  oomp_key_simple: simulation_spice_ibis_device
+  md5: 4267ba7fdf11e64b77dd2769fd75ad30
+  md5_10: 4267ba7fdf
+  md5_5: 4267b
+  md5_6: 4267ba
+  oomp_key: oomp_ibis_device
+  oomp_key_extra: oomp_symbol_ibis_device
+  oomp_key_full: oomp_symbol_ibis_device_4267ba
+  oomp_key_simple: ibis_device
   owner_name: kicad
-  symbol_name: simulation_spice_ibis_device
+  symbol_name: ibis_device
 oomp_key: oomp_kicad_simulation_spice_ibis_device
 oomp_key_simple: kicad_simulation_spice_ibis_device
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

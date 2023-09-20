@@ -1,19 +1,19 @@
 id: kicad_power_management_tps26631rge
 library: power_management
 library_name: Power_Management
-name: power_management_tps26631rge
+name: tps26631rge
 oomp:
   library_name: power_management
-  md5: d40c9dec5aca609272b5f4407996ae4c
-  md5_10: d40c9dec5a
-  md5_5: d40c9
-  md5_6: d40c9d
-  oomp_key: oomp_power_management_tps26631rge
-  oomp_key_extra: oomp_symbol_power_management_tps26631rge
-  oomp_key_full: oomp_symbol_power_management_tps26631rge_d40c9d
-  oomp_key_simple: power_management_tps26631rge
+  md5: 20e3d8f0dc1315873078ab728dbe2b0a
+  md5_10: 20e3d8f0dc
+  md5_5: 20e3d
+  md5_6: 20e3d8
+  oomp_key: oomp_tps26631rge
+  oomp_key_extra: oomp_symbol_tps26631rge
+  oomp_key_full: oomp_symbol_tps26631rge_20e3d8
+  oomp_key_simple: tps26631rge
   owner_name: kicad
-  symbol_name: power_management_tps26631rge
+  symbol_name: tps26631rge
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

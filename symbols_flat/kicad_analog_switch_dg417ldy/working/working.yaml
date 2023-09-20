@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_dg417ldy/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_dg417ldy/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_dg417ldy/working
-name: analog_switch_dg417ldy
+name: dg417ldy
 oomp:
   library_name: analog_switch
-  md5: ab923e219d9a8fcab00384d06f3e994d
-  md5_10: ab923e219d
-  md5_5: ab923
-  md5_6: ab923e
-  oomp_key: oomp_analog_switch_dg417ldy
-  oomp_key_extra: oomp_symbol_analog_switch_dg417ldy
-  oomp_key_full: oomp_symbol_analog_switch_dg417ldy_ab923e
-  oomp_key_simple: analog_switch_dg417ldy
+  md5: 381fe835e8dc56030d5278225808fe0b
+  md5_10: 381fe835e8
+  md5_5: 381fe
+  md5_6: 381fe8
+  oomp_key: oomp_dg417ldy
+  oomp_key_extra: oomp_symbol_dg417ldy
+  oomp_key_full: oomp_symbol_dg417ldy_381fe8
+  oomp_key_simple: dg417ldy
   owner_name: kicad
-  symbol_name: analog_switch_dg417ldy
+  symbol_name: dg417ldy
 oomp_key: oomp_kicad_analog_switch_dg417ldy
 oomp_key_simple: kicad_analog_switch_dg417ldy
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

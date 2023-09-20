@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_ad390jd/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_ad390jd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_ad390jd/working
-name: analog_dac_ad390jd
+name: ad390jd
 oomp:
   library_name: analog_dac
-  md5: f37e669d0cb99e30bce9178e6a269e39
-  md5_10: f37e669d0c
-  md5_5: f37e6
-  md5_6: f37e66
-  oomp_key: oomp_analog_dac_ad390jd
-  oomp_key_extra: oomp_symbol_analog_dac_ad390jd
-  oomp_key_full: oomp_symbol_analog_dac_ad390jd_f37e66
-  oomp_key_simple: analog_dac_ad390jd
+  md5: 787848fc60592b15b365cdff6b694e06
+  md5_10: 787848fc60
+  md5_5: '78784'
+  md5_6: '787848'
+  oomp_key: oomp_ad390jd
+  oomp_key_extra: oomp_symbol_ad390jd
+  oomp_key_full: oomp_symbol_ad390jd_787848
+  oomp_key_simple: ad390jd
   owner_name: kicad
-  symbol_name: analog_dac_ad390jd
+  symbol_name: ad390jd
 oomp_key: oomp_kicad_analog_dac_ad390jd
 oomp_key_simple: kicad_analog_dac_ad390jd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

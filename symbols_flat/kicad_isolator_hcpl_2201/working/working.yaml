@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_hcpl_2201/working
   oomp_src_flat: symbols_flat/kicad_isolator_hcpl_2201/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_hcpl_2201/working
-name: isolator_hcpl_2201
+name: hcpl_2201
 oomp:
   library_name: isolator
-  md5: 11e5942f6fc6227fed40d49e81be96c8
-  md5_10: 11e5942f6f
-  md5_5: 11e59
-  md5_6: 11e594
-  oomp_key: oomp_isolator_hcpl_2201
-  oomp_key_extra: oomp_symbol_isolator_hcpl_2201
-  oomp_key_full: oomp_symbol_isolator_hcpl_2201_11e594
-  oomp_key_simple: isolator_hcpl_2201
+  md5: 99420d16af187da184dddaabdd98532c
+  md5_10: 99420d16af
+  md5_5: '99420'
+  md5_6: 99420d
+  oomp_key: oomp_hcpl_2201
+  oomp_key_extra: oomp_symbol_hcpl_2201
+  oomp_key_full: oomp_symbol_hcpl_2201_99420d
+  oomp_key_simple: hcpl_2201
   owner_name: kicad
-  symbol_name: isolator_hcpl_2201
+  symbol_name: hcpl_2201
 oomp_key: oomp_kicad_isolator_hcpl_2201
 oomp_key_simple: kicad_isolator_hcpl_2201
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_atmega_atmega48pv_10a/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_atmega_atmega48pv_10a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_atmega_atmega48pv_10a/working
-name: mcu_microchip_atmega_atmega48pv_10a
+name: atmega48pv_10a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 4acac8b7fb52eba06d635632b3d5f626
-  md5_10: 4acac8b7fb
-  md5_5: 4acac
-  md5_6: 4acac8
-  oomp_key: oomp_mcu_microchip_atmega_atmega48pv_10a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega48pv_10a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega48pv_10a_4acac8
-  oomp_key_simple: mcu_microchip_atmega_atmega48pv_10a
+  md5: 8bb7f28b47f8af84c98c5da75b1d8fb1
+  md5_10: 8bb7f28b47
+  md5_5: 8bb7f
+  md5_6: 8bb7f2
+  oomp_key: oomp_atmega48pv_10a
+  oomp_key_extra: oomp_symbol_atmega48pv_10a
+  oomp_key_full: oomp_symbol_atmega48pv_10a_8bb7f2
+  oomp_key_simple: atmega48pv_10a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega48pv_10a
+  symbol_name: atmega48pv_10a
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega48pv_10a
 oomp_key_simple: kicad_mcu_microchip_atmega_atmega48pv_10a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

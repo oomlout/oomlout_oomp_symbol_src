@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_sn75lbc176d/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_sn75lbc176d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_sn75lbc176d/working
-name: interface_uart_sn75lbc176d
+name: sn75lbc176d
 oomp:
   library_name: interface_uart
-  md5: 63e065aa66ca23b2c9d7d425a62cddeb
-  md5_10: 63e065aa66
-  md5_5: 63e06
-  md5_6: 63e065
-  oomp_key: oomp_interface_uart_sn75lbc176d
-  oomp_key_extra: oomp_symbol_interface_uart_sn75lbc176d
-  oomp_key_full: oomp_symbol_interface_uart_sn75lbc176d_63e065
-  oomp_key_simple: interface_uart_sn75lbc176d
+  md5: beaf65e134bb910a59b7a2477c7b5eff
+  md5_10: beaf65e134
+  md5_5: beaf6
+  md5_6: beaf65
+  oomp_key: oomp_sn75lbc176d
+  oomp_key_extra: oomp_symbol_sn75lbc176d
+  oomp_key_full: oomp_symbol_sn75lbc176d_beaf65
+  oomp_key_simple: sn75lbc176d
   owner_name: kicad
-  symbol_name: interface_uart_sn75lbc176d
+  symbol_name: sn75lbc176d
 oomp_key: oomp_kicad_interface_uart_sn75lbc176d
 oomp_key_simple: kicad_interface_uart_sn75lbc176d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

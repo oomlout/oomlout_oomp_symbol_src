@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_spx2920t_3_3_to263/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_spx2920t_3_3_to263/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_spx2920t_3_3_to263/working
-name: regulator_linear_spx2920t_3_3_to263
+name: spx2920t_3_3_to263
 oomp:
   library_name: regulator_linear
-  md5: 0e6655d95c1b1c0d1e621d0bdc707e0b
-  md5_10: 0e6655d95c
-  md5_5: 0e665
-  md5_6: 0e6655
-  oomp_key: oomp_regulator_linear_spx2920t_3_3_to263
-  oomp_key_extra: oomp_symbol_regulator_linear_spx2920t_3_3_to263
-  oomp_key_full: oomp_symbol_regulator_linear_spx2920t_3_3_to263_0e6655
-  oomp_key_simple: regulator_linear_spx2920t_3_3_to263
+  md5: 9061c617e702071de897bc7d007af045
+  md5_10: 9061c617e7
+  md5_5: 9061c
+  md5_6: 9061c6
+  oomp_key: oomp_spx2920t_3_3_to263
+  oomp_key_extra: oomp_symbol_spx2920t_3_3_to263
+  oomp_key_full: oomp_symbol_spx2920t_3_3_to263_9061c6
+  oomp_key_simple: spx2920t_3_3_to263
   owner_name: kicad
-  symbol_name: regulator_linear_spx2920t_3_3_to263
+  symbol_name: spx2920t_3_3_to263
 oomp_key: oomp_kicad_regulator_linear_spx2920t_3_3_to263
 oomp_key_simple: kicad_regulator_linear_spx2920t_3_3_to263
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lt1073cn/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lt1073cn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lt1073cn/working
-name: regulator_switching_lt1073cn
+name: lt1073cn
 oomp:
   library_name: regulator_switching
-  md5: 2fc6c9eebb6097761b18593ffccc1379
-  md5_10: 2fc6c9eebb
-  md5_5: 2fc6c
-  md5_6: 2fc6c9
-  oomp_key: oomp_regulator_switching_lt1073cn
-  oomp_key_extra: oomp_symbol_regulator_switching_lt1073cn
-  oomp_key_full: oomp_symbol_regulator_switching_lt1073cn_2fc6c9
-  oomp_key_simple: regulator_switching_lt1073cn
+  md5: 97e247a78b0d15b5d30bdead05c9cecf
+  md5_10: 97e247a78b
+  md5_5: 97e24
+  md5_6: 97e247
+  oomp_key: oomp_lt1073cn
+  oomp_key_extra: oomp_symbol_lt1073cn
+  oomp_key_full: oomp_symbol_lt1073cn_97e247
+  oomp_key_simple: lt1073cn
   owner_name: kicad
-  symbol_name: regulator_switching_lt1073cn
+  symbol_name: lt1073cn
 oomp_key: oomp_kicad_regulator_switching_lt1073cn
 oomp_key_simple: kicad_regulator_switching_lt1073cn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

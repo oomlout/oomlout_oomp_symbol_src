@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_cd4052b/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_cd4052b/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_cd4052b/working
-name: analog_switch_cd4052b
+name: cd4052b
 oomp:
   library_name: analog_switch
-  md5: 3a5789012b40d27d0ac0f0eccd9e48a6
-  md5_10: 3a5789012b
-  md5_5: 3a578
-  md5_6: 3a5789
-  oomp_key: oomp_analog_switch_cd4052b
-  oomp_key_extra: oomp_symbol_analog_switch_cd4052b
-  oomp_key_full: oomp_symbol_analog_switch_cd4052b_3a5789
-  oomp_key_simple: analog_switch_cd4052b
+  md5: bc9c4d48525439bee24df89c837e4e32
+  md5_10: bc9c4d4852
+  md5_5: bc9c4
+  md5_6: bc9c4d
+  oomp_key: oomp_cd4052b
+  oomp_key_extra: oomp_symbol_cd4052b
+  oomp_key_full: oomp_symbol_cd4052b_bc9c4d
+  oomp_key_simple: cd4052b
   owner_name: kicad
-  symbol_name: analog_switch_cd4052b
+  symbol_name: cd4052b
 oomp_key: oomp_kicad_analog_switch_cd4052b
 oomp_key_simple: kicad_analog_switch_cd4052b
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

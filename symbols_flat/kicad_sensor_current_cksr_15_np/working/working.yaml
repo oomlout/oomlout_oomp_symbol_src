@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_cksr_15_np/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_cksr_15_np/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_cksr_15_np/working
-name: sensor_current_cksr_15_np
+name: cksr_15_np
 oomp:
   library_name: sensor_current
-  md5: 3d70d32b8de66e796f8b8af27335a524
-  md5_10: 3d70d32b8d
-  md5_5: 3d70d
-  md5_6: 3d70d3
-  oomp_key: oomp_sensor_current_cksr_15_np
-  oomp_key_extra: oomp_symbol_sensor_current_cksr_15_np
-  oomp_key_full: oomp_symbol_sensor_current_cksr_15_np_3d70d3
-  oomp_key_simple: sensor_current_cksr_15_np
+  md5: 47e74424123204f7ef8028851f33c410
+  md5_10: 47e7442412
+  md5_5: 47e74
+  md5_6: 47e744
+  oomp_key: oomp_cksr_15_np
+  oomp_key_extra: oomp_symbol_cksr_15_np
+  oomp_key_full: oomp_symbol_cksr_15_np_47e744
+  oomp_key_simple: cksr_15_np
   owner_name: kicad
-  symbol_name: sensor_current_cksr_15_np
+  symbol_name: cksr_15_np
 oomp_key: oomp_kicad_sensor_current_cksr_15_np
 oomp_key_simple: kicad_sensor_current_cksr_15_np
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

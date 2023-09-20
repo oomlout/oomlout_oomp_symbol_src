@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_audiojack3_ground_switchtr/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_audiojack3_ground_switchtr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_audiojack3_ground_switchtr/working
-name: connector_audio_audiojack3_ground_switchtr
+name: audiojack3_ground_switchtr
 oomp:
   library_name: connector_audio
-  md5: 758d07af8fa1928dd970fee3a5e4c54b
-  md5_10: 758d07af8f
-  md5_5: 758d0
-  md5_6: 758d07
-  oomp_key: oomp_connector_audio_audiojack3_ground_switchtr
-  oomp_key_extra: oomp_symbol_connector_audio_audiojack3_ground_switchtr
-  oomp_key_full: oomp_symbol_connector_audio_audiojack3_ground_switchtr_758d07
-  oomp_key_simple: connector_audio_audiojack3_ground_switchtr
+  md5: f4178a13ad8ac4ba2eb4d49a03537ac7
+  md5_10: f4178a13ad
+  md5_5: f4178
+  md5_6: f4178a
+  oomp_key: oomp_audiojack3_ground_switchtr
+  oomp_key_extra: oomp_symbol_audiojack3_ground_switchtr
+  oomp_key_full: oomp_symbol_audiojack3_ground_switchtr_f4178a
+  oomp_key_simple: audiojack3_ground_switchtr
   owner_name: kicad
-  symbol_name: connector_audio_audiojack3_ground_switchtr
+  symbol_name: audiojack3_ground_switchtr
 oomp_key: oomp_kicad_connector_audio_audiojack3_ground_switchtr
 oomp_key_simple: kicad_connector_audio_audiojack3_ground_switchtr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

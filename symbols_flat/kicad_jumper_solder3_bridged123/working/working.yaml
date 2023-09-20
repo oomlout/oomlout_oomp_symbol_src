@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_jumper_solder3_bridged123/working
   oomp_src_flat: symbols_flat/kicad_jumper_solder3_bridged123/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_jumper_solder3_bridged123/working
-name: jumper_solderjumper_3_bridged123
+name: solder3_bridged123
 oomp:
   library_name: jumper
-  md5: 32d9f633b884d536e99784264916e835
-  md5_10: 32d9f633b8
-  md5_5: 32d9f
-  md5_6: 32d9f6
-  oomp_key: oomp_jumper_solderjumper_3_bridged123
-  oomp_key_extra: oomp_symbol_jumper_solderjumper_3_bridged123
-  oomp_key_full: oomp_symbol_jumper_solderjumper_3_bridged123_32d9f6
-  oomp_key_simple: jumper_solderjumper_3_bridged123
+  md5: 349b2c01197158d760a74e65c98c490d
+  md5_10: 349b2c0119
+  md5_5: 349b2
+  md5_6: 349b2c
+  oomp_key: oomp_solder3_bridged123
+  oomp_key_extra: oomp_symbol_solder3_bridged123
+  oomp_key_full: oomp_symbol_solder3_bridged123_349b2c
+  oomp_key_simple: solder3_bridged123
   owner_name: kicad
-  symbol_name: jumper_solderjumper_3_bridged123
+  symbol_name: solder3_bridged123
 oomp_key: oomp_kicad_jumper_solder3_bridged123
 oomp_key_simple: kicad_jumper_solder3_bridged123
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_pga4311/working
   oomp_src_flat: symbols_flat/kicad_audio_pga4311/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_pga4311/working
-name: audio_pga4311
+name: pga4311
 oomp:
   library_name: audio
-  md5: 9e18dfc924ee4edfad02fd206c35f626
-  md5_10: 9e18dfc924
-  md5_5: 9e18d
-  md5_6: 9e18df
-  oomp_key: oomp_audio_pga4311
-  oomp_key_extra: oomp_symbol_audio_pga4311
-  oomp_key_full: oomp_symbol_audio_pga4311_9e18df
-  oomp_key_simple: audio_pga4311
+  md5: 7e6df10e61cef1aa3927788f0448e14d
+  md5_10: 7e6df10e61
+  md5_5: 7e6df
+  md5_6: 7e6df1
+  oomp_key: oomp_pga4311
+  oomp_key_extra: oomp_symbol_pga4311
+  oomp_key_full: oomp_symbol_pga4311_7e6df1
+  oomp_key_simple: pga4311
   owner_name: kicad
-  symbol_name: audio_pga4311
+  symbol_name: pga4311
 oomp_key: oomp_kicad_audio_pga4311
 oomp_key_simple: kicad_audio_pga4311
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

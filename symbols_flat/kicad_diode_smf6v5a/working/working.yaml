@@ -1,19 +1,19 @@
 id: kicad_diode_smf6v5a
 library: diode
 library_name: Diode
-name: diode_smf6v5a
+name: smf6v5a
 oomp:
   library_name: diode
-  md5: 6cc197d26b5ab45289205c7c70191f7c
-  md5_10: 6cc197d26b
-  md5_5: 6cc19
-  md5_6: 6cc197
-  oomp_key: oomp_diode_smf6v5a
-  oomp_key_extra: oomp_symbol_diode_smf6v5a
-  oomp_key_full: oomp_symbol_diode_smf6v5a_6cc197
-  oomp_key_simple: diode_smf6v5a
+  md5: e267b21f075f92e5fc9af9ad3ad4619f
+  md5_10: e267b21f07
+  md5_5: e267b
+  md5_6: e267b2
+  oomp_key: oomp_smf6v5a
+  oomp_key_extra: oomp_symbol_smf6v5a
+  oomp_key_full: oomp_symbol_smf6v5a_e267b2
+  oomp_key_simple: smf6v5a
   owner_name: kicad
-  symbol_name: diode_smf6v5a
+  symbol_name: smf6v5a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

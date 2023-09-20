@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_ncv8402xst/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_ncv8402xst/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_ncv8402xst/working
-name: driver_fet_ncv8402xst
+name: ncv8402xst
 oomp:
   library_name: driver_fet
-  md5: 324d1b49997fc26c85a075e6254d944c
-  md5_10: 324d1b4999
-  md5_5: 324d1
-  md5_6: 324d1b
-  oomp_key: oomp_driver_fet_ncv8402xst
-  oomp_key_extra: oomp_symbol_driver_fet_ncv8402xst
-  oomp_key_full: oomp_symbol_driver_fet_ncv8402xst_324d1b
-  oomp_key_simple: driver_fet_ncv8402xst
+  md5: a969f0fc4de8ad8b3dd630021e1503d2
+  md5_10: a969f0fc4d
+  md5_5: a969f
+  md5_6: a969f0
+  oomp_key: oomp_ncv8402xst
+  oomp_key_extra: oomp_symbol_ncv8402xst
+  oomp_key_full: oomp_symbol_ncv8402xst_a969f0
+  oomp_key_simple: ncv8402xst
   owner_name: kicad
-  symbol_name: driver_fet_ncv8402xst
+  symbol_name: ncv8402xst
 oomp_key: oomp_kicad_driver_fet_ncv8402xst
 oomp_key_simple: kicad_driver_fet_ncv8402xst
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_sensor_current_cq_320b
 library: sensor_current
 library_name: Sensor_Current
-name: sensor_current_cq_320b
+name: cq_320b
 oomp:
   library_name: sensor_current
-  md5: 78a52453891bc82d1096153fff76d954
-  md5_10: 78a5245389
-  md5_5: 78a52
-  md5_6: 78a524
-  oomp_key: oomp_sensor_current_cq_320b
-  oomp_key_extra: oomp_symbol_sensor_current_cq_320b
-  oomp_key_full: oomp_symbol_sensor_current_cq_320b_78a524
-  oomp_key_simple: sensor_current_cq_320b
+  md5: eaf38a78954d7ef5f31186d882b5c7fe
+  md5_10: eaf38a7895
+  md5_5: eaf38
+  md5_6: eaf38a
+  oomp_key: oomp_cq_320b
+  oomp_key_extra: oomp_symbol_cq_320b
+  oomp_key_full: oomp_symbol_cq_320b_eaf38a
+  oomp_key_simple: cq_320b
   owner_name: kicad
-  symbol_name: sensor_current_cq_320b
+  symbol_name: cq_320b
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

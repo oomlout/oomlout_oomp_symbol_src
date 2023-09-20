@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_nb3n511/working
   oomp_src_flat: symbols_flat/kicad_oscillator_nb3n511/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_nb3n511/working
-name: oscillator_nb3n511
+name: nb3n511
 oomp:
   library_name: oscillator
-  md5: 7bdae24ac33d58b3949c1e006b578225
-  md5_10: 7bdae24ac3
-  md5_5: 7bdae
-  md5_6: 7bdae2
-  oomp_key: oomp_oscillator_nb3n511
-  oomp_key_extra: oomp_symbol_oscillator_nb3n511
-  oomp_key_full: oomp_symbol_oscillator_nb3n511_7bdae2
-  oomp_key_simple: oscillator_nb3n511
+  md5: c8ad7fa4c726fc9102ecbf8b798e3f56
+  md5_10: c8ad7fa4c7
+  md5_5: c8ad7
+  md5_6: c8ad7f
+  oomp_key: oomp_nb3n511
+  oomp_key_extra: oomp_symbol_nb3n511
+  oomp_key_full: oomp_symbol_nb3n511_c8ad7f
+  oomp_key_simple: nb3n511
   owner_name: kicad
-  symbol_name: oscillator_nb3n511
+  symbol_name: nb3n511
 oomp_key: oomp_kicad_oscillator_nb3n511
 oomp_key_simple: kicad_oscillator_nb3n511
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

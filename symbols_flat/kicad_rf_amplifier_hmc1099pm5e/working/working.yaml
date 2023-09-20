@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_amplifier_hmc1099pm5e/working
   oomp_src_flat: symbols_flat/kicad_rf_amplifier_hmc1099pm5e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_amplifier_hmc1099pm5e/working
-name: rf_amplifier_hmc1099pm5e
+name: hmc1099pm5e
 oomp:
   library_name: rf_amplifier
-  md5: ac0e65a15ac4ece2ac25a4e4b5715442
-  md5_10: ac0e65a15a
-  md5_5: ac0e6
-  md5_6: ac0e65
-  oomp_key: oomp_rf_amplifier_hmc1099pm5e
-  oomp_key_extra: oomp_symbol_rf_amplifier_hmc1099pm5e
-  oomp_key_full: oomp_symbol_rf_amplifier_hmc1099pm5e_ac0e65
-  oomp_key_simple: rf_amplifier_hmc1099pm5e
+  md5: 3b5c82c045fb53dd3e2f79cab35f99af
+  md5_10: 3b5c82c045
+  md5_5: 3b5c8
+  md5_6: 3b5c82
+  oomp_key: oomp_hmc1099pm5e
+  oomp_key_extra: oomp_symbol_hmc1099pm5e
+  oomp_key_full: oomp_symbol_hmc1099pm5e_3b5c82
+  oomp_key_simple: hmc1099pm5e
   owner_name: kicad
-  symbol_name: rf_amplifier_hmc1099pm5e
+  symbol_name: hmc1099pm5e
 oomp_key: oomp_kicad_rf_amplifier_hmc1099pm5e
 oomp_key_simple: kicad_rf_amplifier_hmc1099pm5e
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_bluetooth_mod_nrf8001/working
   oomp_src_flat: symbols_flat/kicad_rf_bluetooth_mod_nrf8001/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_bluetooth_mod_nrf8001/working
-name: rf_bluetooth_mod_nrf8001
+name: mod_nrf8001
 oomp:
   library_name: rf_bluetooth
-  md5: 27339768efab22d514ff94f8af0a411a
-  md5_10: 27339768ef
-  md5_5: '27339'
-  md5_6: '273397'
-  oomp_key: oomp_rf_bluetooth_mod_nrf8001
-  oomp_key_extra: oomp_symbol_rf_bluetooth_mod_nrf8001
-  oomp_key_full: oomp_symbol_rf_bluetooth_mod_nrf8001_273397
-  oomp_key_simple: rf_bluetooth_mod_nrf8001
+  md5: 8ecb57b6fa67779cf062f0b0ab5cc8b5
+  md5_10: 8ecb57b6fa
+  md5_5: 8ecb5
+  md5_6: 8ecb57
+  oomp_key: oomp_mod_nrf8001
+  oomp_key_extra: oomp_symbol_mod_nrf8001
+  oomp_key_full: oomp_symbol_mod_nrf8001_8ecb57
+  oomp_key_simple: mod_nrf8001
   owner_name: kicad
-  symbol_name: rf_bluetooth_mod_nrf8001
+  symbol_name: mod_nrf8001
 oomp_key: oomp_kicad_rf_bluetooth_mod_nrf8001
 oomp_key_simple: kicad_rf_bluetooth_mod_nrf8001
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

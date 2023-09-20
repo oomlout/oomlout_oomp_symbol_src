@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_l6561/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_l6561/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_l6561/working
-name: regulator_controller_l6561
+name: l6561
 oomp:
   library_name: regulator_controller
-  md5: 3c4393e5925706900ce0e57929992e9a
-  md5_10: 3c4393e592
-  md5_5: 3c439
-  md5_6: 3c4393
-  oomp_key: oomp_regulator_controller_l6561
-  oomp_key_extra: oomp_symbol_regulator_controller_l6561
-  oomp_key_full: oomp_symbol_regulator_controller_l6561_3c4393
-  oomp_key_simple: regulator_controller_l6561
+  md5: d97974d84d2607699bd853c6e28d9726
+  md5_10: d97974d84d
+  md5_5: d9797
+  md5_6: d97974
+  oomp_key: oomp_l6561
+  oomp_key_extra: oomp_symbol_l6561
+  oomp_key_full: oomp_symbol_l6561_d97974
+  oomp_key_simple: l6561
   owner_name: kicad
-  symbol_name: regulator_controller_l6561
+  symbol_name: l6561
 oomp_key: oomp_kicad_regulator_controller_l6561
 oomp_key_simple: kicad_regulator_controller_l6561
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

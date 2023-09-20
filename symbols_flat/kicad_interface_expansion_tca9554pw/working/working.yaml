@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_tca9554pw/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_tca9554pw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_tca9554pw/working
-name: interface_expansion_tca9554pw
+name: tca9554pw
 oomp:
   library_name: interface_expansion
-  md5: ec1a0a89dcaf84c0aedc664914b6e587
-  md5_10: ec1a0a89dc
-  md5_5: ec1a0
-  md5_6: ec1a0a
-  oomp_key: oomp_interface_expansion_tca9554pw
-  oomp_key_extra: oomp_symbol_interface_expansion_tca9554pw
-  oomp_key_full: oomp_symbol_interface_expansion_tca9554pw_ec1a0a
-  oomp_key_simple: interface_expansion_tca9554pw
+  md5: 0b47dbfafe70ff3b9aefdef55e723286
+  md5_10: 0b47dbfafe
+  md5_5: 0b47d
+  md5_6: 0b47db
+  oomp_key: oomp_tca9554pw
+  oomp_key_extra: oomp_symbol_tca9554pw
+  oomp_key_full: oomp_symbol_tca9554pw_0b47db
+  oomp_key_simple: tca9554pw
   owner_name: kicad
-  symbol_name: interface_expansion_tca9554pw
+  symbol_name: tca9554pw
 oomp_key: oomp_kicad_interface_expansion_tca9554pw
 oomp_key_simple: kicad_interface_expansion_tca9554pw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

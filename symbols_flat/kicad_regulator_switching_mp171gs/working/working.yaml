@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_mp171gs/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_mp171gs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_mp171gs/working
-name: regulator_switching_mp171gs
+name: mp171gs
 oomp:
   library_name: regulator_switching
-  md5: cbe4ab7c1501c6e270df1a7822a6fc7a
-  md5_10: cbe4ab7c15
-  md5_5: cbe4a
-  md5_6: cbe4ab
-  oomp_key: oomp_regulator_switching_mp171gs
-  oomp_key_extra: oomp_symbol_regulator_switching_mp171gs
-  oomp_key_full: oomp_symbol_regulator_switching_mp171gs_cbe4ab
-  oomp_key_simple: regulator_switching_mp171gs
+  md5: 097da9808525087fec6d3e0d3b68fcfd
+  md5_10: 097da98085
+  md5_5: 097da
+  md5_6: 097da9
+  oomp_key: oomp_mp171gs
+  oomp_key_extra: oomp_symbol_mp171gs
+  oomp_key_full: oomp_symbol_mp171gs_097da9
+  oomp_key_simple: mp171gs
   owner_name: kicad
-  symbol_name: regulator_switching_mp171gs
+  symbol_name: mp171gs
 oomp_key: oomp_kicad_regulator_switching_mp171gs
 oomp_key_simple: kicad_regulator_switching_mp171gs
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

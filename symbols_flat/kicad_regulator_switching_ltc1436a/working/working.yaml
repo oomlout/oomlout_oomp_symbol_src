@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ltc1436a/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ltc1436a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ltc1436a/working
-name: regulator_switching_ltc1436a
+name: ltc1436a
 oomp:
   library_name: regulator_switching
-  md5: 794685356c6ee01721c04743d0170507
-  md5_10: 794685356c
-  md5_5: '79468'
-  md5_6: '794685'
-  oomp_key: oomp_regulator_switching_ltc1436a
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc1436a
-  oomp_key_full: oomp_symbol_regulator_switching_ltc1436a_794685
-  oomp_key_simple: regulator_switching_ltc1436a
+  md5: 19b937ee8f8867fd9af0f1b51b0db614
+  md5_10: 19b937ee8f
+  md5_5: 19b93
+  md5_6: 19b937
+  oomp_key: oomp_ltc1436a
+  oomp_key_extra: oomp_symbol_ltc1436a
+  oomp_key_full: oomp_symbol_ltc1436a_19b937
+  oomp_key_simple: ltc1436a
   owner_name: kicad
-  symbol_name: regulator_switching_ltc1436a
+  symbol_name: ltc1436a
 oomp_key: oomp_kicad_regulator_switching_ltc1436a
 oomp_key_simple: kicad_regulator_switching_ltc1436a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

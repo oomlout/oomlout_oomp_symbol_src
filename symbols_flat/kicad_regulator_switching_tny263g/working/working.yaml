@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tny263g/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tny263g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tny263g/working
-name: regulator_switching_tny263g
+name: tny263g
 oomp:
   library_name: regulator_switching
-  md5: 2d3072e40b336295d92b118dd594e348
-  md5_10: 2d3072e40b
-  md5_5: 2d307
-  md5_6: 2d3072
-  oomp_key: oomp_regulator_switching_tny263g
-  oomp_key_extra: oomp_symbol_regulator_switching_tny263g
-  oomp_key_full: oomp_symbol_regulator_switching_tny263g_2d3072
-  oomp_key_simple: regulator_switching_tny263g
+  md5: 4db18cfcd9d49f2b511ab525aee89a15
+  md5_10: 4db18cfcd9
+  md5_5: 4db18
+  md5_6: 4db18c
+  oomp_key: oomp_tny263g
+  oomp_key_extra: oomp_symbol_tny263g
+  oomp_key_full: oomp_symbol_tny263g_4db18c
+  oomp_key_simple: tny263g
   owner_name: kicad
-  symbol_name: regulator_switching_tny263g
+  symbol_name: tny263g
 oomp_key: oomp_kicad_regulator_switching_tny263g
 oomp_key_simple: kicad_regulator_switching_tny263g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

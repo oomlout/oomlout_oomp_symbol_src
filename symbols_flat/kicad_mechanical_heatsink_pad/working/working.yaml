@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mechanical_heatsink_pad/working
   oomp_src_flat: symbols_flat/kicad_mechanical_heatsink_pad/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mechanical_heatsink_pad/working
-name: mechanical_heatsink_pad
+name: heatsink_pad
 oomp:
   library_name: mechanical
-  md5: ca47c282a89ac42b0f65b225a08a74f8
-  md5_10: ca47c282a8
-  md5_5: ca47c
-  md5_6: ca47c2
-  oomp_key: oomp_mechanical_heatsink_pad
-  oomp_key_extra: oomp_symbol_mechanical_heatsink_pad
-  oomp_key_full: oomp_symbol_mechanical_heatsink_pad_ca47c2
-  oomp_key_simple: mechanical_heatsink_pad
+  md5: 89a8da867ae49aef05ef4c15dd1b5118
+  md5_10: 89a8da867a
+  md5_5: 89a8d
+  md5_6: 89a8da
+  oomp_key: oomp_heatsink_pad
+  oomp_key_extra: oomp_symbol_heatsink_pad
+  oomp_key_full: oomp_symbol_heatsink_pad_89a8da
+  oomp_key_simple: heatsink_pad
   owner_name: kicad
-  symbol_name: mechanical_heatsink_pad
+  symbol_name: heatsink_pad
 oomp_key: oomp_kicad_mechanical_heatsink_pad
 oomp_key_simple: kicad_mechanical_heatsink_pad
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

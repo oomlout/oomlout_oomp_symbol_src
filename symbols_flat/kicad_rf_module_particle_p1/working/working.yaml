@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_particle_p1/working
   oomp_src_flat: symbols_flat/kicad_rf_module_particle_p1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_particle_p1/working
-name: rf_module_particle_p1
+name: particle_p1
 oomp:
   library_name: rf_module
-  md5: e178776d70880a50bdedcb51ff505ea9
-  md5_10: e178776d70
-  md5_5: e1787
-  md5_6: e17877
-  oomp_key: oomp_rf_module_particle_p1
-  oomp_key_extra: oomp_symbol_rf_module_particle_p1
-  oomp_key_full: oomp_symbol_rf_module_particle_p1_e17877
-  oomp_key_simple: rf_module_particle_p1
+  md5: 38dec7f0b6340d898aa8afd618ece194
+  md5_10: 38dec7f0b6
+  md5_5: 38dec
+  md5_6: 38dec7
+  oomp_key: oomp_particle_p1
+  oomp_key_extra: oomp_symbol_particle_p1
+  oomp_key_full: oomp_symbol_particle_p1_38dec7
+  oomp_key_simple: particle_p1
   owner_name: kicad
-  symbol_name: rf_module_particle_p1
+  symbol_name: particle_p1
 oomp_key: oomp_kicad_rf_module_particle_p1
 oomp_key_simple: kicad_rf_module_particle_p1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

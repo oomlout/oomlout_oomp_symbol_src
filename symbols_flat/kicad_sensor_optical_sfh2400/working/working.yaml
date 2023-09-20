@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_sfh2400/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_sfh2400/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_sfh2400/working
-name: sensor_optical_sfh2400
+name: sfh2400
 oomp:
   library_name: sensor_optical
-  md5: ef8026e7036b45e8b75ab7926f51c0bd
-  md5_10: ef8026e703
-  md5_5: ef802
-  md5_6: ef8026
-  oomp_key: oomp_sensor_optical_sfh2400
-  oomp_key_extra: oomp_symbol_sensor_optical_sfh2400
-  oomp_key_full: oomp_symbol_sensor_optical_sfh2400_ef8026
-  oomp_key_simple: sensor_optical_sfh2400
+  md5: ecae952177e41b2afa6477f219fab836
+  md5_10: ecae952177
+  md5_5: ecae9
+  md5_6: ecae95
+  oomp_key: oomp_sfh2400
+  oomp_key_extra: oomp_symbol_sfh2400
+  oomp_key_full: oomp_symbol_sfh2400_ecae95
+  oomp_key_simple: sfh2400
   owner_name: kicad
-  symbol_name: sensor_optical_sfh2400
+  symbol_name: sfh2400
 oomp_key: oomp_kicad_sensor_optical_sfh2400
 oomp_key_simple: kicad_sensor_optical_sfh2400
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

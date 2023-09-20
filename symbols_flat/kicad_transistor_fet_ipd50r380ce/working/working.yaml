@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_ipd50r380ce/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_ipd50r380ce/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_ipd50r380ce/working
-name: transistor_fet_ipd50r380ce
+name: ipd50r380ce
 oomp:
   library_name: transistor_fet
-  md5: f992c94d26a8d478df99784698b4fe0d
-  md5_10: f992c94d26
-  md5_5: f992c
-  md5_6: f992c9
-  oomp_key: oomp_transistor_fet_ipd50r380ce
-  oomp_key_extra: oomp_symbol_transistor_fet_ipd50r380ce
-  oomp_key_full: oomp_symbol_transistor_fet_ipd50r380ce_f992c9
-  oomp_key_simple: transistor_fet_ipd50r380ce
+  md5: eee8f8e31e6ee46c0b3bccc4c8571ec6
+  md5_10: eee8f8e31e
+  md5_5: eee8f
+  md5_6: eee8f8
+  oomp_key: oomp_ipd50r380ce
+  oomp_key_extra: oomp_symbol_ipd50r380ce
+  oomp_key_full: oomp_symbol_ipd50r380ce_eee8f8
+  oomp_key_simple: ipd50r380ce
   owner_name: kicad
-  symbol_name: transistor_fet_ipd50r380ce
+  symbol_name: ipd50r380ce
 oomp_key: oomp_kicad_transistor_fet_ipd50r380ce
 oomp_key_simple: kicad_transistor_fet_ipd50r380ce
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

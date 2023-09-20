@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_xlr5_ground_switched/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_xlr5_ground_switched/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_xlr5_ground_switched/working
-name: connector_audio_xlr5_ground_switched
+name: xlr5_ground_switched
 oomp:
   library_name: connector_audio
-  md5: 01812305081a72dd9c7cf9a6c0c39487
-  md5_10: 0181230508
-  md5_5: 01812
-  md5_6: 018123
-  oomp_key: oomp_connector_audio_xlr5_ground_switched
-  oomp_key_extra: oomp_symbol_connector_audio_xlr5_ground_switched
-  oomp_key_full: oomp_symbol_connector_audio_xlr5_ground_switched_018123
-  oomp_key_simple: connector_audio_xlr5_ground_switched
+  md5: e1c0a121393f3cbe2f0380ac575dcfe3
+  md5_10: e1c0a12139
+  md5_5: e1c0a
+  md5_6: e1c0a1
+  oomp_key: oomp_xlr5_ground_switched
+  oomp_key_extra: oomp_symbol_xlr5_ground_switched
+  oomp_key_full: oomp_symbol_xlr5_ground_switched_e1c0a1
+  oomp_key_simple: xlr5_ground_switched
   owner_name: kicad
-  symbol_name: connector_audio_xlr5_ground_switched
+  symbol_name: xlr5_ground_switched
 oomp_key: oomp_kicad_connector_audio_xlr5_ground_switched
 oomp_key_simple: kicad_connector_audio_xlr5_ground_switched
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

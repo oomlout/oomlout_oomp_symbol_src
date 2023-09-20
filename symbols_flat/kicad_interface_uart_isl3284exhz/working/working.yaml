@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_isl3284exhz/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_isl3284exhz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_isl3284exhz/working
-name: interface_uart_isl3284exhz
+name: isl3284exhz
 oomp:
   library_name: interface_uart
-  md5: 76b5e50bb8469630e175c956be0df204
-  md5_10: 76b5e50bb8
-  md5_5: 76b5e
-  md5_6: 76b5e5
-  oomp_key: oomp_interface_uart_isl3284exhz
-  oomp_key_extra: oomp_symbol_interface_uart_isl3284exhz
-  oomp_key_full: oomp_symbol_interface_uart_isl3284exhz_76b5e5
-  oomp_key_simple: interface_uart_isl3284exhz
+  md5: 3b4146d3bbc6aab36551650d33a10ef2
+  md5_10: 3b4146d3bb
+  md5_5: 3b414
+  md5_6: 3b4146
+  oomp_key: oomp_isl3284exhz
+  oomp_key_extra: oomp_symbol_isl3284exhz
+  oomp_key_full: oomp_symbol_isl3284exhz_3b4146
+  oomp_key_simple: isl3284exhz
   owner_name: kicad
-  symbol_name: interface_uart_isl3284exhz
+  symbol_name: isl3284exhz
 oomp_key: oomp_kicad_interface_uart_isl3284exhz
 oomp_key_simple: kicad_interface_uart_isl3284exhz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

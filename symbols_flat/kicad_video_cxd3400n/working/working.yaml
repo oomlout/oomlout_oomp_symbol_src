@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_cxd3400n/working
   oomp_src_flat: symbols_flat/kicad_video_cxd3400n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_cxd3400n/working
-name: video_cxd3400n
+name: cxd3400n
 oomp:
   library_name: video
-  md5: c9641d52d3e5c827d2cc12ffe028db31
-  md5_10: c9641d52d3
-  md5_5: c9641
-  md5_6: c9641d
-  oomp_key: oomp_video_cxd3400n
-  oomp_key_extra: oomp_symbol_video_cxd3400n
-  oomp_key_full: oomp_symbol_video_cxd3400n_c9641d
-  oomp_key_simple: video_cxd3400n
+  md5: 7d5895acb326069f221ec1b32e84edb2
+  md5_10: 7d5895acb3
+  md5_5: 7d589
+  md5_6: 7d5895
+  oomp_key: oomp_cxd3400n
+  oomp_key_extra: oomp_symbol_cxd3400n
+  oomp_key_full: oomp_symbol_cxd3400n_7d5895
+  oomp_key_simple: cxd3400n
   owner_name: kicad
-  symbol_name: video_cxd3400n
+  symbol_name: cxd3400n
 oomp_key: oomp_kicad_video_cxd3400n
 oomp_key_simple: kicad_video_cxd3400n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

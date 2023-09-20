@@ -1,19 +1,19 @@
 id: kicad_relay_fujitsu_ftr_lyaa005x
 library: relay
 library_name: Relay
-name: relay_fujitsu_ftr_lyaa005x
+name: fujitsu_ftr_lyaa005x
 oomp:
   library_name: relay
-  md5: b597ec3568f06f5504f135654e18a8ec
-  md5_10: b597ec3568
-  md5_5: b597e
-  md5_6: b597ec
-  oomp_key: oomp_relay_fujitsu_ftr_lyaa005x
-  oomp_key_extra: oomp_symbol_relay_fujitsu_ftr_lyaa005x
-  oomp_key_full: oomp_symbol_relay_fujitsu_ftr_lyaa005x_b597ec
-  oomp_key_simple: relay_fujitsu_ftr_lyaa005x
+  md5: 6a5bc1c42a6da6f8d106f0ac367e67b9
+  md5_10: 6a5bc1c42a
+  md5_5: 6a5bc
+  md5_6: 6a5bc1
+  oomp_key: oomp_fujitsu_ftr_lyaa005x
+  oomp_key_extra: oomp_symbol_fujitsu_ftr_lyaa005x
+  oomp_key_full: oomp_symbol_fujitsu_ftr_lyaa005x_6a5bc1
+  oomp_key_simple: fujitsu_ftr_lyaa005x
   owner_name: kicad
-  symbol_name: relay_fujitsu_ftr_lyaa005x
+  symbol_name: fujitsu_ftr_lyaa005x
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

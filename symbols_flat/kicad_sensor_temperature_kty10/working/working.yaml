@@ -1,19 +1,19 @@
 id: kicad_sensor_temperature_kty10
 library: sensor_temperature
 library_name: Sensor_Temperature
-name: sensor_temperature_kty10
+name: kty10
 oomp:
   library_name: sensor_temperature
-  md5: bb99d47e2dad16cfb6c4abfee29d9112
-  md5_10: bb99d47e2d
-  md5_5: bb99d
-  md5_6: bb99d4
-  oomp_key: oomp_sensor_temperature_kty10
-  oomp_key_extra: oomp_symbol_sensor_temperature_kty10
-  oomp_key_full: oomp_symbol_sensor_temperature_kty10_bb99d4
-  oomp_key_simple: sensor_temperature_kty10
+  md5: d21ea2512241a55859ff505811879dc2
+  md5_10: d21ea25122
+  md5_5: d21ea
+  md5_6: d21ea2
+  oomp_key: oomp_kty10
+  oomp_key_extra: oomp_symbol_kty10
+  oomp_key_full: oomp_symbol_kty10_d21ea2
+  oomp_key_simple: kty10
   owner_name: kicad
-  symbol_name: sensor_temperature_kty10
+  symbol_name: kty10
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

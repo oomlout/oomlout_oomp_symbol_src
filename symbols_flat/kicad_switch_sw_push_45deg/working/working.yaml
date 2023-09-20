@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_push_45deg/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_push_45deg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_push_45deg/working
-name: switch_sw_push_45deg
+name: sw_push_45deg
 oomp:
   library_name: switch
-  md5: 2357357157ae21cfe9ec015afc4ee5b6
-  md5_10: '2357357157'
-  md5_5: '23573'
-  md5_6: '235735'
-  oomp_key: oomp_switch_sw_push_45deg
-  oomp_key_extra: oomp_symbol_switch_sw_push_45deg
-  oomp_key_full: oomp_symbol_switch_sw_push_45deg_235735
-  oomp_key_simple: switch_sw_push_45deg
+  md5: 06b7daa4bee7791335f784e2dcd7ca85
+  md5_10: 06b7daa4be
+  md5_5: 06b7d
+  md5_6: 06b7da
+  oomp_key: oomp_sw_push_45deg
+  oomp_key_extra: oomp_symbol_sw_push_45deg
+  oomp_key_full: oomp_symbol_sw_push_45deg_06b7da
+  oomp_key_simple: sw_push_45deg
   owner_name: kicad
-  symbol_name: switch_sw_push_45deg
+  symbol_name: sw_push_45deg
 oomp_key: oomp_kicad_switch_sw_push_45deg
 oomp_key_simple: kicad_switch_sw_push_45deg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

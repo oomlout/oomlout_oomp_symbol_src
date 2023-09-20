@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_src4392xpfb/working
   oomp_src_flat: symbols_flat/kicad_audio_src4392xpfb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_src4392xpfb/working
-name: audio_src4392xpfb
+name: src4392xpfb
 oomp:
   library_name: audio
-  md5: 6352b7e6baa922e8a6be9978f6cb1ff8
-  md5_10: 6352b7e6ba
-  md5_5: 6352b
-  md5_6: 6352b7
-  oomp_key: oomp_audio_src4392xpfb
-  oomp_key_extra: oomp_symbol_audio_src4392xpfb
-  oomp_key_full: oomp_symbol_audio_src4392xpfb_6352b7
-  oomp_key_simple: audio_src4392xpfb
+  md5: 8af04ff4ad10f7d769313d32e77c4601
+  md5_10: 8af04ff4ad
+  md5_5: 8af04
+  md5_6: 8af04f
+  oomp_key: oomp_src4392xpfb
+  oomp_key_extra: oomp_symbol_src4392xpfb
+  oomp_key_full: oomp_symbol_src4392xpfb_8af04f
+  oomp_key_simple: src4392xpfb
   owner_name: kicad
-  symbol_name: audio_src4392xpfb
+  symbol_name: src4392xpfb
 oomp_key: oomp_kicad_audio_src4392xpfb
 oomp_key_simple: kicad_audio_src4392xpfb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

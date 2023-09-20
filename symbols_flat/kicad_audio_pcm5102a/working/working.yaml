@@ -1,19 +1,19 @@
 id: kicad_audio_pcm5102a
 library: audio
 library_name: Audio
-name: audio_pcm5102a
+name: pcm5102a
 oomp:
   library_name: audio
-  md5: d806981ae468d496d35d6d2b30b2cecd
-  md5_10: d806981ae4
-  md5_5: d8069
-  md5_6: d80698
-  oomp_key: oomp_audio_pcm5102a
-  oomp_key_extra: oomp_symbol_audio_pcm5102a
-  oomp_key_full: oomp_symbol_audio_pcm5102a_d80698
-  oomp_key_simple: audio_pcm5102a
+  md5: 3cdf15e25176efa4c96b40acedc519b5
+  md5_10: 3cdf15e251
+  md5_5: 3cdf1
+  md5_6: 3cdf15
+  oomp_key: oomp_pcm5102a
+  oomp_key_extra: oomp_symbol_pcm5102a
+  oomp_key_full: oomp_symbol_pcm5102a_3cdf15
+  oomp_key_simple: pcm5102a
   owner_name: kicad
-  symbol_name: audio_pcm5102a
+  symbol_name: pcm5102a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

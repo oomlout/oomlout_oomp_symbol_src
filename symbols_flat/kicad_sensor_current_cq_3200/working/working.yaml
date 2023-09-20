@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_cq_3200/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_cq_3200/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_cq_3200/working
-name: sensor_current_cq_3200
+name: cq_3200
 oomp:
   library_name: sensor_current
-  md5: b647afcc5a4882f0c6d9366990316ba7
-  md5_10: b647afcc5a
-  md5_5: b647a
-  md5_6: b647af
-  oomp_key: oomp_sensor_current_cq_3200
-  oomp_key_extra: oomp_symbol_sensor_current_cq_3200
-  oomp_key_full: oomp_symbol_sensor_current_cq_3200_b647af
-  oomp_key_simple: sensor_current_cq_3200
+  md5: 11ce0e5236bbe4a9d3dbc657ff3f60ad
+  md5_10: 11ce0e5236
+  md5_5: 11ce0
+  md5_6: 11ce0e
+  oomp_key: oomp_cq_3200
+  oomp_key_extra: oomp_symbol_cq_3200
+  oomp_key_full: oomp_symbol_cq_3200_11ce0e
+  oomp_key_simple: cq_3200
   owner_name: kicad
-  symbol_name: sensor_current_cq_3200
+  symbol_name: cq_3200
 oomp_key: oomp_kicad_sensor_current_cq_3200
 oomp_key_simple: kicad_sensor_current_cq_3200
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

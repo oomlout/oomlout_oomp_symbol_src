@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_max14761/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_max14761/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_max14761/working
-name: analog_switch_max14761
+name: max14761
 oomp:
   library_name: analog_switch
-  md5: 80f6b4d5b82f82baa284bfc6222358dc
-  md5_10: 80f6b4d5b8
-  md5_5: 80f6b
-  md5_6: 80f6b4
-  oomp_key: oomp_analog_switch_max14761
-  oomp_key_extra: oomp_symbol_analog_switch_max14761
-  oomp_key_full: oomp_symbol_analog_switch_max14761_80f6b4
-  oomp_key_simple: analog_switch_max14761
+  md5: d44112581e90ade3650c61dbde8bf2d0
+  md5_10: d44112581e
+  md5_5: d4411
+  md5_6: d44112
+  oomp_key: oomp_max14761
+  oomp_key_extra: oomp_symbol_max14761
+  oomp_key_full: oomp_symbol_max14761_d44112
+  oomp_key_simple: max14761
   owner_name: kicad
-  symbol_name: analog_switch_max14761
+  symbol_name: max14761
 oomp_key: oomp_kicad_analog_switch_max14761
 oomp_key_simple: kicad_analog_switch_max14761
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

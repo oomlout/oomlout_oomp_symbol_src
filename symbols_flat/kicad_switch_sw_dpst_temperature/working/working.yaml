@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_dpst_temperature/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_dpst_temperature/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_dpst_temperature/working
-name: switch_sw_dpst_temperature
+name: sw_dpst_temperature
 oomp:
   library_name: switch
-  md5: 38c5cced42318fe61157b7a8d2a6b1bf
-  md5_10: 38c5cced42
-  md5_5: 38c5c
-  md5_6: 38c5cc
-  oomp_key: oomp_switch_sw_dpst_temperature
-  oomp_key_extra: oomp_symbol_switch_sw_dpst_temperature
-  oomp_key_full: oomp_symbol_switch_sw_dpst_temperature_38c5cc
-  oomp_key_simple: switch_sw_dpst_temperature
+  md5: b73c1123bac5b1f55444efb9dca1022c
+  md5_10: b73c1123ba
+  md5_5: b73c1
+  md5_6: b73c11
+  oomp_key: oomp_sw_dpst_temperature
+  oomp_key_extra: oomp_symbol_sw_dpst_temperature
+  oomp_key_full: oomp_symbol_sw_dpst_temperature_b73c11
+  oomp_key_simple: sw_dpst_temperature
   owner_name: kicad
-  symbol_name: switch_sw_dpst_temperature
+  symbol_name: sw_dpst_temperature
 oomp_key: oomp_kicad_switch_sw_dpst_temperature
 oomp_key_simple: kicad_switch_sw_dpst_temperature
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

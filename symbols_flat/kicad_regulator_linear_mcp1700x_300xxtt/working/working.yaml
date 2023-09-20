@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_mcp1700x_300xxtt/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_mcp1700x_300xxtt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_mcp1700x_300xxtt/working
-name: regulator_linear_mcp1700x_300xxtt
+name: mcp1700x_300xxtt
 oomp:
   library_name: regulator_linear
-  md5: dfa97764909cd2bf5c6958d1a49b5759
-  md5_10: dfa9776490
-  md5_5: dfa97
-  md5_6: dfa977
-  oomp_key: oomp_regulator_linear_mcp1700x_300xxtt
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1700x_300xxtt
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1700x_300xxtt_dfa977
-  oomp_key_simple: regulator_linear_mcp1700x_300xxtt
+  md5: 80cd47f05af60239cd3f5094aafc9f14
+  md5_10: 80cd47f05a
+  md5_5: 80cd4
+  md5_6: 80cd47
+  oomp_key: oomp_mcp1700x_300xxtt
+  oomp_key_extra: oomp_symbol_mcp1700x_300xxtt
+  oomp_key_full: oomp_symbol_mcp1700x_300xxtt_80cd47
+  oomp_key_simple: mcp1700x_300xxtt
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1700x_300xxtt
+  symbol_name: mcp1700x_300xxtt
 oomp_key: oomp_kicad_regulator_linear_mcp1700x_300xxtt
 oomp_key_simple: kicad_regulator_linear_mcp1700x_300xxtt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_driver_led_hv9923n8_g
 library: driver_led
 library_name: Driver_LED
-name: driver_led_hv9923n8_g
+name: hv9923n8_g
 oomp:
   library_name: driver_led
-  md5: 2cee96dc5f692eb3f1c2962496daf75d
-  md5_10: 2cee96dc5f
-  md5_5: 2cee9
-  md5_6: 2cee96
-  oomp_key: oomp_driver_led_hv9923n8_g
-  oomp_key_extra: oomp_symbol_driver_led_hv9923n8_g
-  oomp_key_full: oomp_symbol_driver_led_hv9923n8_g_2cee96
-  oomp_key_simple: driver_led_hv9923n8_g
+  md5: bfb6df407341fdeb386e2ba4a3c9168f
+  md5_10: bfb6df4073
+  md5_5: bfb6d
+  md5_6: bfb6df
+  oomp_key: oomp_hv9923n8_g
+  oomp_key_extra: oomp_symbol_hv9923n8_g
+  oomp_key_full: oomp_symbol_hv9923n8_g_bfb6df
+  oomp_key_simple: hv9923n8_g
   owner_name: kicad
-  symbol_name: driver_led_hv9923n8_g
+  symbol_name: hv9923n8_g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

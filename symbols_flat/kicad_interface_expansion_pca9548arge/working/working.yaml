@@ -1,19 +1,19 @@
 id: kicad_interface_expansion_pca9548arge
 library: interface_expansion
 library_name: Interface_Expansion
-name: interface_expansion_pca9548arge
+name: pca9548arge
 oomp:
   library_name: interface_expansion
-  md5: 897a38632538a0463b87190498db82e4
-  md5_10: 897a386325
-  md5_5: 897a3
-  md5_6: 897a38
-  oomp_key: oomp_interface_expansion_pca9548arge
-  oomp_key_extra: oomp_symbol_interface_expansion_pca9548arge
-  oomp_key_full: oomp_symbol_interface_expansion_pca9548arge_897a38
-  oomp_key_simple: interface_expansion_pca9548arge
+  md5: 2fb66c6194b636f7b7f9c9daccbfa7ca
+  md5_10: 2fb66c6194
+  md5_5: 2fb66
+  md5_6: 2fb66c
+  oomp_key: oomp_pca9548arge
+  oomp_key_extra: oomp_symbol_pca9548arge
+  oomp_key_full: oomp_symbol_pca9548arge_2fb66c
+  oomp_key_simple: pca9548arge
   owner_name: kicad
-  symbol_name: interface_expansion_pca9548arge
+  symbol_name: pca9548arge
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

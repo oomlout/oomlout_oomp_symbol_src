@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_opa569dwp/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_opa569dwp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_opa569dwp/working
-name: amplifier_operational_opa569dwp
+name: opa569dwp
 oomp:
   library_name: amplifier_operational
-  md5: 0a9b2d5d334f7bc72820291ed880ea5c
-  md5_10: 0a9b2d5d33
-  md5_5: 0a9b2
-  md5_6: 0a9b2d
-  oomp_key: oomp_amplifier_operational_opa569dwp
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa569dwp
-  oomp_key_full: oomp_symbol_amplifier_operational_opa569dwp_0a9b2d
-  oomp_key_simple: amplifier_operational_opa569dwp
+  md5: e8539f0f5b9bddcf3dead47aaf62ae1d
+  md5_10: e8539f0f5b
+  md5_5: e8539
+  md5_6: e8539f
+  oomp_key: oomp_opa569dwp
+  oomp_key_extra: oomp_symbol_opa569dwp
+  oomp_key_full: oomp_symbol_opa569dwp_e8539f
+  oomp_key_simple: opa569dwp
   owner_name: kicad
-  symbol_name: amplifier_operational_opa569dwp
+  symbol_name: opa569dwp
 oomp_key: oomp_kicad_amplifier_operational_opa569dwp
 oomp_key_simple: kicad_amplifier_operational_opa569dwp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

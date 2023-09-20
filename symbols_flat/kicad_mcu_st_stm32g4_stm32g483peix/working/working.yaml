@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32g4_stm32g483peix/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32g4_stm32g483peix/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32g4_stm32g483peix/working
-name: mcu_st_stm32g4_stm32g483peix
+name: stm32g483peix
 oomp:
   library_name: mcu_st_stm32g4
-  md5: 0748e28c60045c8c4f2fdad1d39b9bee
-  md5_10: 0748e28c60
-  md5_5: 0748e
-  md5_6: 0748e2
-  oomp_key: oomp_mcu_st_stm32g4_stm32g483peix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g483peix
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g483peix_0748e2
-  oomp_key_simple: mcu_st_stm32g4_stm32g483peix
+  md5: b232850deddc2a0a8c55ce4d1924f7c7
+  md5_10: b232850ded
+  md5_5: b2328
+  md5_6: b23285
+  oomp_key: oomp_stm32g483peix
+  oomp_key_extra: oomp_symbol_stm32g483peix
+  oomp_key_full: oomp_symbol_stm32g483peix_b23285
+  oomp_key_simple: stm32g483peix
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g483peix
+  symbol_name: stm32g483peix
 oomp_key: oomp_kicad_mcu_st_stm32g4_stm32g483peix
 oomp_key_simple: kicad_mcu_st_stm32g4_stm32g483peix
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

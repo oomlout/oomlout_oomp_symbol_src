@@ -1,19 +1,19 @@
 id: kicad_amplifier_operational_lf256
 library: amplifier_operational
 library_name: Amplifier_Operational
-name: amplifier_operational_lf256
+name: lf256
 oomp:
   library_name: amplifier_operational
-  md5: 05a500c5c573d79aa138a205519b5251
-  md5_10: 05a500c5c5
-  md5_5: 05a50
-  md5_6: 05a500
-  oomp_key: oomp_amplifier_operational_lf256
-  oomp_key_extra: oomp_symbol_amplifier_operational_lf256
-  oomp_key_full: oomp_symbol_amplifier_operational_lf256_05a500
-  oomp_key_simple: amplifier_operational_lf256
+  md5: 5412b510d03bf7e7ef470982595c7d5a
+  md5_10: 5412b510d0
+  md5_5: 5412b
+  md5_6: 5412b5
+  oomp_key: oomp_lf256
+  oomp_key_extra: oomp_symbol_lf256
+  oomp_key_full: oomp_symbol_lf256_5412b5
+  oomp_key_simple: lf256
   owner_name: kicad
-  symbol_name: amplifier_operational_lf256
+  symbol_name: lf256
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

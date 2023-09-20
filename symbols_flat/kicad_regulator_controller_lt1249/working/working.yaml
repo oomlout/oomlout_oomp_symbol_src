@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_lt1249/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_lt1249/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_lt1249/working
-name: regulator_controller_lt1249
+name: lt1249
 oomp:
   library_name: regulator_controller
-  md5: c319d4e5bfadc66ba9a896b259811bbb
-  md5_10: c319d4e5bf
-  md5_5: c319d
-  md5_6: c319d4
-  oomp_key: oomp_regulator_controller_lt1249
-  oomp_key_extra: oomp_symbol_regulator_controller_lt1249
-  oomp_key_full: oomp_symbol_regulator_controller_lt1249_c319d4
-  oomp_key_simple: regulator_controller_lt1249
+  md5: c51a3ae952a78ebd38da1ab936fb0e63
+  md5_10: c51a3ae952
+  md5_5: c51a3
+  md5_6: c51a3a
+  oomp_key: oomp_lt1249
+  oomp_key_extra: oomp_symbol_lt1249
+  oomp_key_full: oomp_symbol_lt1249_c51a3a
+  oomp_key_simple: lt1249
   owner_name: kicad
-  symbol_name: regulator_controller_lt1249
+  symbol_name: lt1249
 oomp_key: oomp_kicad_regulator_controller_lt1249
 oomp_key_simple: kicad_regulator_controller_lt1249
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

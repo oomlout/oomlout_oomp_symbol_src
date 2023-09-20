@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_circuitbreaker_3p_us/working
   oomp_src_flat: symbols_flat/kicad_device_circuitbreaker_3p_us/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_circuitbreaker_3p_us/working
-name: device_circuitbreaker_3p_us
+name: circuitbreaker_3p_us
 oomp:
   library_name: device
-  md5: aab239b91d8ee2346feee41aadc25afd
-  md5_10: aab239b91d
-  md5_5: aab23
-  md5_6: aab239
-  oomp_key: oomp_device_circuitbreaker_3p_us
-  oomp_key_extra: oomp_symbol_device_circuitbreaker_3p_us
-  oomp_key_full: oomp_symbol_device_circuitbreaker_3p_us_aab239
-  oomp_key_simple: device_circuitbreaker_3p_us
+  md5: 5366774dafb0dbda24775a8f68475e83
+  md5_10: 5366774daf
+  md5_5: '53667'
+  md5_6: '536677'
+  oomp_key: oomp_circuitbreaker_3p_us
+  oomp_key_extra: oomp_symbol_circuitbreaker_3p_us
+  oomp_key_full: oomp_symbol_circuitbreaker_3p_us_536677
+  oomp_key_simple: circuitbreaker_3p_us
   owner_name: kicad
-  symbol_name: device_circuitbreaker_3p_us
+  symbol_name: circuitbreaker_3p_us
 oomp_key: oomp_kicad_device_circuitbreaker_3p_us
 oomp_key_simple: kicad_device_circuitbreaker_3p_us
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_mcp101_270d/working
   oomp_src_flat: symbols_flat/kicad_power_supervisor_mcp101_270d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_mcp101_270d/working
-name: power_supervisor_mcp101_270d
+name: mcp101_270d
 oomp:
   library_name: power_supervisor
-  md5: db57a6189cb20d3273b3d449d1ec067e
-  md5_10: db57a6189c
-  md5_5: db57a
-  md5_6: db57a6
-  oomp_key: oomp_power_supervisor_mcp101_270d
-  oomp_key_extra: oomp_symbol_power_supervisor_mcp101_270d
-  oomp_key_full: oomp_symbol_power_supervisor_mcp101_270d_db57a6
-  oomp_key_simple: power_supervisor_mcp101_270d
+  md5: 8bb456c97a69a6028bdda6bc7fb681ea
+  md5_10: 8bb456c97a
+  md5_5: 8bb45
+  md5_6: 8bb456
+  oomp_key: oomp_mcp101_270d
+  oomp_key_extra: oomp_symbol_mcp101_270d
+  oomp_key_full: oomp_symbol_mcp101_270d_8bb456
+  oomp_key_simple: mcp101_270d
   owner_name: kicad
-  symbol_name: power_supervisor_mcp101_270d
+  symbol_name: mcp101_270d
 oomp_key: oomp_kicad_power_supervisor_mcp101_270d
 oomp_key_simple: kicad_power_supervisor_mcp101_270d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

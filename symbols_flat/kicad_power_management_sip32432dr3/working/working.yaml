@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_sip32432dr3/working
   oomp_src_flat: symbols_flat/kicad_power_management_sip32432dr3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_sip32432dr3/working
-name: power_management_sip32432dr3
+name: sip32432dr3
 oomp:
   library_name: power_management
-  md5: b4ec207a795039564143918c0a969214
-  md5_10: b4ec207a79
-  md5_5: b4ec2
-  md5_6: b4ec20
-  oomp_key: oomp_power_management_sip32432dr3
-  oomp_key_extra: oomp_symbol_power_management_sip32432dr3
-  oomp_key_full: oomp_symbol_power_management_sip32432dr3_b4ec20
-  oomp_key_simple: power_management_sip32432dr3
+  md5: 824a6c1e1254c6ba015f7370c361231c
+  md5_10: 824a6c1e12
+  md5_5: 824a6
+  md5_6: 824a6c
+  oomp_key: oomp_sip32432dr3
+  oomp_key_extra: oomp_symbol_sip32432dr3
+  oomp_key_full: oomp_symbol_sip32432dr3_824a6c
+  oomp_key_simple: sip32432dr3
   owner_name: kicad
-  symbol_name: power_management_sip32432dr3
+  symbol_name: sip32432dr3
 oomp_key: oomp_kicad_power_management_sip32432dr3
 oomp_key_simple: kicad_power_management_sip32432dr3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

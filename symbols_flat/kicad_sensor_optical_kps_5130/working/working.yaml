@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_kps_5130/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_kps_5130/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_kps_5130/working
-name: sensor_optical_kps_5130
+name: kps_5130
 oomp:
   library_name: sensor_optical
-  md5: 4d389c103447d3e66f0519fa8d9bf7bb
-  md5_10: 4d389c1034
-  md5_5: 4d389
-  md5_6: 4d389c
-  oomp_key: oomp_sensor_optical_kps_5130
-  oomp_key_extra: oomp_symbol_sensor_optical_kps_5130
-  oomp_key_full: oomp_symbol_sensor_optical_kps_5130_4d389c
-  oomp_key_simple: sensor_optical_kps_5130
+  md5: ee0e29df93a8db6520bf98adf1cfbe44
+  md5_10: ee0e29df93
+  md5_5: ee0e2
+  md5_6: ee0e29
+  oomp_key: oomp_kps_5130
+  oomp_key_extra: oomp_symbol_kps_5130
+  oomp_key_full: oomp_symbol_kps_5130_ee0e29
+  oomp_key_simple: kps_5130
   owner_name: kicad
-  symbol_name: sensor_optical_kps_5130
+  symbol_name: kps_5130
 oomp_key: oomp_kicad_sensor_optical_kps_5130
 oomp_key_simple: kicad_sensor_optical_kps_5130
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

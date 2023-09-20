@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_analogdevices_aduc816/working
   oomp_src_flat: symbols_flat/kicad_mcu_analogdevices_aduc816/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_analogdevices_aduc816/working
-name: mcu_analogdevices_aduc816
+name: aduc816
 oomp:
   library_name: mcu_analogdevices
-  md5: cd6620ad5ee64c79ad4a0adc31f7fa97
-  md5_10: cd6620ad5e
-  md5_5: cd662
-  md5_6: cd6620
-  oomp_key: oomp_mcu_analogdevices_aduc816
-  oomp_key_extra: oomp_symbol_mcu_analogdevices_aduc816
-  oomp_key_full: oomp_symbol_mcu_analogdevices_aduc816_cd6620
-  oomp_key_simple: mcu_analogdevices_aduc816
+  md5: 14dccb4cded84b2fa81f7296f7635c10
+  md5_10: 14dccb4cde
+  md5_5: 14dcc
+  md5_6: 14dccb
+  oomp_key: oomp_aduc816
+  oomp_key_extra: oomp_symbol_aduc816
+  oomp_key_full: oomp_symbol_aduc816_14dccb
+  oomp_key_simple: aduc816
   owner_name: kicad
-  symbol_name: mcu_analogdevices_aduc816
+  symbol_name: aduc816
 oomp_key: oomp_kicad_mcu_analogdevices_aduc816
 oomp_key_simple: kicad_mcu_analogdevices_aduc816
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

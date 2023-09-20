@@ -1,19 +1,19 @@
 id: kicad_mcu_siliconlabs_c8051f38c_gm
 library: mcu_siliconlabs
 library_name: MCU_SiliconLabs
-name: mcu_siliconlabs_c8051f38c_gm
+name: c8051f38c_gm
 oomp:
   library_name: mcu_siliconlabs
-  md5: db966ce110ccbe9bc7e4ce6ed42a2e5d
-  md5_10: db966ce110
-  md5_5: db966
-  md5_6: db966c
-  oomp_key: oomp_mcu_siliconlabs_c8051f38c_gm
-  oomp_key_extra: oomp_symbol_mcu_siliconlabs_c8051f38c_gm
-  oomp_key_full: oomp_symbol_mcu_siliconlabs_c8051f38c_gm_db966c
-  oomp_key_simple: mcu_siliconlabs_c8051f38c_gm
+  md5: ffc95f24fa1d2877b610a0b02fa54e50
+  md5_10: ffc95f24fa
+  md5_5: ffc95
+  md5_6: ffc95f
+  oomp_key: oomp_c8051f38c_gm
+  oomp_key_extra: oomp_symbol_c8051f38c_gm
+  oomp_key_full: oomp_symbol_c8051f38c_gm_ffc95f
+  oomp_key_simple: c8051f38c_gm
   owner_name: kicad
-  symbol_name: mcu_siliconlabs_c8051f38c_gm
+  symbol_name: c8051f38c_gm
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

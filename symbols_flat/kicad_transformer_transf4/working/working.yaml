@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_transf4/working
   oomp_src_flat: symbols_flat/kicad_transformer_transf4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_transf4/working
-name: transformer_transf4
+name: transf4
 oomp:
   library_name: transformer
-  md5: af35dfd8d121fcd3c81be31ad813febe
-  md5_10: af35dfd8d1
-  md5_5: af35d
-  md5_6: af35df
-  oomp_key: oomp_transformer_transf4
-  oomp_key_extra: oomp_symbol_transformer_transf4
-  oomp_key_full: oomp_symbol_transformer_transf4_af35df
-  oomp_key_simple: transformer_transf4
+  md5: 2e266c9bd8ea38db7d73c9ff380278f7
+  md5_10: 2e266c9bd8
+  md5_5: 2e266
+  md5_6: 2e266c
+  oomp_key: oomp_transf4
+  oomp_key_extra: oomp_symbol_transf4
+  oomp_key_full: oomp_symbol_transf4_2e266c
+  oomp_key_simple: transf4
   owner_name: kicad
-  symbol_name: transformer_transf4
+  symbol_name: transf4
 oomp_key: oomp_kicad_transformer_transf4
 oomp_key_simple: kicad_transformer_transf4
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

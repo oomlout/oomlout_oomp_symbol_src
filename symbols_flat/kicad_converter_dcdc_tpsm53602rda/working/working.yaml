@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_tpsm53602rda/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_tpsm53602rda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_tpsm53602rda/working
-name: converter_dcdc_tpsm53602rda
+name: tpsm53602rda
 oomp:
   library_name: converter_dcdc
-  md5: 4ce23cb937b3fb5869aa72bb02db64b9
-  md5_10: 4ce23cb937
-  md5_5: 4ce23
-  md5_6: 4ce23c
-  oomp_key: oomp_converter_dcdc_tpsm53602rda
-  oomp_key_extra: oomp_symbol_converter_dcdc_tpsm53602rda
-  oomp_key_full: oomp_symbol_converter_dcdc_tpsm53602rda_4ce23c
-  oomp_key_simple: converter_dcdc_tpsm53602rda
+  md5: 3c517cb7e8696df22ef340062651c593
+  md5_10: 3c517cb7e8
+  md5_5: 3c517
+  md5_6: 3c517c
+  oomp_key: oomp_tpsm53602rda
+  oomp_key_extra: oomp_symbol_tpsm53602rda
+  oomp_key_full: oomp_symbol_tpsm53602rda_3c517c
+  oomp_key_simple: tpsm53602rda
   owner_name: kicad
-  symbol_name: converter_dcdc_tpsm53602rda
+  symbol_name: tpsm53602rda
 oomp_key: oomp_kicad_converter_dcdc_tpsm53602rda
 oomp_key_simple: kicad_converter_dcdc_tpsm53602rda
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

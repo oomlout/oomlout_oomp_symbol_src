@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_amplifier_mmz09332bt1/working
   oomp_src_flat: symbols_flat/kicad_rf_amplifier_mmz09332bt1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_amplifier_mmz09332bt1/working
-name: rf_amplifier_mmz09332bt1
+name: mmz09332bt1
 oomp:
   library_name: rf_amplifier
-  md5: edd9f470c1b2391d6b42e68b0258f096
-  md5_10: edd9f470c1
-  md5_5: edd9f
-  md5_6: edd9f4
-  oomp_key: oomp_rf_amplifier_mmz09332bt1
-  oomp_key_extra: oomp_symbol_rf_amplifier_mmz09332bt1
-  oomp_key_full: oomp_symbol_rf_amplifier_mmz09332bt1_edd9f4
-  oomp_key_simple: rf_amplifier_mmz09332bt1
+  md5: 5da7dc18b1c6efddf9151858a95274bc
+  md5_10: 5da7dc18b1
+  md5_5: 5da7d
+  md5_6: 5da7dc
+  oomp_key: oomp_mmz09332bt1
+  oomp_key_extra: oomp_symbol_mmz09332bt1
+  oomp_key_full: oomp_symbol_mmz09332bt1_5da7dc
+  oomp_key_simple: mmz09332bt1
   owner_name: kicad
-  symbol_name: rf_amplifier_mmz09332bt1
+  symbol_name: mmz09332bt1
 oomp_key: oomp_kicad_rf_amplifier_mmz09332bt1
 oomp_key_simple: kicad_rf_amplifier_mmz09332bt1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

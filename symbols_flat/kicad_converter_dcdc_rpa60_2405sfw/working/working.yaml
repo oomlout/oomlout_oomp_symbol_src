@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_rpa60_2405sfw/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_rpa60_2405sfw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_rpa60_2405sfw/working
-name: converter_dcdc_rpa60_2405sfw
+name: rpa60_2405sfw
 oomp:
   library_name: converter_dcdc
-  md5: 67c829a4f0e1f80afbd9909638782cd5
-  md5_10: 67c829a4f0
-  md5_5: 67c82
-  md5_6: 67c829
-  oomp_key: oomp_converter_dcdc_rpa60_2405sfw
-  oomp_key_extra: oomp_symbol_converter_dcdc_rpa60_2405sfw
-  oomp_key_full: oomp_symbol_converter_dcdc_rpa60_2405sfw_67c829
-  oomp_key_simple: converter_dcdc_rpa60_2405sfw
+  md5: c9d4c106b11151ed1e545019e06e84f5
+  md5_10: c9d4c106b1
+  md5_5: c9d4c
+  md5_6: c9d4c1
+  oomp_key: oomp_rpa60_2405sfw
+  oomp_key_extra: oomp_symbol_rpa60_2405sfw
+  oomp_key_full: oomp_symbol_rpa60_2405sfw_c9d4c1
+  oomp_key_simple: rpa60_2405sfw
   owner_name: kicad
-  symbol_name: converter_dcdc_rpa60_2405sfw
+  symbol_name: rpa60_2405sfw
 oomp_key: oomp_kicad_converter_dcdc_rpa60_2405sfw
 oomp_key_simple: kicad_converter_dcdc_rpa60_2405sfw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

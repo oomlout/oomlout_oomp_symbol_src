@@ -1,19 +1,19 @@
 id: kicad_sensor_temperature_mcp9504
 library: sensor_temperature
 library_name: Sensor_Temperature
-name: sensor_temperature_mcp9504
+name: mcp9504
 oomp:
   library_name: sensor_temperature
-  md5: 5cec265a69f0bd14c8a03708fe0cbf95
-  md5_10: 5cec265a69
-  md5_5: 5cec2
-  md5_6: 5cec26
-  oomp_key: oomp_sensor_temperature_mcp9504
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9504
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9504_5cec26
-  oomp_key_simple: sensor_temperature_mcp9504
+  md5: 90e215deadc1c49bb19275d14877f493
+  md5_10: 90e215dead
+  md5_5: 90e21
+  md5_6: 90e215
+  oomp_key: oomp_mcp9504
+  oomp_key_extra: oomp_symbol_mcp9504
+  oomp_key_full: oomp_symbol_mcp9504_90e215
+  oomp_key_simple: mcp9504
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9504
+  symbol_name: mcp9504
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

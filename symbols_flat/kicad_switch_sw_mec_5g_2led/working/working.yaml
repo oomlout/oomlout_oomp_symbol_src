@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_mec_5g_2led/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_mec_5g_2led/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_mec_5g_2led/working
-name: switch_sw_mec_5g_2led
+name: sw_mec_5g_2led
 oomp:
   library_name: switch
-  md5: f3722fb299f9199b47abeb9409eb4d81
-  md5_10: f3722fb299
-  md5_5: f3722
-  md5_6: f3722f
-  oomp_key: oomp_switch_sw_mec_5g_2led
-  oomp_key_extra: oomp_symbol_switch_sw_mec_5g_2led
-  oomp_key_full: oomp_symbol_switch_sw_mec_5g_2led_f3722f
-  oomp_key_simple: switch_sw_mec_5g_2led
+  md5: 5be140ccbe058194b5e58dae917f6155
+  md5_10: 5be140ccbe
+  md5_5: 5be14
+  md5_6: 5be140
+  oomp_key: oomp_sw_mec_5g_2led
+  oomp_key_extra: oomp_symbol_sw_mec_5g_2led
+  oomp_key_full: oomp_symbol_sw_mec_5g_2led_5be140
+  oomp_key_simple: sw_mec_5g_2led
   owner_name: kicad
-  symbol_name: switch_sw_mec_5g_2led
+  symbol_name: sw_mec_5g_2led
 oomp_key: oomp_kicad_switch_sw_mec_5g_2led
 oomp_key_simple: kicad_switch_sw_mec_5g_2led
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

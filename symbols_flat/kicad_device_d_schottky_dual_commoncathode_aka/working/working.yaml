@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_dual_commoncathode_aka/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_dual_commoncathode_aka/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_dual_commoncathode_aka/working
-name: device_d_schottky_dual_commoncathode_aka
+name: d_schottky_dual_commoncathode_aka
 oomp:
   library_name: device
-  md5: 9774b27090596eb628f180a44b573141
-  md5_10: 9774b27090
-  md5_5: 9774b
-  md5_6: 9774b2
-  oomp_key: oomp_device_d_schottky_dual_commoncathode_aka
-  oomp_key_extra: oomp_symbol_device_d_schottky_dual_commoncathode_aka
-  oomp_key_full: oomp_symbol_device_d_schottky_dual_commoncathode_aka_9774b2
-  oomp_key_simple: device_d_schottky_dual_commoncathode_aka
+  md5: 5f4fd30c7323e0ee9354bc68080b8211
+  md5_10: 5f4fd30c73
+  md5_5: 5f4fd
+  md5_6: 5f4fd3
+  oomp_key: oomp_d_schottky_dual_commoncathode_aka
+  oomp_key_extra: oomp_symbol_d_schottky_dual_commoncathode_aka
+  oomp_key_full: oomp_symbol_d_schottky_dual_commoncathode_aka_5f4fd3
+  oomp_key_simple: d_schottky_dual_commoncathode_aka
   owner_name: kicad
-  symbol_name: device_d_schottky_dual_commoncathode_aka
+  symbol_name: d_schottky_dual_commoncathode_aka
 oomp_key: oomp_kicad_device_d_schottky_dual_commoncathode_aka
 oomp_key_simple: kicad_device_d_schottky_dual_commoncathode_aka
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

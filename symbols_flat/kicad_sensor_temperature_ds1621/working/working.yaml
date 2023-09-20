@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_ds1621/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_ds1621/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_ds1621/working
-name: sensor_temperature_ds1621
+name: ds1621
 oomp:
   library_name: sensor_temperature
-  md5: 1775bf0ff8329b3fa52ad07756296db1
-  md5_10: 1775bf0ff8
-  md5_5: 1775b
-  md5_6: 1775bf
-  oomp_key: oomp_sensor_temperature_ds1621
-  oomp_key_extra: oomp_symbol_sensor_temperature_ds1621
-  oomp_key_full: oomp_symbol_sensor_temperature_ds1621_1775bf
-  oomp_key_simple: sensor_temperature_ds1621
+  md5: 2d099d204d5647a0943913963f75e373
+  md5_10: 2d099d204d
+  md5_5: 2d099
+  md5_6: 2d099d
+  oomp_key: oomp_ds1621
+  oomp_key_extra: oomp_symbol_ds1621
+  oomp_key_full: oomp_symbol_ds1621_2d099d
+  oomp_key_simple: ds1621
   owner_name: kicad
-  symbol_name: sensor_temperature_ds1621
+  symbol_name: ds1621
 oomp_key: oomp_kicad_sensor_temperature_ds1621
 oomp_key_simple: kicad_sensor_temperature_ds1621
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

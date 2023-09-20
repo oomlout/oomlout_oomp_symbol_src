@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_wallplug/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_wallplug/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_wallplug/working
-name: connector_conn_wallplug
+name: conn_wallplug
 oomp:
   library_name: connector
-  md5: 4ec99a6364fe089a79902f4e7775939e
-  md5_10: 4ec99a6364
-  md5_5: 4ec99
-  md5_6: 4ec99a
-  oomp_key: oomp_connector_conn_wallplug
-  oomp_key_extra: oomp_symbol_connector_conn_wallplug
-  oomp_key_full: oomp_symbol_connector_conn_wallplug_4ec99a
-  oomp_key_simple: connector_conn_wallplug
+  md5: 74b9c8cd4cb38bae7f8ce0eb14692e52
+  md5_10: 74b9c8cd4c
+  md5_5: 74b9c
+  md5_6: 74b9c8
+  oomp_key: oomp_conn_wallplug
+  oomp_key_extra: oomp_symbol_conn_wallplug
+  oomp_key_full: oomp_symbol_conn_wallplug_74b9c8
+  oomp_key_simple: conn_wallplug
   owner_name: kicad
-  symbol_name: connector_conn_wallplug
+  symbol_name: conn_wallplug
 oomp_key: oomp_kicad_connector_conn_wallplug
 oomp_key_simple: kicad_connector_conn_wallplug
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

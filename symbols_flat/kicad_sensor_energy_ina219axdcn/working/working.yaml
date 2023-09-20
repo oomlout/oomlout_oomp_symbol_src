@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_energy_ina219axdcn/working
   oomp_src_flat: symbols_flat/kicad_sensor_energy_ina219axdcn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_energy_ina219axdcn/working
-name: sensor_energy_ina219axdcn
+name: ina219axdcn
 oomp:
   library_name: sensor_energy
-  md5: 45f391980de5e868bad90de02eb27ac5
-  md5_10: 45f391980d
-  md5_5: 45f39
-  md5_6: 45f391
-  oomp_key: oomp_sensor_energy_ina219axdcn
-  oomp_key_extra: oomp_symbol_sensor_energy_ina219axdcn
-  oomp_key_full: oomp_symbol_sensor_energy_ina219axdcn_45f391
-  oomp_key_simple: sensor_energy_ina219axdcn
+  md5: 77bc53a6940ccd56b3c5d79ca3513149
+  md5_10: 77bc53a694
+  md5_5: 77bc5
+  md5_6: 77bc53
+  oomp_key: oomp_ina219axdcn
+  oomp_key_extra: oomp_symbol_ina219axdcn
+  oomp_key_full: oomp_symbol_ina219axdcn_77bc53
+  oomp_key_simple: ina219axdcn
   owner_name: kicad
-  symbol_name: sensor_energy_ina219axdcn
+  symbol_name: ina219axdcn
 oomp_key: oomp_kicad_sensor_energy_ina219axdcn
 oomp_key_simple: kicad_sensor_energy_ina219axdcn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_igbt_stgp7nc60hd/working
   oomp_src_flat: symbols_flat/kicad_transistor_igbt_stgp7nc60hd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_igbt_stgp7nc60hd/working
-name: transistor_igbt_stgp7nc60hd
+name: stgp7nc60hd
 oomp:
   library_name: transistor_igbt
-  md5: c65c0677c24dd511ef9c7cd9348a57d2
-  md5_10: c65c0677c2
-  md5_5: c65c0
-  md5_6: c65c06
-  oomp_key: oomp_transistor_igbt_stgp7nc60hd
-  oomp_key_extra: oomp_symbol_transistor_igbt_stgp7nc60hd
-  oomp_key_full: oomp_symbol_transistor_igbt_stgp7nc60hd_c65c06
-  oomp_key_simple: transistor_igbt_stgp7nc60hd
+  md5: 52bc8ed8ba6e3204eab88f191431a293
+  md5_10: 52bc8ed8ba
+  md5_5: 52bc8
+  md5_6: 52bc8e
+  oomp_key: oomp_stgp7nc60hd
+  oomp_key_extra: oomp_symbol_stgp7nc60hd
+  oomp_key_full: oomp_symbol_stgp7nc60hd_52bc8e
+  oomp_key_simple: stgp7nc60hd
   owner_name: kicad
-  symbol_name: transistor_igbt_stgp7nc60hd
+  symbol_name: stgp7nc60hd
 oomp_key: oomp_kicad_transistor_igbt_stgp7nc60hd
 oomp_key_simple: kicad_transistor_igbt_stgp7nc60hd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

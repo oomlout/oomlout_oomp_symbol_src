@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_mic4690/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_mic4690/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_mic4690/working
-name: regulator_switching_mic4690
+name: mic4690
 oomp:
   library_name: regulator_switching
-  md5: 30c59bfbd47a3b49eb2c164c7172c3b8
-  md5_10: 30c59bfbd4
-  md5_5: 30c59
-  md5_6: 30c59b
-  oomp_key: oomp_regulator_switching_mic4690
-  oomp_key_extra: oomp_symbol_regulator_switching_mic4690
-  oomp_key_full: oomp_symbol_regulator_switching_mic4690_30c59b
-  oomp_key_simple: regulator_switching_mic4690
+  md5: 160b1be8f294b103d8c5a590d8995724
+  md5_10: 160b1be8f2
+  md5_5: 160b1
+  md5_6: 160b1b
+  oomp_key: oomp_mic4690
+  oomp_key_extra: oomp_symbol_mic4690
+  oomp_key_full: oomp_symbol_mic4690_160b1b
+  oomp_key_simple: mic4690
   owner_name: kicad
-  symbol_name: regulator_switching_mic4690
+  symbol_name: mic4690
 oomp_key: oomp_kicad_regulator_switching_mic4690
 oomp_key_simple: kicad_regulator_switching_mic4690
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

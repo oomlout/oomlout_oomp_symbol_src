@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tlv62080dsgx/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tlv62080dsgx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tlv62080dsgx/working
-name: regulator_switching_tlv62080dsgx
+name: tlv62080dsgx
 oomp:
   library_name: regulator_switching
-  md5: 1df24a17666c21d24e3d97abd5c1b271
-  md5_10: 1df24a1766
-  md5_5: 1df24
-  md5_6: 1df24a
-  oomp_key: oomp_regulator_switching_tlv62080dsgx
-  oomp_key_extra: oomp_symbol_regulator_switching_tlv62080dsgx
-  oomp_key_full: oomp_symbol_regulator_switching_tlv62080dsgx_1df24a
-  oomp_key_simple: regulator_switching_tlv62080dsgx
+  md5: cf9c3b94a1c1c6f38544cb981277ffdc
+  md5_10: cf9c3b94a1
+  md5_5: cf9c3
+  md5_6: cf9c3b
+  oomp_key: oomp_tlv62080dsgx
+  oomp_key_extra: oomp_symbol_tlv62080dsgx
+  oomp_key_full: oomp_symbol_tlv62080dsgx_cf9c3b
+  oomp_key_simple: tlv62080dsgx
   owner_name: kicad
-  symbol_name: regulator_switching_tlv62080dsgx
+  symbol_name: tlv62080dsgx
 oomp_key: oomp_kicad_regulator_switching_tlv62080dsgx
 oomp_key_simple: kicad_regulator_switching_tlv62080dsgx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

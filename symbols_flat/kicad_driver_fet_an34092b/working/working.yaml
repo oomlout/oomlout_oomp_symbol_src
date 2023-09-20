@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_an34092b/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_an34092b/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_an34092b/working
-name: driver_fet_an34092b
+name: an34092b
 oomp:
   library_name: driver_fet
-  md5: d5da8f1123b78e5ff4e4b743e0cf82e1
-  md5_10: d5da8f1123
-  md5_5: d5da8
-  md5_6: d5da8f
-  oomp_key: oomp_driver_fet_an34092b
-  oomp_key_extra: oomp_symbol_driver_fet_an34092b
-  oomp_key_full: oomp_symbol_driver_fet_an34092b_d5da8f
-  oomp_key_simple: driver_fet_an34092b
+  md5: 61795086cc1b87d2e63c054dcbea48f1
+  md5_10: 61795086cc
+  md5_5: '61795'
+  md5_6: '617950'
+  oomp_key: oomp_an34092b
+  oomp_key_extra: oomp_symbol_an34092b
+  oomp_key_full: oomp_symbol_an34092b_617950
+  oomp_key_simple: an34092b
   owner_name: kicad
-  symbol_name: driver_fet_an34092b
+  symbol_name: an34092b
 oomp_key: oomp_kicad_driver_fet_an34092b
 oomp_key_simple: kicad_driver_fet_an34092b
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

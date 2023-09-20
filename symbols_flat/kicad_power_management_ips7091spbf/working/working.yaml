@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_ips7091spbf/working
   oomp_src_flat: symbols_flat/kicad_power_management_ips7091spbf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_ips7091spbf/working
-name: power_management_ips7091spbf
+name: ips7091spbf
 oomp:
   library_name: power_management
-  md5: b017384f011350653bd90df2f4ea84b4
-  md5_10: b017384f01
-  md5_5: b0173
-  md5_6: b01738
-  oomp_key: oomp_power_management_ips7091spbf
-  oomp_key_extra: oomp_symbol_power_management_ips7091spbf
-  oomp_key_full: oomp_symbol_power_management_ips7091spbf_b01738
-  oomp_key_simple: power_management_ips7091spbf
+  md5: 440718a5d0403646a95c73d9225fae74
+  md5_10: 440718a5d0
+  md5_5: '44071'
+  md5_6: '440718'
+  oomp_key: oomp_ips7091spbf
+  oomp_key_extra: oomp_symbol_ips7091spbf
+  oomp_key_full: oomp_symbol_ips7091spbf_440718
+  oomp_key_simple: ips7091spbf
   owner_name: kicad
-  symbol_name: power_management_ips7091spbf
+  symbol_name: ips7091spbf
 oomp_key: oomp_kicad_power_management_ips7091spbf
 oomp_key_simple: kicad_power_management_ips7091spbf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

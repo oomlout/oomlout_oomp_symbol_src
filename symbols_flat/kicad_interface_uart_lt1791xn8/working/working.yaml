@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_lt1791xn8/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_lt1791xn8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_lt1791xn8/working
-name: interface_uart_lt1791xn8
+name: lt1791xn8
 oomp:
   library_name: interface_uart
-  md5: c5c8fa0f77e41e8dc257285ba893516d
-  md5_10: c5c8fa0f77
-  md5_5: c5c8f
-  md5_6: c5c8fa
-  oomp_key: oomp_interface_uart_lt1791xn8
-  oomp_key_extra: oomp_symbol_interface_uart_lt1791xn8
-  oomp_key_full: oomp_symbol_interface_uart_lt1791xn8_c5c8fa
-  oomp_key_simple: interface_uart_lt1791xn8
+  md5: dd3fbd50565143d594eba4cf12123a77
+  md5_10: dd3fbd5056
+  md5_5: dd3fb
+  md5_6: dd3fbd
+  oomp_key: oomp_lt1791xn8
+  oomp_key_extra: oomp_symbol_lt1791xn8
+  oomp_key_full: oomp_symbol_lt1791xn8_dd3fbd
+  oomp_key_simple: lt1791xn8
   owner_name: kicad
-  symbol_name: interface_uart_lt1791xn8
+  symbol_name: lt1791xn8
 oomp_key: oomp_kicad_interface_uart_lt1791xn8
 oomp_key_simple: kicad_interface_uart_lt1791xn8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_max5035ausa/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_max5035ausa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_max5035ausa/working
-name: regulator_switching_max5035ausa
+name: max5035ausa
 oomp:
   library_name: regulator_switching
-  md5: 7b1ebd4b4d1945c7a613e6731227f906
-  md5_10: 7b1ebd4b4d
-  md5_5: 7b1eb
-  md5_6: 7b1ebd
-  oomp_key: oomp_regulator_switching_max5035ausa
-  oomp_key_extra: oomp_symbol_regulator_switching_max5035ausa
-  oomp_key_full: oomp_symbol_regulator_switching_max5035ausa_7b1ebd
-  oomp_key_simple: regulator_switching_max5035ausa
+  md5: 570b09b766d53287170775e688796a35
+  md5_10: 570b09b766
+  md5_5: 570b0
+  md5_6: 570b09
+  oomp_key: oomp_max5035ausa
+  oomp_key_extra: oomp_symbol_max5035ausa
+  oomp_key_full: oomp_symbol_max5035ausa_570b09
+  oomp_key_simple: max5035ausa
   owner_name: kicad
-  symbol_name: regulator_switching_max5035ausa
+  symbol_name: max5035ausa
 oomp_key: oomp_kicad_regulator_switching_max5035ausa
 oomp_key_simple: kicad_regulator_switching_max5035ausa
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

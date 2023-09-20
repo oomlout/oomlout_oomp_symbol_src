@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_idt7204/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_idt7204/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_idt7204/working
-name: memory_ram_idt7204
+name: idt7204
 oomp:
   library_name: memory_ram
-  md5: 6a73185e275e5e4a259da02bc016601e
-  md5_10: 6a73185e27
-  md5_5: 6a731
-  md5_6: 6a7318
-  oomp_key: oomp_memory_ram_idt7204
-  oomp_key_extra: oomp_symbol_memory_ram_idt7204
-  oomp_key_full: oomp_symbol_memory_ram_idt7204_6a7318
-  oomp_key_simple: memory_ram_idt7204
+  md5: a3203d1ac8123da538c99f2d3618321b
+  md5_10: a3203d1ac8
+  md5_5: a3203
+  md5_6: a3203d
+  oomp_key: oomp_idt7204
+  oomp_key_extra: oomp_symbol_idt7204
+  oomp_key_full: oomp_symbol_idt7204_a3203d
+  oomp_key_simple: idt7204
   owner_name: kicad
-  symbol_name: memory_ram_idt7204
+  symbol_name: idt7204
 oomp_key: oomp_kicad_memory_ram_idt7204
 oomp_key_simple: kicad_memory_ram_idt7204
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_pcmf3usb3s/working
   oomp_src_flat: symbols_flat/kicad_power_protection_pcmf3usb3s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_pcmf3usb3s/working
-name: power_protection_pcmf3usb3s
+name: pcmf3usb3s
 oomp:
   library_name: power_protection
-  md5: c57950c5cccaaefc1e129a4b362311dc
-  md5_10: c57950c5cc
-  md5_5: c5795
-  md5_6: c57950
-  oomp_key: oomp_power_protection_pcmf3usb3s
-  oomp_key_extra: oomp_symbol_power_protection_pcmf3usb3s
-  oomp_key_full: oomp_symbol_power_protection_pcmf3usb3s_c57950
-  oomp_key_simple: power_protection_pcmf3usb3s
+  md5: 30d16bac0bb3035a0010b59c6e5157f0
+  md5_10: 30d16bac0b
+  md5_5: 30d16
+  md5_6: 30d16b
+  oomp_key: oomp_pcmf3usb3s
+  oomp_key_extra: oomp_symbol_pcmf3usb3s
+  oomp_key_full: oomp_symbol_pcmf3usb3s_30d16b
+  oomp_key_simple: pcmf3usb3s
   owner_name: kicad
-  symbol_name: power_protection_pcmf3usb3s
+  symbol_name: pcmf3usb3s
 oomp_key: oomp_kicad_power_protection_pcmf3usb3s
 oomp_key_simple: kicad_power_protection_pcmf3usb3s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_graphic_ag12864e/working
   oomp_src_flat: symbols_flat/kicad_display_graphic_ag12864e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_graphic_ag12864e/working
-name: display_graphic_ag12864e
+name: ag12864e
 oomp:
   library_name: display_graphic
-  md5: 08529d2b42363ca58cbd7b63ae32358c
-  md5_10: 08529d2b42
-  md5_5: 08529
-  md5_6: 08529d
-  oomp_key: oomp_display_graphic_ag12864e
-  oomp_key_extra: oomp_symbol_display_graphic_ag12864e
-  oomp_key_full: oomp_symbol_display_graphic_ag12864e_08529d
-  oomp_key_simple: display_graphic_ag12864e
+  md5: 9198f0255a031ed6d349e5c0d8a9af44
+  md5_10: 9198f0255a
+  md5_5: 9198f
+  md5_6: 9198f0
+  oomp_key: oomp_ag12864e
+  oomp_key_extra: oomp_symbol_ag12864e
+  oomp_key_full: oomp_symbol_ag12864e_9198f0
+  oomp_key_simple: ag12864e
   owner_name: kicad
-  symbol_name: display_graphic_ag12864e
+  symbol_name: ag12864e
 oomp_key: oomp_kicad_display_graphic_ag12864e
 oomp_key_simple: kicad_display_graphic_ag12864e
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

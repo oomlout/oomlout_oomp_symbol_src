@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpld_altera_ep300/working
   oomp_src_flat: symbols_flat/kicad_cpld_altera_ep300/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpld_altera_ep300/working
-name: cpld_altera_ep300
+name: ep300
 oomp:
   library_name: cpld_altera
-  md5: 0177688fbb0190e96b8186e936d38a70
-  md5_10: 0177688fbb
-  md5_5: '01776'
-  md5_6: 017768
-  oomp_key: oomp_cpld_altera_ep300
-  oomp_key_extra: oomp_symbol_cpld_altera_ep300
-  oomp_key_full: oomp_symbol_cpld_altera_ep300_017768
-  oomp_key_simple: cpld_altera_ep300
+  md5: e0075ed0b539cd222faf4e9c05f0d358
+  md5_10: e0075ed0b5
+  md5_5: e0075
+  md5_6: e0075e
+  oomp_key: oomp_ep300
+  oomp_key_extra: oomp_symbol_ep300
+  oomp_key_full: oomp_symbol_ep300_e0075e
+  oomp_key_simple: ep300
   owner_name: kicad
-  symbol_name: cpld_altera_ep300
+  symbol_name: ep300
 oomp_key: oomp_kicad_cpld_altera_ep300
 oomp_key_simple: kicad_cpld_altera_ep300
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

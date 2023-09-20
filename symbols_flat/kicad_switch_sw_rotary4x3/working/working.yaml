@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_rotary4x3/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_rotary4x3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_rotary4x3/working
-name: switch_sw_rotary4x3
+name: sw_rotary4x3
 oomp:
   library_name: switch
-  md5: 65fabbd7b4bcb6712a07b8853017195f
-  md5_10: 65fabbd7b4
-  md5_5: 65fab
-  md5_6: 65fabb
-  oomp_key: oomp_switch_sw_rotary4x3
-  oomp_key_extra: oomp_symbol_switch_sw_rotary4x3
-  oomp_key_full: oomp_symbol_switch_sw_rotary4x3_65fabb
-  oomp_key_simple: switch_sw_rotary4x3
+  md5: 4454e96c2bc1b2c40a0b014acd71936c
+  md5_10: 4454e96c2b
+  md5_5: 4454e
+  md5_6: 4454e9
+  oomp_key: oomp_sw_rotary4x3
+  oomp_key_extra: oomp_symbol_sw_rotary4x3
+  oomp_key_full: oomp_symbol_sw_rotary4x3_4454e9
+  oomp_key_simple: sw_rotary4x3
   owner_name: kicad
-  symbol_name: switch_sw_rotary4x3
+  symbol_name: sw_rotary4x3
 oomp_key: oomp_kicad_switch_sw_rotary4x3
 oomp_key_simple: kicad_switch_sw_rotary4x3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

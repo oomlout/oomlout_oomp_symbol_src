@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_microsemi_flashpro_jtag_10/working
   oomp_src_flat: symbols_flat/kicad_connector_microsemi_flashpro_jtag_10/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_microsemi_flashpro_jtag_10/working
-name: connector_microsemi_flashpro_jtag_10
+name: microsemi_flashpro_jtag_10
 oomp:
   library_name: connector
-  md5: b41c8d0537cae938f6f152913759409a
-  md5_10: b41c8d0537
-  md5_5: b41c8
-  md5_6: b41c8d
-  oomp_key: oomp_connector_microsemi_flashpro_jtag_10
-  oomp_key_extra: oomp_symbol_connector_microsemi_flashpro_jtag_10
-  oomp_key_full: oomp_symbol_connector_microsemi_flashpro_jtag_10_b41c8d
-  oomp_key_simple: connector_microsemi_flashpro_jtag_10
+  md5: 7085f28d94e064b377d24c653fada56d
+  md5_10: 7085f28d94
+  md5_5: 7085f
+  md5_6: 7085f2
+  oomp_key: oomp_microsemi_flashpro_jtag_10
+  oomp_key_extra: oomp_symbol_microsemi_flashpro_jtag_10
+  oomp_key_full: oomp_symbol_microsemi_flashpro_jtag_10_7085f2
+  oomp_key_simple: microsemi_flashpro_jtag_10
   owner_name: kicad
-  symbol_name: connector_microsemi_flashpro_jtag_10
+  symbol_name: microsemi_flashpro_jtag_10
 oomp_key: oomp_kicad_connector_microsemi_flashpro_jtag_10
 oomp_key_simple: kicad_connector_microsemi_flashpro_jtag_10
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_mcp1754s_5002xmb/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_mcp1754s_5002xmb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_mcp1754s_5002xmb/working
-name: regulator_linear_mcp1754s_5002xmb
+name: mcp1754s_5002xmb
 oomp:
   library_name: regulator_linear
-  md5: 3ddd3e24cd42410039cc48a1fe464a6a
-  md5_10: 3ddd3e24cd
-  md5_5: 3ddd3
-  md5_6: 3ddd3e
-  oomp_key: oomp_regulator_linear_mcp1754s_5002xmb
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1754s_5002xmb
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1754s_5002xmb_3ddd3e
-  oomp_key_simple: regulator_linear_mcp1754s_5002xmb
+  md5: 6f3566f0da691498fa77c759e97e4124
+  md5_10: 6f3566f0da
+  md5_5: 6f356
+  md5_6: 6f3566
+  oomp_key: oomp_mcp1754s_5002xmb
+  oomp_key_extra: oomp_symbol_mcp1754s_5002xmb
+  oomp_key_full: oomp_symbol_mcp1754s_5002xmb_6f3566
+  oomp_key_simple: mcp1754s_5002xmb
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1754s_5002xmb
+  symbol_name: mcp1754s_5002xmb
 oomp_key: oomp_kicad_regulator_linear_mcp1754s_5002xmb
 oomp_key_simple: kicad_regulator_linear_mcp1754s_5002xmb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

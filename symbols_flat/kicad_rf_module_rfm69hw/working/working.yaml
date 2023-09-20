@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_rfm69hw/working
   oomp_src_flat: symbols_flat/kicad_rf_module_rfm69hw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_rfm69hw/working
-name: rf_module_rfm69hw
+name: rfm69hw
 oomp:
   library_name: rf_module
-  md5: 570e9430234231d3051370ffe03e6032
-  md5_10: 570e943023
-  md5_5: 570e9
-  md5_6: 570e94
-  oomp_key: oomp_rf_module_rfm69hw
-  oomp_key_extra: oomp_symbol_rf_module_rfm69hw
-  oomp_key_full: oomp_symbol_rf_module_rfm69hw_570e94
-  oomp_key_simple: rf_module_rfm69hw
+  md5: 41ada2912fcca5172e2e1fb8024cdf31
+  md5_10: 41ada2912f
+  md5_5: 41ada
+  md5_6: 41ada2
+  oomp_key: oomp_rfm69hw
+  oomp_key_extra: oomp_symbol_rfm69hw
+  oomp_key_full: oomp_symbol_rfm69hw_41ada2
+  oomp_key_simple: rfm69hw
   owner_name: kicad
-  symbol_name: rf_module_rfm69hw
+  symbol_name: rfm69hw
 oomp_key: oomp_kicad_rf_module_rfm69hw
 oomp_key_simple: kicad_rf_module_rfm69hw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

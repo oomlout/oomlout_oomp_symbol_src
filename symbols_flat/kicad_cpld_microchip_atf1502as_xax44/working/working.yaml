@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpld_microchip_atf1502as_xax44/working
   oomp_src_flat: symbols_flat/kicad_cpld_microchip_atf1502as_xax44/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpld_microchip_atf1502as_xax44/working
-name: cpld_microchip_atf1502as_xax44
+name: atf1502as_xax44
 oomp:
   library_name: cpld_microchip
-  md5: d859bb264e437046089468cdf18e4b19
-  md5_10: d859bb264e
-  md5_5: d859b
-  md5_6: d859bb
-  oomp_key: oomp_cpld_microchip_atf1502as_xax44
-  oomp_key_extra: oomp_symbol_cpld_microchip_atf1502as_xax44
-  oomp_key_full: oomp_symbol_cpld_microchip_atf1502as_xax44_d859bb
-  oomp_key_simple: cpld_microchip_atf1502as_xax44
+  md5: c32ac9a35a46662662893f56b24b710e
+  md5_10: c32ac9a35a
+  md5_5: c32ac
+  md5_6: c32ac9
+  oomp_key: oomp_atf1502as_xax44
+  oomp_key_extra: oomp_symbol_atf1502as_xax44
+  oomp_key_full: oomp_symbol_atf1502as_xax44_c32ac9
+  oomp_key_simple: atf1502as_xax44
   owner_name: kicad
-  symbol_name: cpld_microchip_atf1502as_xax44
+  symbol_name: atf1502as_xax44
 oomp_key: oomp_kicad_cpld_microchip_atf1502as_xax44
 oomp_key_simple: kicad_cpld_microchip_atf1502as_xax44
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

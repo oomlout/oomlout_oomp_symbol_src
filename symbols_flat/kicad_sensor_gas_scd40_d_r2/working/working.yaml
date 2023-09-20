@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_gas_scd40_d_r2/working
   oomp_src_flat: symbols_flat/kicad_sensor_gas_scd40_d_r2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_gas_scd40_d_r2/working
-name: sensor_gas_scd40_d_r2
+name: scd40_d_r2
 oomp:
   library_name: sensor_gas
-  md5: 745b5c54317ee349e3d1952cb2ded499
-  md5_10: 745b5c5431
-  md5_5: 745b5
-  md5_6: 745b5c
-  oomp_key: oomp_sensor_gas_scd40_d_r2
-  oomp_key_extra: oomp_symbol_sensor_gas_scd40_d_r2
-  oomp_key_full: oomp_symbol_sensor_gas_scd40_d_r2_745b5c
-  oomp_key_simple: sensor_gas_scd40_d_r2
+  md5: 98edeb76712279e2a74a824d678a52a5
+  md5_10: 98edeb7671
+  md5_5: 98ede
+  md5_6: 98edeb
+  oomp_key: oomp_scd40_d_r2
+  oomp_key_extra: oomp_symbol_scd40_d_r2
+  oomp_key_full: oomp_symbol_scd40_d_r2_98edeb
+  oomp_key_simple: scd40_d_r2
   owner_name: kicad
-  symbol_name: sensor_gas_scd40_d_r2
+  symbol_name: scd40_d_r2
 oomp_key: oomp_kicad_sensor_gas_scd40_d_r2
 oomp_key_simple: kicad_sensor_gas_scd40_d_r2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

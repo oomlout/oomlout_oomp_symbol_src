@@ -1,19 +1,19 @@
 id: kicad_sensor_temperature_mcp9808_dfn
 library: sensor_temperature
 library_name: Sensor_Temperature
-name: sensor_temperature_mcp9808_dfn
+name: mcp9808_dfn
 oomp:
   library_name: sensor_temperature
-  md5: 0404801fdf1ac89aa06ab26e821fd1e2
-  md5_10: 0404801fdf
-  md5_5: 04048
-  md5_6: 040480
-  oomp_key: oomp_sensor_temperature_mcp9808_dfn
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9808_dfn
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9808_dfn_040480
-  oomp_key_simple: sensor_temperature_mcp9808_dfn
+  md5: 207b4f69a242e755d0449ad5c0a5cc8b
+  md5_10: 207b4f69a2
+  md5_5: 207b4
+  md5_6: 207b4f
+  oomp_key: oomp_mcp9808_dfn
+  oomp_key_extra: oomp_symbol_mcp9808_dfn
+  oomp_key_full: oomp_symbol_mcp9808_dfn_207b4f
+  oomp_key_simple: mcp9808_dfn
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9808_dfn
+  symbol_name: mcp9808_dfn
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

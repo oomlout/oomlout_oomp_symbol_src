@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_apfa3010/working
   oomp_src_flat: symbols_flat/kicad_led_apfa3010/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_apfa3010/working
-name: led_apfa3010
+name: apfa3010
 oomp:
   library_name: led
-  md5: 64e836494a9b3724e3077615553235d3
-  md5_10: 64e836494a
-  md5_5: 64e83
-  md5_6: 64e836
-  oomp_key: oomp_led_apfa3010
-  oomp_key_extra: oomp_symbol_led_apfa3010
-  oomp_key_full: oomp_symbol_led_apfa3010_64e836
-  oomp_key_simple: led_apfa3010
+  md5: 266d20bb7de8f4fc177f6b18b7fbe263
+  md5_10: 266d20bb7d
+  md5_5: 266d2
+  md5_6: 266d20
+  oomp_key: oomp_apfa3010
+  oomp_key_extra: oomp_symbol_apfa3010
+  oomp_key_full: oomp_symbol_apfa3010_266d20
+  oomp_key_simple: apfa3010
   owner_name: kicad
-  symbol_name: led_apfa3010
+  symbol_name: apfa3010
 oomp_key: oomp_kicad_led_apfa3010
 oomp_key_simple: kicad_led_apfa3010
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

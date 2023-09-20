@@ -1,19 +1,19 @@
 id: kicad_sensor_temperature_mcp9700x_hlt
 library: sensor_temperature
 library_name: Sensor_Temperature
-name: sensor_temperature_mcp9700x_hlt
+name: mcp9700x_hlt
 oomp:
   library_name: sensor_temperature
-  md5: c63aa07701facb7b6d74730d9cedc7f3
-  md5_10: c63aa07701
-  md5_5: c63aa
-  md5_6: c63aa0
-  oomp_key: oomp_sensor_temperature_mcp9700x_hlt
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9700x_hlt
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9700x_hlt_c63aa0
-  oomp_key_simple: sensor_temperature_mcp9700x_hlt
+  md5: 0fd1efc8f791db3e6bbdaa37e47150e6
+  md5_10: 0fd1efc8f7
+  md5_5: 0fd1e
+  md5_6: 0fd1ef
+  oomp_key: oomp_mcp9700x_hlt
+  oomp_key_extra: oomp_symbol_mcp9700x_hlt
+  oomp_key_full: oomp_symbol_mcp9700x_hlt_0fd1ef
+  oomp_key_simple: mcp9700x_hlt
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9700x_hlt
+  symbol_name: mcp9700x_hlt
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

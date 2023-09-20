@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ds90c241/working
   oomp_src_flat: symbols_flat/kicad_interface_ds90c241/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ds90c241/working
-name: interface_ds90c241
+name: ds90c241
 oomp:
   library_name: interface
-  md5: e0a2e25cce987bdb712cd6a978c5871e
-  md5_10: e0a2e25cce
-  md5_5: e0a2e
-  md5_6: e0a2e2
-  oomp_key: oomp_interface_ds90c241
-  oomp_key_extra: oomp_symbol_interface_ds90c241
-  oomp_key_full: oomp_symbol_interface_ds90c241_e0a2e2
-  oomp_key_simple: interface_ds90c241
+  md5: b4e713de8d6937e37ae1eae5426a6d5e
+  md5_10: b4e713de8d
+  md5_5: b4e71
+  md5_6: b4e713
+  oomp_key: oomp_ds90c241
+  oomp_key_extra: oomp_symbol_ds90c241
+  oomp_key_full: oomp_symbol_ds90c241_b4e713
+  oomp_key_simple: ds90c241
   owner_name: kicad
-  symbol_name: interface_ds90c241
+  symbol_name: ds90c241
 oomp_key: oomp_kicad_interface_ds90c241
 oomp_key_simple: kicad_interface_ds90c241
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_tmp1075dsg/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_tmp1075dsg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_tmp1075dsg/working
-name: sensor_temperature_tmp1075dsg
+name: tmp1075dsg
 oomp:
   library_name: sensor_temperature
-  md5: 21c7784d105f276f39a5d823a5dc713b
-  md5_10: 21c7784d10
-  md5_5: 21c77
-  md5_6: 21c778
-  oomp_key: oomp_sensor_temperature_tmp1075dsg
-  oomp_key_extra: oomp_symbol_sensor_temperature_tmp1075dsg
-  oomp_key_full: oomp_symbol_sensor_temperature_tmp1075dsg_21c778
-  oomp_key_simple: sensor_temperature_tmp1075dsg
+  md5: 838c96d72ad03d69a97a95017e4e9b7c
+  md5_10: 838c96d72a
+  md5_5: 838c9
+  md5_6: 838c96
+  oomp_key: oomp_tmp1075dsg
+  oomp_key_extra: oomp_symbol_tmp1075dsg
+  oomp_key_full: oomp_symbol_tmp1075dsg_838c96
+  oomp_key_simple: tmp1075dsg
   owner_name: kicad
-  symbol_name: sensor_temperature_tmp1075dsg
+  symbol_name: tmp1075dsg
 oomp_key: oomp_kicad_sensor_temperature_tmp1075dsg
 oomp_key_simple: kicad_sensor_temperature_tmp1075dsg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

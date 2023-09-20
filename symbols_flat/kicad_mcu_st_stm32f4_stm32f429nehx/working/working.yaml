@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f4_stm32f429nehx
 library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
-name: mcu_st_stm32f4_stm32f429nehx
+name: stm32f429nehx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: 4097b506f06a9c67899f677acd51cc6f
-  md5_10: 4097b506f0
-  md5_5: 4097b
-  md5_6: 4097b5
-  oomp_key: oomp_mcu_st_stm32f4_stm32f429nehx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f429nehx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f429nehx_4097b5
-  oomp_key_simple: mcu_st_stm32f4_stm32f429nehx
+  md5: ce6fba6c8f58431319bcda28566afb6e
+  md5_10: ce6fba6c8f
+  md5_5: ce6fb
+  md5_6: ce6fba
+  oomp_key: oomp_stm32f429nehx
+  oomp_key_extra: oomp_symbol_stm32f429nehx
+  oomp_key_full: oomp_symbol_stm32f429nehx_ce6fba
+  oomp_key_simple: stm32f429nehx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f429nehx
+  symbol_name: stm32f429nehx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

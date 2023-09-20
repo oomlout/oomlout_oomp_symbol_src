@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_grba/working
   oomp_src_flat: symbols_flat/kicad_device_led_grba/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_grba/working
-name: device_led_grba
+name: led_grba
 oomp:
   library_name: device
-  md5: 10d4f3c3cf8f03f6a7634e604d9ad392
-  md5_10: 10d4f3c3cf
-  md5_5: 10d4f
-  md5_6: 10d4f3
-  oomp_key: oomp_device_led_grba
-  oomp_key_extra: oomp_symbol_device_led_grba
-  oomp_key_full: oomp_symbol_device_led_grba_10d4f3
-  oomp_key_simple: device_led_grba
+  md5: a43d772f807f24f9a54053961793febb
+  md5_10: a43d772f80
+  md5_5: a43d7
+  md5_6: a43d77
+  oomp_key: oomp_led_grba
+  oomp_key_extra: oomp_symbol_led_grba
+  oomp_key_full: oomp_symbol_led_grba_a43d77
+  oomp_key_simple: led_grba
   owner_name: kicad
-  symbol_name: device_led_grba
+  symbol_name: led_grba
 oomp_key: oomp_kicad_device_led_grba
 oomp_key_simple: kicad_device_led_grba
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

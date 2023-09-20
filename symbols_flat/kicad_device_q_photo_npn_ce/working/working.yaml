@@ -1,19 +1,19 @@
 id: kicad_device_q_photo_npn_ce
 library: device
 library_name: Device
-name: device_q_photo_npn_ce
+name: q_photo_npn_ce
 oomp:
   library_name: device
-  md5: a5d5573b73c50941428ef32301510f5a
-  md5_10: a5d5573b73
-  md5_5: a5d55
-  md5_6: a5d557
-  oomp_key: oomp_device_q_photo_npn_ce
-  oomp_key_extra: oomp_symbol_device_q_photo_npn_ce
-  oomp_key_full: oomp_symbol_device_q_photo_npn_ce_a5d557
-  oomp_key_simple: device_q_photo_npn_ce
+  md5: 488feda099da3fea5b116f97cd072a4a
+  md5_10: 488feda099
+  md5_5: 488fe
+  md5_6: 488fed
+  oomp_key: oomp_q_photo_npn_ce
+  oomp_key_extra: oomp_symbol_q_photo_npn_ce
+  oomp_key_full: oomp_symbol_q_photo_npn_ce_488fed
+  oomp_key_simple: q_photo_npn_ce
   owner_name: kicad
-  symbol_name: device_q_photo_npn_ce
+  symbol_name: q_photo_npn_ce
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

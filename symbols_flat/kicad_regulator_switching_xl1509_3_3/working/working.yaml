@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_xl1509_3_3/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_xl1509_3_3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_xl1509_3_3/working
-name: regulator_switching_xl1509_3_3
+name: xl1509_3_3
 oomp:
   library_name: regulator_switching
-  md5: 4a625049d6f133e3a45b4bed26cd9fc3
-  md5_10: 4a625049d6
-  md5_5: 4a625
-  md5_6: 4a6250
-  oomp_key: oomp_regulator_switching_xl1509_3_3
-  oomp_key_extra: oomp_symbol_regulator_switching_xl1509_3_3
-  oomp_key_full: oomp_symbol_regulator_switching_xl1509_3_3_4a6250
-  oomp_key_simple: regulator_switching_xl1509_3_3
+  md5: 1d21d89a9a8f38d7640b36fc5c7088ce
+  md5_10: 1d21d89a9a
+  md5_5: 1d21d
+  md5_6: 1d21d8
+  oomp_key: oomp_xl1509_3_3
+  oomp_key_extra: oomp_symbol_xl1509_3_3
+  oomp_key_full: oomp_symbol_xl1509_3_3_1d21d8
+  oomp_key_simple: xl1509_3_3
   owner_name: kicad
-  symbol_name: regulator_switching_xl1509_3_3
+  symbol_name: xl1509_3_3
 oomp_key: oomp_kicad_regulator_switching_xl1509_3_3
 oomp_key_simple: kicad_regulator_switching_xl1509_3_3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

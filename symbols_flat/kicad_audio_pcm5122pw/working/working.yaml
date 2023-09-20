@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_pcm5122pw/working
   oomp_src_flat: symbols_flat/kicad_audio_pcm5122pw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_pcm5122pw/working
-name: audio_pcm5122pw
+name: pcm5122pw
 oomp:
   library_name: audio
-  md5: 9710fec5ac4cbc19d92ac8d61934e967
-  md5_10: 9710fec5ac
-  md5_5: 9710f
-  md5_6: 9710fe
-  oomp_key: oomp_audio_pcm5122pw
-  oomp_key_extra: oomp_symbol_audio_pcm5122pw
-  oomp_key_full: oomp_symbol_audio_pcm5122pw_9710fe
-  oomp_key_simple: audio_pcm5122pw
+  md5: f97833dfdadd89a11e0775e2c872eb44
+  md5_10: f97833dfda
+  md5_5: f9783
+  md5_6: f97833
+  oomp_key: oomp_pcm5122pw
+  oomp_key_extra: oomp_symbol_pcm5122pw
+  oomp_key_full: oomp_symbol_pcm5122pw_f97833
+  oomp_key_simple: pcm5122pw
   owner_name: kicad
-  symbol_name: audio_pcm5122pw
+  symbol_name: pcm5122pw
 oomp_key: oomp_kicad_audio_pcm5122pw
 oomp_key_simple: kicad_audio_pcm5122pw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

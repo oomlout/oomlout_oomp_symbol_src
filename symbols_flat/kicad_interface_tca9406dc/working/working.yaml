@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_tca9406dc/working
   oomp_src_flat: symbols_flat/kicad_interface_tca9406dc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_tca9406dc/working
-name: interface_tca9406dc
+name: tca9406dc
 oomp:
   library_name: interface
-  md5: 7f53ef82dac84f31d4772083608849a6
-  md5_10: 7f53ef82da
-  md5_5: 7f53e
-  md5_6: 7f53ef
-  oomp_key: oomp_interface_tca9406dc
-  oomp_key_extra: oomp_symbol_interface_tca9406dc
-  oomp_key_full: oomp_symbol_interface_tca9406dc_7f53ef
-  oomp_key_simple: interface_tca9406dc
+  md5: 345a0b284b1636d185a475d20ab242de
+  md5_10: 345a0b284b
+  md5_5: 345a0
+  md5_6: 345a0b
+  oomp_key: oomp_tca9406dc
+  oomp_key_extra: oomp_symbol_tca9406dc
+  oomp_key_full: oomp_symbol_tca9406dc_345a0b
+  oomp_key_simple: tca9406dc
   owner_name: kicad
-  symbol_name: interface_tca9406dc
+  symbol_name: tca9406dc
 oomp_key: oomp_kicad_interface_tca9406dc
 oomp_key_simple: kicad_interface_tca9406dc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

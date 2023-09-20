@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_rc1602a_ghw_esx/working
   oomp_src_flat: symbols_flat/kicad_display_character_rc1602a_ghw_esx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_rc1602a_ghw_esx/working
-name: display_character_rc1602a_ghw_esx
+name: rc1602a_ghw_esx
 oomp:
   library_name: display_character
-  md5: 495fe68c59ad9cc9e581e66212bf2509
-  md5_10: 495fe68c59
-  md5_5: 495fe
-  md5_6: 495fe6
-  oomp_key: oomp_display_character_rc1602a_ghw_esx
-  oomp_key_extra: oomp_symbol_display_character_rc1602a_ghw_esx
-  oomp_key_full: oomp_symbol_display_character_rc1602a_ghw_esx_495fe6
-  oomp_key_simple: display_character_rc1602a_ghw_esx
+  md5: 5d9fe5d0c4a485f1b46f4ab4413ccc3c
+  md5_10: 5d9fe5d0c4
+  md5_5: 5d9fe
+  md5_6: 5d9fe5
+  oomp_key: oomp_rc1602a_ghw_esx
+  oomp_key_extra: oomp_symbol_rc1602a_ghw_esx
+  oomp_key_full: oomp_symbol_rc1602a_ghw_esx_5d9fe5
+  oomp_key_simple: rc1602a_ghw_esx
   owner_name: kicad
-  symbol_name: display_character_rc1602a_ghw_esx
+  symbol_name: rc1602a_ghw_esx
 oomp_key: oomp_kicad_display_character_rc1602a_ghw_esx
 oomp_key_simple: kicad_display_character_rc1602a_ghw_esx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

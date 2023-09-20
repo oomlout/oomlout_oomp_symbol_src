@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_atmega_atmega165pv_8m/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_atmega_atmega165pv_8m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_atmega_atmega165pv_8m/working
-name: mcu_microchip_atmega_atmega165pv_8m
+name: atmega165pv_8m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 7c3076070f9759112e68572b066dae64
-  md5_10: 7c3076070f
-  md5_5: 7c307
-  md5_6: 7c3076
-  oomp_key: oomp_mcu_microchip_atmega_atmega165pv_8m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega165pv_8m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega165pv_8m_7c3076
-  oomp_key_simple: mcu_microchip_atmega_atmega165pv_8m
+  md5: 9c96dd6cfdbbbc51d1f0d8e6991fc845
+  md5_10: 9c96dd6cfd
+  md5_5: 9c96d
+  md5_6: 9c96dd
+  oomp_key: oomp_atmega165pv_8m
+  oomp_key_extra: oomp_symbol_atmega165pv_8m
+  oomp_key_full: oomp_symbol_atmega165pv_8m_9c96dd
+  oomp_key_simple: atmega165pv_8m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega165pv_8m
+  symbol_name: atmega165pv_8m
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega165pv_8m
 oomp_key_simple: kicad_mcu_microchip_atmega_atmega165pv_8m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

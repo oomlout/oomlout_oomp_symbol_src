@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_potentiometer_trim/working
   oomp_src_flat: symbols_flat/kicad_device_r_potentiometer_trim/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_potentiometer_trim/working
-name: device_r_potentiometer_trim
+name: r_potentiometer_trim
 oomp:
   library_name: device
-  md5: 2fa16d9192abf32c5498b643a6c3c0ab
-  md5_10: 2fa16d9192
-  md5_5: 2fa16
-  md5_6: 2fa16d
-  oomp_key: oomp_device_r_potentiometer_trim
-  oomp_key_extra: oomp_symbol_device_r_potentiometer_trim
-  oomp_key_full: oomp_symbol_device_r_potentiometer_trim_2fa16d
-  oomp_key_simple: device_r_potentiometer_trim
+  md5: d95a8526dec4336bfbe873501dc53d98
+  md5_10: d95a8526de
+  md5_5: d95a8
+  md5_6: d95a85
+  oomp_key: oomp_r_potentiometer_trim
+  oomp_key_extra: oomp_symbol_r_potentiometer_trim
+  oomp_key_full: oomp_symbol_r_potentiometer_trim_d95a85
+  oomp_key_simple: r_potentiometer_trim
   owner_name: kicad
-  symbol_name: device_r_potentiometer_trim
+  symbol_name: r_potentiometer_trim
 oomp_key: oomp_kicad_device_r_potentiometer_trim
 oomp_key_simple: kicad_device_r_potentiometer_trim
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_amplifier_current_ina240a4pw
 library: amplifier_current
 library_name: Amplifier_Current
-name: amplifier_current_ina240a4pw
+name: ina240a4pw
 oomp:
   library_name: amplifier_current
-  md5: a58e346c031ebd9ec2f496520200763e
-  md5_10: a58e346c03
-  md5_5: a58e3
-  md5_6: a58e34
-  oomp_key: oomp_amplifier_current_ina240a4pw
-  oomp_key_extra: oomp_symbol_amplifier_current_ina240a4pw
-  oomp_key_full: oomp_symbol_amplifier_current_ina240a4pw_a58e34
-  oomp_key_simple: amplifier_current_ina240a4pw
+  md5: 941f4a5800ab793bb1d408d7300c2306
+  md5_10: 941f4a5800
+  md5_5: 941f4
+  md5_6: 941f4a
+  oomp_key: oomp_ina240a4pw
+  oomp_key_extra: oomp_symbol_ina240a4pw
+  oomp_key_full: oomp_symbol_ina240a4pw_941f4a
+  oomp_key_simple: ina240a4pw
   owner_name: kicad
-  symbol_name: amplifier_current_ina240a4pw
+  symbol_name: ina240a4pw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

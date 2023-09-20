@@ -1,19 +1,19 @@
 id: kicad_diode_nrva4005t3g
 library: diode
 library_name: Diode
-name: diode_nrva4005t3g
+name: nrva4005t3g
 oomp:
   library_name: diode
-  md5: 1342a4d582132220ca8009fe566bc892
-  md5_10: 1342a4d582
-  md5_5: 1342a
-  md5_6: 1342a4
-  oomp_key: oomp_diode_nrva4005t3g
-  oomp_key_extra: oomp_symbol_diode_nrva4005t3g
-  oomp_key_full: oomp_symbol_diode_nrva4005t3g_1342a4
-  oomp_key_simple: diode_nrva4005t3g
+  md5: 65a2d2676a62e4cab86d7724edfa1869
+  md5_10: 65a2d2676a
+  md5_5: 65a2d
+  md5_6: 65a2d2
+  oomp_key: oomp_nrva4005t3g
+  oomp_key_extra: oomp_symbol_nrva4005t3g
+  oomp_key_full: oomp_symbol_nrva4005t3g_65a2d2
+  oomp_key_simple: nrva4005t3g
   owner_name: kicad
-  symbol_name: diode_nrva4005t3g
+  symbol_name: nrva4005t3g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

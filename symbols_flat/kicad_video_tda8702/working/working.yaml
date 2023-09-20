@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_tda8702/working
   oomp_src_flat: symbols_flat/kicad_video_tda8702/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_tda8702/working
-name: video_tda8702
+name: tda8702
 oomp:
   library_name: video
-  md5: 274278026f761440e3c01265aed3b2c3
-  md5_10: 274278026f
-  md5_5: '27427'
-  md5_6: '274278'
-  oomp_key: oomp_video_tda8702
-  oomp_key_extra: oomp_symbol_video_tda8702
-  oomp_key_full: oomp_symbol_video_tda8702_274278
-  oomp_key_simple: video_tda8702
+  md5: 66a1f1619207f75b6714da26b096c4ba
+  md5_10: 66a1f16192
+  md5_5: 66a1f
+  md5_6: 66a1f1
+  oomp_key: oomp_tda8702
+  oomp_key_extra: oomp_symbol_tda8702
+  oomp_key_full: oomp_symbol_tda8702_66a1f1
+  oomp_key_simple: tda8702
   owner_name: kicad
-  symbol_name: video_tda8702
+  symbol_name: tda8702
 oomp_key: oomp_kicad_video_tda8702
 oomp_key_simple: kicad_video_tda8702
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

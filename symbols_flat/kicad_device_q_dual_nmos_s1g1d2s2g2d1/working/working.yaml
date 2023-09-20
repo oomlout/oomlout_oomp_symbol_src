@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_dual_nmos_s1g1d2s2g2d1/working
   oomp_src_flat: symbols_flat/kicad_device_q_dual_nmos_s1g1d2s2g2d1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_dual_nmos_s1g1d2s2g2d1/working
-name: device_q_dual_nmos_s1g1d2s2g2d1
+name: q_dual_nmos_s1g1d2s2g2d1
 oomp:
   library_name: device
-  md5: c5913b2a52a4259fadd67a134556ed3c
-  md5_10: c5913b2a52
-  md5_5: c5913
-  md5_6: c5913b
-  oomp_key: oomp_device_q_dual_nmos_s1g1d2s2g2d1
-  oomp_key_extra: oomp_symbol_device_q_dual_nmos_s1g1d2s2g2d1
-  oomp_key_full: oomp_symbol_device_q_dual_nmos_s1g1d2s2g2d1_c5913b
-  oomp_key_simple: device_q_dual_nmos_s1g1d2s2g2d1
+  md5: 867d0156683c2f52673a33cb39343ac0
+  md5_10: 867d015668
+  md5_5: 867d0
+  md5_6: 867d01
+  oomp_key: oomp_q_dual_nmos_s1g1d2s2g2d1
+  oomp_key_extra: oomp_symbol_q_dual_nmos_s1g1d2s2g2d1
+  oomp_key_full: oomp_symbol_q_dual_nmos_s1g1d2s2g2d1_867d01
+  oomp_key_simple: q_dual_nmos_s1g1d2s2g2d1
   owner_name: kicad
-  symbol_name: device_q_dual_nmos_s1g1d2s2g2d1
+  symbol_name: q_dual_nmos_s1g1d2s2g2d1
 oomp_key: oomp_kicad_device_q_dual_nmos_s1g1d2s2g2d1
 oomp_key_simple: kicad_device_q_dual_nmos_s1g1d2s2g2d1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_earphone/working
   oomp_src_flat: symbols_flat/kicad_device_earphone/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_earphone/working
-name: device_earphone
+name: earphone
 oomp:
   library_name: device
-  md5: 149529be272c9848060ba0ed1e677b79
-  md5_10: 149529be27
-  md5_5: '14952'
-  md5_6: '149529'
-  oomp_key: oomp_device_earphone
-  oomp_key_extra: oomp_symbol_device_earphone
-  oomp_key_full: oomp_symbol_device_earphone_149529
-  oomp_key_simple: device_earphone
+  md5: 57e4e398cea787220826b06d82fb51c3
+  md5_10: 57e4e398ce
+  md5_5: 57e4e
+  md5_6: 57e4e3
+  oomp_key: oomp_earphone
+  oomp_key_extra: oomp_symbol_earphone
+  oomp_key_full: oomp_symbol_earphone_57e4e3
+  oomp_key_simple: earphone
   owner_name: kicad
-  symbol_name: device_earphone
+  symbol_name: earphone
 oomp_key: oomp_kicad_device_earphone
 oomp_key_simple: kicad_device_earphone
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

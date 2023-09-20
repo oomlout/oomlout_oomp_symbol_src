@@ -1,19 +1,19 @@
 id: kicad_connector_micro_sd_card_det_hirose_dm3at
 library: connector
 library_name: Connector
-name: connector_micro_sd_card_det_hirose_dm3at
+name: micro_sd_card_det_hirose_dm3at
 oomp:
   library_name: connector
-  md5: 203c5355eb71cedd79217ba5c1401a0e
-  md5_10: 203c5355eb
-  md5_5: 203c5
-  md5_6: 203c53
-  oomp_key: oomp_connector_micro_sd_card_det_hirose_dm3at
-  oomp_key_extra: oomp_symbol_connector_micro_sd_card_det_hirose_dm3at
-  oomp_key_full: oomp_symbol_connector_micro_sd_card_det_hirose_dm3at_203c53
-  oomp_key_simple: connector_micro_sd_card_det_hirose_dm3at
+  md5: a87a95e6e7e0d6263da65c25c8c1aee2
+  md5_10: a87a95e6e7
+  md5_5: a87a9
+  md5_6: a87a95
+  oomp_key: oomp_micro_sd_card_det_hirose_dm3at
+  oomp_key_extra: oomp_symbol_micro_sd_card_det_hirose_dm3at
+  oomp_key_full: oomp_symbol_micro_sd_card_det_hirose_dm3at_a87a95
+  oomp_key_simple: micro_sd_card_det_hirose_dm3at
   owner_name: kicad
-  symbol_name: connector_micro_sd_card_det_hirose_dm3at
+  symbol_name: micro_sd_card_det_hirose_dm3at
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

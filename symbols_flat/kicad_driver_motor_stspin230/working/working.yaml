@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_stspin230/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_stspin230/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_stspin230/working
-name: driver_motor_stspin230
+name: stspin230
 oomp:
   library_name: driver_motor
-  md5: 0f7c82dbb3c560125f09e6c10996f136
-  md5_10: 0f7c82dbb3
-  md5_5: 0f7c8
-  md5_6: 0f7c82
-  oomp_key: oomp_driver_motor_stspin230
-  oomp_key_extra: oomp_symbol_driver_motor_stspin230
-  oomp_key_full: oomp_symbol_driver_motor_stspin230_0f7c82
-  oomp_key_simple: driver_motor_stspin230
+  md5: ceecddabbb3f104090e60ebcb2ac783a
+  md5_10: ceecddabbb
+  md5_5: ceecd
+  md5_6: ceecdd
+  oomp_key: oomp_stspin230
+  oomp_key_extra: oomp_symbol_stspin230
+  oomp_key_full: oomp_symbol_stspin230_ceecdd
+  oomp_key_simple: stspin230
   owner_name: kicad
-  symbol_name: driver_motor_stspin230
+  symbol_name: stspin230
 oomp_key: oomp_kicad_driver_motor_stspin230
 oomp_key_simple: kicad_driver_motor_stspin230
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

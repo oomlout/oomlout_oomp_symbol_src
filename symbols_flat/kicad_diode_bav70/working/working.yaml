@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bav70/working
   oomp_src_flat: symbols_flat/kicad_diode_bav70/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bav70/working
-name: diode_bav70
+name: bav70
 oomp:
   library_name: diode
-  md5: 6cca35d51c242ee11bf1fad066a00121
-  md5_10: 6cca35d51c
-  md5_5: 6cca3
-  md5_6: 6cca35
-  oomp_key: oomp_diode_bav70
-  oomp_key_extra: oomp_symbol_diode_bav70
-  oomp_key_full: oomp_symbol_diode_bav70_6cca35
-  oomp_key_simple: diode_bav70
+  md5: 648f888820dfd48188823e29dadfaef9
+  md5_10: 648f888820
+  md5_5: 648f8
+  md5_6: 648f88
+  oomp_key: oomp_bav70
+  oomp_key_extra: oomp_symbol_bav70
+  oomp_key_full: oomp_symbol_bav70_648f88
+  oomp_key_simple: bav70
   owner_name: kicad
-  symbol_name: diode_bav70
+  symbol_name: bav70
 oomp_key: oomp_kicad_diode_bav70
 oomp_key_simple: kicad_diode_bav70
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

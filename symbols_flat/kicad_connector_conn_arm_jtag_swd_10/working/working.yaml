@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_arm_jtag_swd_10/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_arm_jtag_swd_10/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_arm_jtag_swd_10/working
-name: connector_conn_arm_jtag_swd_10
+name: conn_arm_jtag_swd_10
 oomp:
   library_name: connector
-  md5: 9cde3048d341cb0bb4bce085496e5890
-  md5_10: 9cde3048d3
-  md5_5: 9cde3
-  md5_6: 9cde30
-  oomp_key: oomp_connector_conn_arm_jtag_swd_10
-  oomp_key_extra: oomp_symbol_connector_conn_arm_jtag_swd_10
-  oomp_key_full: oomp_symbol_connector_conn_arm_jtag_swd_10_9cde30
-  oomp_key_simple: connector_conn_arm_jtag_swd_10
+  md5: a5fda9876fd6ab266764b7459c7fddd3
+  md5_10: a5fda9876f
+  md5_5: a5fda
+  md5_6: a5fda9
+  oomp_key: oomp_conn_arm_jtag_swd_10
+  oomp_key_extra: oomp_symbol_conn_arm_jtag_swd_10
+  oomp_key_full: oomp_symbol_conn_arm_jtag_swd_10_a5fda9
+  oomp_key_simple: conn_arm_jtag_swd_10
   owner_name: kicad
-  symbol_name: connector_conn_arm_jtag_swd_10
+  symbol_name: conn_arm_jtag_swd_10
 oomp_key: oomp_kicad_connector_conn_arm_jtag_swd_10
 oomp_key_simple: kicad_connector_conn_arm_jtag_swd_10
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

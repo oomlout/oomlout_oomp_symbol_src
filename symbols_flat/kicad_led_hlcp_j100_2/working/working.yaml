@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_hlcp_j100_2/working
   oomp_src_flat: symbols_flat/kicad_led_hlcp_j100_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_hlcp_j100_2/working
-name: led_hlcp_j100_2
+name: hlcp_j100_2
 oomp:
   library_name: led
-  md5: 35912ccf2ca9f1ca0748066952659344
-  md5_10: 35912ccf2c
-  md5_5: '35912'
-  md5_6: 35912c
-  oomp_key: oomp_led_hlcp_j100_2
-  oomp_key_extra: oomp_symbol_led_hlcp_j100_2
-  oomp_key_full: oomp_symbol_led_hlcp_j100_2_35912c
-  oomp_key_simple: led_hlcp_j100_2
+  md5: d649428ac57f74da80a4ba98e2e7eb29
+  md5_10: d649428ac5
+  md5_5: d6494
+  md5_6: d64942
+  oomp_key: oomp_hlcp_j100_2
+  oomp_key_extra: oomp_symbol_hlcp_j100_2
+  oomp_key_full: oomp_symbol_hlcp_j100_2_d64942
+  oomp_key_simple: hlcp_j100_2
   owner_name: kicad
-  symbol_name: led_hlcp_j100_2
+  symbol_name: hlcp_j100_2
 oomp_key: oomp_kicad_led_hlcp_j100_2
 oomp_key_simple: kicad_led_hlcp_j100_2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

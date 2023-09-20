@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_esd224dqa/working
   oomp_src_flat: symbols_flat/kicad_power_protection_esd224dqa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_esd224dqa/working
-name: power_protection_esd224dqa
+name: esd224dqa
 oomp:
   library_name: power_protection
-  md5: 42b3a873d72bbf4062a727e98c00ef1a
-  md5_10: 42b3a873d7
-  md5_5: 42b3a
-  md5_6: 42b3a8
-  oomp_key: oomp_power_protection_esd224dqa
-  oomp_key_extra: oomp_symbol_power_protection_esd224dqa
-  oomp_key_full: oomp_symbol_power_protection_esd224dqa_42b3a8
-  oomp_key_simple: power_protection_esd224dqa
+  md5: b011f18c54124f94a45372eb81d1352d
+  md5_10: b011f18c54
+  md5_5: b011f
+  md5_6: b011f1
+  oomp_key: oomp_esd224dqa
+  oomp_key_extra: oomp_symbol_esd224dqa
+  oomp_key_full: oomp_symbol_esd224dqa_b011f1
+  oomp_key_simple: esd224dqa
   owner_name: kicad
-  symbol_name: power_protection_esd224dqa
+  symbol_name: esd224dqa
 oomp_key: oomp_kicad_power_protection_esd224dqa
 oomp_key_simple: kicad_power_protection_esd224dqa
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

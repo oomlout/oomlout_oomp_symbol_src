@@ -1,19 +1,19 @@
 id: kicad_regulator_switchedcapacitor_tps60502dgs
 library: regulator_switchedcapacitor
 library_name: Regulator_SwitchedCapacitor
-name: regulator_switchedcapacitor_tps60502dgs
+name: tps60502dgs
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: 79778aabc4460ec60ee880f8beae0240
-  md5_10: 79778aabc4
-  md5_5: '79778'
-  md5_6: 79778a
-  oomp_key: oomp_regulator_switchedcapacitor_tps60502dgs
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_tps60502dgs
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_tps60502dgs_79778a
-  oomp_key_simple: regulator_switchedcapacitor_tps60502dgs
+  md5: 31ce44f5ee34f2e03108de31ba673036
+  md5_10: 31ce44f5ee
+  md5_5: 31ce4
+  md5_6: 31ce44
+  oomp_key: oomp_tps60502dgs
+  oomp_key_extra: oomp_symbol_tps60502dgs
+  oomp_key_full: oomp_symbol_tps60502dgs_31ce44
+  oomp_key_simple: tps60502dgs
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_tps60502dgs
+  symbol_name: tps60502dgs
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

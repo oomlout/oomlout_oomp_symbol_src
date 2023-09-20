@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_lm2876/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_lm2876/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_lm2876/working
-name: amplifier_audio_lm2876
+name: lm2876
 oomp:
   library_name: amplifier_audio
-  md5: fd9e350cc7022743c115932670cb83be
-  md5_10: fd9e350cc7
-  md5_5: fd9e3
-  md5_6: fd9e35
-  oomp_key: oomp_amplifier_audio_lm2876
-  oomp_key_extra: oomp_symbol_amplifier_audio_lm2876
-  oomp_key_full: oomp_symbol_amplifier_audio_lm2876_fd9e35
-  oomp_key_simple: amplifier_audio_lm2876
+  md5: e1a5e799bf58d9be0d2219ff8c136c4d
+  md5_10: e1a5e799bf
+  md5_5: e1a5e
+  md5_6: e1a5e7
+  oomp_key: oomp_lm2876
+  oomp_key_extra: oomp_symbol_lm2876
+  oomp_key_full: oomp_symbol_lm2876_e1a5e7
+  oomp_key_simple: lm2876
   owner_name: kicad
-  symbol_name: amplifier_audio_lm2876
+  symbol_name: lm2876
 oomp_key: oomp_kicad_amplifier_audio_lm2876
 oomp_key_simple: kicad_amplifier_audio_lm2876
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

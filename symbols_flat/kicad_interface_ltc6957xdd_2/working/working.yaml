@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ltc6957xdd_2/working
   oomp_src_flat: symbols_flat/kicad_interface_ltc6957xdd_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ltc6957xdd_2/working
-name: interface_ltc6957xdd_2
+name: ltc6957xdd_2
 oomp:
   library_name: interface
-  md5: d27634e9a5e101e84dd4f68b620f2f61
-  md5_10: d27634e9a5
-  md5_5: d2763
-  md5_6: d27634
-  oomp_key: oomp_interface_ltc6957xdd_2
-  oomp_key_extra: oomp_symbol_interface_ltc6957xdd_2
-  oomp_key_full: oomp_symbol_interface_ltc6957xdd_2_d27634
-  oomp_key_simple: interface_ltc6957xdd_2
+  md5: 69256b5e08a14bcf75c7d828d8670654
+  md5_10: 69256b5e08
+  md5_5: '69256'
+  md5_6: 69256b
+  oomp_key: oomp_ltc6957xdd_2
+  oomp_key_extra: oomp_symbol_ltc6957xdd_2
+  oomp_key_full: oomp_symbol_ltc6957xdd_2_69256b
+  oomp_key_simple: ltc6957xdd_2
   owner_name: kicad
-  symbol_name: interface_ltc6957xdd_2
+  symbol_name: ltc6957xdd_2
 oomp_key: oomp_kicad_interface_ltc6957xdd_2
 oomp_key_simple: kicad_interface_ltc6957xdd_2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

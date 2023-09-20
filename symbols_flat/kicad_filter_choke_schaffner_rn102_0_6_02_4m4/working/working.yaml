@@ -1,19 +1,19 @@
 id: kicad_filter_choke_schaffner_rn102_0_6_02_4m4
 library: filter
 library_name: Filter
-name: filter_choke_schaffner_rn102_0_6_02_4m4
+name: choke_schaffner_rn102_0_6_02_4m4
 oomp:
   library_name: filter
-  md5: dacb2b6e8c8d71e5761491e22e21ddbc
-  md5_10: dacb2b6e8c
-  md5_5: dacb2
-  md5_6: dacb2b
-  oomp_key: oomp_filter_choke_schaffner_rn102_0_6_02_4m4
-  oomp_key_extra: oomp_symbol_filter_choke_schaffner_rn102_0_6_02_4m4
-  oomp_key_full: oomp_symbol_filter_choke_schaffner_rn102_0_6_02_4m4_dacb2b
-  oomp_key_simple: filter_choke_schaffner_rn102_0_6_02_4m4
+  md5: 536409aef3740533de88d5c52a23ef54
+  md5_10: 536409aef3
+  md5_5: '53640'
+  md5_6: '536409'
+  oomp_key: oomp_choke_schaffner_rn102_0_6_02_4m4
+  oomp_key_extra: oomp_symbol_choke_schaffner_rn102_0_6_02_4m4
+  oomp_key_full: oomp_symbol_choke_schaffner_rn102_0_6_02_4m4_536409
+  oomp_key_simple: choke_schaffner_rn102_0_6_02_4m4
   owner_name: kicad
-  symbol_name: filter_choke_schaffner_rn102_0_6_02_4m4
+  symbol_name: choke_schaffner_rn102_0_6_02_4m4
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

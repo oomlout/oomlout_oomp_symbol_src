@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_solidstate_tlp3543/working
   oomp_src_flat: symbols_flat/kicad_relay_solidstate_tlp3543/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_solidstate_tlp3543/working
-name: relay_solidstate_tlp3543
+name: tlp3543
 oomp:
   library_name: relay_solidstate
-  md5: af6674c0c91636c980124e1d55cf07a2
-  md5_10: af6674c0c9
-  md5_5: af667
-  md5_6: af6674
-  oomp_key: oomp_relay_solidstate_tlp3543
-  oomp_key_extra: oomp_symbol_relay_solidstate_tlp3543
-  oomp_key_full: oomp_symbol_relay_solidstate_tlp3543_af6674
-  oomp_key_simple: relay_solidstate_tlp3543
+  md5: 4c03e9af2eed7380f895a6d2bb6b795b
+  md5_10: 4c03e9af2e
+  md5_5: 4c03e
+  md5_6: 4c03e9
+  oomp_key: oomp_tlp3543
+  oomp_key_extra: oomp_symbol_tlp3543
+  oomp_key_full: oomp_symbol_tlp3543_4c03e9
+  oomp_key_simple: tlp3543
   owner_name: kicad
-  symbol_name: relay_solidstate_tlp3543
+  symbol_name: tlp3543
 oomp_key: oomp_kicad_relay_solidstate_tlp3543
 oomp_key_simple: kicad_relay_solidstate_tlp3543
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

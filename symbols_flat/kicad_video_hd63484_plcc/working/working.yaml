@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_hd63484_plcc/working
   oomp_src_flat: symbols_flat/kicad_video_hd63484_plcc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_hd63484_plcc/working
-name: video_hd63484_plcc
+name: hd63484_plcc
 oomp:
   library_name: video
-  md5: 2326e7e0dea3440c12b418e52c4b090e
-  md5_10: 2326e7e0de
-  md5_5: 2326e
-  md5_6: 2326e7
-  oomp_key: oomp_video_hd63484_plcc
-  oomp_key_extra: oomp_symbol_video_hd63484_plcc
-  oomp_key_full: oomp_symbol_video_hd63484_plcc_2326e7
-  oomp_key_simple: video_hd63484_plcc
+  md5: d6bc23169064ef9dcb81c2ffea4f3df9
+  md5_10: d6bc231690
+  md5_5: d6bc2
+  md5_6: d6bc23
+  oomp_key: oomp_hd63484_plcc
+  oomp_key_extra: oomp_symbol_hd63484_plcc
+  oomp_key_full: oomp_symbol_hd63484_plcc_d6bc23
+  oomp_key_simple: hd63484_plcc
   owner_name: kicad
-  symbol_name: video_hd63484_plcc
+  symbol_name: hd63484_plcc
 oomp_key: oomp_kicad_video_hd63484_plcc
 oomp_key_simple: kicad_video_hd63484_plcc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

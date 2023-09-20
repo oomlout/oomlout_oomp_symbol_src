@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_dpst_x2/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_dpst_x2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_dpst_x2/working
-name: switch_sw_dpst_x2
+name: sw_dpst_x2
 oomp:
   library_name: switch
-  md5: 41d72fd6798e3e45a443857d9a89e40a
-  md5_10: 41d72fd679
-  md5_5: 41d72
-  md5_6: 41d72f
-  oomp_key: oomp_switch_sw_dpst_x2
-  oomp_key_extra: oomp_symbol_switch_sw_dpst_x2
-  oomp_key_full: oomp_symbol_switch_sw_dpst_x2_41d72f
-  oomp_key_simple: switch_sw_dpst_x2
+  md5: a78a7c4469ac8822c185ae63d4932d0c
+  md5_10: a78a7c4469
+  md5_5: a78a7
+  md5_6: a78a7c
+  oomp_key: oomp_sw_dpst_x2
+  oomp_key_extra: oomp_symbol_sw_dpst_x2
+  oomp_key_full: oomp_symbol_sw_dpst_x2_a78a7c
+  oomp_key_simple: sw_dpst_x2
   owner_name: kicad
-  symbol_name: switch_sw_dpst_x2
+  symbol_name: sw_dpst_x2
 oomp_key: oomp_kicad_switch_sw_dpst_x2
 oomp_key_simple: kicad_switch_sw_dpst_x2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

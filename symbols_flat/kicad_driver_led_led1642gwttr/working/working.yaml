@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_led1642gwttr/working
   oomp_src_flat: symbols_flat/kicad_driver_led_led1642gwttr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_led1642gwttr/working
-name: driver_led_led1642gwttr
+name: led1642gwttr
 oomp:
   library_name: driver_led
-  md5: 72647a670e5d5632c9553d5c2fdc29ba
-  md5_10: 72647a670e
-  md5_5: '72647'
-  md5_6: 72647a
-  oomp_key: oomp_driver_led_led1642gwttr
-  oomp_key_extra: oomp_symbol_driver_led_led1642gwttr
-  oomp_key_full: oomp_symbol_driver_led_led1642gwttr_72647a
-  oomp_key_simple: driver_led_led1642gwttr
+  md5: 10cb809c6471fc9676ef54692280bc5a
+  md5_10: 10cb809c64
+  md5_5: 10cb8
+  md5_6: 10cb80
+  oomp_key: oomp_led1642gwttr
+  oomp_key_extra: oomp_symbol_led1642gwttr
+  oomp_key_full: oomp_symbol_led1642gwttr_10cb80
+  oomp_key_simple: led1642gwttr
   owner_name: kicad
-  symbol_name: driver_led_led1642gwttr
+  symbol_name: led1642gwttr
 oomp_key: oomp_kicad_driver_led_led1642gwttr
 oomp_key_simple: kicad_driver_led_led1642gwttr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

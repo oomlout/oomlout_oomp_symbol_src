@@ -1,19 +1,19 @@
 id: kicad_transformer_tg110_s050n2xx
 library: transformer
 library_name: Transformer
-name: transformer_tg110_s050n2xx
+name: tg110_s050n2xx
 oomp:
   library_name: transformer
-  md5: 65f1779961ada2ad024ec241e6bc56ce
-  md5_10: 65f1779961
-  md5_5: 65f17
-  md5_6: 65f177
-  oomp_key: oomp_transformer_tg110_s050n2xx
-  oomp_key_extra: oomp_symbol_transformer_tg110_s050n2xx
-  oomp_key_full: oomp_symbol_transformer_tg110_s050n2xx_65f177
-  oomp_key_simple: transformer_tg110_s050n2xx
+  md5: e2587c1a5d76ebcfda14cfedb2d826bd
+  md5_10: e2587c1a5d
+  md5_5: e2587
+  md5_6: e2587c
+  oomp_key: oomp_tg110_s050n2xx
+  oomp_key_extra: oomp_symbol_tg110_s050n2xx
+  oomp_key_full: oomp_symbol_tg110_s050n2xx_e2587c
+  oomp_key_simple: tg110_s050n2xx
   owner_name: kicad
-  symbol_name: transformer_tg110_s050n2xx
+  symbol_name: tg110_s050n2xx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

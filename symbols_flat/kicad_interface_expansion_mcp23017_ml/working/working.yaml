@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_mcp23017_ml/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_mcp23017_ml/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_mcp23017_ml/working
-name: interface_expansion_mcp23017_ml
+name: mcp23017_ml
 oomp:
   library_name: interface_expansion
-  md5: b0689cff2cd9f50330d3bae0353f0770
-  md5_10: b0689cff2c
-  md5_5: b0689
-  md5_6: b0689c
-  oomp_key: oomp_interface_expansion_mcp23017_ml
-  oomp_key_extra: oomp_symbol_interface_expansion_mcp23017_ml
-  oomp_key_full: oomp_symbol_interface_expansion_mcp23017_ml_b0689c
-  oomp_key_simple: interface_expansion_mcp23017_ml
+  md5: b3e9b66a0f9ae0b393996b6d400126a2
+  md5_10: b3e9b66a0f
+  md5_5: b3e9b
+  md5_6: b3e9b6
+  oomp_key: oomp_mcp23017_ml
+  oomp_key_extra: oomp_symbol_mcp23017_ml
+  oomp_key_full: oomp_symbol_mcp23017_ml_b3e9b6
+  oomp_key_simple: mcp23017_ml
   owner_name: kicad
-  symbol_name: interface_expansion_mcp23017_ml
+  symbol_name: mcp23017_ml
 oomp_key: oomp_kicad_interface_expansion_mcp23017_ml
 oomp_key_simple: kicad_interface_expansion_mcp23017_ml
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

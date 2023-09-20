@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_motion_bmi160/working
   oomp_src_flat: symbols_flat/kicad_sensor_motion_bmi160/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_motion_bmi160/working
-name: sensor_motion_bmi160
+name: bmi160
 oomp:
   library_name: sensor_motion
-  md5: f181a6804919e08a36dc9d2f23afb124
-  md5_10: f181a68049
-  md5_5: f181a
-  md5_6: f181a6
-  oomp_key: oomp_sensor_motion_bmi160
-  oomp_key_extra: oomp_symbol_sensor_motion_bmi160
-  oomp_key_full: oomp_symbol_sensor_motion_bmi160_f181a6
-  oomp_key_simple: sensor_motion_bmi160
+  md5: 21c0eb6c644967c48729e97e939ff85e
+  md5_10: 21c0eb6c64
+  md5_5: 21c0e
+  md5_6: 21c0eb
+  oomp_key: oomp_bmi160
+  oomp_key_extra: oomp_symbol_bmi160
+  oomp_key_full: oomp_symbol_bmi160_21c0eb
+  oomp_key_simple: bmi160
   owner_name: kicad
-  symbol_name: sensor_motion_bmi160
+  symbol_name: bmi160
 oomp_key: oomp_kicad_sensor_motion_bmi160
 oomp_key_simple: kicad_sensor_motion_bmi160
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_a4950e/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_a4950e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_a4950e/working
-name: driver_motor_a4950e
+name: a4950e
 oomp:
   library_name: driver_motor
-  md5: 3b1a890b7eedc9b1edb70941a844ca49
-  md5_10: 3b1a890b7e
-  md5_5: 3b1a8
-  md5_6: 3b1a89
-  oomp_key: oomp_driver_motor_a4950e
-  oomp_key_extra: oomp_symbol_driver_motor_a4950e
-  oomp_key_full: oomp_symbol_driver_motor_a4950e_3b1a89
-  oomp_key_simple: driver_motor_a4950e
+  md5: 8d6f32520de3ce2a60dd68f9f51bdc92
+  md5_10: 8d6f32520d
+  md5_5: 8d6f3
+  md5_6: 8d6f32
+  oomp_key: oomp_a4950e
+  oomp_key_extra: oomp_symbol_a4950e
+  oomp_key_full: oomp_symbol_a4950e_8d6f32
+  oomp_key_simple: a4950e
   owner_name: kicad
-  symbol_name: driver_motor_a4950e
+  symbol_name: a4950e
 oomp_key: oomp_kicad_driver_motor_a4950e
 oomp_key_simple: kicad_driver_motor_a4950e
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

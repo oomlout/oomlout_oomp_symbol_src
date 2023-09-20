@@ -1,19 +1,19 @@
 id: kicad_converter_dcdc_tmr2_2412wi
 library: converter_dcdc
 library_name: Converter_DCDC
-name: converter_dcdc_tmr2_2412wi
+name: tmr2_2412wi
 oomp:
   library_name: converter_dcdc
-  md5: f8b12eb6cbc28be96b032d59183bf1fe
-  md5_10: f8b12eb6cb
-  md5_5: f8b12
-  md5_6: f8b12e
-  oomp_key: oomp_converter_dcdc_tmr2_2412wi
-  oomp_key_extra: oomp_symbol_converter_dcdc_tmr2_2412wi
-  oomp_key_full: oomp_symbol_converter_dcdc_tmr2_2412wi_f8b12e
-  oomp_key_simple: converter_dcdc_tmr2_2412wi
+  md5: 3da35f8df9ab9d93e27e23a99f1b59ca
+  md5_10: 3da35f8df9
+  md5_5: 3da35
+  md5_6: 3da35f
+  oomp_key: oomp_tmr2_2412wi
+  oomp_key_extra: oomp_symbol_tmr2_2412wi
+  oomp_key_full: oomp_symbol_tmr2_2412wi_3da35f
+  oomp_key_simple: tmr2_2412wi
   owner_name: kicad
-  symbol_name: converter_dcdc_tmr2_2412wi
+  symbol_name: tmr2_2412wi
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

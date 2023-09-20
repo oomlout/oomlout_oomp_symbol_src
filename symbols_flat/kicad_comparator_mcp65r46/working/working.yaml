@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_mcp65r46/working
   oomp_src_flat: symbols_flat/kicad_comparator_mcp65r46/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_mcp65r46/working
-name: comparator_mcp65r46
+name: mcp65r46
 oomp:
   library_name: comparator
-  md5: 1f64d0415787205ccb748f9daefb95c6
-  md5_10: 1f64d04157
-  md5_5: 1f64d
-  md5_6: 1f64d0
-  oomp_key: oomp_comparator_mcp65r46
-  oomp_key_extra: oomp_symbol_comparator_mcp65r46
-  oomp_key_full: oomp_symbol_comparator_mcp65r46_1f64d0
-  oomp_key_simple: comparator_mcp65r46
+  md5: f1c7622afa9f7a172a63aeb23ca2dced
+  md5_10: f1c7622afa
+  md5_5: f1c76
+  md5_6: f1c762
+  oomp_key: oomp_mcp65r46
+  oomp_key_extra: oomp_symbol_mcp65r46
+  oomp_key_full: oomp_symbol_mcp65r46_f1c762
+  oomp_key_simple: mcp65r46
   owner_name: kicad
-  symbol_name: comparator_mcp65r46
+  symbol_name: mcp65r46
 oomp_key: oomp_kicad_comparator_mcp65r46
 oomp_key_simple: kicad_comparator_mcp65r46
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_motor_servo_hitec
 library: motor
 library_name: Motor
-name: motor_motor_servo_hitec
+name: servo_hitec
 oomp:
   library_name: motor
-  md5: 9ef446469f804568c9c4e8a110fb4443
-  md5_10: 9ef446469f
-  md5_5: 9ef44
-  md5_6: 9ef446
-  oomp_key: oomp_motor_motor_servo_hitec
-  oomp_key_extra: oomp_symbol_motor_motor_servo_hitec
-  oomp_key_full: oomp_symbol_motor_motor_servo_hitec_9ef446
-  oomp_key_simple: motor_motor_servo_hitec
+  md5: 37d6263021bc8fdc24818c3a715220ca
+  md5_10: 37d6263021
+  md5_5: 37d62
+  md5_6: 37d626
+  oomp_key: oomp_servo_hitec
+  oomp_key_extra: oomp_symbol_servo_hitec
+  oomp_key_full: oomp_symbol_servo_hitec_37d626
+  oomp_key_simple: servo_hitec
   owner_name: kicad
-  symbol_name: motor_motor_servo_hitec
+  symbol_name: servo_hitec
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

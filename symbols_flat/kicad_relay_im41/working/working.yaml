@@ -1,19 +1,19 @@
 id: kicad_relay_im41
 library: relay
 library_name: Relay
-name: relay_im41
+name: im41
 oomp:
   library_name: relay
-  md5: c46957d9dd12362a96260b73cdd6ad6b
-  md5_10: c46957d9dd
-  md5_5: c4695
-  md5_6: c46957
-  oomp_key: oomp_relay_im41
-  oomp_key_extra: oomp_symbol_relay_im41
-  oomp_key_full: oomp_symbol_relay_im41_c46957
-  oomp_key_simple: relay_im41
+  md5: 51c7a0d58b48581fe5c311d424033480
+  md5_10: 51c7a0d58b
+  md5_5: 51c7a
+  md5_6: 51c7a0
+  oomp_key: oomp_im41
+  oomp_key_extra: oomp_symbol_im41
+  oomp_key_full: oomp_symbol_im41_51c7a0
+  oomp_key_simple: im41
   owner_name: kicad
-  symbol_name: relay_im41
+  symbol_name: im41
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

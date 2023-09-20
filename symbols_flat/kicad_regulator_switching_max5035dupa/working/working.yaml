@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_max5035dupa
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_max5035dupa
+name: max5035dupa
 oomp:
   library_name: regulator_switching
-  md5: 305c12187340f7bc44543616764053d8
-  md5_10: 305c121873
-  md5_5: 305c1
-  md5_6: 305c12
-  oomp_key: oomp_regulator_switching_max5035dupa
-  oomp_key_extra: oomp_symbol_regulator_switching_max5035dupa
-  oomp_key_full: oomp_symbol_regulator_switching_max5035dupa_305c12
-  oomp_key_simple: regulator_switching_max5035dupa
+  md5: 3058cfc0d35271d5aaacbf73d6b1a75f
+  md5_10: 3058cfc0d3
+  md5_5: 3058c
+  md5_6: 3058cf
+  oomp_key: oomp_max5035dupa
+  oomp_key_extra: oomp_symbol_max5035dupa
+  oomp_key_full: oomp_symbol_max5035dupa_3058cf
+  oomp_key_simple: max5035dupa
   owner_name: kicad
-  symbol_name: regulator_switching_max5035dupa
+  symbol_name: max5035dupa
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_lan7500_abjz/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_lan7500_abjz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_lan7500_abjz/working
-name: interface_ethernet_lan7500_abjz
+name: lan7500_abjz
 oomp:
   library_name: interface_ethernet
-  md5: 3cb4e96a9d940c1b12f99c96855ad826
-  md5_10: 3cb4e96a9d
-  md5_5: 3cb4e
-  md5_6: 3cb4e9
-  oomp_key: oomp_interface_ethernet_lan7500_abjz
-  oomp_key_extra: oomp_symbol_interface_ethernet_lan7500_abjz
-  oomp_key_full: oomp_symbol_interface_ethernet_lan7500_abjz_3cb4e9
-  oomp_key_simple: interface_ethernet_lan7500_abjz
+  md5: 0c2816ffadefb6dcb07c33897cc389cc
+  md5_10: 0c2816ffad
+  md5_5: 0c281
+  md5_6: 0c2816
+  oomp_key: oomp_lan7500_abjz
+  oomp_key_extra: oomp_symbol_lan7500_abjz
+  oomp_key_full: oomp_symbol_lan7500_abjz_0c2816
+  oomp_key_simple: lan7500_abjz
   owner_name: kicad
-  symbol_name: interface_ethernet_lan7500_abjz
+  symbol_name: lan7500_abjz
 oomp_key: oomp_kicad_interface_ethernet_lan7500_abjz
 oomp_key_simple: kicad_interface_ethernet_lan7500_abjz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

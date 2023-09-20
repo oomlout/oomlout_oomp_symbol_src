@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_ltc4417cuf/working
   oomp_src_flat: symbols_flat/kicad_power_management_ltc4417cuf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_ltc4417cuf/working
-name: power_management_ltc4417cuf
+name: ltc4417cuf
 oomp:
   library_name: power_management
-  md5: c7902c205aaf59bb759b1b269af0c6ec
-  md5_10: c7902c205a
-  md5_5: c7902
-  md5_6: c7902c
-  oomp_key: oomp_power_management_ltc4417cuf
-  oomp_key_extra: oomp_symbol_power_management_ltc4417cuf
-  oomp_key_full: oomp_symbol_power_management_ltc4417cuf_c7902c
-  oomp_key_simple: power_management_ltc4417cuf
+  md5: d64421572f4b518255ff770be9e42c19
+  md5_10: d64421572f
+  md5_5: d6442
+  md5_6: d64421
+  oomp_key: oomp_ltc4417cuf
+  oomp_key_extra: oomp_symbol_ltc4417cuf
+  oomp_key_full: oomp_symbol_ltc4417cuf_d64421
+  oomp_key_simple: ltc4417cuf
   owner_name: kicad
-  symbol_name: power_management_ltc4417cuf
+  symbol_name: ltc4417cuf
 oomp_key: oomp_kicad_power_management_ltc4417cuf
 oomp_key_simple: kicad_power_management_ltc4417cuf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

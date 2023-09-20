@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_mcp3426_xmc/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_mcp3426_xmc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_mcp3426_xmc/working
-name: analog_adc_mcp3426_xmc
+name: mcp3426_xmc
 oomp:
   library_name: analog_adc
-  md5: 96da96e452b22db9c25ecf9a67562b81
-  md5_10: 96da96e452
-  md5_5: 96da9
-  md5_6: 96da96
-  oomp_key: oomp_analog_adc_mcp3426_xmc
-  oomp_key_extra: oomp_symbol_analog_adc_mcp3426_xmc
-  oomp_key_full: oomp_symbol_analog_adc_mcp3426_xmc_96da96
-  oomp_key_simple: analog_adc_mcp3426_xmc
+  md5: d99bb02688cd2adc3b22202822f2387f
+  md5_10: d99bb02688
+  md5_5: d99bb
+  md5_6: d99bb0
+  oomp_key: oomp_mcp3426_xmc
+  oomp_key_extra: oomp_symbol_mcp3426_xmc
+  oomp_key_full: oomp_symbol_mcp3426_xmc_d99bb0
+  oomp_key_simple: mcp3426_xmc
   owner_name: kicad
-  symbol_name: analog_adc_mcp3426_xmc
+  symbol_name: mcp3426_xmc
 oomp_key: oomp_kicad_analog_adc_mcp3426_xmc
 oomp_key_simple: kicad_analog_adc_mcp3426_xmc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_analog_lf398_soic8
 library: analog
 library_name: Analog
-name: analog_lf398_soic8
+name: lf398_soic8
 oomp:
   library_name: analog
-  md5: ecf810d7999b669600110f68cd2a51f3
-  md5_10: ecf810d799
-  md5_5: ecf81
-  md5_6: ecf810
-  oomp_key: oomp_analog_lf398_soic8
-  oomp_key_extra: oomp_symbol_analog_lf398_soic8
-  oomp_key_full: oomp_symbol_analog_lf398_soic8_ecf810
-  oomp_key_simple: analog_lf398_soic8
+  md5: caf0b2b06abfeed935b7284a83a6dd24
+  md5_10: caf0b2b06a
+  md5_5: caf0b
+  md5_6: caf0b2
+  oomp_key: oomp_lf398_soic8
+  oomp_key_extra: oomp_symbol_lf398_soic8
+  oomp_key_full: oomp_symbol_lf398_soic8_caf0b2
+  oomp_key_simple: lf398_soic8
   owner_name: kicad
-  symbol_name: analog_lf398_soic8
+  symbol_name: lf398_soic8
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

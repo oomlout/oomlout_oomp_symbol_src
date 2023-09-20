@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_distance_vl53l1cxv0fy1/working
   oomp_src_flat: symbols_flat/kicad_sensor_distance_vl53l1cxv0fy1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_distance_vl53l1cxv0fy1/working
-name: sensor_distance_vl53l1cxv0fy1
+name: vl53l1cxv0fy1
 oomp:
   library_name: sensor_distance
-  md5: beb7f5e79286b636ce3a839ce5c937f3
-  md5_10: beb7f5e792
-  md5_5: beb7f
-  md5_6: beb7f5
-  oomp_key: oomp_sensor_distance_vl53l1cxv0fy1
-  oomp_key_extra: oomp_symbol_sensor_distance_vl53l1cxv0fy1
-  oomp_key_full: oomp_symbol_sensor_distance_vl53l1cxv0fy1_beb7f5
-  oomp_key_simple: sensor_distance_vl53l1cxv0fy1
+  md5: 7d713467d33df22a9dc4e6ff33a199fa
+  md5_10: 7d713467d3
+  md5_5: 7d713
+  md5_6: 7d7134
+  oomp_key: oomp_vl53l1cxv0fy1
+  oomp_key_extra: oomp_symbol_vl53l1cxv0fy1
+  oomp_key_full: oomp_symbol_vl53l1cxv0fy1_7d7134
+  oomp_key_simple: vl53l1cxv0fy1
   owner_name: kicad
-  symbol_name: sensor_distance_vl53l1cxv0fy1
+  symbol_name: vl53l1cxv0fy1
 oomp_key: oomp_kicad_sensor_distance_vl53l1cxv0fy1
 oomp_key_simple: kicad_sensor_distance_vl53l1cxv0fy1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tps76301/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tps76301/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tps76301/working
-name: regulator_linear_tps76301
+name: tps76301
 oomp:
   library_name: regulator_linear
-  md5: 03b71ca83265d32bac021425e2ccd613
-  md5_10: 03b71ca832
-  md5_5: 03b71
-  md5_6: 03b71c
-  oomp_key: oomp_regulator_linear_tps76301
-  oomp_key_extra: oomp_symbol_regulator_linear_tps76301
-  oomp_key_full: oomp_symbol_regulator_linear_tps76301_03b71c
-  oomp_key_simple: regulator_linear_tps76301
+  md5: 057ea4df9ac816717749e5be5775618a
+  md5_10: 057ea4df9a
+  md5_5: 057ea
+  md5_6: 057ea4
+  oomp_key: oomp_tps76301
+  oomp_key_extra: oomp_symbol_tps76301
+  oomp_key_full: oomp_symbol_tps76301_057ea4
+  oomp_key_simple: tps76301
   owner_name: kicad
-  symbol_name: regulator_linear_tps76301
+  symbol_name: tps76301
 oomp_key: oomp_kicad_regulator_linear_tps76301
 oomp_key_simple: kicad_regulator_linear_tps76301
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

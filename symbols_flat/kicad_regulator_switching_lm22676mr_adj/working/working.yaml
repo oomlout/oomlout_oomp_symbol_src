@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lm22676mr_adj/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lm22676mr_adj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lm22676mr_adj/working
-name: regulator_switching_lm22676mr_adj
+name: lm22676mr_adj
 oomp:
   library_name: regulator_switching
-  md5: 3815760d327f22a773b7a32b8d5c5814
-  md5_10: 3815760d32
-  md5_5: '38157'
-  md5_6: '381576'
-  oomp_key: oomp_regulator_switching_lm22676mr_adj
-  oomp_key_extra: oomp_symbol_regulator_switching_lm22676mr_adj
-  oomp_key_full: oomp_symbol_regulator_switching_lm22676mr_adj_381576
-  oomp_key_simple: regulator_switching_lm22676mr_adj
+  md5: 5ac8e48178e46c70984eaeb0703b5761
+  md5_10: 5ac8e48178
+  md5_5: 5ac8e
+  md5_6: 5ac8e4
+  oomp_key: oomp_lm22676mr_adj
+  oomp_key_extra: oomp_symbol_lm22676mr_adj
+  oomp_key_full: oomp_symbol_lm22676mr_adj_5ac8e4
+  oomp_key_simple: lm22676mr_adj
   owner_name: kicad
-  symbol_name: regulator_switching_lm22676mr_adj
+  symbol_name: lm22676mr_adj
 oomp_key: oomp_kicad_regulator_switching_lm22676mr_adj
 oomp_key_simple: kicad_regulator_switching_lm22676mr_adj
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

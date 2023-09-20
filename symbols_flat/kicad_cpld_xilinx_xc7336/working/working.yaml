@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpld_xilinx_xc7336/working
   oomp_src_flat: symbols_flat/kicad_cpld_xilinx_xc7336/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpld_xilinx_xc7336/working
-name: cpld_xilinx_xc7336
+name: xc7336
 oomp:
   library_name: cpld_xilinx
-  md5: 1a6d6e95e9842f135fa9486a8da2db3f
-  md5_10: 1a6d6e95e9
-  md5_5: 1a6d6
-  md5_6: 1a6d6e
-  oomp_key: oomp_cpld_xilinx_xc7336
-  oomp_key_extra: oomp_symbol_cpld_xilinx_xc7336
-  oomp_key_full: oomp_symbol_cpld_xilinx_xc7336_1a6d6e
-  oomp_key_simple: cpld_xilinx_xc7336
+  md5: 6654574bbc9366011f9397beb7080b6b
+  md5_10: 6654574bbc
+  md5_5: '66545'
+  md5_6: '665457'
+  oomp_key: oomp_xc7336
+  oomp_key_extra: oomp_symbol_xc7336
+  oomp_key_full: oomp_symbol_xc7336_665457
+  oomp_key_simple: xc7336
   owner_name: kicad
-  symbol_name: cpld_xilinx_xc7336
+  symbol_name: xc7336
 oomp_key: oomp_kicad_cpld_xilinx_xc7336
 oomp_key_simple: kicad_cpld_xilinx_xc7336
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

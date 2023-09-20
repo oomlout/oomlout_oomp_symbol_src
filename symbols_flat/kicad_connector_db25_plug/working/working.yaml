@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_db25_plug/working
   oomp_src_flat: symbols_flat/kicad_connector_db25_plug/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_db25_plug/working
-name: connector_db25_plug
+name: db25_plug
 oomp:
   library_name: connector
-  md5: 53311c3b3d4116b0d22f4a286fb99ac2
-  md5_10: 53311c3b3d
-  md5_5: '53311'
-  md5_6: 53311c
-  oomp_key: oomp_connector_db25_plug
-  oomp_key_extra: oomp_symbol_connector_db25_plug
-  oomp_key_full: oomp_symbol_connector_db25_plug_53311c
-  oomp_key_simple: connector_db25_plug
+  md5: 93e0f866d5f43d0ab9717882fdfdb59c
+  md5_10: 93e0f866d5
+  md5_5: 93e0f
+  md5_6: 93e0f8
+  oomp_key: oomp_db25_plug
+  oomp_key_extra: oomp_symbol_db25_plug
+  oomp_key_full: oomp_symbol_db25_plug_93e0f8
+  oomp_key_simple: db25_plug
   owner_name: kicad
-  symbol_name: connector_db25_plug
+  symbol_name: db25_plug
 oomp_key: oomp_kicad_connector_db25_plug
 oomp_key_simple: kicad_connector_db25_plug
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

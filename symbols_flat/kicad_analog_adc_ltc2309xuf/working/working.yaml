@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ltc2309xuf/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ltc2309xuf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ltc2309xuf/working
-name: analog_adc_ltc2309xuf
+name: ltc2309xuf
 oomp:
   library_name: analog_adc
-  md5: 314f554ac755f5e6236e9a0e11060bf5
-  md5_10: 314f554ac7
-  md5_5: 314f5
-  md5_6: 314f55
-  oomp_key: oomp_analog_adc_ltc2309xuf
-  oomp_key_extra: oomp_symbol_analog_adc_ltc2309xuf
-  oomp_key_full: oomp_symbol_analog_adc_ltc2309xuf_314f55
-  oomp_key_simple: analog_adc_ltc2309xuf
+  md5: 3eb13aafe8214fc723822dbbec76ea5a
+  md5_10: 3eb13aafe8
+  md5_5: 3eb13
+  md5_6: 3eb13a
+  oomp_key: oomp_ltc2309xuf
+  oomp_key_extra: oomp_symbol_ltc2309xuf
+  oomp_key_full: oomp_symbol_ltc2309xuf_3eb13a
+  oomp_key_simple: ltc2309xuf
   owner_name: kicad
-  symbol_name: analog_adc_ltc2309xuf
+  symbol_name: ltc2309xuf
 oomp_key: oomp_kicad_analog_adc_ltc2309xuf
 oomp_key_simple: kicad_analog_adc_ltc2309xuf
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

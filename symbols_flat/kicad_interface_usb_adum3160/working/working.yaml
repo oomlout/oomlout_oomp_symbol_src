@@ -1,19 +1,19 @@
 id: kicad_interface_usb_adum3160
 library: interface_usb
 library_name: Interface_USB
-name: interface_usb_adum3160
+name: adum3160
 oomp:
   library_name: interface_usb
-  md5: 07d0771a22005f861f8898bc6856cbb7
-  md5_10: 07d0771a22
-  md5_5: 07d07
-  md5_6: 07d077
-  oomp_key: oomp_interface_usb_adum3160
-  oomp_key_extra: oomp_symbol_interface_usb_adum3160
-  oomp_key_full: oomp_symbol_interface_usb_adum3160_07d077
-  oomp_key_simple: interface_usb_adum3160
+  md5: f243926f0b7e906d8d2401ea21aa865d
+  md5_10: f243926f0b
+  md5_5: f2439
+  md5_6: f24392
+  oomp_key: oomp_adum3160
+  oomp_key_extra: oomp_symbol_adum3160
+  oomp_key_full: oomp_symbol_adum3160_f24392
+  oomp_key_simple: adum3160
   owner_name: kicad
-  symbol_name: interface_usb_adum3160
+  symbol_name: adum3160
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

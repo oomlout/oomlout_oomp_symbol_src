@@ -1,19 +1,19 @@
 id: kicad_mcu_siliconlabs_efm32hg108f64g_c_qfn24
 library: mcu_siliconlabs
 library_name: MCU_SiliconLabs
-name: mcu_siliconlabs_efm32hg108f64g_c_qfn24
+name: efm32hg108f64g_c_qfn24
 oomp:
   library_name: mcu_siliconlabs
-  md5: e8978535c45fe0925dd4680818ce750b
-  md5_10: e8978535c4
-  md5_5: e8978
-  md5_6: e89785
-  oomp_key: oomp_mcu_siliconlabs_efm32hg108f64g_c_qfn24
-  oomp_key_extra: oomp_symbol_mcu_siliconlabs_efm32hg108f64g_c_qfn24
-  oomp_key_full: oomp_symbol_mcu_siliconlabs_efm32hg108f64g_c_qfn24_e89785
-  oomp_key_simple: mcu_siliconlabs_efm32hg108f64g_c_qfn24
+  md5: daa0b89191de2e62b863d10ae0dce882
+  md5_10: daa0b89191
+  md5_5: daa0b
+  md5_6: daa0b8
+  oomp_key: oomp_efm32hg108f64g_c_qfn24
+  oomp_key_extra: oomp_symbol_efm32hg108f64g_c_qfn24
+  oomp_key_full: oomp_symbol_efm32hg108f64g_c_qfn24_daa0b8
+  oomp_key_simple: efm32hg108f64g_c_qfn24
   owner_name: kicad
-  symbol_name: mcu_siliconlabs_efm32hg108f64g_c_qfn24
+  symbol_name: efm32hg108f64g_c_qfn24
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

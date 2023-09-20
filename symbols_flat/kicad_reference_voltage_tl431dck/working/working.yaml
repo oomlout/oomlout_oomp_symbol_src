@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_tl431dck/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_tl431dck/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_tl431dck/working
-name: reference_voltage_tl431dck
+name: tl431dck
 oomp:
   library_name: reference_voltage
-  md5: ed6d3f958c729fdf8b1a6636ddd98ddd
-  md5_10: ed6d3f958c
-  md5_5: ed6d3
-  md5_6: ed6d3f
-  oomp_key: oomp_reference_voltage_tl431dck
-  oomp_key_extra: oomp_symbol_reference_voltage_tl431dck
-  oomp_key_full: oomp_symbol_reference_voltage_tl431dck_ed6d3f
-  oomp_key_simple: reference_voltage_tl431dck
+  md5: 5151eec57badd6292701d0d650dd753b
+  md5_10: 5151eec57b
+  md5_5: 5151e
+  md5_6: 5151ee
+  oomp_key: oomp_tl431dck
+  oomp_key_extra: oomp_symbol_tl431dck
+  oomp_key_full: oomp_symbol_tl431dck_5151ee
+  oomp_key_simple: tl431dck
   owner_name: kicad
-  symbol_name: reference_voltage_tl431dck
+  symbol_name: tl431dck
 oomp_key: oomp_kicad_reference_voltage_tl431dck
 oomp_key_simple: kicad_reference_voltage_tl431dck
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

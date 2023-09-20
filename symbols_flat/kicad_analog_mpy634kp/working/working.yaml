@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_mpy634kp/working
   oomp_src_flat: symbols_flat/kicad_analog_mpy634kp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_mpy634kp/working
-name: analog_mpy634kp
+name: mpy634kp
 oomp:
   library_name: analog
-  md5: dc99014e88cecfed9a4a25aa3505b520
-  md5_10: dc99014e88
-  md5_5: dc990
-  md5_6: dc9901
-  oomp_key: oomp_analog_mpy634kp
-  oomp_key_extra: oomp_symbol_analog_mpy634kp
-  oomp_key_full: oomp_symbol_analog_mpy634kp_dc9901
-  oomp_key_simple: analog_mpy634kp
+  md5: 180f16652bb8aafea3cbb148848a5695
+  md5_10: 180f16652b
+  md5_5: 180f1
+  md5_6: 180f16
+  oomp_key: oomp_mpy634kp
+  oomp_key_extra: oomp_symbol_mpy634kp
+  oomp_key_full: oomp_symbol_mpy634kp_180f16
+  oomp_key_simple: mpy634kp
   owner_name: kicad
-  symbol_name: analog_mpy634kp
+  symbol_name: mpy634kp
 oomp_key: oomp_kicad_analog_mpy634kp
 oomp_key_simple: kicad_analog_mpy634kp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

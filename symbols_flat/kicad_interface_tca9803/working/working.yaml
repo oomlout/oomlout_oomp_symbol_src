@@ -1,19 +1,19 @@
 id: kicad_interface_tca9803
 library: interface
 library_name: Interface
-name: interface_tca9803
+name: tca9803
 oomp:
   library_name: interface
-  md5: 78f6a00c8420437c69dd34c46de6ca71
-  md5_10: 78f6a00c84
-  md5_5: 78f6a
-  md5_6: 78f6a0
-  oomp_key: oomp_interface_tca9803
-  oomp_key_extra: oomp_symbol_interface_tca9803
-  oomp_key_full: oomp_symbol_interface_tca9803_78f6a0
-  oomp_key_simple: interface_tca9803
+  md5: 493235402e6d4e30fa80414781753a98
+  md5_10: 493235402e
+  md5_5: '49323'
+  md5_6: '493235'
+  oomp_key: oomp_tca9803
+  oomp_key_extra: oomp_symbol_tca9803
+  oomp_key_full: oomp_symbol_tca9803_493235
+  oomp_key_simple: tca9803
   owner_name: kicad
-  symbol_name: interface_tca9803
+  symbol_name: tca9803
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

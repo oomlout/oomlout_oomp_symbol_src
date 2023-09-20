@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_nc7sb3157p6x/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_nc7sb3157p6x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_nc7sb3157p6x/working
-name: analog_switch_nc7sb3157p6x
+name: nc7sb3157p6x
 oomp:
   library_name: analog_switch
-  md5: 82590fee19262fabff6a66311828033a
-  md5_10: 82590fee19
-  md5_5: '82590'
-  md5_6: 82590f
-  oomp_key: oomp_analog_switch_nc7sb3157p6x
-  oomp_key_extra: oomp_symbol_analog_switch_nc7sb3157p6x
-  oomp_key_full: oomp_symbol_analog_switch_nc7sb3157p6x_82590f
-  oomp_key_simple: analog_switch_nc7sb3157p6x
+  md5: 715768ba08b3c87babcdcec0f466b26b
+  md5_10: 715768ba08
+  md5_5: '71576'
+  md5_6: '715768'
+  oomp_key: oomp_nc7sb3157p6x
+  oomp_key_extra: oomp_symbol_nc7sb3157p6x
+  oomp_key_full: oomp_symbol_nc7sb3157p6x_715768
+  oomp_key_simple: nc7sb3157p6x
   owner_name: kicad
-  symbol_name: analog_switch_nc7sb3157p6x
+  symbol_name: nc7sb3157p6x
 oomp_key: oomp_kicad_analog_switch_nc7sb3157p6x
 oomp_key_simple: kicad_analog_switch_nc7sb3157p6x
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

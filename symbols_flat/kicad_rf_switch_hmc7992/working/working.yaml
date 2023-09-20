@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_switch_hmc7992/working
   oomp_src_flat: symbols_flat/kicad_rf_switch_hmc7992/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_switch_hmc7992/working
-name: rf_switch_hmc7992
+name: hmc7992
 oomp:
   library_name: rf_switch
-  md5: 11d5e627731f6fc3e53dc7bc57e6fae9
-  md5_10: 11d5e62773
-  md5_5: 11d5e
-  md5_6: 11d5e6
-  oomp_key: oomp_rf_switch_hmc7992
-  oomp_key_extra: oomp_symbol_rf_switch_hmc7992
-  oomp_key_full: oomp_symbol_rf_switch_hmc7992_11d5e6
-  oomp_key_simple: rf_switch_hmc7992
+  md5: 7837e756914d2763f3616a3d317ac990
+  md5_10: 7837e75691
+  md5_5: 7837e
+  md5_6: 7837e7
+  oomp_key: oomp_hmc7992
+  oomp_key_extra: oomp_symbol_hmc7992
+  oomp_key_full: oomp_symbol_hmc7992_7837e7
+  oomp_key_simple: hmc7992
   owner_name: kicad
-  symbol_name: rf_switch_hmc7992
+  symbol_name: hmc7992
 oomp_key: oomp_kicad_rf_switch_hmc7992
 oomp_key_simple: kicad_rf_switch_hmc7992
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

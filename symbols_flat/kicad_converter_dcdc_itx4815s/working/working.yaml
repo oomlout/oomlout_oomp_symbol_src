@@ -1,19 +1,19 @@
 id: kicad_converter_dcdc_itx4815s
 library: converter_dcdc
 library_name: Converter_DCDC
-name: converter_dcdc_itx4815s
+name: itx4815s
 oomp:
   library_name: converter_dcdc
-  md5: 0a3571a78437d1f4433a062fc0aeeca3
-  md5_10: 0a3571a784
-  md5_5: 0a357
-  md5_6: 0a3571
-  oomp_key: oomp_converter_dcdc_itx4815s
-  oomp_key_extra: oomp_symbol_converter_dcdc_itx4815s
-  oomp_key_full: oomp_symbol_converter_dcdc_itx4815s_0a3571
-  oomp_key_simple: converter_dcdc_itx4815s
+  md5: b6c68ecd7c84f302d0d82bde41104e60
+  md5_10: b6c68ecd7c
+  md5_5: b6c68
+  md5_6: b6c68e
+  oomp_key: oomp_itx4815s
+  oomp_key_extra: oomp_symbol_itx4815s
+  oomp_key_full: oomp_symbol_itx4815s_b6c68e
+  oomp_key_simple: itx4815s
   owner_name: kicad
-  symbol_name: converter_dcdc_itx4815s
+  symbol_name: itx4815s
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

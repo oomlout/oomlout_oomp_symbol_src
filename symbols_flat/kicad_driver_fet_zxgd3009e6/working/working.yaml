@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_zxgd3009e6/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_zxgd3009e6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_zxgd3009e6/working
-name: driver_fet_zxgd3009e6
+name: zxgd3009e6
 oomp:
   library_name: driver_fet
-  md5: 5ecab142ef23340dee539b187190e7fd
-  md5_10: 5ecab142ef
-  md5_5: 5ecab
-  md5_6: 5ecab1
-  oomp_key: oomp_driver_fet_zxgd3009e6
-  oomp_key_extra: oomp_symbol_driver_fet_zxgd3009e6
-  oomp_key_full: oomp_symbol_driver_fet_zxgd3009e6_5ecab1
-  oomp_key_simple: driver_fet_zxgd3009e6
+  md5: 964f28b3cf972804032c7538b414135f
+  md5_10: 964f28b3cf
+  md5_5: 964f2
+  md5_6: 964f28
+  oomp_key: oomp_zxgd3009e6
+  oomp_key_extra: oomp_symbol_zxgd3009e6
+  oomp_key_full: oomp_symbol_zxgd3009e6_964f28
+  oomp_key_simple: zxgd3009e6
   owner_name: kicad
-  symbol_name: driver_fet_zxgd3009e6
+  symbol_name: zxgd3009e6
 oomp_key: oomp_kicad_driver_fet_zxgd3009e6
 oomp_key_simple: kicad_driver_fet_zxgd3009e6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

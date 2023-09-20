@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_avr_dx_avr64da48x_xpt
 library: mcu_microchip_avr_dx
 library_name: MCU_Microchip_AVR_Dx
-name: mcu_microchip_avr_dx_avr64da48x_xpt
+name: avr64da48x_xpt
 oomp:
   library_name: mcu_microchip_avr_dx
-  md5: f9e16ac0535e1be77d050f5fdc38dbfa
-  md5_10: f9e16ac053
-  md5_5: f9e16
-  md5_6: f9e16a
-  oomp_key: oomp_mcu_microchip_avr_dx_avr64da48x_xpt
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_dx_avr64da48x_xpt
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_dx_avr64da48x_xpt_f9e16a
-  oomp_key_simple: mcu_microchip_avr_dx_avr64da48x_xpt
+  md5: bab3fd290c6b9826eecca8c87a877ebe
+  md5_10: bab3fd290c
+  md5_5: bab3f
+  md5_6: bab3fd
+  oomp_key: oomp_avr64da48x_xpt
+  oomp_key_extra: oomp_symbol_avr64da48x_xpt
+  oomp_key_full: oomp_symbol_avr64da48x_xpt_bab3fd
+  oomp_key_simple: avr64da48x_xpt
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_dx_avr64da48x_xpt
+  symbol_name: avr64da48x_xpt
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

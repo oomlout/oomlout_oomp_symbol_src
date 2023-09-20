@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ltc3105xms/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ltc3105xms/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ltc3105xms/working
-name: regulator_switching_ltc3105xms
+name: ltc3105xms
 oomp:
   library_name: regulator_switching
-  md5: 702acf5b97334abdac8dbc679fe49e2b
-  md5_10: 702acf5b97
-  md5_5: 702ac
-  md5_6: 702acf
-  oomp_key: oomp_regulator_switching_ltc3105xms
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc3105xms
-  oomp_key_full: oomp_symbol_regulator_switching_ltc3105xms_702acf
-  oomp_key_simple: regulator_switching_ltc3105xms
+  md5: db395eebc4fe3370bad09a9fb4fa8272
+  md5_10: db395eebc4
+  md5_5: db395
+  md5_6: db395e
+  oomp_key: oomp_ltc3105xms
+  oomp_key_extra: oomp_symbol_ltc3105xms
+  oomp_key_full: oomp_symbol_ltc3105xms_db395e
+  oomp_key_simple: ltc3105xms
   owner_name: kicad
-  symbol_name: regulator_switching_ltc3105xms
+  symbol_name: ltc3105xms
 oomp_key: oomp_kicad_regulator_switching_ltc3105xms
 oomp_key_simple: kicad_regulator_switching_ltc3105xms
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

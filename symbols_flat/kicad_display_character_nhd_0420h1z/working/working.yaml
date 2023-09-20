@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_nhd_0420h1z/working
   oomp_src_flat: symbols_flat/kicad_display_character_nhd_0420h1z/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_nhd_0420h1z/working
-name: display_character_nhd_0420h1z
+name: nhd_0420h1z
 oomp:
   library_name: display_character
-  md5: f677bd70ab7a8a16e66cb0ef660cdad9
-  md5_10: f677bd70ab
-  md5_5: f677b
-  md5_6: f677bd
-  oomp_key: oomp_display_character_nhd_0420h1z
-  oomp_key_extra: oomp_symbol_display_character_nhd_0420h1z
-  oomp_key_full: oomp_symbol_display_character_nhd_0420h1z_f677bd
-  oomp_key_simple: display_character_nhd_0420h1z
+  md5: ef3a09d58c71601882c605608cfe96b0
+  md5_10: ef3a09d58c
+  md5_5: ef3a0
+  md5_6: ef3a09
+  oomp_key: oomp_nhd_0420h1z
+  oomp_key_extra: oomp_symbol_nhd_0420h1z
+  oomp_key_full: oomp_symbol_nhd_0420h1z_ef3a09
+  oomp_key_simple: nhd_0420h1z
   owner_name: kicad
-  symbol_name: display_character_nhd_0420h1z
+  symbol_name: nhd_0420h1z
 oomp_key: oomp_kicad_display_character_nhd_0420h1z
 oomp_key_simple: kicad_display_character_nhd_0420h1z
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_ncs4325/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ncs4325/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ncs4325/working
-name: amplifier_operational_ncs4325
+name: ncs4325
 oomp:
   library_name: amplifier_operational
-  md5: 879b3eed255856f1e1fa4ccca1426cf7
-  md5_10: 879b3eed25
-  md5_5: 879b3
-  md5_6: 879b3e
-  oomp_key: oomp_amplifier_operational_ncs4325
-  oomp_key_extra: oomp_symbol_amplifier_operational_ncs4325
-  oomp_key_full: oomp_symbol_amplifier_operational_ncs4325_879b3e
-  oomp_key_simple: amplifier_operational_ncs4325
+  md5: 244e99252259b2afa6711597cc10b955
+  md5_10: 244e992522
+  md5_5: 244e9
+  md5_6: 244e99
+  oomp_key: oomp_ncs4325
+  oomp_key_extra: oomp_symbol_ncs4325
+  oomp_key_full: oomp_symbol_ncs4325_244e99
+  oomp_key_simple: ncs4325
   owner_name: kicad
-  symbol_name: amplifier_operational_ncs4325
+  symbol_name: ncs4325
 oomp_key: oomp_kicad_amplifier_operational_ncs4325
 oomp_key_simple: kicad_amplifier_operational_ncs4325
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

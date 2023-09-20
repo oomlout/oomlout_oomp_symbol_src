@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lt3093xmse/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lt3093xmse/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lt3093xmse/working
-name: regulator_linear_lt3093xmse
+name: lt3093xmse
 oomp:
   library_name: regulator_linear
-  md5: 0c5dea61412a2bd69024a6d18f83a528
-  md5_10: 0c5dea6141
-  md5_5: 0c5de
-  md5_6: 0c5dea
-  oomp_key: oomp_regulator_linear_lt3093xmse
-  oomp_key_extra: oomp_symbol_regulator_linear_lt3093xmse
-  oomp_key_full: oomp_symbol_regulator_linear_lt3093xmse_0c5dea
-  oomp_key_simple: regulator_linear_lt3093xmse
+  md5: fb16fc343778f6b639b0510ca34b8d3b
+  md5_10: fb16fc3437
+  md5_5: fb16f
+  md5_6: fb16fc
+  oomp_key: oomp_lt3093xmse
+  oomp_key_extra: oomp_symbol_lt3093xmse
+  oomp_key_full: oomp_symbol_lt3093xmse_fb16fc
+  oomp_key_simple: lt3093xmse
   owner_name: kicad
-  symbol_name: regulator_linear_lt3093xmse
+  symbol_name: lt3093xmse
 oomp_key: oomp_kicad_regulator_linear_lt3093xmse
 oomp_key_simple: kicad_regulator_linear_lt3093xmse
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

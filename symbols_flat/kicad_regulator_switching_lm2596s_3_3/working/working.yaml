@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_lm2596s_3_3
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_lm2596s_3_3
+name: lm2596s_3_3
 oomp:
   library_name: regulator_switching
-  md5: 239bd25c77dfe905d61593da9194be66
-  md5_10: 239bd25c77
-  md5_5: 239bd
-  md5_6: 239bd2
-  oomp_key: oomp_regulator_switching_lm2596s_3_3
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2596s_3_3
-  oomp_key_full: oomp_symbol_regulator_switching_lm2596s_3_3_239bd2
-  oomp_key_simple: regulator_switching_lm2596s_3_3
+  md5: 8b03c12fcd97fba710e19351f91512e7
+  md5_10: 8b03c12fcd
+  md5_5: 8b03c
+  md5_6: 8b03c1
+  oomp_key: oomp_lm2596s_3_3
+  oomp_key_extra: oomp_symbol_lm2596s_3_3
+  oomp_key_full: oomp_symbol_lm2596s_3_3_8b03c1
+  oomp_key_simple: lm2596s_3_3
   owner_name: kicad
-  symbol_name: regulator_switching_lm2596s_3_3
+  symbol_name: lm2596s_3_3
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

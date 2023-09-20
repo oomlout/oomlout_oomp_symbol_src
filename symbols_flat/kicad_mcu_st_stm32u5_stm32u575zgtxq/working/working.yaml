@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32u5_stm32u575zgtxq/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32u5_stm32u575zgtxq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32u5_stm32u575zgtxq/working
-name: mcu_st_stm32u5_stm32u575zgtxq
+name: stm32u575zgtxq
 oomp:
   library_name: mcu_st_stm32u5
-  md5: 8705073a4ee524d39f3be708e1810052
-  md5_10: 8705073a4e
-  md5_5: '87050'
-  md5_6: '870507'
-  oomp_key: oomp_mcu_st_stm32u5_stm32u575zgtxq
-  oomp_key_extra: oomp_symbol_mcu_st_stm32u5_stm32u575zgtxq
-  oomp_key_full: oomp_symbol_mcu_st_stm32u5_stm32u575zgtxq_870507
-  oomp_key_simple: mcu_st_stm32u5_stm32u575zgtxq
+  md5: a29eb87c1594262c957a67e53d57f9b1
+  md5_10: a29eb87c15
+  md5_5: a29eb
+  md5_6: a29eb8
+  oomp_key: oomp_stm32u575zgtxq
+  oomp_key_extra: oomp_symbol_stm32u575zgtxq
+  oomp_key_full: oomp_symbol_stm32u575zgtxq_a29eb8
+  oomp_key_simple: stm32u575zgtxq
   owner_name: kicad
-  symbol_name: mcu_st_stm32u5_stm32u575zgtxq
+  symbol_name: stm32u575zgtxq
 oomp_key: oomp_kicad_mcu_st_stm32u5_stm32u575zgtxq
 oomp_key_simple: kicad_mcu_st_stm32u5_stm32u575zgtxq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

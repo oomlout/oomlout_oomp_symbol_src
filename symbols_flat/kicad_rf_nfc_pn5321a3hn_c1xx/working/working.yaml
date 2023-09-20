@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_nfc_pn5321a3hn_c1xx/working
   oomp_src_flat: symbols_flat/kicad_rf_nfc_pn5321a3hn_c1xx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_nfc_pn5321a3hn_c1xx/working
-name: rf_nfc_pn5321a3hn_c1xx
+name: pn5321a3hn_c1xx
 oomp:
   library_name: rf_nfc
-  md5: 02327edd897a6328a465e0133551ffe6
-  md5_10: 02327edd89
-  md5_5: '02327'
-  md5_6: 02327e
-  oomp_key: oomp_rf_nfc_pn5321a3hn_c1xx
-  oomp_key_extra: oomp_symbol_rf_nfc_pn5321a3hn_c1xx
-  oomp_key_full: oomp_symbol_rf_nfc_pn5321a3hn_c1xx_02327e
-  oomp_key_simple: rf_nfc_pn5321a3hn_c1xx
+  md5: a66be7bcffa516bf539bf77458b95a3a
+  md5_10: a66be7bcff
+  md5_5: a66be
+  md5_6: a66be7
+  oomp_key: oomp_pn5321a3hn_c1xx
+  oomp_key_extra: oomp_symbol_pn5321a3hn_c1xx
+  oomp_key_full: oomp_symbol_pn5321a3hn_c1xx_a66be7
+  oomp_key_simple: pn5321a3hn_c1xx
   owner_name: kicad
-  symbol_name: rf_nfc_pn5321a3hn_c1xx
+  symbol_name: pn5321a3hn_c1xx
 oomp_key: oomp_kicad_rf_nfc_pn5321a3hn_c1xx
 oomp_key_simple: kicad_rf_nfc_pn5321a3hn_c1xx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

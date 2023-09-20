@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_max874/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_max874/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_max874/working
-name: reference_voltage_max874
+name: max874
 oomp:
   library_name: reference_voltage
-  md5: f94c6527096cbb9a3ba26f61caf7746e
-  md5_10: f94c652709
-  md5_5: f94c6
-  md5_6: f94c65
-  oomp_key: oomp_reference_voltage_max874
-  oomp_key_extra: oomp_symbol_reference_voltage_max874
-  oomp_key_full: oomp_symbol_reference_voltage_max874_f94c65
-  oomp_key_simple: reference_voltage_max874
+  md5: 6292524e1628ec26a07bb00c8e3be65e
+  md5_10: 6292524e16
+  md5_5: '62925'
+  md5_6: '629252'
+  oomp_key: oomp_max874
+  oomp_key_extra: oomp_symbol_max874
+  oomp_key_full: oomp_symbol_max874_629252
+  oomp_key_simple: max874
   owner_name: kicad
-  symbol_name: reference_voltage_max874
+  symbol_name: max874
 oomp_key: oomp_kicad_reference_voltage_max874
 oomp_key_simple: kicad_reference_voltage_max874
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

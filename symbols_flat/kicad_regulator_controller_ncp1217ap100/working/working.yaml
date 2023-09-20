@@ -1,19 +1,19 @@
 id: kicad_regulator_controller_ncp1217ap100
 library: regulator_controller
 library_name: Regulator_Controller
-name: regulator_controller_ncp1217ap100
+name: ncp1217ap100
 oomp:
   library_name: regulator_controller
-  md5: 6380ecd1c06bead5543ae589b98e211a
-  md5_10: 6380ecd1c0
-  md5_5: 6380e
-  md5_6: 6380ec
-  oomp_key: oomp_regulator_controller_ncp1217ap100
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp1217ap100
-  oomp_key_full: oomp_symbol_regulator_controller_ncp1217ap100_6380ec
-  oomp_key_simple: regulator_controller_ncp1217ap100
+  md5: 01520d2614231b9dd44341498fc1b0ec
+  md5_10: 01520d2614
+  md5_5: '01520'
+  md5_6: 01520d
+  oomp_key: oomp_ncp1217ap100
+  oomp_key_extra: oomp_symbol_ncp1217ap100
+  oomp_key_full: oomp_symbol_ncp1217ap100_01520d
+  oomp_key_simple: ncp1217ap100
   owner_name: kicad
-  symbol_name: regulator_controller_ncp1217ap100
+  symbol_name: ncp1217ap100
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

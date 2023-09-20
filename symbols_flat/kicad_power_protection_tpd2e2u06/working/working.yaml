@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_tpd2e2u06/working
   oomp_src_flat: symbols_flat/kicad_power_protection_tpd2e2u06/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_tpd2e2u06/working
-name: power_protection_tpd2e2u06
+name: tpd2e2u06
 oomp:
   library_name: power_protection
-  md5: d73b78293942316870f7cf1da0b37af6
-  md5_10: d73b782939
-  md5_5: d73b7
-  md5_6: d73b78
-  oomp_key: oomp_power_protection_tpd2e2u06
-  oomp_key_extra: oomp_symbol_power_protection_tpd2e2u06
-  oomp_key_full: oomp_symbol_power_protection_tpd2e2u06_d73b78
-  oomp_key_simple: power_protection_tpd2e2u06
+  md5: d2ede0121f5e178f2ea949c83b2bbf08
+  md5_10: d2ede0121f
+  md5_5: d2ede
+  md5_6: d2ede0
+  oomp_key: oomp_tpd2e2u06
+  oomp_key_extra: oomp_symbol_tpd2e2u06
+  oomp_key_full: oomp_symbol_tpd2e2u06_d2ede0
+  oomp_key_simple: tpd2e2u06
   owner_name: kicad
-  symbol_name: power_protection_tpd2e2u06
+  symbol_name: tpd2e2u06
 oomp_key: oomp_kicad_power_protection_tpd2e2u06
 oomp_key_simple: kicad_power_protection_tpd2e2u06
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

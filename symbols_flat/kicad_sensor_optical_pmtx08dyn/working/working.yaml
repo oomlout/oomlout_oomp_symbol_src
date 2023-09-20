@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_pmtx08dyn/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_pmtx08dyn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_pmtx08dyn/working
-name: sensor_optical_pmtx08dyn
+name: pmtx08dyn
 oomp:
   library_name: sensor_optical
-  md5: c674c8bfda3893952ef791f64da4e353
-  md5_10: c674c8bfda
-  md5_5: c674c
-  md5_6: c674c8
-  oomp_key: oomp_sensor_optical_pmtx08dyn
-  oomp_key_extra: oomp_symbol_sensor_optical_pmtx08dyn
-  oomp_key_full: oomp_symbol_sensor_optical_pmtx08dyn_c674c8
-  oomp_key_simple: sensor_optical_pmtx08dyn
+  md5: 0e9ffba86fc2f71506da16488925b6cd
+  md5_10: 0e9ffba86f
+  md5_5: 0e9ff
+  md5_6: 0e9ffb
+  oomp_key: oomp_pmtx08dyn
+  oomp_key_extra: oomp_symbol_pmtx08dyn
+  oomp_key_full: oomp_symbol_pmtx08dyn_0e9ffb
+  oomp_key_simple: pmtx08dyn
   owner_name: kicad
-  symbol_name: sensor_optical_pmtx08dyn
+  symbol_name: pmtx08dyn
 oomp_key: oomp_kicad_sensor_optical_pmtx08dyn
 oomp_key_simple: kicad_sensor_optical_pmtx08dyn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

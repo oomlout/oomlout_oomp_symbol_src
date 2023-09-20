@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_irf7324/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_irf7324/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_irf7324/working
-name: transistor_fet_irf7324
+name: irf7324
 oomp:
   library_name: transistor_fet
-  md5: 8d70c57aa225d098ddf2a30c53ef2bf1
-  md5_10: 8d70c57aa2
-  md5_5: 8d70c
-  md5_6: 8d70c5
-  oomp_key: oomp_transistor_fet_irf7324
-  oomp_key_extra: oomp_symbol_transistor_fet_irf7324
-  oomp_key_full: oomp_symbol_transistor_fet_irf7324_8d70c5
-  oomp_key_simple: transistor_fet_irf7324
+  md5: a8a23a949e0331974c23d7d01ecf4233
+  md5_10: a8a23a949e
+  md5_5: a8a23
+  md5_6: a8a23a
+  oomp_key: oomp_irf7324
+  oomp_key_extra: oomp_symbol_irf7324
+  oomp_key_full: oomp_symbol_irf7324_a8a23a
+  oomp_key_simple: irf7324
   owner_name: kicad
-  symbol_name: transistor_fet_irf7324
+  symbol_name: irf7324
 oomp_key: oomp_kicad_transistor_fet_irf7324
 oomp_key_simple: kicad_transistor_fet_irf7324
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

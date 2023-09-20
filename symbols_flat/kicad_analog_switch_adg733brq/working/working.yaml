@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_adg733brq/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_adg733brq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_adg733brq/working
-name: analog_switch_adg733brq
+name: adg733brq
 oomp:
   library_name: analog_switch
-  md5: bc315f96c0abcd6423ef6b7f24f8718e
-  md5_10: bc315f96c0
-  md5_5: bc315
-  md5_6: bc315f
-  oomp_key: oomp_analog_switch_adg733brq
-  oomp_key_extra: oomp_symbol_analog_switch_adg733brq
-  oomp_key_full: oomp_symbol_analog_switch_adg733brq_bc315f
-  oomp_key_simple: analog_switch_adg733brq
+  md5: 5ed87fe6f27076e4bdb8788cc39f4903
+  md5_10: 5ed87fe6f2
+  md5_5: 5ed87
+  md5_6: 5ed87f
+  oomp_key: oomp_adg733brq
+  oomp_key_extra: oomp_symbol_adg733brq
+  oomp_key_full: oomp_symbol_adg733brq_5ed87f
+  oomp_key_simple: adg733brq
   owner_name: kicad
-  symbol_name: analog_switch_adg733brq
+  symbol_name: adg733brq
 oomp_key: oomp_kicad_analog_switch_adg733brq
 oomp_key_simple: kicad_analog_switch_adg733brq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

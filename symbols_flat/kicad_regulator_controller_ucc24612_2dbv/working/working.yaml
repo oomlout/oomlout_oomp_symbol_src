@@ -1,19 +1,19 @@
 id: kicad_regulator_controller_ucc24612_2dbv
 library: regulator_controller
 library_name: Regulator_Controller
-name: regulator_controller_ucc24612_2dbv
+name: ucc24612_2dbv
 oomp:
   library_name: regulator_controller
-  md5: aa648c0c52871e05d1e02be30883ddd5
-  md5_10: aa648c0c52
-  md5_5: aa648
-  md5_6: aa648c
-  oomp_key: oomp_regulator_controller_ucc24612_2dbv
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc24612_2dbv
-  oomp_key_full: oomp_symbol_regulator_controller_ucc24612_2dbv_aa648c
-  oomp_key_simple: regulator_controller_ucc24612_2dbv
+  md5: 0fc7e1ee77d995bc3b8b6eedaaad955d
+  md5_10: 0fc7e1ee77
+  md5_5: 0fc7e
+  md5_6: 0fc7e1
+  oomp_key: oomp_ucc24612_2dbv
+  oomp_key_extra: oomp_symbol_ucc24612_2dbv
+  oomp_key_full: oomp_symbol_ucc24612_2dbv_0fc7e1
+  oomp_key_simple: ucc24612_2dbv
   owner_name: kicad
-  symbol_name: regulator_controller_ucc24612_2dbv
+  symbol_name: ucc24612_2dbv
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

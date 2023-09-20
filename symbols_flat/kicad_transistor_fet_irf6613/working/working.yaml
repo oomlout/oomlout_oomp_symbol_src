@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_irf6613/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_irf6613/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_irf6613/working
-name: transistor_fet_irf6613
+name: irf6613
 oomp:
   library_name: transistor_fet
-  md5: 7baa44a4a85c7671756aaacc5d55310e
-  md5_10: 7baa44a4a8
-  md5_5: 7baa4
-  md5_6: 7baa44
-  oomp_key: oomp_transistor_fet_irf6613
-  oomp_key_extra: oomp_symbol_transistor_fet_irf6613
-  oomp_key_full: oomp_symbol_transistor_fet_irf6613_7baa44
-  oomp_key_simple: transistor_fet_irf6613
+  md5: 05d630726dc20bd33d532c4371ddb6b4
+  md5_10: 05d630726d
+  md5_5: 05d63
+  md5_6: 05d630
+  oomp_key: oomp_irf6613
+  oomp_key_extra: oomp_symbol_irf6613
+  oomp_key_full: oomp_symbol_irf6613_05d630
+  oomp_key_simple: irf6613
   owner_name: kicad
-  symbol_name: transistor_fet_irf6613
+  symbol_name: irf6613
 oomp_key: oomp_kicad_transistor_fet_irf6613
 oomp_key_simple: kicad_transistor_fet_irf6613
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

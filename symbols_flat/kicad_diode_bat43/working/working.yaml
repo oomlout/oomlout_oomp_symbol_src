@@ -1,19 +1,19 @@
 id: kicad_diode_bat43
 library: diode
 library_name: Diode
-name: diode_bat43
+name: bat43
 oomp:
   library_name: diode
-  md5: 303ef69068718a63fcdaa8c00fcbded5
-  md5_10: 303ef69068
-  md5_5: 303ef
-  md5_6: 303ef6
-  oomp_key: oomp_diode_bat43
-  oomp_key_extra: oomp_symbol_diode_bat43
-  oomp_key_full: oomp_symbol_diode_bat43_303ef6
-  oomp_key_simple: diode_bat43
+  md5: f79748c2be810a678715751cf930bf74
+  md5_10: f79748c2be
+  md5_5: f7974
+  md5_6: f79748
+  oomp_key: oomp_bat43
+  oomp_key_extra: oomp_symbol_bat43
+  oomp_key_full: oomp_symbol_bat43_f79748
+  oomp_key_simple: bat43
   owner_name: kicad
-  symbol_name: diode_bat43
+  symbol_name: bat43
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

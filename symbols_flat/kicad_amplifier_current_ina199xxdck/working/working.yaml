@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_ina199xxdck/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_ina199xxdck/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_ina199xxdck/working
-name: amplifier_current_ina199xxdck
+name: ina199xxdck
 oomp:
   library_name: amplifier_current
-  md5: 7007e85dca1e01f743231e8b722e4503
-  md5_10: 7007e85dca
-  md5_5: 7007e
-  md5_6: 7007e8
-  oomp_key: oomp_amplifier_current_ina199xxdck
-  oomp_key_extra: oomp_symbol_amplifier_current_ina199xxdck
-  oomp_key_full: oomp_symbol_amplifier_current_ina199xxdck_7007e8
-  oomp_key_simple: amplifier_current_ina199xxdck
+  md5: ebcf6369b0afb01efea9cd5628eef71f
+  md5_10: ebcf6369b0
+  md5_5: ebcf6
+  md5_6: ebcf63
+  oomp_key: oomp_ina199xxdck
+  oomp_key_extra: oomp_symbol_ina199xxdck
+  oomp_key_full: oomp_symbol_ina199xxdck_ebcf63
+  oomp_key_simple: ina199xxdck
   owner_name: kicad
-  symbol_name: amplifier_current_ina199xxdck
+  symbol_name: ina199xxdck
 oomp_key: oomp_kicad_amplifier_current_ina199xxdck
 oomp_key_simple: kicad_amplifier_current_ina199xxdck
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

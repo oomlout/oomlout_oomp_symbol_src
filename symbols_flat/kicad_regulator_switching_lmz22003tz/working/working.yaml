@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_lmz22003tz
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_lmz22003tz
+name: lmz22003tz
 oomp:
   library_name: regulator_switching
-  md5: 9946362f806ef73683b23fc9f81dba1d
-  md5_10: 9946362f80
-  md5_5: '99463'
-  md5_6: '994636'
-  oomp_key: oomp_regulator_switching_lmz22003tz
-  oomp_key_extra: oomp_symbol_regulator_switching_lmz22003tz
-  oomp_key_full: oomp_symbol_regulator_switching_lmz22003tz_994636
-  oomp_key_simple: regulator_switching_lmz22003tz
+  md5: bb923c5e2f1132baeba91e636f9316cf
+  md5_10: bb923c5e2f
+  md5_5: bb923
+  md5_6: bb923c
+  oomp_key: oomp_lmz22003tz
+  oomp_key_extra: oomp_symbol_lmz22003tz
+  oomp_key_full: oomp_symbol_lmz22003tz_bb923c
+  oomp_key_simple: lmz22003tz
   owner_name: kicad
-  symbol_name: regulator_switching_lmz22003tz
+  symbol_name: lmz22003tz
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

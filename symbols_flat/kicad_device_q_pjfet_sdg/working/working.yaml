@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_pjfet_sdg/working
   oomp_src_flat: symbols_flat/kicad_device_q_pjfet_sdg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_pjfet_sdg/working
-name: device_q_pjfet_sdg
+name: q_pjfet_sdg
 oomp:
   library_name: device
-  md5: 7b5d5dcfba4ace881734d8826b5455cf
-  md5_10: 7b5d5dcfba
-  md5_5: 7b5d5
-  md5_6: 7b5d5d
-  oomp_key: oomp_device_q_pjfet_sdg
-  oomp_key_extra: oomp_symbol_device_q_pjfet_sdg
-  oomp_key_full: oomp_symbol_device_q_pjfet_sdg_7b5d5d
-  oomp_key_simple: device_q_pjfet_sdg
+  md5: b8223a1defa0152f0cdd103aa0d4c25e
+  md5_10: b8223a1def
+  md5_5: b8223
+  md5_6: b8223a
+  oomp_key: oomp_q_pjfet_sdg
+  oomp_key_extra: oomp_symbol_q_pjfet_sdg
+  oomp_key_full: oomp_symbol_q_pjfet_sdg_b8223a
+  oomp_key_simple: q_pjfet_sdg
   owner_name: kicad
-  symbol_name: device_q_pjfet_sdg
+  symbol_name: q_pjfet_sdg
 oomp_key: oomp_kicad_device_q_pjfet_sdg
 oomp_key_simple: kicad_device_q_pjfet_sdg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

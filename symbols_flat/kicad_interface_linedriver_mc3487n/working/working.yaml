@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_linedriver_mc3487n/working
   oomp_src_flat: symbols_flat/kicad_interface_linedriver_mc3487n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_linedriver_mc3487n/working
-name: interface_linedriver_mc3487n
+name: mc3487n
 oomp:
   library_name: interface_linedriver
-  md5: 13616aa983320bbc667c1a924a97ec7c
-  md5_10: 13616aa983
-  md5_5: '13616'
-  md5_6: 13616a
-  oomp_key: oomp_interface_linedriver_mc3487n
-  oomp_key_extra: oomp_symbol_interface_linedriver_mc3487n
-  oomp_key_full: oomp_symbol_interface_linedriver_mc3487n_13616a
-  oomp_key_simple: interface_linedriver_mc3487n
+  md5: b1f716e322bc0b61e18e45fd3e72b3a1
+  md5_10: b1f716e322
+  md5_5: b1f71
+  md5_6: b1f716
+  oomp_key: oomp_mc3487n
+  oomp_key_extra: oomp_symbol_mc3487n
+  oomp_key_full: oomp_symbol_mc3487n_b1f716
+  oomp_key_simple: mc3487n
   owner_name: kicad
-  symbol_name: interface_linedriver_mc3487n
+  symbol_name: mc3487n
 oomp_key: oomp_kicad_interface_linedriver_mc3487n
 oomp_key_simple: kicad_interface_linedriver_mc3487n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

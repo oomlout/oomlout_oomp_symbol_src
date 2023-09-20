@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_zxbm5210_sp/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_zxbm5210_sp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_zxbm5210_sp/working
-name: driver_motor_zxbm5210_sp
+name: zxbm5210_sp
 oomp:
   library_name: driver_motor
-  md5: e8c99e5538615754944688e570720508
-  md5_10: e8c99e5538
-  md5_5: e8c99
-  md5_6: e8c99e
-  oomp_key: oomp_driver_motor_zxbm5210_sp
-  oomp_key_extra: oomp_symbol_driver_motor_zxbm5210_sp
-  oomp_key_full: oomp_symbol_driver_motor_zxbm5210_sp_e8c99e
-  oomp_key_simple: driver_motor_zxbm5210_sp
+  md5: df0e6cd24fa188fe956e19570a8c9552
+  md5_10: df0e6cd24f
+  md5_5: df0e6
+  md5_6: df0e6c
+  oomp_key: oomp_zxbm5210_sp
+  oomp_key_extra: oomp_symbol_zxbm5210_sp
+  oomp_key_full: oomp_symbol_zxbm5210_sp_df0e6c
+  oomp_key_simple: zxbm5210_sp
   owner_name: kicad
-  symbol_name: driver_motor_zxbm5210_sp
+  symbol_name: zxbm5210_sp
 oomp_key: oomp_kicad_driver_motor_zxbm5210_sp
 oomp_key_simple: kicad_driver_motor_zxbm5210_sp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

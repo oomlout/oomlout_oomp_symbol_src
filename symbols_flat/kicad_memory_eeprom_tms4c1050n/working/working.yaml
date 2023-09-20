@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_tms4c1050n/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_tms4c1050n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_tms4c1050n/working
-name: memory_eeprom_tms4c1050n
+name: tms4c1050n
 oomp:
   library_name: memory_eeprom
-  md5: ea17e979795812d4a4eb7b7aaa96dde7
-  md5_10: ea17e97979
-  md5_5: ea17e
-  md5_6: ea17e9
-  oomp_key: oomp_memory_eeprom_tms4c1050n
-  oomp_key_extra: oomp_symbol_memory_eeprom_tms4c1050n
-  oomp_key_full: oomp_symbol_memory_eeprom_tms4c1050n_ea17e9
-  oomp_key_simple: memory_eeprom_tms4c1050n
+  md5: 4da71eaaf3d628e5f0f0fb387b4c662c
+  md5_10: 4da71eaaf3
+  md5_5: 4da71
+  md5_6: 4da71e
+  oomp_key: oomp_tms4c1050n
+  oomp_key_extra: oomp_symbol_tms4c1050n
+  oomp_key_full: oomp_symbol_tms4c1050n_4da71e
+  oomp_key_simple: tms4c1050n
   owner_name: kicad
-  symbol_name: memory_eeprom_tms4c1050n
+  symbol_name: tms4c1050n
 oomp_key: oomp_kicad_memory_eeprom_tms4c1050n
 oomp_key_simple: kicad_memory_eeprom_tms4c1050n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

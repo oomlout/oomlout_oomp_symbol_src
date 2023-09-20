@@ -1,19 +1,19 @@
 id: kicad_converter_dcdc_ih1209s
 library: converter_dcdc
 library_name: Converter_DCDC
-name: converter_dcdc_ih1209s
+name: ih1209s
 oomp:
   library_name: converter_dcdc
-  md5: 3d4a807406ef3a8211d8a7585fb0f231
-  md5_10: 3d4a807406
-  md5_5: 3d4a8
-  md5_6: 3d4a80
-  oomp_key: oomp_converter_dcdc_ih1209s
-  oomp_key_extra: oomp_symbol_converter_dcdc_ih1209s
-  oomp_key_full: oomp_symbol_converter_dcdc_ih1209s_3d4a80
-  oomp_key_simple: converter_dcdc_ih1209s
+  md5: 06f43fae6fd38fa9fb4759a3ec3fe2a1
+  md5_10: 06f43fae6f
+  md5_5: 06f43
+  md5_6: 06f43f
+  oomp_key: oomp_ih1209s
+  oomp_key_extra: oomp_symbol_ih1209s
+  oomp_key_full: oomp_symbol_ih1209s_06f43f
+  oomp_key_simple: ih1209s
   owner_name: kicad
-  symbol_name: converter_dcdc_ih1209s
+  symbol_name: ih1209s
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_mcp1804x_c002xmt
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_mcp1804x_c002xmt
+name: mcp1804x_c002xmt
 oomp:
   library_name: regulator_linear
-  md5: eed3f539acfb7b02ea9b0ab60f66d718
-  md5_10: eed3f539ac
-  md5_5: eed3f
-  md5_6: eed3f5
-  oomp_key: oomp_regulator_linear_mcp1804x_c002xmt
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1804x_c002xmt
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1804x_c002xmt_eed3f5
-  oomp_key_simple: regulator_linear_mcp1804x_c002xmt
+  md5: 98d0127bef1201e0a79f9a57ce54792d
+  md5_10: 98d0127bef
+  md5_5: 98d01
+  md5_6: 98d012
+  oomp_key: oomp_mcp1804x_c002xmt
+  oomp_key_extra: oomp_symbol_mcp1804x_c002xmt
+  oomp_key_full: oomp_symbol_mcp1804x_c002xmt_98d012
+  oomp_key_simple: mcp1804x_c002xmt
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1804x_c002xmt
+  symbol_name: mcp1804x_c002xmt
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

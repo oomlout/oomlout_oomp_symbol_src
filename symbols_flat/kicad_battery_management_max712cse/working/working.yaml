@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_max712cse/working
   oomp_src_flat: symbols_flat/kicad_battery_management_max712cse/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_max712cse/working
-name: battery_management_max712cse
+name: max712cse
 oomp:
   library_name: battery_management
-  md5: 261abd0458c545f081353d3b3d201332
-  md5_10: 261abd0458
-  md5_5: 261ab
-  md5_6: 261abd
-  oomp_key: oomp_battery_management_max712cse
-  oomp_key_extra: oomp_symbol_battery_management_max712cse
-  oomp_key_full: oomp_symbol_battery_management_max712cse_261abd
-  oomp_key_simple: battery_management_max712cse
+  md5: 86fb128a2e02adc458ca06103cbb375c
+  md5_10: 86fb128a2e
+  md5_5: 86fb1
+  md5_6: 86fb12
+  oomp_key: oomp_max712cse
+  oomp_key_extra: oomp_symbol_max712cse
+  oomp_key_full: oomp_symbol_max712cse_86fb12
+  oomp_key_simple: max712cse
   owner_name: kicad
-  symbol_name: battery_management_max712cse
+  symbol_name: max712cse
 oomp_key: oomp_kicad_battery_management_max712cse
 oomp_key_simple: kicad_battery_management_max712cse
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_usb3300_ezk/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_usb3300_ezk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_usb3300_ezk/working
-name: interface_usb_usb3300_ezk
+name: usb3300_ezk
 oomp:
   library_name: interface_usb
-  md5: 746c6114192a340044337d38fc7b1dff
-  md5_10: 746c611419
-  md5_5: 746c6
-  md5_6: 746c61
-  oomp_key: oomp_interface_usb_usb3300_ezk
-  oomp_key_extra: oomp_symbol_interface_usb_usb3300_ezk
-  oomp_key_full: oomp_symbol_interface_usb_usb3300_ezk_746c61
-  oomp_key_simple: interface_usb_usb3300_ezk
+  md5: 4b9af45a59606f5f07eaf66419d91e83
+  md5_10: 4b9af45a59
+  md5_5: 4b9af
+  md5_6: 4b9af4
+  oomp_key: oomp_usb3300_ezk
+  oomp_key_extra: oomp_symbol_usb3300_ezk
+  oomp_key_full: oomp_symbol_usb3300_ezk_4b9af4
+  oomp_key_simple: usb3300_ezk
   owner_name: kicad
-  symbol_name: interface_usb_usb3300_ezk
+  symbol_name: usb3300_ezk
 oomp_key: oomp_kicad_interface_usb_usb3300_ezk
 oomp_key_simple: kicad_interface_usb_usb3300_ezk
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

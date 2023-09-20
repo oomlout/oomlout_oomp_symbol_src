@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_l_ferrite_coupled_1342/working
   oomp_src_flat: symbols_flat/kicad_device_l_ferrite_coupled_1342/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_l_ferrite_coupled_1342/working
-name: device_l_ferrite_coupled_1342
+name: l_ferrite_coupled_1342
 oomp:
   library_name: device
-  md5: ce4be2ea770b76201bb9fdc9fdc9c3fa
-  md5_10: ce4be2ea77
-  md5_5: ce4be
-  md5_6: ce4be2
-  oomp_key: oomp_device_l_ferrite_coupled_1342
-  oomp_key_extra: oomp_symbol_device_l_ferrite_coupled_1342
-  oomp_key_full: oomp_symbol_device_l_ferrite_coupled_1342_ce4be2
-  oomp_key_simple: device_l_ferrite_coupled_1342
+  md5: 3b8e59d1c4e6686506fa4400faf4e165
+  md5_10: 3b8e59d1c4
+  md5_5: 3b8e5
+  md5_6: 3b8e59
+  oomp_key: oomp_l_ferrite_coupled_1342
+  oomp_key_extra: oomp_symbol_l_ferrite_coupled_1342
+  oomp_key_full: oomp_symbol_l_ferrite_coupled_1342_3b8e59
+  oomp_key_simple: l_ferrite_coupled_1342
   owner_name: kicad
-  symbol_name: device_l_ferrite_coupled_1342
+  symbol_name: l_ferrite_coupled_1342
 oomp_key: oomp_kicad_device_l_ferrite_coupled_1342
 oomp_key_simple: kicad_device_l_ferrite_coupled_1342
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

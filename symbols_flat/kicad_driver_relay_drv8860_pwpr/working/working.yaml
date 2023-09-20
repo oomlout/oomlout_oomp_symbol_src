@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_relay_drv8860_pwpr/working
   oomp_src_flat: symbols_flat/kicad_driver_relay_drv8860_pwpr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_relay_drv8860_pwpr/working
-name: driver_relay_drv8860_pwpr
+name: drv8860_pwpr
 oomp:
   library_name: driver_relay
-  md5: 52ba2dbd1dceb7b0e30737f6e6fa22bf
-  md5_10: 52ba2dbd1d
-  md5_5: 52ba2
-  md5_6: 52ba2d
-  oomp_key: oomp_driver_relay_drv8860_pwpr
-  oomp_key_extra: oomp_symbol_driver_relay_drv8860_pwpr
-  oomp_key_full: oomp_symbol_driver_relay_drv8860_pwpr_52ba2d
-  oomp_key_simple: driver_relay_drv8860_pwpr
+  md5: e6d4f9ccbb0ca2adb615cc3c666e2888
+  md5_10: e6d4f9ccbb
+  md5_5: e6d4f
+  md5_6: e6d4f9
+  oomp_key: oomp_drv8860_pwpr
+  oomp_key_extra: oomp_symbol_drv8860_pwpr
+  oomp_key_full: oomp_symbol_drv8860_pwpr_e6d4f9
+  oomp_key_simple: drv8860_pwpr
   owner_name: kicad
-  symbol_name: driver_relay_drv8860_pwpr
+  symbol_name: drv8860_pwpr
 oomp_key: oomp_kicad_driver_relay_drv8860_pwpr
 oomp_key_simple: kicad_driver_relay_drv8860_pwpr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

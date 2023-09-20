@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_avr_dx_avr128da64x_xpt
 library: mcu_microchip_avr_dx
 library_name: MCU_Microchip_AVR_Dx
-name: mcu_microchip_avr_dx_avr128da64x_xpt
+name: avr128da64x_xpt
 oomp:
   library_name: mcu_microchip_avr_dx
-  md5: 5c8bc882631f213f222539deb20afa2e
-  md5_10: 5c8bc88263
-  md5_5: 5c8bc
-  md5_6: 5c8bc8
-  oomp_key: oomp_mcu_microchip_avr_dx_avr128da64x_xpt
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_dx_avr128da64x_xpt
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_dx_avr128da64x_xpt_5c8bc8
-  oomp_key_simple: mcu_microchip_avr_dx_avr128da64x_xpt
+  md5: bd79d324dcb64a6bcc709c724b3b2942
+  md5_10: bd79d324dc
+  md5_5: bd79d
+  md5_6: bd79d3
+  oomp_key: oomp_avr128da64x_xpt
+  oomp_key_extra: oomp_symbol_avr128da64x_xpt
+  oomp_key_full: oomp_symbol_avr128da64x_xpt_bd79d3
+  oomp_key_simple: avr128da64x_xpt
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_dx_avr128da64x_xpt
+  symbol_name: avr128da64x_xpt
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

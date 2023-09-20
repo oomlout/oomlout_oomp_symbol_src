@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_voltagedivider_centerpin1/working
   oomp_src_flat: symbols_flat/kicad_device_voltagedivider_centerpin1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_voltagedivider_centerpin1/working
-name: device_voltagedivider_centerpin1
+name: voltagedivider_centerpin1
 oomp:
   library_name: device
-  md5: e762ce0d9cac9d3f2dd45aac6f3f4bb7
-  md5_10: e762ce0d9c
-  md5_5: e762c
-  md5_6: e762ce
-  oomp_key: oomp_device_voltagedivider_centerpin1
-  oomp_key_extra: oomp_symbol_device_voltagedivider_centerpin1
-  oomp_key_full: oomp_symbol_device_voltagedivider_centerpin1_e762ce
-  oomp_key_simple: device_voltagedivider_centerpin1
+  md5: 2e1a0cda13d5d7316895ddae1a5899cb
+  md5_10: 2e1a0cda13
+  md5_5: 2e1a0
+  md5_6: 2e1a0c
+  oomp_key: oomp_voltagedivider_centerpin1
+  oomp_key_extra: oomp_symbol_voltagedivider_centerpin1
+  oomp_key_full: oomp_symbol_voltagedivider_centerpin1_2e1a0c
+  oomp_key_simple: voltagedivider_centerpin1
   owner_name: kicad
-  symbol_name: device_voltagedivider_centerpin1
+  symbol_name: voltagedivider_centerpin1
 oomp_key: oomp_kicad_device_voltagedivider_centerpin1
 oomp_key_simple: kicad_device_voltagedivider_centerpin1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

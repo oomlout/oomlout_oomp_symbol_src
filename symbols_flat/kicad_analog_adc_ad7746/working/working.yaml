@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ad7746/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ad7746/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ad7746/working
-name: analog_adc_ad7746
+name: ad7746
 oomp:
   library_name: analog_adc
-  md5: 04e0a4354abdbc82fdee4e102ead9fd4
-  md5_10: 04e0a4354a
-  md5_5: 04e0a
-  md5_6: 04e0a4
-  oomp_key: oomp_analog_adc_ad7746
-  oomp_key_extra: oomp_symbol_analog_adc_ad7746
-  oomp_key_full: oomp_symbol_analog_adc_ad7746_04e0a4
-  oomp_key_simple: analog_adc_ad7746
+  md5: ab311032a7499b00c43ddbdecd5fb0e3
+  md5_10: ab311032a7
+  md5_5: ab311
+  md5_6: ab3110
+  oomp_key: oomp_ad7746
+  oomp_key_extra: oomp_symbol_ad7746
+  oomp_key_full: oomp_symbol_ad7746_ab3110
+  oomp_key_simple: ad7746
   owner_name: kicad
-  symbol_name: analog_adc_ad7746
+  symbol_name: ad7746
 oomp_key: oomp_kicad_analog_adc_ad7746
 oomp_key_simple: kicad_analog_adc_ad7746
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

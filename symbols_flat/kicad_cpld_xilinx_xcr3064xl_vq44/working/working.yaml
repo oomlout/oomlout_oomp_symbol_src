@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpld_xilinx_xcr3064xl_vq44/working
   oomp_src_flat: symbols_flat/kicad_cpld_xilinx_xcr3064xl_vq44/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpld_xilinx_xcr3064xl_vq44/working
-name: cpld_xilinx_xcr3064xl_vq44
+name: xcr3064xl_vq44
 oomp:
   library_name: cpld_xilinx
-  md5: cfe1bead257aa274a87fe9ae85d14d44
-  md5_10: cfe1bead25
-  md5_5: cfe1b
-  md5_6: cfe1be
-  oomp_key: oomp_cpld_xilinx_xcr3064xl_vq44
-  oomp_key_extra: oomp_symbol_cpld_xilinx_xcr3064xl_vq44
-  oomp_key_full: oomp_symbol_cpld_xilinx_xcr3064xl_vq44_cfe1be
-  oomp_key_simple: cpld_xilinx_xcr3064xl_vq44
+  md5: 467d1fc609bf1c28acf8bdbaf6446a72
+  md5_10: 467d1fc609
+  md5_5: 467d1
+  md5_6: 467d1f
+  oomp_key: oomp_xcr3064xl_vq44
+  oomp_key_extra: oomp_symbol_xcr3064xl_vq44
+  oomp_key_full: oomp_symbol_xcr3064xl_vq44_467d1f
+  oomp_key_simple: xcr3064xl_vq44
   owner_name: kicad
-  symbol_name: cpld_xilinx_xcr3064xl_vq44
+  symbol_name: xcr3064xl_vq44
 oomp_key: oomp_kicad_cpld_xilinx_xcr3064xl_vq44
 oomp_key_simple: kicad_cpld_xilinx_xcr3064xl_vq44
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

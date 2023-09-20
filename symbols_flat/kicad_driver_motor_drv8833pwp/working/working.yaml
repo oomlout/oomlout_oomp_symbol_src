@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_drv8833pwp/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_drv8833pwp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_drv8833pwp/working
-name: driver_motor_drv8833pwp
+name: drv8833pwp
 oomp:
   library_name: driver_motor
-  md5: a572664f55af1af56a9efc2c528bcd8e
-  md5_10: a572664f55
-  md5_5: a5726
-  md5_6: a57266
-  oomp_key: oomp_driver_motor_drv8833pwp
-  oomp_key_extra: oomp_symbol_driver_motor_drv8833pwp
-  oomp_key_full: oomp_symbol_driver_motor_drv8833pwp_a57266
-  oomp_key_simple: driver_motor_drv8833pwp
+  md5: d11b53cbdf38b93d0b7289edeed5ed84
+  md5_10: d11b53cbdf
+  md5_5: d11b5
+  md5_6: d11b53
+  oomp_key: oomp_drv8833pwp
+  oomp_key_extra: oomp_symbol_drv8833pwp
+  oomp_key_full: oomp_symbol_drv8833pwp_d11b53
+  oomp_key_simple: drv8833pwp
   owner_name: kicad
-  symbol_name: driver_motor_drv8833pwp
+  symbol_name: drv8833pwp
 oomp_key: oomp_kicad_driver_motor_drv8833pwp
 oomp_key_simple: kicad_driver_motor_drv8833pwp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

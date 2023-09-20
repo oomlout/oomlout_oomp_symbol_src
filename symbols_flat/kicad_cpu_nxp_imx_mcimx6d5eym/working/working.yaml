@@ -1,19 +1,19 @@
 id: kicad_cpu_nxp_imx_mcimx6d5eym
 library: cpu_nxp_imx
 library_name: CPU_NXP_IMX
-name: cpu_nxp_imx_mcimx6d5eym
+name: mcimx6d5eym
 oomp:
   library_name: cpu_nxp_imx
-  md5: a93d501d242c1662ad73f71464a6e0dc
-  md5_10: a93d501d24
-  md5_5: a93d5
-  md5_6: a93d50
-  oomp_key: oomp_cpu_nxp_imx_mcimx6d5eym
-  oomp_key_extra: oomp_symbol_cpu_nxp_imx_mcimx6d5eym
-  oomp_key_full: oomp_symbol_cpu_nxp_imx_mcimx6d5eym_a93d50
-  oomp_key_simple: cpu_nxp_imx_mcimx6d5eym
+  md5: 11190d06b1d2e6de4506060f71f14d99
+  md5_10: 11190d06b1
+  md5_5: '11190'
+  md5_6: 11190d
+  oomp_key: oomp_mcimx6d5eym
+  oomp_key_extra: oomp_symbol_mcimx6d5eym
+  oomp_key_full: oomp_symbol_mcimx6d5eym_11190d
+  oomp_key_simple: mcimx6d5eym
   owner_name: kicad
-  symbol_name: cpu_nxp_imx_mcimx6d5eym
+  symbol_name: mcimx6d5eym
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

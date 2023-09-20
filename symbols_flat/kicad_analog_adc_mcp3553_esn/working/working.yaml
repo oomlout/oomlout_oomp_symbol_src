@@ -1,19 +1,19 @@
 id: kicad_analog_adc_mcp3553_esn
 library: analog_adc
 library_name: Analog_ADC
-name: analog_adc_mcp3553_esn
+name: mcp3553_esn
 oomp:
   library_name: analog_adc
-  md5: 50771cceb9c6aef301d9d66b19f781e7
-  md5_10: 50771cceb9
-  md5_5: '50771'
-  md5_6: 50771c
-  oomp_key: oomp_analog_adc_mcp3553_esn
-  oomp_key_extra: oomp_symbol_analog_adc_mcp3553_esn
-  oomp_key_full: oomp_symbol_analog_adc_mcp3553_esn_50771c
-  oomp_key_simple: analog_adc_mcp3553_esn
+  md5: e9dddaaf923cfe9e0ea6e335e48b0ca5
+  md5_10: e9dddaaf92
+  md5_5: e9ddd
+  md5_6: e9ddda
+  oomp_key: oomp_mcp3553_esn
+  oomp_key_extra: oomp_symbol_mcp3553_esn
+  oomp_key_full: oomp_symbol_mcp3553_esn_e9ddda
+  oomp_key_simple: mcp3553_esn
   owner_name: kicad
-  symbol_name: analog_adc_mcp3553_esn
+  symbol_name: mcp3553_esn
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_motor_fan_iec60617/working
   oomp_src_flat: symbols_flat/kicad_motor_fan_iec60617/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_motor_fan_iec60617/working
-name: motor_fan_iec60617
+name: fan_iec60617
 oomp:
   library_name: motor
-  md5: 609db0f55cdbd37976b1b7c0ede978ca
-  md5_10: 609db0f55c
-  md5_5: 609db
-  md5_6: 609db0
-  oomp_key: oomp_motor_fan_iec60617
-  oomp_key_extra: oomp_symbol_motor_fan_iec60617
-  oomp_key_full: oomp_symbol_motor_fan_iec60617_609db0
-  oomp_key_simple: motor_fan_iec60617
+  md5: 10fb5c2df8cd5f3d205615dcfc38ad10
+  md5_10: 10fb5c2df8
+  md5_5: 10fb5
+  md5_6: 10fb5c
+  oomp_key: oomp_fan_iec60617
+  oomp_key_extra: oomp_symbol_fan_iec60617
+  oomp_key_full: oomp_symbol_fan_iec60617_10fb5c
+  oomp_key_simple: fan_iec60617
   owner_name: kicad
-  symbol_name: motor_fan_iec60617
+  symbol_name: fan_iec60617
 oomp_key: oomp_kicad_motor_fan_iec60617
 oomp_key_simple: kicad_motor_fan_iec60617
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

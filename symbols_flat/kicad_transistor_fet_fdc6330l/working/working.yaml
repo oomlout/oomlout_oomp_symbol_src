@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_fdc6330l/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_fdc6330l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_fdc6330l/working
-name: transistor_fet_fdc6330l
+name: fdc6330l
 oomp:
   library_name: transistor_fet
-  md5: 09635dd4cc3a811c2235793db36e6ace
-  md5_10: 09635dd4cc
-  md5_5: 09635
-  md5_6: 09635d
-  oomp_key: oomp_transistor_fet_fdc6330l
-  oomp_key_extra: oomp_symbol_transistor_fet_fdc6330l
-  oomp_key_full: oomp_symbol_transistor_fet_fdc6330l_09635d
-  oomp_key_simple: transistor_fet_fdc6330l
+  md5: 50568e47544ff0d3ab20cfc813964128
+  md5_10: 50568e4754
+  md5_5: '50568'
+  md5_6: 50568e
+  oomp_key: oomp_fdc6330l
+  oomp_key_extra: oomp_symbol_fdc6330l
+  oomp_key_full: oomp_symbol_fdc6330l_50568e
+  oomp_key_simple: fdc6330l
   owner_name: kicad
-  symbol_name: transistor_fet_fdc6330l
+  symbol_name: fdc6330l
 oomp_key: oomp_kicad_transistor_fet_fdc6330l
 oomp_key_simple: kicad_transistor_fet_fdc6330l
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

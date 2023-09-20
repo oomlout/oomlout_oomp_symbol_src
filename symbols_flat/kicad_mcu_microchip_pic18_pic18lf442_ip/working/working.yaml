@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_pic18_pic18lf442_ip
 library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
-name: mcu_microchip_pic18_pic18lf442_ip
+name: pic18lf442_ip
 oomp:
   library_name: mcu_microchip_pic18
-  md5: 6464eee61ede8ab6eaf6656896983a70
-  md5_10: 6464eee61e
-  md5_5: 6464e
-  md5_6: 6464ee
-  oomp_key: oomp_mcu_microchip_pic18_pic18lf442_ip
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18lf442_ip
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18lf442_ip_6464ee
-  oomp_key_simple: mcu_microchip_pic18_pic18lf442_ip
+  md5: 28c03976d35abb733bc297955880d099
+  md5_10: 28c03976d3
+  md5_5: 28c03
+  md5_6: 28c039
+  oomp_key: oomp_pic18lf442_ip
+  oomp_key_extra: oomp_symbol_pic18lf442_ip
+  oomp_key_full: oomp_symbol_pic18lf442_ip_28c039
+  oomp_key_simple: pic18lf442_ip
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18lf442_ip
+  symbol_name: pic18lf442_ip
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

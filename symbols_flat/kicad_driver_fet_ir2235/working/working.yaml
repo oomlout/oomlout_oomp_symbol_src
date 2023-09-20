@@ -1,19 +1,19 @@
 id: kicad_driver_fet_ir2235
 library: driver_fet
 library_name: Driver_FET
-name: driver_fet_ir2235
+name: ir2235
 oomp:
   library_name: driver_fet
-  md5: 949bcde1e042cc183e75d42b39dd50cb
-  md5_10: 949bcde1e0
-  md5_5: 949bc
-  md5_6: 949bcd
-  oomp_key: oomp_driver_fet_ir2235
-  oomp_key_extra: oomp_symbol_driver_fet_ir2235
-  oomp_key_full: oomp_symbol_driver_fet_ir2235_949bcd
-  oomp_key_simple: driver_fet_ir2235
+  md5: 012d4f948f6d87ec623610211225d876
+  md5_10: 012d4f948f
+  md5_5: 012d4
+  md5_6: 012d4f
+  oomp_key: oomp_ir2235
+  oomp_key_extra: oomp_symbol_ir2235
+  oomp_key_full: oomp_symbol_ir2235_012d4f
+  oomp_key_simple: ir2235
   owner_name: kicad
-  symbol_name: driver_fet_ir2235
+  symbol_name: ir2235
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_usb6b1/working
   oomp_src_flat: symbols_flat/kicad_power_protection_usb6b1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_usb6b1/working
-name: power_protection_usb6b1
+name: usb6b1
 oomp:
   library_name: power_protection
-  md5: 56370612fe09092352a53ae5290d1664
-  md5_10: 56370612fe
-  md5_5: '56370'
-  md5_6: '563706'
-  oomp_key: oomp_power_protection_usb6b1
-  oomp_key_extra: oomp_symbol_power_protection_usb6b1
-  oomp_key_full: oomp_symbol_power_protection_usb6b1_563706
-  oomp_key_simple: power_protection_usb6b1
+  md5: 76b9b44c92015892813594567d66fbeb
+  md5_10: 76b9b44c92
+  md5_5: 76b9b
+  md5_6: 76b9b4
+  oomp_key: oomp_usb6b1
+  oomp_key_extra: oomp_symbol_usb6b1
+  oomp_key_full: oomp_symbol_usb6b1_76b9b4
+  oomp_key_simple: usb6b1
   owner_name: kicad
-  symbol_name: power_protection_usb6b1
+  symbol_name: usb6b1
 oomp_key: oomp_kicad_power_protection_usb6b1
 oomp_key_simple: kicad_power_protection_usb6b1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

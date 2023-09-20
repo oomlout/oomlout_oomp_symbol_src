@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic18_pic18f4450_iml/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic18_pic18f4450_iml/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic18_pic18f4450_iml/working
-name: mcu_microchip_pic18_pic18f4450_iml
+name: pic18f4450_iml
 oomp:
   library_name: mcu_microchip_pic18
-  md5: 99e1faf0e75a780fcce51b5b947da67c
-  md5_10: 99e1faf0e7
-  md5_5: 99e1f
-  md5_6: 99e1fa
-  oomp_key: oomp_mcu_microchip_pic18_pic18f4450_iml
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18f4450_iml
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18f4450_iml_99e1fa
-  oomp_key_simple: mcu_microchip_pic18_pic18f4450_iml
+  md5: 437adf4e41dd400885ab07142eff2298
+  md5_10: 437adf4e41
+  md5_5: 437ad
+  md5_6: 437adf
+  oomp_key: oomp_pic18f4450_iml
+  oomp_key_extra: oomp_symbol_pic18f4450_iml
+  oomp_key_full: oomp_symbol_pic18f4450_iml_437adf
+  oomp_key_simple: pic18f4450_iml
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18f4450_iml
+  symbol_name: pic18f4450_iml
 oomp_key: oomp_kicad_mcu_microchip_pic18_pic18f4450_iml
 oomp_key_simple: kicad_mcu_microchip_pic18_pic18f4450_iml
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

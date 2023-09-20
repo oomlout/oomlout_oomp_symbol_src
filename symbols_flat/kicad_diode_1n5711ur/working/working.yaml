@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_1n5711ur/working
   oomp_src_flat: symbols_flat/kicad_diode_1n5711ur/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_1n5711ur/working
-name: diode_1n5711ur
+name: 1n5711ur
 oomp:
   library_name: diode
-  md5: 33ab1d03a82072e063eb8a8d0b30fab3
-  md5_10: 33ab1d03a8
-  md5_5: 33ab1
-  md5_6: 33ab1d
-  oomp_key: oomp_diode_1n5711ur
-  oomp_key_extra: oomp_symbol_diode_1n5711ur
-  oomp_key_full: oomp_symbol_diode_1n5711ur_33ab1d
-  oomp_key_simple: diode_1n5711ur
+  md5: 1307ce24ae70574d108b8149a15d4918
+  md5_10: 1307ce24ae
+  md5_5: 1307c
+  md5_6: 1307ce
+  oomp_key: oomp_1n5711ur
+  oomp_key_extra: oomp_symbol_1n5711ur
+  oomp_key_full: oomp_symbol_1n5711ur_1307ce
+  oomp_key_simple: 1n5711ur
   owner_name: kicad
-  symbol_name: diode_1n5711ur
+  symbol_name: 1n5711ur
 oomp_key: oomp_kicad_diode_1n5711ur
 oomp_key_simple: kicad_diode_1n5711ur
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

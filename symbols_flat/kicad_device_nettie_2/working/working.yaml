@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_nettie_2/working
   oomp_src_flat: symbols_flat/kicad_device_nettie_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_nettie_2/working
-name: device_nettie_2
+name: nettie_2
 oomp:
   library_name: device
-  md5: 7423d293a9ca2021bae301f582dd86eb
-  md5_10: 7423d293a9
-  md5_5: 7423d
-  md5_6: 7423d2
-  oomp_key: oomp_device_nettie_2
-  oomp_key_extra: oomp_symbol_device_nettie_2
-  oomp_key_full: oomp_symbol_device_nettie_2_7423d2
-  oomp_key_simple: device_nettie_2
+  md5: edccce20dce4ffbec59a8054e188f28e
+  md5_10: edccce20dc
+  md5_5: edccc
+  md5_6: edccce
+  oomp_key: oomp_nettie_2
+  oomp_key_extra: oomp_symbol_nettie_2
+  oomp_key_full: oomp_symbol_nettie_2_edccce
+  oomp_key_simple: nettie_2
   owner_name: kicad
-  symbol_name: device_nettie_2
+  symbol_name: nettie_2
 oomp_key: oomp_kicad_device_nettie_2
 oomp_key_simple: kicad_device_nettie_2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_atmega_atmega3209_m/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_atmega_atmega3209_m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_atmega_atmega3209_m/working
-name: mcu_microchip_atmega_atmega3209_m
+name: atmega3209_m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: dd6427363a2d1367cbd213a9c33fdc30
-  md5_10: dd6427363a
-  md5_5: dd642
-  md5_6: dd6427
-  oomp_key: oomp_mcu_microchip_atmega_atmega3209_m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega3209_m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega3209_m_dd6427
-  oomp_key_simple: mcu_microchip_atmega_atmega3209_m
+  md5: 8a7b65631b386159bbd1c190ea704b3b
+  md5_10: 8a7b65631b
+  md5_5: 8a7b6
+  md5_6: 8a7b65
+  oomp_key: oomp_atmega3209_m
+  oomp_key_extra: oomp_symbol_atmega3209_m
+  oomp_key_full: oomp_symbol_atmega3209_m_8a7b65
+  oomp_key_simple: atmega3209_m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega3209_m
+  symbol_name: atmega3209_m
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega3209_m
 oomp_key_simple: kicad_mcu_microchip_atmega_atmega3209_m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

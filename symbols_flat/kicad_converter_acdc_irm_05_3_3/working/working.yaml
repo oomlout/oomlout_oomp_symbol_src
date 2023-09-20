@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_irm_05_3_3/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_irm_05_3_3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_irm_05_3_3/working
-name: converter_acdc_irm_05_3_3
+name: irm_05_3_3
 oomp:
   library_name: converter_acdc
-  md5: 8177d0937d69b8c7371d5e40acb7bb05
-  md5_10: 8177d0937d
-  md5_5: 8177d
-  md5_6: 8177d0
-  oomp_key: oomp_converter_acdc_irm_05_3_3
-  oomp_key_extra: oomp_symbol_converter_acdc_irm_05_3_3
-  oomp_key_full: oomp_symbol_converter_acdc_irm_05_3_3_8177d0
-  oomp_key_simple: converter_acdc_irm_05_3_3
+  md5: e3316e714bc0f5b4ea765c4591a0db82
+  md5_10: e3316e714b
+  md5_5: e3316
+  md5_6: e3316e
+  oomp_key: oomp_irm_05_3_3
+  oomp_key_extra: oomp_symbol_irm_05_3_3
+  oomp_key_full: oomp_symbol_irm_05_3_3_e3316e
+  oomp_key_simple: irm_05_3_3
   owner_name: kicad
-  symbol_name: converter_acdc_irm_05_3_3
+  symbol_name: irm_05_3_3
 oomp_key: oomp_kicad_converter_acdc_irm_05_3_3
 oomp_key_simple: kicad_converter_acdc_irm_05_3_3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

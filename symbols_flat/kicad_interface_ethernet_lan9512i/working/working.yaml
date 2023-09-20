@@ -1,19 +1,19 @@
 id: kicad_interface_ethernet_lan9512i
 library: interface_ethernet
 library_name: Interface_Ethernet
-name: interface_ethernet_lan9512i
+name: lan9512i
 oomp:
   library_name: interface_ethernet
-  md5: 87d4e5e822f9fc0abd38e031dc0a934c
-  md5_10: 87d4e5e822
-  md5_5: 87d4e
-  md5_6: 87d4e5
-  oomp_key: oomp_interface_ethernet_lan9512i
-  oomp_key_extra: oomp_symbol_interface_ethernet_lan9512i
-  oomp_key_full: oomp_symbol_interface_ethernet_lan9512i_87d4e5
-  oomp_key_simple: interface_ethernet_lan9512i
+  md5: 2f978e4623556fd55759dd5f6902b76d
+  md5_10: 2f978e4623
+  md5_5: 2f978
+  md5_6: 2f978e
+  oomp_key: oomp_lan9512i
+  oomp_key_extra: oomp_symbol_lan9512i
+  oomp_key_full: oomp_symbol_lan9512i_2f978e
+  oomp_key_simple: lan9512i
   owner_name: kicad
-  symbol_name: interface_ethernet_lan9512i
+  symbol_name: lan9512i
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

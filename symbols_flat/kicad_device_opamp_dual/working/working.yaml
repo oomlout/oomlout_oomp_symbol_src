@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_opamp_dual/working
   oomp_src_flat: symbols_flat/kicad_device_opamp_dual/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_opamp_dual/working
-name: device_opamp_dual
+name: opamp_dual
 oomp:
   library_name: device
-  md5: d136c5c3e00aa9197732aee9ffa7ce58
-  md5_10: d136c5c3e0
-  md5_5: d136c
-  md5_6: d136c5
-  oomp_key: oomp_device_opamp_dual
-  oomp_key_extra: oomp_symbol_device_opamp_dual
-  oomp_key_full: oomp_symbol_device_opamp_dual_d136c5
-  oomp_key_simple: device_opamp_dual
+  md5: 898bef9a5e044e8c17e69a2e196100e8
+  md5_10: 898bef9a5e
+  md5_5: 898be
+  md5_6: 898bef
+  oomp_key: oomp_opamp_dual
+  oomp_key_extra: oomp_symbol_opamp_dual
+  oomp_key_full: oomp_symbol_opamp_dual_898bef
+  oomp_key_simple: opamp_dual
   owner_name: kicad
-  symbol_name: device_opamp_dual
+  symbol_name: opamp_dual
 oomp_key: oomp_kicad_device_opamp_dual
 oomp_key_simple: kicad_device_opamp_dual
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

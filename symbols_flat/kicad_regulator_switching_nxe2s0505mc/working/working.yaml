@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_nxe2s0505mc/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_nxe2s0505mc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_nxe2s0505mc/working
-name: regulator_switching_nxe2s0505mc
+name: nxe2s0505mc
 oomp:
   library_name: regulator_switching
-  md5: 33c2b275013513d6ce4efeab221b1b07
-  md5_10: 33c2b27501
-  md5_5: 33c2b
-  md5_6: 33c2b2
-  oomp_key: oomp_regulator_switching_nxe2s0505mc
-  oomp_key_extra: oomp_symbol_regulator_switching_nxe2s0505mc
-  oomp_key_full: oomp_symbol_regulator_switching_nxe2s0505mc_33c2b2
-  oomp_key_simple: regulator_switching_nxe2s0505mc
+  md5: de71b5e3747c769ed7838ee3abd9da81
+  md5_10: de71b5e374
+  md5_5: de71b
+  md5_6: de71b5
+  oomp_key: oomp_nxe2s0505mc
+  oomp_key_extra: oomp_symbol_nxe2s0505mc
+  oomp_key_full: oomp_symbol_nxe2s0505mc_de71b5
+  oomp_key_simple: nxe2s0505mc
   owner_name: kicad
-  symbol_name: regulator_switching_nxe2s0505mc
+  symbol_name: nxe2s0505mc
 oomp_key: oomp_kicad_regulator_switching_nxe2s0505mc
 oomp_key_simple: kicad_regulator_switching_nxe2s0505mc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

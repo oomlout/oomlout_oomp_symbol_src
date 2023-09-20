@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_fiber_optic_afbr_1624z/working
   oomp_src_flat: symbols_flat/kicad_fiber_optic_afbr_1624z/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_fiber_optic_afbr_1624z/working
-name: fiber_optic_afbr_1624z
+name: afbr_1624z
 oomp:
   library_name: fiber_optic
-  md5: 8f05c449c2726ec26cf165d504b16221
-  md5_10: 8f05c449c2
-  md5_5: 8f05c
-  md5_6: 8f05c4
-  oomp_key: oomp_fiber_optic_afbr_1624z
-  oomp_key_extra: oomp_symbol_fiber_optic_afbr_1624z
-  oomp_key_full: oomp_symbol_fiber_optic_afbr_1624z_8f05c4
-  oomp_key_simple: fiber_optic_afbr_1624z
+  md5: 0b2a16a5614b664b74dab5b7d7576eea
+  md5_10: 0b2a16a561
+  md5_5: 0b2a1
+  md5_6: 0b2a16
+  oomp_key: oomp_afbr_1624z
+  oomp_key_extra: oomp_symbol_afbr_1624z
+  oomp_key_full: oomp_symbol_afbr_1624z_0b2a16
+  oomp_key_simple: afbr_1624z
   owner_name: kicad
-  symbol_name: fiber_optic_afbr_1624z
+  symbol_name: afbr_1624z
 oomp_key: oomp_kicad_fiber_optic_afbr_1624z
 oomp_key_simple: kicad_fiber_optic_afbr_1624z
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

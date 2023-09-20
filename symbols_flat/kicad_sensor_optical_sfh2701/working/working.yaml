@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_sfh2701/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_sfh2701/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_sfh2701/working
-name: sensor_optical_sfh2701
+name: sfh2701
 oomp:
   library_name: sensor_optical
-  md5: d93b5a26b6200caec08a373f6c4fa56b
-  md5_10: d93b5a26b6
-  md5_5: d93b5
-  md5_6: d93b5a
-  oomp_key: oomp_sensor_optical_sfh2701
-  oomp_key_extra: oomp_symbol_sensor_optical_sfh2701
-  oomp_key_full: oomp_symbol_sensor_optical_sfh2701_d93b5a
-  oomp_key_simple: sensor_optical_sfh2701
+  md5: b4ad3f9545cd44c664faa8f3db3be981
+  md5_10: b4ad3f9545
+  md5_5: b4ad3
+  md5_6: b4ad3f
+  oomp_key: oomp_sfh2701
+  oomp_key_extra: oomp_symbol_sfh2701
+  oomp_key_full: oomp_symbol_sfh2701_b4ad3f
+  oomp_key_simple: sfh2701
   owner_name: kicad
-  symbol_name: sensor_optical_sfh2701
+  symbol_name: sfh2701
 oomp_key: oomp_kicad_sensor_optical_sfh2701
 oomp_key_simple: kicad_sensor_optical_sfh2701
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

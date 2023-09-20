@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_lm386/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_lm386/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_lm386/working
-name: amplifier_audio_lm386
+name: lm386
 oomp:
   library_name: amplifier_audio
-  md5: 9f83851beb0280e1bdfca1a0a7ff4dbd
-  md5_10: 9f83851beb
-  md5_5: 9f838
-  md5_6: 9f8385
-  oomp_key: oomp_amplifier_audio_lm386
-  oomp_key_extra: oomp_symbol_amplifier_audio_lm386
-  oomp_key_full: oomp_symbol_amplifier_audio_lm386_9f8385
-  oomp_key_simple: amplifier_audio_lm386
+  md5: 73c246f5a993a24980afc716030e51e7
+  md5_10: 73c246f5a9
+  md5_5: 73c24
+  md5_6: 73c246
+  oomp_key: oomp_lm386
+  oomp_key_extra: oomp_symbol_lm386
+  oomp_key_full: oomp_symbol_lm386_73c246
+  oomp_key_simple: lm386
   owner_name: kicad
-  symbol_name: amplifier_audio_lm386
+  symbol_name: lm386
 oomp_key: oomp_kicad_amplifier_audio_lm386
 oomp_key_simple: kicad_amplifier_audio_lm386
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

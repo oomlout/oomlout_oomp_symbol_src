@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_hdmi_a/working
   oomp_src_flat: symbols_flat/kicad_connector_hdmi_a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_hdmi_a/working
-name: connector_hdmi_a
+name: hdmi_a
 oomp:
   library_name: connector
-  md5: d07edf4b47e3bbe8eb908a12c52248ff
-  md5_10: d07edf4b47
-  md5_5: d07ed
-  md5_6: d07edf
-  oomp_key: oomp_connector_hdmi_a
-  oomp_key_extra: oomp_symbol_connector_hdmi_a
-  oomp_key_full: oomp_symbol_connector_hdmi_a_d07edf
-  oomp_key_simple: connector_hdmi_a
+  md5: 0f8eeada33fa3bef19ffbf6e5f63d42e
+  md5_10: 0f8eeada33
+  md5_5: 0f8ee
+  md5_6: 0f8eea
+  oomp_key: oomp_hdmi_a
+  oomp_key_extra: oomp_symbol_hdmi_a
+  oomp_key_full: oomp_symbol_hdmi_a_0f8eea
+  oomp_key_simple: hdmi_a
   owner_name: kicad
-  symbol_name: connector_hdmi_a
+  symbol_name: hdmi_a
 oomp_key: oomp_kicad_connector_hdmi_a
 oomp_key_simple: kicad_connector_hdmi_a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_shielded_conn_02x28_odd_even_shielded/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_shielded_conn_02x28_odd_even_shielded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_shielded_conn_02x28_odd_even_shielded/working
-name: connector_generic_shielded_conn_02x28_odd_even_shielded
+name: conn_02x28_odd_even_shielded
 oomp:
   library_name: connector_generic_shielded
-  md5: 7bbae15a992854ac33921e5c78460438
-  md5_10: 7bbae15a99
-  md5_5: 7bbae
-  md5_6: 7bbae1
-  oomp_key: oomp_connector_generic_shielded_conn_02x28_odd_even_shielded
-  oomp_key_extra: oomp_symbol_connector_generic_shielded_conn_02x28_odd_even_shielded
-  oomp_key_full: oomp_symbol_connector_generic_shielded_conn_02x28_odd_even_shielded_7bbae1
-  oomp_key_simple: connector_generic_shielded_conn_02x28_odd_even_shielded
+  md5: fbb9d05971cab23fafdb845e3f1240c0
+  md5_10: fbb9d05971
+  md5_5: fbb9d
+  md5_6: fbb9d0
+  oomp_key: oomp_conn_02x28_odd_even_shielded
+  oomp_key_extra: oomp_symbol_conn_02x28_odd_even_shielded
+  oomp_key_full: oomp_symbol_conn_02x28_odd_even_shielded_fbb9d0
+  oomp_key_simple: conn_02x28_odd_even_shielded
   owner_name: kicad
-  symbol_name: connector_generic_shielded_conn_02x28_odd_even_shielded
+  symbol_name: conn_02x28_odd_even_shielded
 oomp_key: oomp_kicad_connector_generic_shielded_conn_02x28_odd_even_shielded
 oomp_key_simple: kicad_connector_generic_shielded_conn_02x28_odd_even_shielded
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

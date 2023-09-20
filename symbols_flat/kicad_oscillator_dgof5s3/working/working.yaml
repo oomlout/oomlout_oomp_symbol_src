@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_dgof5s3/working
   oomp_src_flat: symbols_flat/kicad_oscillator_dgof5s3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_dgof5s3/working
-name: oscillator_dgof5s3
+name: dgof5s3
 oomp:
   library_name: oscillator
-  md5: d71bfe96ac482ed7f22051bb9792cb62
-  md5_10: d71bfe96ac
-  md5_5: d71bf
-  md5_6: d71bfe
-  oomp_key: oomp_oscillator_dgof5s3
-  oomp_key_extra: oomp_symbol_oscillator_dgof5s3
-  oomp_key_full: oomp_symbol_oscillator_dgof5s3_d71bfe
-  oomp_key_simple: oscillator_dgof5s3
+  md5: 1753b54e87b726a5dd56bab2377c1093
+  md5_10: 1753b54e87
+  md5_5: 1753b
+  md5_6: 1753b5
+  oomp_key: oomp_dgof5s3
+  oomp_key_extra: oomp_symbol_dgof5s3
+  oomp_key_full: oomp_symbol_dgof5s3_1753b5
+  oomp_key_simple: dgof5s3
   owner_name: kicad
-  symbol_name: oscillator_dgof5s3
+  symbol_name: dgof5s3
 oomp_key: oomp_kicad_oscillator_dgof5s3
 oomp_key_simple: kicad_oscillator_dgof5s3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

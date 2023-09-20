@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_photo/working
   oomp_src_flat: symbols_flat/kicad_device_d_photo/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_photo/working
-name: device_d_photo
+name: d_photo
 oomp:
   library_name: device
-  md5: 45b43ccf546c798b56685b0ed5e8fd59
-  md5_10: 45b43ccf54
-  md5_5: 45b43
-  md5_6: 45b43c
-  oomp_key: oomp_device_d_photo
-  oomp_key_extra: oomp_symbol_device_d_photo
-  oomp_key_full: oomp_symbol_device_d_photo_45b43c
-  oomp_key_simple: device_d_photo
+  md5: 572ba878fc7e2a23ce56f81d02712c09
+  md5_10: 572ba878fc
+  md5_5: 572ba
+  md5_6: 572ba8
+  oomp_key: oomp_d_photo
+  oomp_key_extra: oomp_symbol_d_photo
+  oomp_key_full: oomp_symbol_d_photo_572ba8
+  oomp_key_simple: d_photo
   owner_name: kicad
-  symbol_name: device_d_photo
+  symbol_name: d_photo
 oomp_key: oomp_kicad_device_d_photo
 oomp_key_simple: kicad_device_d_photo
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

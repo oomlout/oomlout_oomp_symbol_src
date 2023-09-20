@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_flash_at45db161_tc/working
   oomp_src_flat: symbols_flat/kicad_memory_flash_at45db161_tc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_flash_at45db161_tc/working
-name: memory_flash_at45db161_tc
+name: at45db161_tc
 oomp:
   library_name: memory_flash
-  md5: 9fd4f54183b30c04b2c923763cc42b88
-  md5_10: 9fd4f54183
-  md5_5: 9fd4f
-  md5_6: 9fd4f5
-  oomp_key: oomp_memory_flash_at45db161_tc
-  oomp_key_extra: oomp_symbol_memory_flash_at45db161_tc
-  oomp_key_full: oomp_symbol_memory_flash_at45db161_tc_9fd4f5
-  oomp_key_simple: memory_flash_at45db161_tc
+  md5: ad695eb971fe9c0fe4747bba254b5aa6
+  md5_10: ad695eb971
+  md5_5: ad695
+  md5_6: ad695e
+  oomp_key: oomp_at45db161_tc
+  oomp_key_extra: oomp_symbol_at45db161_tc
+  oomp_key_full: oomp_symbol_at45db161_tc_ad695e
+  oomp_key_simple: at45db161_tc
   owner_name: kicad
-  symbol_name: memory_flash_at45db161_tc
+  symbol_name: at45db161_tc
 oomp_key: oomp_kicad_memory_flash_at45db161_tc
 oomp_key_simple: kicad_memory_flash_at45db161_tc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

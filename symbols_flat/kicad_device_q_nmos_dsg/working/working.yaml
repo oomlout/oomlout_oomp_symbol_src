@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_nmos_dsg/working
   oomp_src_flat: symbols_flat/kicad_device_q_nmos_dsg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_nmos_dsg/working
-name: device_q_nmos_dsg
+name: q_nmos_dsg
 oomp:
   library_name: device
-  md5: e560e4db08f23c59b124dfb12c07ad91
-  md5_10: e560e4db08
-  md5_5: e560e
-  md5_6: e560e4
-  oomp_key: oomp_device_q_nmos_dsg
-  oomp_key_extra: oomp_symbol_device_q_nmos_dsg
-  oomp_key_full: oomp_symbol_device_q_nmos_dsg_e560e4
-  oomp_key_simple: device_q_nmos_dsg
+  md5: d1e0a39c7bee64043316d45d8db9a933
+  md5_10: d1e0a39c7b
+  md5_5: d1e0a
+  md5_6: d1e0a3
+  oomp_key: oomp_q_nmos_dsg
+  oomp_key_extra: oomp_symbol_q_nmos_dsg
+  oomp_key_full: oomp_symbol_q_nmos_dsg_d1e0a3
+  oomp_key_simple: q_nmos_dsg
   owner_name: kicad
-  symbol_name: device_q_nmos_dsg
+  symbol_name: q_nmos_dsg
 oomp_key: oomp_kicad_device_q_nmos_dsg
 oomp_key_simple: kicad_device_q_nmos_dsg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

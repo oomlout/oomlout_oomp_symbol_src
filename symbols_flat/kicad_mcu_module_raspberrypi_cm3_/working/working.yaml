@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_module_raspberrypi_cm3_/working
   oomp_src_flat: symbols_flat/kicad_mcu_module_raspberrypi_cm3_/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_module_raspberrypi_cm3_/working
-name: mcu_module_raspberrypi_cm3_
+name: raspberrypi_cm3_
 oomp:
   library_name: mcu_module
-  md5: 2147d5e4968aabe16e92fe9ad23bacb6
-  md5_10: 2147d5e496
-  md5_5: 2147d
-  md5_6: 2147d5
-  oomp_key: oomp_mcu_module_raspberrypi_cm3_
-  oomp_key_extra: oomp_symbol_mcu_module_raspberrypi_cm3_
-  oomp_key_full: oomp_symbol_mcu_module_raspberrypi_cm3__2147d5
-  oomp_key_simple: mcu_module_raspberrypi_cm3_
+  md5: 33f5bb8bdbd38a88cf5586bb7d5717a9
+  md5_10: 33f5bb8bdb
+  md5_5: 33f5b
+  md5_6: 33f5bb
+  oomp_key: oomp_raspberrypi_cm3_
+  oomp_key_extra: oomp_symbol_raspberrypi_cm3_
+  oomp_key_full: oomp_symbol_raspberrypi_cm3__33f5bb
+  oomp_key_simple: raspberrypi_cm3_
   owner_name: kicad
-  symbol_name: mcu_module_raspberrypi_cm3_
+  symbol_name: raspberrypi_cm3_
 oomp_key: oomp_kicad_mcu_module_raspberrypi_cm3_
 oomp_key_simple: kicad_mcu_module_raspberrypi_cm3_
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

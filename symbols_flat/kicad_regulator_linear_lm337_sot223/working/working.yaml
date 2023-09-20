@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lm337_sot223/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lm337_sot223/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lm337_sot223/working
-name: regulator_linear_lm337_sot223
+name: lm337_sot223
 oomp:
   library_name: regulator_linear
-  md5: df63ea968ca19bdfdf1b55371c5a92dd
-  md5_10: df63ea968c
-  md5_5: df63e
-  md5_6: df63ea
-  oomp_key: oomp_regulator_linear_lm337_sot223
-  oomp_key_extra: oomp_symbol_regulator_linear_lm337_sot223
-  oomp_key_full: oomp_symbol_regulator_linear_lm337_sot223_df63ea
-  oomp_key_simple: regulator_linear_lm337_sot223
+  md5: 67d394fb1b27e472d02f96357595ba01
+  md5_10: 67d394fb1b
+  md5_5: 67d39
+  md5_6: 67d394
+  oomp_key: oomp_lm337_sot223
+  oomp_key_extra: oomp_symbol_lm337_sot223
+  oomp_key_full: oomp_symbol_lm337_sot223_67d394
+  oomp_key_simple: lm337_sot223
   owner_name: kicad
-  symbol_name: regulator_linear_lm337_sot223
+  symbol_name: lm337_sot223
 oomp_key: oomp_kicad_regulator_linear_lm337_sot223
 oomp_key_simple: kicad_regulator_linear_lm337_sot223
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

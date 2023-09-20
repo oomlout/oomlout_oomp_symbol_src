@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eprom_27c040/working
   oomp_src_flat: symbols_flat/kicad_memory_eprom_27c040/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eprom_27c040/working
-name: memory_eprom_27c040
+name: 27c040
 oomp:
   library_name: memory_eprom
-  md5: 89cf37e92b6a1c197f0fad627da0974d
-  md5_10: 89cf37e92b
-  md5_5: 89cf3
-  md5_6: 89cf37
-  oomp_key: oomp_memory_eprom_27c040
-  oomp_key_extra: oomp_symbol_memory_eprom_27c040
-  oomp_key_full: oomp_symbol_memory_eprom_27c040_89cf37
-  oomp_key_simple: memory_eprom_27c040
+  md5: 620e7997f12d3ba8595491ae25bf35a2
+  md5_10: 620e7997f1
+  md5_5: 620e7
+  md5_6: 620e79
+  oomp_key: oomp_27c040
+  oomp_key_extra: oomp_symbol_27c040
+  oomp_key_full: oomp_symbol_27c040_620e79
+  oomp_key_simple: 27c040
   owner_name: kicad
-  symbol_name: memory_eprom_27c040
+  symbol_name: 27c040
 oomp_key: oomp_kicad_memory_eprom_27c040
 oomp_key_simple: kicad_memory_eprom_27c040
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

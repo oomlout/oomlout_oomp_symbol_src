@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_tip120/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_tip120/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_tip120/working
-name: transistor_bjt_tip120
+name: tip120
 oomp:
   library_name: transistor_bjt
-  md5: 16d448da8528ae5a2b801a5d832589ee
-  md5_10: 16d448da85
-  md5_5: 16d44
-  md5_6: 16d448
-  oomp_key: oomp_transistor_bjt_tip120
-  oomp_key_extra: oomp_symbol_transistor_bjt_tip120
-  oomp_key_full: oomp_symbol_transistor_bjt_tip120_16d448
-  oomp_key_simple: transistor_bjt_tip120
+  md5: f3c6ad0038645375e3fcda5a5633cb87
+  md5_10: f3c6ad0038
+  md5_5: f3c6a
+  md5_6: f3c6ad
+  oomp_key: oomp_tip120
+  oomp_key_extra: oomp_symbol_tip120
+  oomp_key_full: oomp_symbol_tip120_f3c6ad
+  oomp_key_simple: tip120
   owner_name: kicad
-  symbol_name: transistor_bjt_tip120
+  symbol_name: tip120
 oomp_key: oomp_kicad_transistor_bjt_tip120
 oomp_key_simple: kicad_transistor_bjt_tip120
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

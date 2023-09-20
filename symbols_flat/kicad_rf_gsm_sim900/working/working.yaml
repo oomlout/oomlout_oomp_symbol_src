@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_gsm_sim900/working
   oomp_src_flat: symbols_flat/kicad_rf_gsm_sim900/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_gsm_sim900/working
-name: rf_gsm_sim900
+name: sim900
 oomp:
   library_name: rf_gsm
-  md5: 2da701cce4f64042a06ec94807fb7ad7
-  md5_10: 2da701cce4
-  md5_5: 2da70
-  md5_6: 2da701
-  oomp_key: oomp_rf_gsm_sim900
-  oomp_key_extra: oomp_symbol_rf_gsm_sim900
-  oomp_key_full: oomp_symbol_rf_gsm_sim900_2da701
-  oomp_key_simple: rf_gsm_sim900
+  md5: e56b6df2968fbe5dfa230c115c977c50
+  md5_10: e56b6df296
+  md5_5: e56b6
+  md5_6: e56b6d
+  oomp_key: oomp_sim900
+  oomp_key_extra: oomp_symbol_sim900
+  oomp_key_full: oomp_symbol_sim900_e56b6d
+  oomp_key_simple: sim900
   owner_name: kicad
-  symbol_name: rf_gsm_sim900
+  symbol_name: sim900
 oomp_key: oomp_kicad_rf_gsm_sim900
 oomp_key_simple: kicad_rf_gsm_sim900
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

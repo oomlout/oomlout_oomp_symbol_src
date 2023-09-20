@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_st1s14phr/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_st1s14phr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_st1s14phr/working
-name: regulator_switching_st1s14phr
+name: st1s14phr
 oomp:
   library_name: regulator_switching
-  md5: 4b036855f9658938e74cb3c6149efb40
-  md5_10: 4b036855f9
-  md5_5: 4b036
-  md5_6: 4b0368
-  oomp_key: oomp_regulator_switching_st1s14phr
-  oomp_key_extra: oomp_symbol_regulator_switching_st1s14phr
-  oomp_key_full: oomp_symbol_regulator_switching_st1s14phr_4b0368
-  oomp_key_simple: regulator_switching_st1s14phr
+  md5: cf690f062862cfef86ccc4014dec91d2
+  md5_10: cf690f0628
+  md5_5: cf690
+  md5_6: cf690f
+  oomp_key: oomp_st1s14phr
+  oomp_key_extra: oomp_symbol_st1s14phr
+  oomp_key_full: oomp_symbol_st1s14phr_cf690f
+  oomp_key_simple: st1s14phr
   owner_name: kicad
-  symbol_name: regulator_switching_st1s14phr
+  symbol_name: st1s14phr
 oomp_key: oomp_kicad_regulator_switching_st1s14phr
 oomp_key_simple: kicad_regulator_switching_st1s14phr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

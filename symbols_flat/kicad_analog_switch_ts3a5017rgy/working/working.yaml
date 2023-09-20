@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_ts3a5017rgy/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_ts3a5017rgy/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_ts3a5017rgy/working
-name: analog_switch_ts3a5017rgy
+name: ts3a5017rgy
 oomp:
   library_name: analog_switch
-  md5: f2994fd2910897c6cd8ece30beea647f
-  md5_10: f2994fd291
-  md5_5: f2994
-  md5_6: f2994f
-  oomp_key: oomp_analog_switch_ts3a5017rgy
-  oomp_key_extra: oomp_symbol_analog_switch_ts3a5017rgy
-  oomp_key_full: oomp_symbol_analog_switch_ts3a5017rgy_f2994f
-  oomp_key_simple: analog_switch_ts3a5017rgy
+  md5: 4318225e72e826c5f161ca13e498f632
+  md5_10: 4318225e72
+  md5_5: '43182'
+  md5_6: '431822'
+  oomp_key: oomp_ts3a5017rgy
+  oomp_key_extra: oomp_symbol_ts3a5017rgy
+  oomp_key_full: oomp_symbol_ts3a5017rgy_431822
+  oomp_key_simple: ts3a5017rgy
   owner_name: kicad
-  symbol_name: analog_switch_ts3a5017rgy
+  symbol_name: ts3a5017rgy
 oomp_key: oomp_kicad_analog_switch_ts3a5017rgy
 oomp_key_simple: kicad_analog_switch_ts3a5017rgy
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_si8641bb_b_is1/working
   oomp_src_flat: symbols_flat/kicad_isolator_si8641bb_b_is1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_si8641bb_b_is1/working
-name: isolator_si8641bb_b_is1
+name: si8641bb_b_is1
 oomp:
   library_name: isolator
-  md5: 6687dfad687113bedc9adf5673726a46
-  md5_10: 6687dfad68
-  md5_5: 6687d
-  md5_6: 6687df
-  oomp_key: oomp_isolator_si8641bb_b_is1
-  oomp_key_extra: oomp_symbol_isolator_si8641bb_b_is1
-  oomp_key_full: oomp_symbol_isolator_si8641bb_b_is1_6687df
-  oomp_key_simple: isolator_si8641bb_b_is1
+  md5: 36c657693ecb3c6352df981772f3b12e
+  md5_10: 36c657693e
+  md5_5: 36c65
+  md5_6: 36c657
+  oomp_key: oomp_si8641bb_b_is1
+  oomp_key_extra: oomp_symbol_si8641bb_b_is1
+  oomp_key_full: oomp_symbol_si8641bb_b_is1_36c657
+  oomp_key_simple: si8641bb_b_is1
   owner_name: kicad
-  symbol_name: isolator_si8641bb_b_is1
+  symbol_name: si8641bb_b_is1
 oomp_key: oomp_kicad_isolator_si8641bb_b_is1
 oomp_key_simple: kicad_isolator_si8641bb_b_is1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

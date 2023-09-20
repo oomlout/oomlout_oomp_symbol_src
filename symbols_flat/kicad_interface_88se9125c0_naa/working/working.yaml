@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_88se9125c0_naa/working
   oomp_src_flat: symbols_flat/kicad_interface_88se9125c0_naa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_88se9125c0_naa/working
-name: interface_88se9125c0_naa
+name: 88se9125c0_naa
 oomp:
   library_name: interface
-  md5: 3bcca9dae35698a68c77ba1ed37e1a09
-  md5_10: 3bcca9dae3
-  md5_5: 3bcca
-  md5_6: 3bcca9
-  oomp_key: oomp_interface_88se9125c0_naa
-  oomp_key_extra: oomp_symbol_interface_88se9125c0_naa
-  oomp_key_full: oomp_symbol_interface_88se9125c0_naa_3bcca9
-  oomp_key_simple: interface_88se9125c0_naa
+  md5: 5a48c4916fd1cd3f92609d6d0502f323
+  md5_10: 5a48c4916f
+  md5_5: 5a48c
+  md5_6: 5a48c4
+  oomp_key: oomp_88se9125c0_naa
+  oomp_key_extra: oomp_symbol_88se9125c0_naa
+  oomp_key_full: oomp_symbol_88se9125c0_naa_5a48c4
+  oomp_key_simple: 88se9125c0_naa
   owner_name: kicad
-  symbol_name: interface_88se9125c0_naa
+  symbol_name: 88se9125c0_naa
 oomp_key: oomp_kicad_interface_88se9125c0_naa
 oomp_key_simple: kicad_interface_88se9125c0_naa
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

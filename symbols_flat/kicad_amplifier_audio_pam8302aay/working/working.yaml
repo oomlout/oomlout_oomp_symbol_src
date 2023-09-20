@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_pam8302aay/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_pam8302aay/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_pam8302aay/working
-name: amplifier_audio_pam8302aay
+name: pam8302aay
 oomp:
   library_name: amplifier_audio
-  md5: e2b2f2c11b00abe20d881a5cd916af9b
-  md5_10: e2b2f2c11b
-  md5_5: e2b2f
-  md5_6: e2b2f2
-  oomp_key: oomp_amplifier_audio_pam8302aay
-  oomp_key_extra: oomp_symbol_amplifier_audio_pam8302aay
-  oomp_key_full: oomp_symbol_amplifier_audio_pam8302aay_e2b2f2
-  oomp_key_simple: amplifier_audio_pam8302aay
+  md5: 4b00e3bf82ff6b274d7528687f68b495
+  md5_10: 4b00e3bf82
+  md5_5: 4b00e
+  md5_6: 4b00e3
+  oomp_key: oomp_pam8302aay
+  oomp_key_extra: oomp_symbol_pam8302aay
+  oomp_key_full: oomp_symbol_pam8302aay_4b00e3
+  oomp_key_simple: pam8302aay
   owner_name: kicad
-  symbol_name: amplifier_audio_pam8302aay
+  symbol_name: pam8302aay
 oomp_key: oomp_kicad_amplifier_audio_pam8302aay
 oomp_key_simple: kicad_amplifier_audio_pam8302aay
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

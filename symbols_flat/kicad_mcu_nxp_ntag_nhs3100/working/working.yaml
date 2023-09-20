@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_ntag_nhs3100/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_ntag_nhs3100/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_ntag_nhs3100/working
-name: mcu_nxp_ntag_nhs3100
+name: nhs3100
 oomp:
   library_name: mcu_nxp_ntag
-  md5: 254af0f3ae316ac49fb42977ded5c72c
-  md5_10: 254af0f3ae
-  md5_5: 254af
-  md5_6: 254af0
-  oomp_key: oomp_mcu_nxp_ntag_nhs3100
-  oomp_key_extra: oomp_symbol_mcu_nxp_ntag_nhs3100
-  oomp_key_full: oomp_symbol_mcu_nxp_ntag_nhs3100_254af0
-  oomp_key_simple: mcu_nxp_ntag_nhs3100
+  md5: fc5428b17b7e013e687ec088fdb7ec07
+  md5_10: fc5428b17b
+  md5_5: fc542
+  md5_6: fc5428
+  oomp_key: oomp_nhs3100
+  oomp_key_extra: oomp_symbol_nhs3100
+  oomp_key_full: oomp_symbol_nhs3100_fc5428
+  oomp_key_simple: nhs3100
   owner_name: kicad
-  symbol_name: mcu_nxp_ntag_nhs3100
+  symbol_name: nhs3100
 oomp_key: oomp_kicad_mcu_nxp_ntag_nhs3100
 oomp_key_simple: kicad_mcu_nxp_ntag_nhs3100
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

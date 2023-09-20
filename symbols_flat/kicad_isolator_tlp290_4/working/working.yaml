@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_tlp290_4/working
   oomp_src_flat: symbols_flat/kicad_isolator_tlp290_4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_tlp290_4/working
-name: isolator_tlp290_4
+name: tlp290_4
 oomp:
   library_name: isolator
-  md5: 7813a99f57067b32b8f058d20d73e596
-  md5_10: 7813a99f57
-  md5_5: 7813a
-  md5_6: 7813a9
-  oomp_key: oomp_isolator_tlp290_4
-  oomp_key_extra: oomp_symbol_isolator_tlp290_4
-  oomp_key_full: oomp_symbol_isolator_tlp290_4_7813a9
-  oomp_key_simple: isolator_tlp290_4
+  md5: 4ea4a269e2519d3c6e359fbb831e8063
+  md5_10: 4ea4a269e2
+  md5_5: 4ea4a
+  md5_6: 4ea4a2
+  oomp_key: oomp_tlp290_4
+  oomp_key_extra: oomp_symbol_tlp290_4
+  oomp_key_full: oomp_symbol_tlp290_4_4ea4a2
+  oomp_key_simple: tlp290_4
   owner_name: kicad
-  symbol_name: isolator_tlp290_4
+  symbol_name: tlp290_4
 oomp_key: oomp_kicad_isolator_tlp290_4
 oomp_key_simple: kicad_isolator_tlp290_4
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_max15012dxsa/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_max15012dxsa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_max15012dxsa/working
-name: driver_fet_max15012dxsa
+name: max15012dxsa
 oomp:
   library_name: driver_fet
-  md5: 654bb36161596a83741203ed634f24f5
-  md5_10: 654bb36161
-  md5_5: 654bb
-  md5_6: 654bb3
-  oomp_key: oomp_driver_fet_max15012dxsa
-  oomp_key_extra: oomp_symbol_driver_fet_max15012dxsa
-  oomp_key_full: oomp_symbol_driver_fet_max15012dxsa_654bb3
-  oomp_key_simple: driver_fet_max15012dxsa
+  md5: 0e93f548b816cf431a0c54e7ac6675b8
+  md5_10: 0e93f548b8
+  md5_5: 0e93f
+  md5_6: 0e93f5
+  oomp_key: oomp_max15012dxsa
+  oomp_key_extra: oomp_symbol_max15012dxsa
+  oomp_key_full: oomp_symbol_max15012dxsa_0e93f5
+  oomp_key_simple: max15012dxsa
   owner_name: kicad
-  symbol_name: driver_fet_max15012dxsa
+  symbol_name: max15012dxsa
 oomp_key: oomp_kicad_driver_fet_max15012dxsa
 oomp_key_simple: kicad_driver_fet_max15012dxsa
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

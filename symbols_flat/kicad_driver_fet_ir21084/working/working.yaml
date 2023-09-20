@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_ir21084/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_ir21084/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_ir21084/working
-name: driver_fet_ir21084
+name: ir21084
 oomp:
   library_name: driver_fet
-  md5: f2df9885a2ad89493ae67d49c6ba17ae
-  md5_10: f2df9885a2
-  md5_5: f2df9
-  md5_6: f2df98
-  oomp_key: oomp_driver_fet_ir21084
-  oomp_key_extra: oomp_symbol_driver_fet_ir21084
-  oomp_key_full: oomp_symbol_driver_fet_ir21084_f2df98
-  oomp_key_simple: driver_fet_ir21084
+  md5: 2a04ac5aafe4b820e75622cbe7948e0b
+  md5_10: 2a04ac5aaf
+  md5_5: 2a04a
+  md5_6: 2a04ac
+  oomp_key: oomp_ir21084
+  oomp_key_extra: oomp_symbol_ir21084
+  oomp_key_full: oomp_symbol_ir21084_2a04ac
+  oomp_key_simple: ir21084
   owner_name: kicad
-  symbol_name: driver_fet_ir21084
+  symbol_name: ir21084
 oomp_key: oomp_kicad_driver_fet_ir21084
 oomp_key_simple: kicad_driver_fet_ir21084
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

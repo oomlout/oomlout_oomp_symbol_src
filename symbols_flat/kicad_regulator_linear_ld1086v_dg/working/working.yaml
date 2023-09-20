@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ld1086v_dg/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ld1086v_dg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ld1086v_dg/working
-name: regulator_linear_ld1086v_dg
+name: ld1086v_dg
 oomp:
   library_name: regulator_linear
-  md5: 499142165960d54de2cce808e6a04491
-  md5_10: '4991421659'
-  md5_5: '49914'
-  md5_6: '499142'
-  oomp_key: oomp_regulator_linear_ld1086v_dg
-  oomp_key_extra: oomp_symbol_regulator_linear_ld1086v_dg
-  oomp_key_full: oomp_symbol_regulator_linear_ld1086v_dg_499142
-  oomp_key_simple: regulator_linear_ld1086v_dg
+  md5: f4889520805e30f96c7c432e8b12a6f6
+  md5_10: f488952080
+  md5_5: f4889
+  md5_6: f48895
+  oomp_key: oomp_ld1086v_dg
+  oomp_key_extra: oomp_symbol_ld1086v_dg
+  oomp_key_full: oomp_symbol_ld1086v_dg_f48895
+  oomp_key_simple: ld1086v_dg
   owner_name: kicad
-  symbol_name: regulator_linear_ld1086v_dg
+  symbol_name: ld1086v_dg
 oomp_key: oomp_kicad_regulator_linear_ld1086v_dg
 oomp_key_simple: kicad_regulator_linear_ld1086v_dg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

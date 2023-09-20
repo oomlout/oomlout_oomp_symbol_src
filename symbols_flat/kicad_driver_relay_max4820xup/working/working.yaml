@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_relay_max4820xup/working
   oomp_src_flat: symbols_flat/kicad_driver_relay_max4820xup/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_relay_max4820xup/working
-name: driver_relay_max4820xup
+name: max4820xup
 oomp:
   library_name: driver_relay
-  md5: 6ecffc1285050b1748c5e8b23085ec22
-  md5_10: 6ecffc1285
-  md5_5: 6ecff
-  md5_6: 6ecffc
-  oomp_key: oomp_driver_relay_max4820xup
-  oomp_key_extra: oomp_symbol_driver_relay_max4820xup
-  oomp_key_full: oomp_symbol_driver_relay_max4820xup_6ecffc
-  oomp_key_simple: driver_relay_max4820xup
+  md5: 08ab4fe32507d596207850efe4cf1680
+  md5_10: 08ab4fe325
+  md5_5: 08ab4
+  md5_6: 08ab4f
+  oomp_key: oomp_max4820xup
+  oomp_key_extra: oomp_symbol_max4820xup
+  oomp_key_full: oomp_symbol_max4820xup_08ab4f
+  oomp_key_simple: max4820xup
   owner_name: kicad
-  symbol_name: driver_relay_max4820xup
+  symbol_name: max4820xup
 oomp_key: oomp_kicad_driver_relay_max4820xup
 oomp_key_simple: kicad_driver_relay_max4820xup
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

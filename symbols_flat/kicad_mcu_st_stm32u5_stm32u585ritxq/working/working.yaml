@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32u5_stm32u585ritxq/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32u5_stm32u585ritxq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32u5_stm32u585ritxq/working
-name: mcu_st_stm32u5_stm32u585ritxq
+name: stm32u585ritxq
 oomp:
   library_name: mcu_st_stm32u5
-  md5: 10571360ac31db9a00680605abf1ad71
-  md5_10: 10571360ac
-  md5_5: '10571'
-  md5_6: '105713'
-  oomp_key: oomp_mcu_st_stm32u5_stm32u585ritxq
-  oomp_key_extra: oomp_symbol_mcu_st_stm32u5_stm32u585ritxq
-  oomp_key_full: oomp_symbol_mcu_st_stm32u5_stm32u585ritxq_105713
-  oomp_key_simple: mcu_st_stm32u5_stm32u585ritxq
+  md5: 7ac495112fc64e35bc4f97c5066e4592
+  md5_10: 7ac495112f
+  md5_5: 7ac49
+  md5_6: 7ac495
+  oomp_key: oomp_stm32u585ritxq
+  oomp_key_extra: oomp_symbol_stm32u585ritxq
+  oomp_key_full: oomp_symbol_stm32u585ritxq_7ac495
+  oomp_key_simple: stm32u585ritxq
   owner_name: kicad
-  symbol_name: mcu_st_stm32u5_stm32u585ritxq
+  symbol_name: stm32u585ritxq
 oomp_key: oomp_kicad_mcu_st_stm32u5_stm32u585ritxq
 oomp_key_simple: kicad_mcu_st_stm32u5_stm32u585ritxq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

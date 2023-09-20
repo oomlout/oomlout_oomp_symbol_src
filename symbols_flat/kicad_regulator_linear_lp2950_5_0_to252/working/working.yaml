@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_lp2950_5_0_to252
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_lp2950_5_0_to252
+name: lp2950_5_0_to252
 oomp:
   library_name: regulator_linear
-  md5: de8c487417eb29d2a4d7865f919cb9f8
-  md5_10: de8c487417
-  md5_5: de8c4
-  md5_6: de8c48
-  oomp_key: oomp_regulator_linear_lp2950_5_0_to252
-  oomp_key_extra: oomp_symbol_regulator_linear_lp2950_5_0_to252
-  oomp_key_full: oomp_symbol_regulator_linear_lp2950_5_0_to252_de8c48
-  oomp_key_simple: regulator_linear_lp2950_5_0_to252
+  md5: fd5645cb4cab12c8975d20727b0912f3
+  md5_10: fd5645cb4c
+  md5_5: fd564
+  md5_6: fd5645
+  oomp_key: oomp_lp2950_5_0_to252
+  oomp_key_extra: oomp_symbol_lp2950_5_0_to252
+  oomp_key_full: oomp_symbol_lp2950_5_0_to252_fd5645
+  oomp_key_simple: lp2950_5_0_to252
   owner_name: kicad
-  symbol_name: regulator_linear_lp2950_5_0_to252
+  symbol_name: lp2950_5_0_to252
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_speaker/working
   oomp_src_flat: symbols_flat/kicad_device_speaker/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_speaker/working
-name: device_speaker
+name: speaker
 oomp:
   library_name: device
-  md5: 8cb03aafa6eb15243de27540f1a25b47
-  md5_10: 8cb03aafa6
-  md5_5: 8cb03
-  md5_6: 8cb03a
-  oomp_key: oomp_device_speaker
-  oomp_key_extra: oomp_symbol_device_speaker
-  oomp_key_full: oomp_symbol_device_speaker_8cb03a
-  oomp_key_simple: device_speaker
+  md5: f0dc81a8a980333e911f475b62f6f238
+  md5_10: f0dc81a8a9
+  md5_5: f0dc8
+  md5_6: f0dc81
+  oomp_key: oomp_speaker
+  oomp_key_extra: oomp_symbol_speaker
+  oomp_key_full: oomp_symbol_speaker_f0dc81
+  oomp_key_simple: speaker
   owner_name: kicad
-  symbol_name: device_speaker
+  symbol_name: speaker
 oomp_key: oomp_kicad_device_speaker
 oomp_key_simple: kicad_device_speaker
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

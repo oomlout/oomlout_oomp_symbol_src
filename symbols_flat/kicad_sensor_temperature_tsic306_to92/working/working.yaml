@@ -1,19 +1,19 @@
 id: kicad_sensor_temperature_tsic306_to92
 library: sensor_temperature
 library_name: Sensor_Temperature
-name: sensor_temperature_tsic306_to92
+name: tsic306_to92
 oomp:
   library_name: sensor_temperature
-  md5: 77ac97038cd3148c2646b888e1f4f91e
-  md5_10: 77ac97038c
-  md5_5: 77ac9
-  md5_6: 77ac97
-  oomp_key: oomp_sensor_temperature_tsic306_to92
-  oomp_key_extra: oomp_symbol_sensor_temperature_tsic306_to92
-  oomp_key_full: oomp_symbol_sensor_temperature_tsic306_to92_77ac97
-  oomp_key_simple: sensor_temperature_tsic306_to92
+  md5: 37c8b5e7bad61c6bf8ce93bff14aeac9
+  md5_10: 37c8b5e7ba
+  md5_5: 37c8b
+  md5_6: 37c8b5
+  oomp_key: oomp_tsic306_to92
+  oomp_key_extra: oomp_symbol_tsic306_to92
+  oomp_key_full: oomp_symbol_tsic306_to92_37c8b5
+  oomp_key_simple: tsic306_to92
   owner_name: kicad
-  symbol_name: sensor_temperature_tsic306_to92
+  symbol_name: tsic306_to92
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

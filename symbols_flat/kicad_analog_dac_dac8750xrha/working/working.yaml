@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_dac8750xrha/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_dac8750xrha/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_dac8750xrha/working
-name: analog_dac_dac8750xrha
+name: dac8750xrha
 oomp:
   library_name: analog_dac
-  md5: 93afdd61ead1ae29d9750b2aed36d1b2
-  md5_10: 93afdd61ea
-  md5_5: 93afd
-  md5_6: 93afdd
-  oomp_key: oomp_analog_dac_dac8750xrha
-  oomp_key_extra: oomp_symbol_analog_dac_dac8750xrha
-  oomp_key_full: oomp_symbol_analog_dac_dac8750xrha_93afdd
-  oomp_key_simple: analog_dac_dac8750xrha
+  md5: fd75b5c64c1231f4fedfc12d6e284363
+  md5_10: fd75b5c64c
+  md5_5: fd75b
+  md5_6: fd75b5
+  oomp_key: oomp_dac8750xrha
+  oomp_key_extra: oomp_symbol_dac8750xrha
+  oomp_key_full: oomp_symbol_dac8750xrha_fd75b5
+  oomp_key_simple: dac8750xrha
   owner_name: kicad
-  symbol_name: analog_dac_dac8750xrha
+  symbol_name: dac8750xrha
 oomp_key: oomp_kicad_analog_dac_dac8750xrha
 oomp_key_simple: kicad_analog_dac_dac8750xrha
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

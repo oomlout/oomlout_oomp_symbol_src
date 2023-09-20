@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l5_stm32l552vetx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l5_stm32l552vetx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l5_stm32l552vetx/working
-name: mcu_st_stm32l5_stm32l552vetx
+name: stm32l552vetx
 oomp:
   library_name: mcu_st_stm32l5
-  md5: 45e881a170092c339a5c075fd044b526
-  md5_10: 45e881a170
-  md5_5: 45e88
-  md5_6: 45e881
-  oomp_key: oomp_mcu_st_stm32l5_stm32l552vetx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l5_stm32l552vetx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l5_stm32l552vetx_45e881
-  oomp_key_simple: mcu_st_stm32l5_stm32l552vetx
+  md5: 785635c78ca4e7e2354ef23b1454f06b
+  md5_10: 785635c78c
+  md5_5: '78563'
+  md5_6: '785635'
+  oomp_key: oomp_stm32l552vetx
+  oomp_key_extra: oomp_symbol_stm32l552vetx
+  oomp_key_full: oomp_symbol_stm32l552vetx_785635
+  oomp_key_simple: stm32l552vetx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l5_stm32l552vetx
+  symbol_name: stm32l552vetx
 oomp_key: oomp_kicad_mcu_st_stm32l5_stm32l552vetx
 oomp_key_simple: kicad_mcu_st_stm32l5_stm32l552vetx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

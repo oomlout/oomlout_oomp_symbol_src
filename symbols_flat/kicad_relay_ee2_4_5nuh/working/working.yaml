@@ -1,19 +1,19 @@
 id: kicad_relay_ee2_4_5nuh
 library: relay
 library_name: Relay
-name: relay_ee2_4_5nuh
+name: ee2_4_5nuh
 oomp:
   library_name: relay
-  md5: b60a43762f1ca35d713fd8bd1b9629cb
-  md5_10: b60a43762f
-  md5_5: b60a4
-  md5_6: b60a43
-  oomp_key: oomp_relay_ee2_4_5nuh
-  oomp_key_extra: oomp_symbol_relay_ee2_4_5nuh
-  oomp_key_full: oomp_symbol_relay_ee2_4_5nuh_b60a43
-  oomp_key_simple: relay_ee2_4_5nuh
+  md5: c7274a16447c4b6e052178d372448315
+  md5_10: c7274a1644
+  md5_5: c7274
+  md5_6: c7274a
+  oomp_key: oomp_ee2_4_5nuh
+  oomp_key_extra: oomp_symbol_ee2_4_5nuh
+  oomp_key_full: oomp_symbol_ee2_4_5nuh_c7274a
+  oomp_key_simple: ee2_4_5nuh
   owner_name: kicad
-  symbol_name: relay_ee2_4_5nuh
+  symbol_name: ee2_4_5nuh
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

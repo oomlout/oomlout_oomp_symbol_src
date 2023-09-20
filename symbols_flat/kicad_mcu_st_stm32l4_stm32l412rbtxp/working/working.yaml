@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l4_stm32l412rbtxp/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l4_stm32l412rbtxp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l4_stm32l412rbtxp/working
-name: mcu_st_stm32l4_stm32l412rbtxp
+name: stm32l412rbtxp
 oomp:
   library_name: mcu_st_stm32l4
-  md5: 5121b940308f7ca9b43457b3091dfbcc
-  md5_10: 5121b94030
-  md5_5: 5121b
-  md5_6: 5121b9
-  oomp_key: oomp_mcu_st_stm32l4_stm32l412rbtxp
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l412rbtxp
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l412rbtxp_5121b9
-  oomp_key_simple: mcu_st_stm32l4_stm32l412rbtxp
+  md5: 7dc97842cfa7ba7df3d584ee0447ecbe
+  md5_10: 7dc97842cf
+  md5_5: 7dc97
+  md5_6: 7dc978
+  oomp_key: oomp_stm32l412rbtxp
+  oomp_key_extra: oomp_symbol_stm32l412rbtxp
+  oomp_key_full: oomp_symbol_stm32l412rbtxp_7dc978
+  oomp_key_simple: stm32l412rbtxp
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l412rbtxp
+  symbol_name: stm32l412rbtxp
 oomp_key: oomp_kicad_mcu_st_stm32l4_stm32l412rbtxp
 oomp_key_simple: kicad_mcu_st_stm32l4_stm32l412rbtxp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_cypd3177_24lq/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_cypd3177_24lq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_cypd3177_24lq/working
-name: interface_usb_cypd3177_24lq
+name: cypd3177_24lq
 oomp:
   library_name: interface_usb
-  md5: d995e37f652b0027361a2cbeab9a6829
-  md5_10: d995e37f65
-  md5_5: d995e
-  md5_6: d995e3
-  oomp_key: oomp_interface_usb_cypd3177_24lq
-  oomp_key_extra: oomp_symbol_interface_usb_cypd3177_24lq
-  oomp_key_full: oomp_symbol_interface_usb_cypd3177_24lq_d995e3
-  oomp_key_simple: interface_usb_cypd3177_24lq
+  md5: ab0d67d24250e44d7795430c912f32fc
+  md5_10: ab0d67d242
+  md5_5: ab0d6
+  md5_6: ab0d67
+  oomp_key: oomp_cypd3177_24lq
+  oomp_key_extra: oomp_symbol_cypd3177_24lq
+  oomp_key_full: oomp_symbol_cypd3177_24lq_ab0d67
+  oomp_key_simple: cypd3177_24lq
   owner_name: kicad
-  symbol_name: interface_usb_cypd3177_24lq
+  symbol_name: cypd3177_24lq
 oomp_key: oomp_kicad_interface_usb_cypd3177_24lq
 oomp_key_simple: kicad_interface_usb_cypd3177_24lq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

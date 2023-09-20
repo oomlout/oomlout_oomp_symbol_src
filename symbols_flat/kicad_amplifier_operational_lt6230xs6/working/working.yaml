@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lt6230xs6/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lt6230xs6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lt6230xs6/working
-name: amplifier_operational_lt6230xs6
+name: lt6230xs6
 oomp:
   library_name: amplifier_operational
-  md5: a7ed30d74fda05c2bef42ef40bb20d9a
-  md5_10: a7ed30d74f
-  md5_5: a7ed3
-  md5_6: a7ed30
-  oomp_key: oomp_amplifier_operational_lt6230xs6
-  oomp_key_extra: oomp_symbol_amplifier_operational_lt6230xs6
-  oomp_key_full: oomp_symbol_amplifier_operational_lt6230xs6_a7ed30
-  oomp_key_simple: amplifier_operational_lt6230xs6
+  md5: b9cbf0415b2e777c5ab2f76ff2c19ee4
+  md5_10: b9cbf0415b
+  md5_5: b9cbf
+  md5_6: b9cbf0
+  oomp_key: oomp_lt6230xs6
+  oomp_key_extra: oomp_symbol_lt6230xs6
+  oomp_key_full: oomp_symbol_lt6230xs6_b9cbf0
+  oomp_key_simple: lt6230xs6
   owner_name: kicad
-  symbol_name: amplifier_operational_lt6230xs6
+  symbol_name: lt6230xs6
 oomp_key: oomp_kicad_amplifier_operational_lt6230xs6
 oomp_key_simple: kicad_amplifier_operational_lt6230xs6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

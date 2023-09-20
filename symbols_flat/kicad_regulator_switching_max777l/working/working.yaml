@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_max777l/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_max777l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_max777l/working
-name: regulator_switching_max777l
+name: max777l
 oomp:
   library_name: regulator_switching
-  md5: ed3343522a8df2136bafdb2b66343767
-  md5_10: ed3343522a
-  md5_5: ed334
-  md5_6: ed3343
-  oomp_key: oomp_regulator_switching_max777l
-  oomp_key_extra: oomp_symbol_regulator_switching_max777l
-  oomp_key_full: oomp_symbol_regulator_switching_max777l_ed3343
-  oomp_key_simple: regulator_switching_max777l
+  md5: f6c092a66786f366849a2b5f2bb86a7f
+  md5_10: f6c092a667
+  md5_5: f6c09
+  md5_6: f6c092
+  oomp_key: oomp_max777l
+  oomp_key_extra: oomp_symbol_max777l
+  oomp_key_full: oomp_symbol_max777l_f6c092
+  oomp_key_simple: max777l
   owner_name: kicad
-  symbol_name: regulator_switching_max777l
+  symbol_name: max777l
 oomp_key: oomp_kicad_regulator_switching_max777l
 oomp_key_simple: kicad_regulator_switching_max777l
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

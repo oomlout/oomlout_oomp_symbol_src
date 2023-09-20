@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_s08_mc9s08qg8xfke/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_s08_mc9s08qg8xfke/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_s08_mc9s08qg8xfke/working
-name: mcu_nxp_s08_mc9s08qg8xfke
+name: mc9s08qg8xfke
 oomp:
   library_name: mcu_nxp_s08
-  md5: b72e45cf901392effaffb12be97d3b82
-  md5_10: b72e45cf90
-  md5_5: b72e4
-  md5_6: b72e45
-  oomp_key: oomp_mcu_nxp_s08_mc9s08qg8xfke
-  oomp_key_extra: oomp_symbol_mcu_nxp_s08_mc9s08qg8xfke
-  oomp_key_full: oomp_symbol_mcu_nxp_s08_mc9s08qg8xfke_b72e45
-  oomp_key_simple: mcu_nxp_s08_mc9s08qg8xfke
+  md5: 2d7fe19929ff773a09dab250b11737fa
+  md5_10: 2d7fe19929
+  md5_5: 2d7fe
+  md5_6: 2d7fe1
+  oomp_key: oomp_mc9s08qg8xfke
+  oomp_key_extra: oomp_symbol_mc9s08qg8xfke
+  oomp_key_full: oomp_symbol_mc9s08qg8xfke_2d7fe1
+  oomp_key_simple: mc9s08qg8xfke
   owner_name: kicad
-  symbol_name: mcu_nxp_s08_mc9s08qg8xfke
+  symbol_name: mc9s08qg8xfke
 oomp_key: oomp_kicad_mcu_nxp_s08_mc9s08qg8xfke
 oomp_key_simple: kicad_mcu_nxp_s08_mc9s08qg8xfke
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

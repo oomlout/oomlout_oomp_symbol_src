@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_neopixel_tht/working
   oomp_src_flat: symbols_flat/kicad_led_neopixel_tht/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_neopixel_tht/working
-name: led_neopixel_tht
+name: neopixel_tht
 oomp:
   library_name: led
-  md5: 006b6ed65c25fb01934e463b46b8d608
-  md5_10: 006b6ed65c
-  md5_5: 006b6
-  md5_6: 006b6e
-  oomp_key: oomp_led_neopixel_tht
-  oomp_key_extra: oomp_symbol_led_neopixel_tht
-  oomp_key_full: oomp_symbol_led_neopixel_tht_006b6e
-  oomp_key_simple: led_neopixel_tht
+  md5: cf9e0788982d01b22bf52fd16483047a
+  md5_10: cf9e078898
+  md5_5: cf9e0
+  md5_6: cf9e07
+  oomp_key: oomp_neopixel_tht
+  oomp_key_extra: oomp_symbol_neopixel_tht
+  oomp_key_full: oomp_symbol_neopixel_tht_cf9e07
+  oomp_key_simple: neopixel_tht
   owner_name: kicad
-  symbol_name: led_neopixel_tht
+  symbol_name: neopixel_tht
 oomp_key: oomp_kicad_led_neopixel_tht
 oomp_key_simple: kicad_led_neopixel_tht
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

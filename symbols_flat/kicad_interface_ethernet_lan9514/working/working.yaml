@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_lan9514/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_lan9514/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_lan9514/working
-name: interface_ethernet_lan9514
+name: lan9514
 oomp:
   library_name: interface_ethernet
-  md5: 7c907ee7bf6dcb39692c21ee17f85fcd
-  md5_10: 7c907ee7bf
-  md5_5: 7c907
-  md5_6: 7c907e
-  oomp_key: oomp_interface_ethernet_lan9514
-  oomp_key_extra: oomp_symbol_interface_ethernet_lan9514
-  oomp_key_full: oomp_symbol_interface_ethernet_lan9514_7c907e
-  oomp_key_simple: interface_ethernet_lan9514
+  md5: 5146497d987602c0d66eed9ab574965b
+  md5_10: 5146497d98
+  md5_5: '51464'
+  md5_6: '514649'
+  oomp_key: oomp_lan9514
+  oomp_key_extra: oomp_symbol_lan9514
+  oomp_key_full: oomp_symbol_lan9514_514649
+  oomp_key_simple: lan9514
   owner_name: kicad
-  symbol_name: interface_ethernet_lan9514
+  symbol_name: lan9514
 oomp_key: oomp_kicad_interface_ethernet_lan9514
 oomp_key_simple: kicad_interface_ethernet_lan9514
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

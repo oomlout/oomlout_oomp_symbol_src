@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_bd1020hfv/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_bd1020hfv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_bd1020hfv/working
-name: sensor_temperature_bd1020hfv
+name: bd1020hfv
 oomp:
   library_name: sensor_temperature
-  md5: 38fc01c411d20594e0d31a215e8ae475
-  md5_10: 38fc01c411
-  md5_5: 38fc0
-  md5_6: 38fc01
-  oomp_key: oomp_sensor_temperature_bd1020hfv
-  oomp_key_extra: oomp_symbol_sensor_temperature_bd1020hfv
-  oomp_key_full: oomp_symbol_sensor_temperature_bd1020hfv_38fc01
-  oomp_key_simple: sensor_temperature_bd1020hfv
+  md5: 5cc7726c9ad8372f05b5f3ce17ffe662
+  md5_10: 5cc7726c9a
+  md5_5: 5cc77
+  md5_6: 5cc772
+  oomp_key: oomp_bd1020hfv
+  oomp_key_extra: oomp_symbol_bd1020hfv
+  oomp_key_full: oomp_symbol_bd1020hfv_5cc772
+  oomp_key_simple: bd1020hfv
   owner_name: kicad
-  symbol_name: sensor_temperature_bd1020hfv
+  symbol_name: bd1020hfv
 oomp_key: oomp_kicad_sensor_temperature_bd1020hfv
 oomp_key_simple: kicad_sensor_temperature_bd1020hfv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

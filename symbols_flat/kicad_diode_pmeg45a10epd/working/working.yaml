@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_pmeg45a10epd/working
   oomp_src_flat: symbols_flat/kicad_diode_pmeg45a10epd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_pmeg45a10epd/working
-name: diode_pmeg45a10epd
+name: pmeg45a10epd
 oomp:
   library_name: diode
-  md5: 64cd6218b52a03afff0f5715aabb9923
-  md5_10: 64cd6218b5
-  md5_5: 64cd6
-  md5_6: 64cd62
-  oomp_key: oomp_diode_pmeg45a10epd
-  oomp_key_extra: oomp_symbol_diode_pmeg45a10epd
-  oomp_key_full: oomp_symbol_diode_pmeg45a10epd_64cd62
-  oomp_key_simple: diode_pmeg45a10epd
+  md5: 3809d62ef184c4bfebaeac739a9ac6f9
+  md5_10: 3809d62ef1
+  md5_5: 3809d
+  md5_6: 3809d6
+  oomp_key: oomp_pmeg45a10epd
+  oomp_key_extra: oomp_symbol_pmeg45a10epd
+  oomp_key_full: oomp_symbol_pmeg45a10epd_3809d6
+  oomp_key_simple: pmeg45a10epd
   owner_name: kicad
-  symbol_name: diode_pmeg45a10epd
+  symbol_name: pmeg45a10epd
 oomp_key: oomp_kicad_diode_pmeg45a10epd
 oomp_key_simple: kicad_diode_pmeg45a10epd
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

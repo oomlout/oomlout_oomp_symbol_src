@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_irl81a/working
   oomp_src_flat: symbols_flat/kicad_led_irl81a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_irl81a/working
-name: led_irl81a
+name: irl81a
 oomp:
   library_name: led
-  md5: 4e43203a1d16a683439614289135c06d
-  md5_10: 4e43203a1d
-  md5_5: 4e432
-  md5_6: 4e4320
-  oomp_key: oomp_led_irl81a
-  oomp_key_extra: oomp_symbol_led_irl81a
-  oomp_key_full: oomp_symbol_led_irl81a_4e4320
-  oomp_key_simple: led_irl81a
+  md5: 871fc51f1e255c56720a5fa25401fb8c
+  md5_10: 871fc51f1e
+  md5_5: 871fc
+  md5_6: 871fc5
+  oomp_key: oomp_irl81a
+  oomp_key_extra: oomp_symbol_irl81a
+  oomp_key_full: oomp_symbol_irl81a_871fc5
+  oomp_key_simple: irl81a
   owner_name: kicad
-  symbol_name: led_irl81a
+  symbol_name: irl81a
 oomp_key: oomp_kicad_led_irl81a
 oomp_key_simple: kicad_led_irl81a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

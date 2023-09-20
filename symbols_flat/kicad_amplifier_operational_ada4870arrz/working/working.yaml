@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_ada4870arrz/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ada4870arrz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ada4870arrz/working
-name: amplifier_operational_ada4870arrz
+name: ada4870arrz
 oomp:
   library_name: amplifier_operational
-  md5: 8dd338c3d601e6ab277e2d9d75b448ab
-  md5_10: 8dd338c3d6
-  md5_5: 8dd33
-  md5_6: 8dd338
-  oomp_key: oomp_amplifier_operational_ada4870arrz
-  oomp_key_extra: oomp_symbol_amplifier_operational_ada4870arrz
-  oomp_key_full: oomp_symbol_amplifier_operational_ada4870arrz_8dd338
-  oomp_key_simple: amplifier_operational_ada4870arrz
+  md5: e926b683de476fa50bcdc9cd96514a33
+  md5_10: e926b683de
+  md5_5: e926b
+  md5_6: e926b6
+  oomp_key: oomp_ada4870arrz
+  oomp_key_extra: oomp_symbol_ada4870arrz
+  oomp_key_full: oomp_symbol_ada4870arrz_e926b6
+  oomp_key_simple: ada4870arrz
   owner_name: kicad
-  symbol_name: amplifier_operational_ada4870arrz
+  symbol_name: ada4870arrz
 oomp_key: oomp_kicad_amplifier_operational_ada4870arrz
 oomp_key_simple: kicad_amplifier_operational_ada4870arrz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

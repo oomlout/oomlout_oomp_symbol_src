@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_display_ay0438x_l/working
   oomp_src_flat: symbols_flat/kicad_driver_display_ay0438x_l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_display_ay0438x_l/working
-name: driver_display_ay0438x_l
+name: ay0438x_l
 oomp:
   library_name: driver_display
-  md5: 4b83b7d21245c6fc297637f2e64f0738
-  md5_10: 4b83b7d212
-  md5_5: 4b83b
-  md5_6: 4b83b7
-  oomp_key: oomp_driver_display_ay0438x_l
-  oomp_key_extra: oomp_symbol_driver_display_ay0438x_l
-  oomp_key_full: oomp_symbol_driver_display_ay0438x_l_4b83b7
-  oomp_key_simple: driver_display_ay0438x_l
+  md5: 7ca9ca9a605b862ab0716d1020ee8515
+  md5_10: 7ca9ca9a60
+  md5_5: 7ca9c
+  md5_6: 7ca9ca
+  oomp_key: oomp_ay0438x_l
+  oomp_key_extra: oomp_symbol_ay0438x_l
+  oomp_key_full: oomp_symbol_ay0438x_l_7ca9ca
+  oomp_key_simple: ay0438x_l
   owner_name: kicad
-  symbol_name: driver_display_ay0438x_l
+  symbol_name: ay0438x_l
 oomp_key: oomp_kicad_driver_display_ay0438x_l
 oomp_key_simple: kicad_driver_display_ay0438x_l
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

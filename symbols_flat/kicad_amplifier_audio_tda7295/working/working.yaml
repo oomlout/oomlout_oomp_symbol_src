@@ -1,19 +1,19 @@
 id: kicad_amplifier_audio_tda7295
 library: amplifier_audio
 library_name: Amplifier_Audio
-name: amplifier_audio_tda7295
+name: tda7295
 oomp:
   library_name: amplifier_audio
-  md5: 2f0deb4912f3cb5940e48ead42e37f4a
-  md5_10: 2f0deb4912
-  md5_5: 2f0de
-  md5_6: 2f0deb
-  oomp_key: oomp_amplifier_audio_tda7295
-  oomp_key_extra: oomp_symbol_amplifier_audio_tda7295
-  oomp_key_full: oomp_symbol_amplifier_audio_tda7295_2f0deb
-  oomp_key_simple: amplifier_audio_tda7295
+  md5: 7afd772b95b31fab09310c99c2c00b29
+  md5_10: 7afd772b95
+  md5_5: 7afd7
+  md5_6: 7afd77
+  oomp_key: oomp_tda7295
+  oomp_key_extra: oomp_symbol_tda7295
+  oomp_key_full: oomp_symbol_tda7295_7afd77
+  oomp_key_simple: tda7295
   owner_name: kicad
-  symbol_name: amplifier_audio_tda7295
+  symbol_name: tda7295
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

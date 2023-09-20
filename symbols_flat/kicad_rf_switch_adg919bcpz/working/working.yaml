@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_switch_adg919bcpz/working
   oomp_src_flat: symbols_flat/kicad_rf_switch_adg919bcpz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_switch_adg919bcpz/working
-name: rf_switch_adg919bcpz
+name: adg919bcpz
 oomp:
   library_name: rf_switch
-  md5: a330dccc4b7c9be9d6944348393488f6
-  md5_10: a330dccc4b
-  md5_5: a330d
-  md5_6: a330dc
-  oomp_key: oomp_rf_switch_adg919bcpz
-  oomp_key_extra: oomp_symbol_rf_switch_adg919bcpz
-  oomp_key_full: oomp_symbol_rf_switch_adg919bcpz_a330dc
-  oomp_key_simple: rf_switch_adg919bcpz
+  md5: 09ce7c1699f793881a07a9968990b033
+  md5_10: 09ce7c1699
+  md5_5: 09ce7
+  md5_6: 09ce7c
+  oomp_key: oomp_adg919bcpz
+  oomp_key_extra: oomp_symbol_adg919bcpz
+  oomp_key_full: oomp_symbol_adg919bcpz_09ce7c
+  oomp_key_simple: adg919bcpz
   owner_name: kicad
-  symbol_name: rf_switch_adg919bcpz
+  symbol_name: adg919bcpz
 oomp_key: oomp_kicad_rf_switch_adg919bcpz
 oomp_key_simple: kicad_rf_switch_adg919bcpz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

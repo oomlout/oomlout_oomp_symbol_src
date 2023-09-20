@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_hid_spinwarrior24r6/working
   oomp_src_flat: symbols_flat/kicad_interface_hid_spinwarrior24r6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_hid_spinwarrior24r6/working
-name: interface_hid_spinwarrior24r6
+name: spinwarrior24r6
 oomp:
   library_name: interface_hid
-  md5: bcaebcf63aca254ed5789ffd5530e392
-  md5_10: bcaebcf63a
-  md5_5: bcaeb
-  md5_6: bcaebc
-  oomp_key: oomp_interface_hid_spinwarrior24r6
-  oomp_key_extra: oomp_symbol_interface_hid_spinwarrior24r6
-  oomp_key_full: oomp_symbol_interface_hid_spinwarrior24r6_bcaebc
-  oomp_key_simple: interface_hid_spinwarrior24r6
+  md5: 56dba4f3851c836c18125f8fbb40f43d
+  md5_10: 56dba4f385
+  md5_5: 56dba
+  md5_6: 56dba4
+  oomp_key: oomp_spinwarrior24r6
+  oomp_key_extra: oomp_symbol_spinwarrior24r6
+  oomp_key_full: oomp_symbol_spinwarrior24r6_56dba4
+  oomp_key_simple: spinwarrior24r6
   owner_name: kicad
-  symbol_name: interface_hid_spinwarrior24r6
+  symbol_name: spinwarrior24r6
 oomp_key: oomp_kicad_interface_hid_spinwarrior24r6
 oomp_key_simple: kicad_interface_hid_spinwarrior24r6
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

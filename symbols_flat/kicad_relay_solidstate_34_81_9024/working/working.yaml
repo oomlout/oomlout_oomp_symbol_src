@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_solidstate_34_81_9024/working
   oomp_src_flat: symbols_flat/kicad_relay_solidstate_34_81_9024/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_solidstate_34_81_9024/working
-name: relay_solidstate_34_81_9024
+name: '34_81_9024'
 oomp:
   library_name: relay_solidstate
-  md5: 86c0386ec984595dcc3a48fe8edfcb74
-  md5_10: 86c0386ec9
-  md5_5: 86c03
-  md5_6: 86c038
-  oomp_key: oomp_relay_solidstate_34_81_9024
-  oomp_key_extra: oomp_symbol_relay_solidstate_34_81_9024
-  oomp_key_full: oomp_symbol_relay_solidstate_34_81_9024_86c038
-  oomp_key_simple: relay_solidstate_34_81_9024
+  md5: 09b01ece4168f80bc173d63cc53f1a41
+  md5_10: 09b01ece41
+  md5_5: 09b01
+  md5_6: 09b01e
+  oomp_key: oomp_34_81_9024
+  oomp_key_extra: oomp_symbol_34_81_9024
+  oomp_key_full: oomp_symbol_34_81_9024_09b01e
+  oomp_key_simple: '34_81_9024'
   owner_name: kicad
-  symbol_name: relay_solidstate_34_81_9024
+  symbol_name: '34_81_9024'
 oomp_key: oomp_kicad_relay_solidstate_34_81_9024
 oomp_key_simple: kicad_relay_solidstate_34_81_9024
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

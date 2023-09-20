@@ -1,19 +1,19 @@
 id: kicad_sensor_energy_ina233
 library: sensor_energy
 library_name: Sensor_Energy
-name: sensor_energy_ina233
+name: ina233
 oomp:
   library_name: sensor_energy
-  md5: 4648be44c783c7354a7745bae030ac84
-  md5_10: 4648be44c7
-  md5_5: 4648b
-  md5_6: 4648be
-  oomp_key: oomp_sensor_energy_ina233
-  oomp_key_extra: oomp_symbol_sensor_energy_ina233
-  oomp_key_full: oomp_symbol_sensor_energy_ina233_4648be
-  oomp_key_simple: sensor_energy_ina233
+  md5: e47c648b5588e78efd0b94c9f8d7946c
+  md5_10: e47c648b55
+  md5_5: e47c6
+  md5_6: e47c64
+  oomp_key: oomp_ina233
+  oomp_key_extra: oomp_symbol_ina233
+  oomp_key_full: oomp_symbol_ina233_e47c64
+  oomp_key_simple: ina233
   owner_name: kicad
-  symbol_name: sensor_energy_ina233
+  symbol_name: ina233
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

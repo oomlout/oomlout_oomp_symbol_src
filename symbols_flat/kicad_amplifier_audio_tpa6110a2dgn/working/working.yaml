@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_tpa6110a2dgn/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_tpa6110a2dgn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_tpa6110a2dgn/working
-name: amplifier_audio_tpa6110a2dgn
+name: tpa6110a2dgn
 oomp:
   library_name: amplifier_audio
-  md5: e9505391f9073fce39c2c75b3438c556
-  md5_10: e9505391f9
-  md5_5: e9505
-  md5_6: e95053
-  oomp_key: oomp_amplifier_audio_tpa6110a2dgn
-  oomp_key_extra: oomp_symbol_amplifier_audio_tpa6110a2dgn
-  oomp_key_full: oomp_symbol_amplifier_audio_tpa6110a2dgn_e95053
-  oomp_key_simple: amplifier_audio_tpa6110a2dgn
+  md5: ef67c00cd3bbc9c7b5af878853ea8fa5
+  md5_10: ef67c00cd3
+  md5_5: ef67c
+  md5_6: ef67c0
+  oomp_key: oomp_tpa6110a2dgn
+  oomp_key_extra: oomp_symbol_tpa6110a2dgn
+  oomp_key_full: oomp_symbol_tpa6110a2dgn_ef67c0
+  oomp_key_simple: tpa6110a2dgn
   owner_name: kicad
-  symbol_name: amplifier_audio_tpa6110a2dgn
+  symbol_name: tpa6110a2dgn
 oomp_key: oomp_kicad_amplifier_audio_tpa6110a2dgn
 oomp_key_simple: kicad_amplifier_audio_tpa6110a2dgn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

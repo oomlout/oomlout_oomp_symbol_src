@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l0_stm32l010f4px/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l0_stm32l010f4px/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l0_stm32l010f4px/working
-name: mcu_st_stm32l0_stm32l010f4px
+name: stm32l010f4px
 oomp:
   library_name: mcu_st_stm32l0
-  md5: 5e291738cb35415eb8427aa556a75f18
-  md5_10: 5e291738cb
-  md5_5: 5e291
-  md5_6: 5e2917
-  oomp_key: oomp_mcu_st_stm32l0_stm32l010f4px
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l0_stm32l010f4px
-  oomp_key_full: oomp_symbol_mcu_st_stm32l0_stm32l010f4px_5e2917
-  oomp_key_simple: mcu_st_stm32l0_stm32l010f4px
+  md5: e6ce101bcadebaa495ab8691fe7d25d7
+  md5_10: e6ce101bca
+  md5_5: e6ce1
+  md5_6: e6ce10
+  oomp_key: oomp_stm32l010f4px
+  oomp_key_extra: oomp_symbol_stm32l010f4px
+  oomp_key_full: oomp_symbol_stm32l010f4px_e6ce10
+  oomp_key_simple: stm32l010f4px
   owner_name: kicad
-  symbol_name: mcu_st_stm32l0_stm32l010f4px
+  symbol_name: stm32l010f4px
 oomp_key: oomp_kicad_mcu_st_stm32l0_stm32l010f4px
 oomp_key_simple: kicad_mcu_st_stm32l0_stm32l010f4px
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_st485ebdr/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_st485ebdr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_st485ebdr/working
-name: interface_uart_st485ebdr
+name: st485ebdr
 oomp:
   library_name: interface_uart
-  md5: 9b171564527785177658eb0d4a97b0d8
-  md5_10: 9b17156452
-  md5_5: 9b171
-  md5_6: 9b1715
-  oomp_key: oomp_interface_uart_st485ebdr
-  oomp_key_extra: oomp_symbol_interface_uart_st485ebdr
-  oomp_key_full: oomp_symbol_interface_uart_st485ebdr_9b1715
-  oomp_key_simple: interface_uart_st485ebdr
+  md5: 011cf509c0af56ad62913ee5bcefeb3a
+  md5_10: 011cf509c0
+  md5_5: 011cf
+  md5_6: 011cf5
+  oomp_key: oomp_st485ebdr
+  oomp_key_extra: oomp_symbol_st485ebdr
+  oomp_key_full: oomp_symbol_st485ebdr_011cf5
+  oomp_key_simple: st485ebdr
   owner_name: kicad
-  symbol_name: interface_uart_st485ebdr
+  symbol_name: st485ebdr
 oomp_key: oomp_kicad_interface_uart_st485ebdr
 oomp_key_simple: kicad_interface_uart_st485ebdr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

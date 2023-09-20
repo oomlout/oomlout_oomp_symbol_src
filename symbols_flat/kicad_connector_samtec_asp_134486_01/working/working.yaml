@@ -1,19 +1,19 @@
 id: kicad_connector_samtec_asp_134486_01
 library: connector
 library_name: Connector
-name: connector_samtec_asp_134486_01
+name: samtec_asp_134486_01
 oomp:
   library_name: connector
-  md5: 844c44b413bb86c6de0557e0dc9f2aff
-  md5_10: 844c44b413
-  md5_5: 844c4
-  md5_6: 844c44
-  oomp_key: oomp_connector_samtec_asp_134486_01
-  oomp_key_extra: oomp_symbol_connector_samtec_asp_134486_01
-  oomp_key_full: oomp_symbol_connector_samtec_asp_134486_01_844c44
-  oomp_key_simple: connector_samtec_asp_134486_01
+  md5: e936735870881a939fc5788bee90a26c
+  md5_10: e936735870
+  md5_5: e9367
+  md5_6: e93673
+  oomp_key: oomp_samtec_asp_134486_01
+  oomp_key_extra: oomp_symbol_samtec_asp_134486_01
+  oomp_key_full: oomp_symbol_samtec_asp_134486_01_e93673
+  oomp_key_simple: samtec_asp_134486_01
   owner_name: kicad
-  symbol_name: connector_samtec_asp_134486_01
+  symbol_name: samtec_asp_134486_01
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

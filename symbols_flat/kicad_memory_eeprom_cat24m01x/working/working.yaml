@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_cat24m01x/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_cat24m01x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_cat24m01x/working
-name: memory_eeprom_cat24m01x
+name: cat24m01x
 oomp:
   library_name: memory_eeprom
-  md5: 04fd3b093102a6608ca597af8a3d232f
-  md5_10: 04fd3b0931
-  md5_5: 04fd3
-  md5_6: 04fd3b
-  oomp_key: oomp_memory_eeprom_cat24m01x
-  oomp_key_extra: oomp_symbol_memory_eeprom_cat24m01x
-  oomp_key_full: oomp_symbol_memory_eeprom_cat24m01x_04fd3b
-  oomp_key_simple: memory_eeprom_cat24m01x
+  md5: 2ac12740d1136da6d84deb42750a3d53
+  md5_10: 2ac12740d1
+  md5_5: 2ac12
+  md5_6: 2ac127
+  oomp_key: oomp_cat24m01x
+  oomp_key_extra: oomp_symbol_cat24m01x
+  oomp_key_full: oomp_symbol_cat24m01x_2ac127
+  oomp_key_simple: cat24m01x
   owner_name: kicad
-  symbol_name: memory_eeprom_cat24m01x
+  symbol_name: cat24m01x
 oomp_key: oomp_kicad_memory_eeprom_cat24m01x
 oomp_key_simple: kicad_memory_eeprom_cat24m01x
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

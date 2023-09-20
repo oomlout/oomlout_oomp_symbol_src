@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_mic5365_3_3yc5/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_mic5365_3_3yc5/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_mic5365_3_3yc5/working
-name: regulator_linear_mic5365_3_3yc5
+name: mic5365_3_3yc5
 oomp:
   library_name: regulator_linear
-  md5: 7ec76661e7efbcd7bf384fc3136d9bdb
-  md5_10: 7ec76661e7
-  md5_5: 7ec76
-  md5_6: 7ec766
-  oomp_key: oomp_regulator_linear_mic5365_3_3yc5
-  oomp_key_extra: oomp_symbol_regulator_linear_mic5365_3_3yc5
-  oomp_key_full: oomp_symbol_regulator_linear_mic5365_3_3yc5_7ec766
-  oomp_key_simple: regulator_linear_mic5365_3_3yc5
+  md5: 488908f8633da7ebb03b5e913db38567
+  md5_10: 488908f863
+  md5_5: '48890'
+  md5_6: '488908'
+  oomp_key: oomp_mic5365_3_3yc5
+  oomp_key_extra: oomp_symbol_mic5365_3_3yc5
+  oomp_key_full: oomp_symbol_mic5365_3_3yc5_488908
+  oomp_key_simple: mic5365_3_3yc5
   owner_name: kicad
-  symbol_name: regulator_linear_mic5365_3_3yc5
+  symbol_name: mic5365_3_3yc5
 oomp_key: oomp_kicad_regulator_linear_mic5365_3_3yc5
 oomp_key_simple: kicad_regulator_linear_mic5365_3_3yc5
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

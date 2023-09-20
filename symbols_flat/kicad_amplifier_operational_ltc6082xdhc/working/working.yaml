@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_ltc6082xdhc/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ltc6082xdhc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ltc6082xdhc/working
-name: amplifier_operational_ltc6082xdhc
+name: ltc6082xdhc
 oomp:
   library_name: amplifier_operational
-  md5: 1a1bbff5c3f1b214035a2cd432fc58fb
-  md5_10: 1a1bbff5c3
-  md5_5: 1a1bb
-  md5_6: 1a1bbf
-  oomp_key: oomp_amplifier_operational_ltc6082xdhc
-  oomp_key_extra: oomp_symbol_amplifier_operational_ltc6082xdhc
-  oomp_key_full: oomp_symbol_amplifier_operational_ltc6082xdhc_1a1bbf
-  oomp_key_simple: amplifier_operational_ltc6082xdhc
+  md5: b5d84602446005aa43365737239a0645
+  md5_10: b5d8460244
+  md5_5: b5d84
+  md5_6: b5d846
+  oomp_key: oomp_ltc6082xdhc
+  oomp_key_extra: oomp_symbol_ltc6082xdhc
+  oomp_key_full: oomp_symbol_ltc6082xdhc_b5d846
+  oomp_key_simple: ltc6082xdhc
   owner_name: kicad
-  symbol_name: amplifier_operational_ltc6082xdhc
+  symbol_name: ltc6082xdhc
 oomp_key: oomp_kicad_amplifier_operational_ltc6082xdhc
 oomp_key_simple: kicad_amplifier_operational_ltc6082xdhc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

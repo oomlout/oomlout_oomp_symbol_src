@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_tps2044d/working
   oomp_src_flat: symbols_flat/kicad_power_management_tps2044d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_tps2044d/working
-name: power_management_tps2044d
+name: tps2044d
 oomp:
   library_name: power_management
-  md5: f6f57b19965538a918b39eb36402cdfa
-  md5_10: f6f57b1996
-  md5_5: f6f57
-  md5_6: f6f57b
-  oomp_key: oomp_power_management_tps2044d
-  oomp_key_extra: oomp_symbol_power_management_tps2044d
-  oomp_key_full: oomp_symbol_power_management_tps2044d_f6f57b
-  oomp_key_simple: power_management_tps2044d
+  md5: 25de9ab789b2ff813353430d80ec2dba
+  md5_10: 25de9ab789
+  md5_5: 25de9
+  md5_6: 25de9a
+  oomp_key: oomp_tps2044d
+  oomp_key_extra: oomp_symbol_tps2044d
+  oomp_key_full: oomp_symbol_tps2044d_25de9a
+  oomp_key_simple: tps2044d
   owner_name: kicad
-  symbol_name: power_management_tps2044d
+  symbol_name: tps2044d
 oomp_key: oomp_kicad_power_management_tps2044d
 oomp_key_simple: kicad_power_management_tps2044d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f4_stm32f412zejx
 library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
-name: mcu_st_stm32f4_stm32f412zejx
+name: stm32f412zejx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: 23337c28168077e47310652e7fb0a6e1
-  md5_10: 23337c2816
-  md5_5: '23337'
-  md5_6: 23337c
-  oomp_key: oomp_mcu_st_stm32f4_stm32f412zejx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f412zejx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f412zejx_23337c
-  oomp_key_simple: mcu_st_stm32f4_stm32f412zejx
+  md5: 20195693b9f27e7d2058702e007fae96
+  md5_10: 20195693b9
+  md5_5: '20195'
+  md5_6: '201956'
+  oomp_key: oomp_stm32f412zejx
+  oomp_key_extra: oomp_symbol_stm32f412zejx
+  oomp_key_full: oomp_symbol_stm32f412zejx_201956
+  oomp_key_simple: stm32f412zejx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f412zejx
+  symbol_name: stm32f412zejx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_stp16cp05/working
   oomp_src_flat: symbols_flat/kicad_driver_led_stp16cp05/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_stp16cp05/working
-name: driver_led_stp16cp05
+name: stp16cp05
 oomp:
   library_name: driver_led
-  md5: 540be60e0ef8c94fe1778aeb3573c9db
-  md5_10: 540be60e0e
-  md5_5: 540be
-  md5_6: 540be6
-  oomp_key: oomp_driver_led_stp16cp05
-  oomp_key_extra: oomp_symbol_driver_led_stp16cp05
-  oomp_key_full: oomp_symbol_driver_led_stp16cp05_540be6
-  oomp_key_simple: driver_led_stp16cp05
+  md5: f3ad79938ad1f5d667c61d314559a901
+  md5_10: f3ad79938a
+  md5_5: f3ad7
+  md5_6: f3ad79
+  oomp_key: oomp_stp16cp05
+  oomp_key_extra: oomp_symbol_stp16cp05
+  oomp_key_full: oomp_symbol_stp16cp05_f3ad79
+  oomp_key_simple: stp16cp05
   owner_name: kicad
-  symbol_name: driver_led_stp16cp05
+  symbol_name: stp16cp05
 oomp_key: oomp_kicad_driver_led_stp16cp05
 oomp_key_simple: kicad_driver_led_stp16cp05
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

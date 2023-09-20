@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_coded_sh_7040/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_coded_sh_7040/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_coded_sh_7040/working
-name: switch_sw_coded_sh_7040
+name: sw_coded_sh_7040
 oomp:
   library_name: switch
-  md5: cae8be8e534b908555776cdcea02af72
-  md5_10: cae8be8e53
-  md5_5: cae8b
-  md5_6: cae8be
-  oomp_key: oomp_switch_sw_coded_sh_7040
-  oomp_key_extra: oomp_symbol_switch_sw_coded_sh_7040
-  oomp_key_full: oomp_symbol_switch_sw_coded_sh_7040_cae8be
-  oomp_key_simple: switch_sw_coded_sh_7040
+  md5: bee837f6fefdbe1e6f162587a87b9b51
+  md5_10: bee837f6fe
+  md5_5: bee83
+  md5_6: bee837
+  oomp_key: oomp_sw_coded_sh_7040
+  oomp_key_extra: oomp_symbol_sw_coded_sh_7040
+  oomp_key_full: oomp_symbol_sw_coded_sh_7040_bee837
+  oomp_key_simple: sw_coded_sh_7040
   owner_name: kicad
-  symbol_name: switch_sw_coded_sh_7040
+  symbol_name: sw_coded_sh_7040
 oomp_key: oomp_kicad_switch_sw_coded_sh_7040
 oomp_key_simple: kicad_switch_sw_coded_sh_7040
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

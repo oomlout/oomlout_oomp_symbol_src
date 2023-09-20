@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic12_pic12c508a_ip/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic12_pic12c508a_ip/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic12_pic12c508a_ip/working
-name: mcu_microchip_pic12_pic12c508a_ip
+name: pic12c508a_ip
 oomp:
   library_name: mcu_microchip_pic12
-  md5: a740a96ec03682276f82e6803313b404
-  md5_10: a740a96ec0
-  md5_5: a740a
-  md5_6: a740a9
-  oomp_key: oomp_mcu_microchip_pic12_pic12c508a_ip
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic12_pic12c508a_ip
-  oomp_key_full: oomp_symbol_mcu_microchip_pic12_pic12c508a_ip_a740a9
-  oomp_key_simple: mcu_microchip_pic12_pic12c508a_ip
+  md5: b573c8b94e2f833c4d203780bbf8f219
+  md5_10: b573c8b94e
+  md5_5: b573c
+  md5_6: b573c8
+  oomp_key: oomp_pic12c508a_ip
+  oomp_key_extra: oomp_symbol_pic12c508a_ip
+  oomp_key_full: oomp_symbol_pic12c508a_ip_b573c8
+  oomp_key_simple: pic12c508a_ip
   owner_name: kicad
-  symbol_name: mcu_microchip_pic12_pic12c508a_ip
+  symbol_name: pic12c508a_ip
 oomp_key: oomp_kicad_mcu_microchip_pic12_pic12c508a_ip
 oomp_key_simple: kicad_mcu_microchip_pic12_pic12c508a_ip
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

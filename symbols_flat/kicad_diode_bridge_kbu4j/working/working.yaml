@@ -1,19 +1,19 @@
 id: kicad_diode_bridge_kbu4j
 library: diode_bridge
 library_name: Diode_Bridge
-name: diode_bridge_kbu4j
+name: kbu4j
 oomp:
   library_name: diode_bridge
-  md5: 329f3f20d30b3441f563abb023b2108b
-  md5_10: 329f3f20d3
-  md5_5: 329f3
-  md5_6: 329f3f
-  oomp_key: oomp_diode_bridge_kbu4j
-  oomp_key_extra: oomp_symbol_diode_bridge_kbu4j
-  oomp_key_full: oomp_symbol_diode_bridge_kbu4j_329f3f
-  oomp_key_simple: diode_bridge_kbu4j
+  md5: a69f06af24380f4587afea026da74dd8
+  md5_10: a69f06af24
+  md5_5: a69f0
+  md5_6: a69f06
+  oomp_key: oomp_kbu4j
+  oomp_key_extra: oomp_symbol_kbu4j
+  oomp_key_full: oomp_symbol_kbu4j_a69f06
+  oomp_key_simple: kbu4j
   owner_name: kicad
-  symbol_name: diode_bridge_kbu4j
+  symbol_name: kbu4j
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

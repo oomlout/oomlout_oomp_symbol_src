@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_sn74lv8153n/working
   oomp_src_flat: symbols_flat/kicad_interface_sn74lv8153n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_sn74lv8153n/working
-name: interface_sn74lv8153n
+name: sn74lv8153n
 oomp:
   library_name: interface
-  md5: 404f0bf31899373d4314a34e85d7cad9
-  md5_10: 404f0bf318
-  md5_5: 404f0
-  md5_6: 404f0b
-  oomp_key: oomp_interface_sn74lv8153n
-  oomp_key_extra: oomp_symbol_interface_sn74lv8153n
-  oomp_key_full: oomp_symbol_interface_sn74lv8153n_404f0b
-  oomp_key_simple: interface_sn74lv8153n
+  md5: bcd167299501920717a034f7517050a4
+  md5_10: bcd1672995
+  md5_5: bcd16
+  md5_6: bcd167
+  oomp_key: oomp_sn74lv8153n
+  oomp_key_extra: oomp_symbol_sn74lv8153n
+  oomp_key_full: oomp_symbol_sn74lv8153n_bcd167
+  oomp_key_simple: sn74lv8153n
   owner_name: kicad
-  symbol_name: interface_sn74lv8153n
+  symbol_name: sn74lv8153n
 oomp_key: oomp_kicad_interface_sn74lv8153n
 oomp_key_simple: kicad_interface_sn74lv8153n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_stk437_sanyo/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_stk437_sanyo/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_stk437_sanyo/working
-name: amplifier_audio_stk437_sanyo
+name: stk437_sanyo
 oomp:
   library_name: amplifier_audio
-  md5: 1fef623ace13452583e7eccd568c27c3
-  md5_10: 1fef623ace
-  md5_5: 1fef6
-  md5_6: 1fef62
-  oomp_key: oomp_amplifier_audio_stk437_sanyo
-  oomp_key_extra: oomp_symbol_amplifier_audio_stk437_sanyo
-  oomp_key_full: oomp_symbol_amplifier_audio_stk437_sanyo_1fef62
-  oomp_key_simple: amplifier_audio_stk437_sanyo
+  md5: f48b7d6bd8a03aa96762c805d4266326
+  md5_10: f48b7d6bd8
+  md5_5: f48b7
+  md5_6: f48b7d
+  oomp_key: oomp_stk437_sanyo
+  oomp_key_extra: oomp_symbol_stk437_sanyo
+  oomp_key_full: oomp_symbol_stk437_sanyo_f48b7d
+  oomp_key_simple: stk437_sanyo
   owner_name: kicad
-  symbol_name: amplifier_audio_stk437_sanyo
+  symbol_name: stk437_sanyo
 oomp_key: oomp_kicad_amplifier_audio_stk437_sanyo
 oomp_key_simple: kicad_amplifier_audio_stk437_sanyo
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

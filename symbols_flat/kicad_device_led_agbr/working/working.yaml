@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_agbr/working
   oomp_src_flat: symbols_flat/kicad_device_led_agbr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_agbr/working
-name: device_led_agbr
+name: led_agbr
 oomp:
   library_name: device
-  md5: c946f77259695833bd4e92f5ca5ce039
-  md5_10: c946f77259
-  md5_5: c946f
-  md5_6: c946f7
-  oomp_key: oomp_device_led_agbr
-  oomp_key_extra: oomp_symbol_device_led_agbr
-  oomp_key_full: oomp_symbol_device_led_agbr_c946f7
-  oomp_key_simple: device_led_agbr
+  md5: e14138ec8fe4477e8e8969b7b9b1e6f7
+  md5_10: e14138ec8f
+  md5_5: e1413
+  md5_6: e14138
+  oomp_key: oomp_led_agbr
+  oomp_key_extra: oomp_symbol_led_agbr
+  oomp_key_full: oomp_symbol_led_agbr_e14138
+  oomp_key_simple: led_agbr
   owner_name: kicad
-  symbol_name: device_led_agbr
+  symbol_name: led_agbr
 oomp_key: oomp_kicad_device_led_agbr
 oomp_key_simple: kicad_device_led_agbr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_voltage_lv25_p/working
   oomp_src_flat: symbols_flat/kicad_sensor_voltage_lv25_p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_voltage_lv25_p/working
-name: sensor_voltage_lv25_p
+name: lv25_p
 oomp:
   library_name: sensor_voltage
-  md5: 9474995621792137e8a46ca5b72ea99e
-  md5_10: '9474995621'
-  md5_5: '94749'
-  md5_6: '947499'
-  oomp_key: oomp_sensor_voltage_lv25_p
-  oomp_key_extra: oomp_symbol_sensor_voltage_lv25_p
-  oomp_key_full: oomp_symbol_sensor_voltage_lv25_p_947499
-  oomp_key_simple: sensor_voltage_lv25_p
+  md5: 906453384cf9822b4e3a1f4a205342b6
+  md5_10: 906453384c
+  md5_5: '90645'
+  md5_6: '906453'
+  oomp_key: oomp_lv25_p
+  oomp_key_extra: oomp_symbol_lv25_p
+  oomp_key_full: oomp_symbol_lv25_p_906453
+  oomp_key_simple: lv25_p
   owner_name: kicad
-  symbol_name: sensor_voltage_lv25_p
+  symbol_name: lv25_p
 oomp_key: oomp_kicad_sensor_voltage_lv25_p
 oomp_key_simple: kicad_sensor_voltage_lv25_p
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

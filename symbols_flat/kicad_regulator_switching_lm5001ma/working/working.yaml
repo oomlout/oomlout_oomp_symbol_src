@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lm5001ma/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lm5001ma/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lm5001ma/working
-name: regulator_switching_lm5001ma
+name: lm5001ma
 oomp:
   library_name: regulator_switching
-  md5: c933b359eb00d7ad05220750c5a4937c
-  md5_10: c933b359eb
-  md5_5: c933b
-  md5_6: c933b3
-  oomp_key: oomp_regulator_switching_lm5001ma
-  oomp_key_extra: oomp_symbol_regulator_switching_lm5001ma
-  oomp_key_full: oomp_symbol_regulator_switching_lm5001ma_c933b3
-  oomp_key_simple: regulator_switching_lm5001ma
+  md5: fead41a84e76daad59a94d28a0814f96
+  md5_10: fead41a84e
+  md5_5: fead4
+  md5_6: fead41
+  oomp_key: oomp_lm5001ma
+  oomp_key_extra: oomp_symbol_lm5001ma
+  oomp_key_full: oomp_symbol_lm5001ma_fead41
+  oomp_key_simple: lm5001ma
   owner_name: kicad
-  symbol_name: regulator_switching_lm5001ma
+  symbol_name: lm5001ma
 oomp_key: oomp_kicad_regulator_switching_lm5001ma
 oomp_key_simple: kicad_regulator_switching_lm5001ma
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

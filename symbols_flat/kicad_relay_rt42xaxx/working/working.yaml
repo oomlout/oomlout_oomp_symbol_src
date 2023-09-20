@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_rt42xaxx/working
   oomp_src_flat: symbols_flat/kicad_relay_rt42xaxx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_rt42xaxx/working
-name: relay_rt42xaxx
+name: rt42xaxx
 oomp:
   library_name: relay
-  md5: 6a6d909a0e9ab36ffd3cf379d3fa4edd
-  md5_10: 6a6d909a0e
-  md5_5: 6a6d9
-  md5_6: 6a6d90
-  oomp_key: oomp_relay_rt42xaxx
-  oomp_key_extra: oomp_symbol_relay_rt42xaxx
-  oomp_key_full: oomp_symbol_relay_rt42xaxx_6a6d90
-  oomp_key_simple: relay_rt42xaxx
+  md5: 255d91ba8fa5f4eec482463413be9cd7
+  md5_10: 255d91ba8f
+  md5_5: 255d9
+  md5_6: 255d91
+  oomp_key: oomp_rt42xaxx
+  oomp_key_extra: oomp_symbol_rt42xaxx
+  oomp_key_full: oomp_symbol_rt42xaxx_255d91
+  oomp_key_simple: rt42xaxx
   owner_name: kicad
-  symbol_name: relay_rt42xaxx
+  symbol_name: rt42xaxx
 oomp_key: oomp_kicad_relay_rt42xaxx
 oomp_key_simple: kicad_relay_rt42xaxx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

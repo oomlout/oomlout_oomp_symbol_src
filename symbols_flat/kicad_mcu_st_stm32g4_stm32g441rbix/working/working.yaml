@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32g4_stm32g441rbix/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32g4_stm32g441rbix/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32g4_stm32g441rbix/working
-name: mcu_st_stm32g4_stm32g441rbix
+name: stm32g441rbix
 oomp:
   library_name: mcu_st_stm32g4
-  md5: f78895f99d47ce78effd67fce2c726a4
-  md5_10: f78895f99d
-  md5_5: f7889
-  md5_6: f78895
-  oomp_key: oomp_mcu_st_stm32g4_stm32g441rbix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g441rbix
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g441rbix_f78895
-  oomp_key_simple: mcu_st_stm32g4_stm32g441rbix
+  md5: 3339d0c9f5ed54f8ae7172565595c5a7
+  md5_10: 3339d0c9f5
+  md5_5: 3339d
+  md5_6: 3339d0
+  oomp_key: oomp_stm32g441rbix
+  oomp_key_extra: oomp_symbol_stm32g441rbix
+  oomp_key_full: oomp_symbol_stm32g441rbix_3339d0
+  oomp_key_simple: stm32g441rbix
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g441rbix
+  symbol_name: stm32g441rbix
 oomp_key: oomp_kicad_mcu_st_stm32g4_stm32g441rbix
 oomp_key_simple: kicad_mcu_st_stm32g4_stm32g441rbix
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

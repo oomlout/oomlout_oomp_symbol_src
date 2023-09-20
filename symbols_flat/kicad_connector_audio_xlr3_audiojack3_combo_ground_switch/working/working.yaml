@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_ground_switch/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_xlr3_audiojack3_combo_ground_switch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_ground_switch/working
-name: connector_audio_xlr3_audiojack3_combo_ground_switch
+name: xlr3_audiojack3_combo_ground_switch
 oomp:
   library_name: connector_audio
-  md5: ee91c6988d2b131988357335f308ce11
-  md5_10: ee91c6988d
-  md5_5: ee91c
-  md5_6: ee91c6
-  oomp_key: oomp_connector_audio_xlr3_audiojack3_combo_ground_switch
-  oomp_key_extra: oomp_symbol_connector_audio_xlr3_audiojack3_combo_ground_switch
-  oomp_key_full: oomp_symbol_connector_audio_xlr3_audiojack3_combo_ground_switch_ee91c6
-  oomp_key_simple: connector_audio_xlr3_audiojack3_combo_ground_switch
+  md5: 7968fffcbfa441df08c01be43ed44667
+  md5_10: 7968fffcbf
+  md5_5: 7968f
+  md5_6: 7968ff
+  oomp_key: oomp_xlr3_audiojack3_combo_ground_switch
+  oomp_key_extra: oomp_symbol_xlr3_audiojack3_combo_ground_switch
+  oomp_key_full: oomp_symbol_xlr3_audiojack3_combo_ground_switch_7968ff
+  oomp_key_simple: xlr3_audiojack3_combo_ground_switch
   owner_name: kicad
-  symbol_name: connector_audio_xlr3_audiojack3_combo_ground_switch
+  symbol_name: xlr3_audiojack3_combo_ground_switch
 oomp_key: oomp_kicad_connector_audio_xlr3_audiojack3_combo_ground_switch
 oomp_key_simple: kicad_connector_audio_xlr3_audiojack3_combo_ground_switch
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

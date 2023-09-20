@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_mcp1525_to/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_mcp1525_to/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_mcp1525_to/working
-name: reference_voltage_mcp1525_to
+name: mcp1525_to
 oomp:
   library_name: reference_voltage
-  md5: c2794bdde798fceeb5408b56aeba87ba
-  md5_10: c2794bdde7
-  md5_5: c2794
-  md5_6: c2794b
-  oomp_key: oomp_reference_voltage_mcp1525_to
-  oomp_key_extra: oomp_symbol_reference_voltage_mcp1525_to
-  oomp_key_full: oomp_symbol_reference_voltage_mcp1525_to_c2794b
-  oomp_key_simple: reference_voltage_mcp1525_to
+  md5: c0374e454ea9a4435bccfef6c7b44d3c
+  md5_10: c0374e454e
+  md5_5: c0374
+  md5_6: c0374e
+  oomp_key: oomp_mcp1525_to
+  oomp_key_extra: oomp_symbol_mcp1525_to
+  oomp_key_full: oomp_symbol_mcp1525_to_c0374e
+  oomp_key_simple: mcp1525_to
   owner_name: kicad
-  symbol_name: reference_voltage_mcp1525_to
+  symbol_name: mcp1525_to
 oomp_key: oomp_kicad_reference_voltage_mcp1525_to
 oomp_key_simple: kicad_reference_voltage_mcp1525_to
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_tlv70229_wson6
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_tlv70229_wson6
+name: tlv70229_wson6
 oomp:
   library_name: regulator_linear
-  md5: 4f25eb56b5c0172d1e839068cbe75a79
-  md5_10: 4f25eb56b5
-  md5_5: 4f25e
-  md5_6: 4f25eb
-  oomp_key: oomp_regulator_linear_tlv70229_wson6
-  oomp_key_extra: oomp_symbol_regulator_linear_tlv70229_wson6
-  oomp_key_full: oomp_symbol_regulator_linear_tlv70229_wson6_4f25eb
-  oomp_key_simple: regulator_linear_tlv70229_wson6
+  md5: 4b6c5856dc4cb3a22ef4d94dd8218d5c
+  md5_10: 4b6c5856dc
+  md5_5: 4b6c5
+  md5_6: 4b6c58
+  oomp_key: oomp_tlv70229_wson6
+  oomp_key_extra: oomp_symbol_tlv70229_wson6
+  oomp_key_full: oomp_symbol_tlv70229_wson6_4b6c58
+  oomp_key_simple: tlv70229_wson6
   owner_name: kicad
-  symbol_name: regulator_linear_tlv70229_wson6
+  symbol_name: tlv70229_wson6
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

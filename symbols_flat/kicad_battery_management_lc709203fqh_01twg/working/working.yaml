@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_lc709203fqh_01twg/working
   oomp_src_flat: symbols_flat/kicad_battery_management_lc709203fqh_01twg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_lc709203fqh_01twg/working
-name: battery_management_lc709203fqh_01twg
+name: lc709203fqh_01twg
 oomp:
   library_name: battery_management
-  md5: cd4a22dc5ab0c76c385c07bcfc1470b4
-  md5_10: cd4a22dc5a
-  md5_5: cd4a2
-  md5_6: cd4a22
-  oomp_key: oomp_battery_management_lc709203fqh_01twg
-  oomp_key_extra: oomp_symbol_battery_management_lc709203fqh_01twg
-  oomp_key_full: oomp_symbol_battery_management_lc709203fqh_01twg_cd4a22
-  oomp_key_simple: battery_management_lc709203fqh_01twg
+  md5: 725caecf78e782e3cec2e7db5cc984c5
+  md5_10: 725caecf78
+  md5_5: 725ca
+  md5_6: 725cae
+  oomp_key: oomp_lc709203fqh_01twg
+  oomp_key_extra: oomp_symbol_lc709203fqh_01twg
+  oomp_key_full: oomp_symbol_lc709203fqh_01twg_725cae
+  oomp_key_simple: lc709203fqh_01twg
   owner_name: kicad
-  symbol_name: battery_management_lc709203fqh_01twg
+  symbol_name: lc709203fqh_01twg
 oomp_key: oomp_kicad_battery_management_lc709203fqh_01twg
 oomp_key_simple: kicad_battery_management_lc709203fqh_01twg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

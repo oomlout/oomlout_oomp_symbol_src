@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ape8865u4_12_hf_3/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ape8865u4_12_hf_3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ape8865u4_12_hf_3/working
-name: regulator_linear_ape8865u4_12_hf_3
+name: ape8865u4_12_hf_3
 oomp:
   library_name: regulator_linear
-  md5: a7e80af47079a27fea1739b1250d0c15
-  md5_10: a7e80af470
-  md5_5: a7e80
-  md5_6: a7e80a
-  oomp_key: oomp_regulator_linear_ape8865u4_12_hf_3
-  oomp_key_extra: oomp_symbol_regulator_linear_ape8865u4_12_hf_3
-  oomp_key_full: oomp_symbol_regulator_linear_ape8865u4_12_hf_3_a7e80a
-  oomp_key_simple: regulator_linear_ape8865u4_12_hf_3
+  md5: 877eac9c7b8975f3bbb21b269d4923c2
+  md5_10: 877eac9c7b
+  md5_5: 877ea
+  md5_6: 877eac
+  oomp_key: oomp_ape8865u4_12_hf_3
+  oomp_key_extra: oomp_symbol_ape8865u4_12_hf_3
+  oomp_key_full: oomp_symbol_ape8865u4_12_hf_3_877eac
+  oomp_key_simple: ape8865u4_12_hf_3
   owner_name: kicad
-  symbol_name: regulator_linear_ape8865u4_12_hf_3
+  symbol_name: ape8865u4_12_hf_3
 oomp_key: oomp_kicad_regulator_linear_ape8865u4_12_hf_3
 oomp_key_simple: kicad_regulator_linear_ape8865u4_12_hf_3
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

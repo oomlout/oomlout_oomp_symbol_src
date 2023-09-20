@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_bsd235c/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_bsd235c/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_bsd235c/working
-name: transistor_fet_bsd235c
+name: bsd235c
 oomp:
   library_name: transistor_fet
-  md5: 197676ad7002f568f5fccf86b36bc02f
-  md5_10: 197676ad70
-  md5_5: '19767'
-  md5_6: '197676'
-  oomp_key: oomp_transistor_fet_bsd235c
-  oomp_key_extra: oomp_symbol_transistor_fet_bsd235c
-  oomp_key_full: oomp_symbol_transistor_fet_bsd235c_197676
-  oomp_key_simple: transistor_fet_bsd235c
+  md5: 9f852861b8260e4b35c92b801027f4e7
+  md5_10: 9f852861b8
+  md5_5: 9f852
+  md5_6: 9f8528
+  oomp_key: oomp_bsd235c
+  oomp_key_extra: oomp_symbol_bsd235c
+  oomp_key_full: oomp_symbol_bsd235c_9f8528
+  oomp_key_simple: bsd235c
   owner_name: kicad
-  symbol_name: transistor_fet_bsd235c
+  symbol_name: bsd235c
 oomp_key: oomp_kicad_transistor_fet_bsd235c
 oomp_key_simple: kicad_transistor_fet_bsd235c
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

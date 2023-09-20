@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpld_altera_epm240zm68/working
   oomp_src_flat: symbols_flat/kicad_cpld_altera_epm240zm68/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpld_altera_epm240zm68/working
-name: cpld_altera_epm240zm68
+name: epm240zm68
 oomp:
   library_name: cpld_altera
-  md5: 7a66c2f47b8c0afa18c730be8f0dfb34
-  md5_10: 7a66c2f47b
-  md5_5: 7a66c
-  md5_6: 7a66c2
-  oomp_key: oomp_cpld_altera_epm240zm68
-  oomp_key_extra: oomp_symbol_cpld_altera_epm240zm68
-  oomp_key_full: oomp_symbol_cpld_altera_epm240zm68_7a66c2
-  oomp_key_simple: cpld_altera_epm240zm68
+  md5: 54946293c90c4a46901256ad1651c5f2
+  md5_10: 54946293c9
+  md5_5: '54946'
+  md5_6: '549462'
+  oomp_key: oomp_epm240zm68
+  oomp_key_extra: oomp_symbol_epm240zm68
+  oomp_key_full: oomp_symbol_epm240zm68_549462
+  oomp_key_simple: epm240zm68
   owner_name: kicad
-  symbol_name: cpld_altera_epm240zm68
+  symbol_name: epm240zm68
 oomp_key: oomp_kicad_cpld_altera_epm240zm68
 oomp_key_simple: kicad_cpld_altera_epm240zm68
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

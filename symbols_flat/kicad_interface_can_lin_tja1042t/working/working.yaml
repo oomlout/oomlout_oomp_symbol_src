@@ -1,19 +1,19 @@
 id: kicad_interface_can_lin_tja1042t
 library: interface_can_lin
 library_name: Interface_CAN_LIN
-name: interface_can_lin_tja1042t
+name: tja1042t
 oomp:
   library_name: interface_can_lin
-  md5: ce8aa68f0b484f78807e9c689f6b670e
-  md5_10: ce8aa68f0b
-  md5_5: ce8aa
-  md5_6: ce8aa6
-  oomp_key: oomp_interface_can_lin_tja1042t
-  oomp_key_extra: oomp_symbol_interface_can_lin_tja1042t
-  oomp_key_full: oomp_symbol_interface_can_lin_tja1042t_ce8aa6
-  oomp_key_simple: interface_can_lin_tja1042t
+  md5: 9422be026c12de91760cf8b5bdc6a150
+  md5_10: 9422be026c
+  md5_5: 9422b
+  md5_6: 9422be
+  oomp_key: oomp_tja1042t
+  oomp_key_extra: oomp_symbol_tja1042t
+  oomp_key_full: oomp_symbol_tja1042t_9422be
+  oomp_key_simple: tja1042t
   owner_name: kicad
-  symbol_name: interface_can_lin_tja1042t
+  symbol_name: tja1042t
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

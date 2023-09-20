@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_enc424j600_ml/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_enc424j600_ml/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_enc424j600_ml/working
-name: interface_ethernet_enc424j600_ml
+name: enc424j600_ml
 oomp:
   library_name: interface_ethernet
-  md5: f5480ca5d935a7eab53a47132dba93bd
-  md5_10: f5480ca5d9
-  md5_5: f5480
-  md5_6: f5480c
-  oomp_key: oomp_interface_ethernet_enc424j600_ml
-  oomp_key_extra: oomp_symbol_interface_ethernet_enc424j600_ml
-  oomp_key_full: oomp_symbol_interface_ethernet_enc424j600_ml_f5480c
-  oomp_key_simple: interface_ethernet_enc424j600_ml
+  md5: 7cdd81415303cd5e4ca8deccfdc99eeb
+  md5_10: 7cdd814153
+  md5_5: 7cdd8
+  md5_6: 7cdd81
+  oomp_key: oomp_enc424j600_ml
+  oomp_key_extra: oomp_symbol_enc424j600_ml
+  oomp_key_full: oomp_symbol_enc424j600_ml_7cdd81
+  oomp_key_simple: enc424j600_ml
   owner_name: kicad
-  symbol_name: interface_ethernet_enc424j600_ml
+  symbol_name: enc424j600_ml
 oomp_key: oomp_kicad_interface_ethernet_enc424j600_ml
 oomp_key_simple: kicad_interface_ethernet_enc424j600_ml
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_sanyou_srd_form_c/working
   oomp_src_flat: symbols_flat/kicad_relay_sanyou_srd_form_c/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_sanyou_srd_form_c/working
-name: relay_sanyou_srd_form_c
+name: sanyou_srd_form_c
 oomp:
   library_name: relay
-  md5: 0c53586b598871ec1a7deacaea3b8b22
-  md5_10: 0c53586b59
-  md5_5: 0c535
-  md5_6: 0c5358
-  oomp_key: oomp_relay_sanyou_srd_form_c
-  oomp_key_extra: oomp_symbol_relay_sanyou_srd_form_c
-  oomp_key_full: oomp_symbol_relay_sanyou_srd_form_c_0c5358
-  oomp_key_simple: relay_sanyou_srd_form_c
+  md5: a20c4458a703eab61c98d01dc8c11481
+  md5_10: a20c4458a7
+  md5_5: a20c4
+  md5_6: a20c44
+  oomp_key: oomp_sanyou_srd_form_c
+  oomp_key_extra: oomp_symbol_sanyou_srd_form_c
+  oomp_key_full: oomp_symbol_sanyou_srd_form_c_a20c44
+  oomp_key_simple: sanyou_srd_form_c
   owner_name: kicad
-  symbol_name: relay_sanyou_srd_form_c
+  symbol_name: sanyou_srd_form_c
 oomp_key: oomp_kicad_relay_sanyou_srd_form_c
 oomp_key_simple: kicad_relay_sanyou_srd_form_c
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

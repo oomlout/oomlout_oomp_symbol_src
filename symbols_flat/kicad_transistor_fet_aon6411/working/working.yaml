@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_aon6411/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_aon6411/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_aon6411/working
-name: transistor_fet_aon6411
+name: aon6411
 oomp:
   library_name: transistor_fet
-  md5: 9e8221fd7ae3933c2459cb3a05244488
-  md5_10: 9e8221fd7a
-  md5_5: 9e822
-  md5_6: 9e8221
-  oomp_key: oomp_transistor_fet_aon6411
-  oomp_key_extra: oomp_symbol_transistor_fet_aon6411
-  oomp_key_full: oomp_symbol_transistor_fet_aon6411_9e8221
-  oomp_key_simple: transistor_fet_aon6411
+  md5: 14c96577eaa8cca02fdf66b49de8521a
+  md5_10: 14c96577ea
+  md5_5: 14c96
+  md5_6: 14c965
+  oomp_key: oomp_aon6411
+  oomp_key_extra: oomp_symbol_aon6411
+  oomp_key_full: oomp_symbol_aon6411_14c965
+  oomp_key_simple: aon6411
   owner_name: kicad
-  symbol_name: transistor_fet_aon6411
+  symbol_name: aon6411
 oomp_key: oomp_kicad_transistor_fet_aon6411
 oomp_key_simple: kicad_transistor_fet_aon6411
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

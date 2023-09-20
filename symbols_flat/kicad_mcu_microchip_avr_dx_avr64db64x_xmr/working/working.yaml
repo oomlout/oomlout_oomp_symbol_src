@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_avr_dx_avr64db64x_xmr/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_avr_dx_avr64db64x_xmr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_avr_dx_avr64db64x_xmr/working
-name: mcu_microchip_avr_dx_avr64db64x_xmr
+name: avr64db64x_xmr
 oomp:
   library_name: mcu_microchip_avr_dx
-  md5: ae8c01d2fff3e46a3c29837842eded75
-  md5_10: ae8c01d2ff
-  md5_5: ae8c0
-  md5_6: ae8c01
-  oomp_key: oomp_mcu_microchip_avr_dx_avr64db64x_xmr
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_dx_avr64db64x_xmr
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_dx_avr64db64x_xmr_ae8c01
-  oomp_key_simple: mcu_microchip_avr_dx_avr64db64x_xmr
+  md5: b2ff092699109d9f931d4552966d7c8d
+  md5_10: b2ff092699
+  md5_5: b2ff0
+  md5_6: b2ff09
+  oomp_key: oomp_avr64db64x_xmr
+  oomp_key_extra: oomp_symbol_avr64db64x_xmr
+  oomp_key_full: oomp_symbol_avr64db64x_xmr_b2ff09
+  oomp_key_simple: avr64db64x_xmr
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_dx_avr64db64x_xmr
+  symbol_name: avr64db64x_xmr
 oomp_key: oomp_kicad_mcu_microchip_avr_dx_avr64db64x_xmr
 oomp_key_simple: kicad_mcu_microchip_avr_dx_avr64db64x_xmr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

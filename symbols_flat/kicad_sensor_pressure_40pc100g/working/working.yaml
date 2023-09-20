@@ -1,19 +1,19 @@
 id: kicad_sensor_pressure_40pc100g
 library: sensor_pressure
 library_name: Sensor_Pressure
-name: sensor_pressure_40pc100g
+name: 40pc100g
 oomp:
   library_name: sensor_pressure
-  md5: 57298f16250d6d5fd595ad87135fe96e
-  md5_10: 57298f1625
-  md5_5: '57298'
-  md5_6: 57298f
-  oomp_key: oomp_sensor_pressure_40pc100g
-  oomp_key_extra: oomp_symbol_sensor_pressure_40pc100g
-  oomp_key_full: oomp_symbol_sensor_pressure_40pc100g_57298f
-  oomp_key_simple: sensor_pressure_40pc100g
+  md5: a10f61babb1bfc72a69acf26e7e8d174
+  md5_10: a10f61babb
+  md5_5: a10f6
+  md5_6: a10f61
+  oomp_key: oomp_40pc100g
+  oomp_key_extra: oomp_symbol_40pc100g
+  oomp_key_full: oomp_symbol_40pc100g_a10f61
+  oomp_key_simple: 40pc100g
   owner_name: kicad
-  symbol_name: sensor_pressure_40pc100g
+  symbol_name: 40pc100g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

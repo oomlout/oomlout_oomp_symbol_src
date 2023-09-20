@@ -1,19 +1,19 @@
 id: kicad_sensor_proximity_bpr_105f
 library: sensor_proximity
 library_name: Sensor_Proximity
-name: sensor_proximity_bpr_105f
+name: bpr_105f
 oomp:
   library_name: sensor_proximity
-  md5: 332d70c38893ee06c6f8d3f131e52a18
-  md5_10: 332d70c388
-  md5_5: 332d7
-  md5_6: 332d70
-  oomp_key: oomp_sensor_proximity_bpr_105f
-  oomp_key_extra: oomp_symbol_sensor_proximity_bpr_105f
-  oomp_key_full: oomp_symbol_sensor_proximity_bpr_105f_332d70
-  oomp_key_simple: sensor_proximity_bpr_105f
+  md5: b856d5617ba298d1072cfef22f0a9a13
+  md5_10: b856d5617b
+  md5_5: b856d
+  md5_6: b856d5
+  oomp_key: oomp_bpr_105f
+  oomp_key_extra: oomp_symbol_bpr_105f
+  oomp_key_full: oomp_symbol_bpr_105f_b856d5
+  oomp_key_simple: bpr_105f
   owner_name: kicad
-  symbol_name: sensor_proximity_bpr_105f
+  symbol_name: bpr_105f
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

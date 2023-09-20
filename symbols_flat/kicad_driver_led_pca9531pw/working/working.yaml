@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_pca9531pw/working
   oomp_src_flat: symbols_flat/kicad_driver_led_pca9531pw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_pca9531pw/working
-name: driver_led_pca9531pw
+name: pca9531pw
 oomp:
   library_name: driver_led
-  md5: 630288389adcd936af470bc0ffdb4d4c
-  md5_10: 630288389a
-  md5_5: '63028'
-  md5_6: '630288'
-  oomp_key: oomp_driver_led_pca9531pw
-  oomp_key_extra: oomp_symbol_driver_led_pca9531pw
-  oomp_key_full: oomp_symbol_driver_led_pca9531pw_630288
-  oomp_key_simple: driver_led_pca9531pw
+  md5: e6ab266afcdd1181fbdf682ebf0d3312
+  md5_10: e6ab266afc
+  md5_5: e6ab2
+  md5_6: e6ab26
+  oomp_key: oomp_pca9531pw
+  oomp_key_extra: oomp_symbol_pca9531pw
+  oomp_key_full: oomp_symbol_pca9531pw_e6ab26
+  oomp_key_simple: pca9531pw
   owner_name: kicad
-  symbol_name: driver_led_pca9531pw
+  symbol_name: pca9531pw
 oomp_key: oomp_kicad_driver_led_pca9531pw
 oomp_key_simple: kicad_driver_led_pca9531pw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ncp1200d40/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ncp1200d40/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ncp1200d40/working
-name: regulator_controller_ncp1200d40
+name: ncp1200d40
 oomp:
   library_name: regulator_controller
-  md5: 77e9fb54b4036912785f61c94c45476d
-  md5_10: 77e9fb54b4
-  md5_5: 77e9f
-  md5_6: 77e9fb
-  oomp_key: oomp_regulator_controller_ncp1200d40
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp1200d40
-  oomp_key_full: oomp_symbol_regulator_controller_ncp1200d40_77e9fb
-  oomp_key_simple: regulator_controller_ncp1200d40
+  md5: e50da33c412482fb5c41a456a0ed2f07
+  md5_10: e50da33c41
+  md5_5: e50da
+  md5_6: e50da3
+  oomp_key: oomp_ncp1200d40
+  oomp_key_extra: oomp_symbol_ncp1200d40
+  oomp_key_full: oomp_symbol_ncp1200d40_e50da3
+  oomp_key_simple: ncp1200d40
   owner_name: kicad
-  symbol_name: regulator_controller_ncp1200d40
+  symbol_name: ncp1200d40
 oomp_key: oomp_kicad_regulator_controller_ncp1200d40
 oomp_key_simple: kicad_regulator_controller_ncp1200d40
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

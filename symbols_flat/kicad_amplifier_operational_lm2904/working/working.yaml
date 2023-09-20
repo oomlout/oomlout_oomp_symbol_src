@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lm2904/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lm2904/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lm2904/working
-name: amplifier_operational_lm2904
+name: lm2904
 oomp:
   library_name: amplifier_operational
-  md5: 2b528f9d56614781e9ff06e847efb9ae
-  md5_10: 2b528f9d56
-  md5_5: 2b528
-  md5_6: 2b528f
-  oomp_key: oomp_amplifier_operational_lm2904
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm2904
-  oomp_key_full: oomp_symbol_amplifier_operational_lm2904_2b528f
-  oomp_key_simple: amplifier_operational_lm2904
+  md5: 6328c9f3984f6b33ebbaaf99496bf6c2
+  md5_10: 6328c9f398
+  md5_5: 6328c
+  md5_6: 6328c9
+  oomp_key: oomp_lm2904
+  oomp_key_extra: oomp_symbol_lm2904
+  oomp_key_full: oomp_symbol_lm2904_6328c9
+  oomp_key_simple: lm2904
   owner_name: kicad
-  symbol_name: amplifier_operational_lm2904
+  symbol_name: lm2904
 oomp_key: oomp_kicad_amplifier_operational_lm2904
 oomp_key_simple: kicad_amplifier_operational_lm2904
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

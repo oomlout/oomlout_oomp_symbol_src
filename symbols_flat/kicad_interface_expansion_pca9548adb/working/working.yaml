@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_pca9548adb/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_pca9548adb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_pca9548adb/working
-name: interface_expansion_pca9548adb
+name: pca9548adb
 oomp:
   library_name: interface_expansion
-  md5: 00affacc51840fed359c1c1a774cee7b
-  md5_10: 00affacc51
-  md5_5: 00aff
-  md5_6: 00affa
-  oomp_key: oomp_interface_expansion_pca9548adb
-  oomp_key_extra: oomp_symbol_interface_expansion_pca9548adb
-  oomp_key_full: oomp_symbol_interface_expansion_pca9548adb_00affa
-  oomp_key_simple: interface_expansion_pca9548adb
+  md5: db45496b721be9029490d49fb8818d14
+  md5_10: db45496b72
+  md5_5: db454
+  md5_6: db4549
+  oomp_key: oomp_pca9548adb
+  oomp_key_extra: oomp_symbol_pca9548adb
+  oomp_key_full: oomp_symbol_pca9548adb_db4549
+  oomp_key_simple: pca9548adb
   owner_name: kicad
-  symbol_name: interface_expansion_pca9548adb
+  symbol_name: pca9548adb
 oomp_key: oomp_kicad_interface_expansion_pca9548adb
 oomp_key_simple: kicad_interface_expansion_pca9548adb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

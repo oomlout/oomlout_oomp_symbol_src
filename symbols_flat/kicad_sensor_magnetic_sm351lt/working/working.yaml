@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_sm351lt/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_sm351lt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_sm351lt/working
-name: sensor_magnetic_sm351lt
+name: sm351lt
 oomp:
   library_name: sensor_magnetic
-  md5: 8e4ae250bc6dff25d7aba1eb768c8d53
-  md5_10: 8e4ae250bc
-  md5_5: 8e4ae
-  md5_6: 8e4ae2
-  oomp_key: oomp_sensor_magnetic_sm351lt
-  oomp_key_extra: oomp_symbol_sensor_magnetic_sm351lt
-  oomp_key_full: oomp_symbol_sensor_magnetic_sm351lt_8e4ae2
-  oomp_key_simple: sensor_magnetic_sm351lt
+  md5: 6b9351ce4a9c515db98fd9eb774b5de8
+  md5_10: 6b9351ce4a
+  md5_5: 6b935
+  md5_6: 6b9351
+  oomp_key: oomp_sm351lt
+  oomp_key_extra: oomp_symbol_sm351lt
+  oomp_key_full: oomp_symbol_sm351lt_6b9351
+  oomp_key_simple: sm351lt
   owner_name: kicad
-  symbol_name: sensor_magnetic_sm351lt
+  symbol_name: sm351lt
 oomp_key: oomp_kicad_sensor_magnetic_sm351lt
 oomp_key_simple: kicad_sensor_magnetic_sm351lt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

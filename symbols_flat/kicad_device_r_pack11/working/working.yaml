@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_pack11/working
   oomp_src_flat: symbols_flat/kicad_device_r_pack11/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_pack11/working
-name: device_r_pack11
+name: r_pack11
 oomp:
   library_name: device
-  md5: b488e3321b4b1adb6a08b4db46d0e3d1
-  md5_10: b488e3321b
-  md5_5: b488e
-  md5_6: b488e3
-  oomp_key: oomp_device_r_pack11
-  oomp_key_extra: oomp_symbol_device_r_pack11
-  oomp_key_full: oomp_symbol_device_r_pack11_b488e3
-  oomp_key_simple: device_r_pack11
+  md5: 8f5ed4e17421ab5a01806fec6de64dbe
+  md5_10: 8f5ed4e174
+  md5_5: 8f5ed
+  md5_6: 8f5ed4
+  oomp_key: oomp_r_pack11
+  oomp_key_extra: oomp_symbol_r_pack11
+  oomp_key_full: oomp_symbol_r_pack11_8f5ed4
+  oomp_key_simple: r_pack11
   owner_name: kicad
-  symbol_name: device_r_pack11
+  symbol_name: r_pack11
 oomp_key: oomp_kicad_device_r_pack11
 oomp_key_simple: kicad_device_r_pack11
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

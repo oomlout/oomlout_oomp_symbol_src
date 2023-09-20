@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_valve_em84/working
   oomp_src_flat: symbols_flat/kicad_valve_em84/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_valve_em84/working
-name: valve_em84
+name: em84
 oomp:
   library_name: valve
-  md5: 9212d8358cea1db8929f1ee503d5bf37
-  md5_10: 9212d8358c
-  md5_5: 9212d
-  md5_6: 9212d8
-  oomp_key: oomp_valve_em84
-  oomp_key_extra: oomp_symbol_valve_em84
-  oomp_key_full: oomp_symbol_valve_em84_9212d8
-  oomp_key_simple: valve_em84
+  md5: c01c38964195b98fa890b848962ac417
+  md5_10: c01c389641
+  md5_5: c01c3
+  md5_6: c01c38
+  oomp_key: oomp_em84
+  oomp_key_extra: oomp_symbol_em84
+  oomp_key_full: oomp_symbol_em84_c01c38
+  oomp_key_simple: em84
   owner_name: kicad
-  symbol_name: valve_em84
+  symbol_name: em84
 oomp_key: oomp_kicad_valve_em84
 oomp_key_simple: kicad_valve_em84
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

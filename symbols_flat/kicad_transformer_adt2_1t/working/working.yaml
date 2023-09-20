@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_adt2_1t/working
   oomp_src_flat: symbols_flat/kicad_transformer_adt2_1t/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_adt2_1t/working
-name: transformer_adt2_1t
+name: adt2_1t
 oomp:
   library_name: transformer
-  md5: 3bb28b0089c19b70e95a5a56ea98ec0e
-  md5_10: 3bb28b0089
-  md5_5: 3bb28
-  md5_6: 3bb28b
-  oomp_key: oomp_transformer_adt2_1t
-  oomp_key_extra: oomp_symbol_transformer_adt2_1t
-  oomp_key_full: oomp_symbol_transformer_adt2_1t_3bb28b
-  oomp_key_simple: transformer_adt2_1t
+  md5: 7e9e65d82ddcfbb83ac8cfd52472a176
+  md5_10: 7e9e65d82d
+  md5_5: 7e9e6
+  md5_6: 7e9e65
+  oomp_key: oomp_adt2_1t
+  oomp_key_extra: oomp_symbol_adt2_1t
+  oomp_key_full: oomp_symbol_adt2_1t_7e9e65
+  oomp_key_simple: adt2_1t
   owner_name: kicad
-  symbol_name: transformer_adt2_1t
+  symbol_name: adt2_1t
 oomp_key: oomp_kicad_transformer_adt2_1t
 oomp_key_simple: kicad_transformer_adt2_1t
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

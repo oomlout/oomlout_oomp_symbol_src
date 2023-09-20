@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_csd17578q5a/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_csd17578q5a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_csd17578q5a/working
-name: transistor_fet_csd17578q5a
+name: csd17578q5a
 oomp:
   library_name: transistor_fet
-  md5: e4eecef5ea3824a2674619289bd62f40
-  md5_10: e4eecef5ea
-  md5_5: e4eec
-  md5_6: e4eece
-  oomp_key: oomp_transistor_fet_csd17578q5a
-  oomp_key_extra: oomp_symbol_transistor_fet_csd17578q5a
-  oomp_key_full: oomp_symbol_transistor_fet_csd17578q5a_e4eece
-  oomp_key_simple: transistor_fet_csd17578q5a
+  md5: 827a5b2fce41587ae85ea143bc27f61b
+  md5_10: 827a5b2fce
+  md5_5: 827a5
+  md5_6: 827a5b
+  oomp_key: oomp_csd17578q5a
+  oomp_key_extra: oomp_symbol_csd17578q5a
+  oomp_key_full: oomp_symbol_csd17578q5a_827a5b
+  oomp_key_simple: csd17578q5a
   owner_name: kicad
-  symbol_name: transistor_fet_csd17578q5a
+  symbol_name: csd17578q5a
 oomp_key: oomp_kicad_transistor_fet_csd17578q5a
 oomp_key_simple: kicad_transistor_fet_csd17578q5a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

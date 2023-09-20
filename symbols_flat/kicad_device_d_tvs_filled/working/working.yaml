@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_tvs_filled/working
   oomp_src_flat: symbols_flat/kicad_device_d_tvs_filled/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_tvs_filled/working
-name: device_d_tvs_filled
+name: d_tvs_filled
 oomp:
   library_name: device
-  md5: 39e221a2fdc8117dbe21baafb4b1c1a6
-  md5_10: 39e221a2fd
-  md5_5: 39e22
-  md5_6: 39e221
-  oomp_key: oomp_device_d_tvs_filled
-  oomp_key_extra: oomp_symbol_device_d_tvs_filled
-  oomp_key_full: oomp_symbol_device_d_tvs_filled_39e221
-  oomp_key_simple: device_d_tvs_filled
+  md5: caf59ddec750465e548038f0b026d9f5
+  md5_10: caf59ddec7
+  md5_5: caf59
+  md5_6: caf59d
+  oomp_key: oomp_d_tvs_filled
+  oomp_key_extra: oomp_symbol_d_tvs_filled
+  oomp_key_full: oomp_symbol_d_tvs_filled_caf59d
+  oomp_key_simple: d_tvs_filled
   owner_name: kicad
-  symbol_name: device_d_tvs_filled
+  symbol_name: d_tvs_filled
 oomp_key: oomp_kicad_device_d_tvs_filled
 oomp_key_simple: kicad_device_d_tvs_filled
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

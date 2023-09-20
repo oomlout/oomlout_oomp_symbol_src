@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_mcp9804_dfn/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_mcp9804_dfn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_mcp9804_dfn/working
-name: sensor_temperature_mcp9804_dfn
+name: mcp9804_dfn
 oomp:
   library_name: sensor_temperature
-  md5: 4e3675fe4dff0209e4318eec7d1754f8
-  md5_10: 4e3675fe4d
-  md5_5: 4e367
-  md5_6: 4e3675
-  oomp_key: oomp_sensor_temperature_mcp9804_dfn
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9804_dfn
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9804_dfn_4e3675
-  oomp_key_simple: sensor_temperature_mcp9804_dfn
+  md5: 537dce995630eb93d613666ed3e0f761
+  md5_10: 537dce9956
+  md5_5: 537dc
+  md5_6: 537dce
+  oomp_key: oomp_mcp9804_dfn
+  oomp_key_extra: oomp_symbol_mcp9804_dfn
+  oomp_key_full: oomp_symbol_mcp9804_dfn_537dce
+  oomp_key_simple: mcp9804_dfn
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9804_dfn
+  symbol_name: mcp9804_dfn
 oomp_key: oomp_kicad_sensor_temperature_mcp9804_dfn
 oomp_key_simple: kicad_sensor_temperature_mcp9804_dfn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

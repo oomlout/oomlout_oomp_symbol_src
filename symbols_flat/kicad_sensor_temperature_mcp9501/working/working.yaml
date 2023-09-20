@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_mcp9501/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_mcp9501/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_mcp9501/working
-name: sensor_temperature_mcp9501
+name: mcp9501
 oomp:
   library_name: sensor_temperature
-  md5: 68753b4884b70742fdff5557560f31eb
-  md5_10: 68753b4884
-  md5_5: '68753'
-  md5_6: 68753b
-  oomp_key: oomp_sensor_temperature_mcp9501
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9501
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9501_68753b
-  oomp_key_simple: sensor_temperature_mcp9501
+  md5: 221055d5b3ffb5f9b8787795d094e8da
+  md5_10: 221055d5b3
+  md5_5: '22105'
+  md5_6: '221055'
+  oomp_key: oomp_mcp9501
+  oomp_key_extra: oomp_symbol_mcp9501
+  oomp_key_full: oomp_symbol_mcp9501_221055
+  oomp_key_simple: mcp9501
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9501
+  symbol_name: mcp9501
 oomp_key: oomp_kicad_sensor_temperature_mcp9501
 oomp_key_simple: kicad_sensor_temperature_mcp9501
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

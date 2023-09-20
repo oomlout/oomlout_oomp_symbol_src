@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_amc3336/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_amc3336/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_amc3336/working
-name: analog_adc_amc3336
+name: amc3336
 oomp:
   library_name: analog_adc
-  md5: 009a1e694a5c47fb8b2ddf29690c494a
-  md5_10: 009a1e694a
-  md5_5: 009a1
-  md5_6: 009a1e
-  oomp_key: oomp_analog_adc_amc3336
-  oomp_key_extra: oomp_symbol_analog_adc_amc3336
-  oomp_key_full: oomp_symbol_analog_adc_amc3336_009a1e
-  oomp_key_simple: analog_adc_amc3336
+  md5: 29272a97c75b44519553c219118dcdb9
+  md5_10: 29272a97c7
+  md5_5: '29272'
+  md5_6: 29272a
+  oomp_key: oomp_amc3336
+  oomp_key_extra: oomp_symbol_amc3336
+  oomp_key_full: oomp_symbol_amc3336_29272a
+  oomp_key_simple: amc3336
   owner_name: kicad
-  symbol_name: analog_adc_amc3336
+  symbol_name: amc3336
 oomp_key: oomp_kicad_analog_adc_amc3336
 oomp_key_simple: kicad_analog_adc_amc3336
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

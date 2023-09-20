@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_sy58032u/working
   oomp_src_flat: symbols_flat/kicad_timer_sy58032u/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_sy58032u/working
-name: timer_sy58032u
+name: sy58032u
 oomp:
   library_name: timer
-  md5: 4d139481cbcd8b2c329ffa4185612039
-  md5_10: 4d139481cb
-  md5_5: 4d139
-  md5_6: 4d1394
-  oomp_key: oomp_timer_sy58032u
-  oomp_key_extra: oomp_symbol_timer_sy58032u
-  oomp_key_full: oomp_symbol_timer_sy58032u_4d1394
-  oomp_key_simple: timer_sy58032u
+  md5: 2fe92923b5d1578506a88ec70a33b413
+  md5_10: 2fe92923b5
+  md5_5: 2fe92
+  md5_6: 2fe929
+  oomp_key: oomp_sy58032u
+  oomp_key_extra: oomp_symbol_sy58032u
+  oomp_key_full: oomp_symbol_sy58032u_2fe929
+  oomp_key_simple: sy58032u
   owner_name: kicad
-  symbol_name: timer_sy58032u
+  symbol_name: sy58032u
 oomp_key: oomp_kicad_timer_sy58032u
 oomp_key_simple: kicad_timer_sy58032u
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

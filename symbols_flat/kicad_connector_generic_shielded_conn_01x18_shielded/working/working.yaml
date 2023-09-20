@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_shielded_conn_01x18_shielded/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_shielded_conn_01x18_shielded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_shielded_conn_01x18_shielded/working
-name: connector_generic_shielded_conn_01x18_shielded
+name: conn_01x18_shielded
 oomp:
   library_name: connector_generic_shielded
-  md5: 19bd793404e44e0f9bce1342b99f959a
-  md5_10: 19bd793404
-  md5_5: 19bd7
-  md5_6: 19bd79
-  oomp_key: oomp_connector_generic_shielded_conn_01x18_shielded
-  oomp_key_extra: oomp_symbol_connector_generic_shielded_conn_01x18_shielded
-  oomp_key_full: oomp_symbol_connector_generic_shielded_conn_01x18_shielded_19bd79
-  oomp_key_simple: connector_generic_shielded_conn_01x18_shielded
+  md5: acb2f616f46ca752d44297d02ac0b324
+  md5_10: acb2f616f4
+  md5_5: acb2f
+  md5_6: acb2f6
+  oomp_key: oomp_conn_01x18_shielded
+  oomp_key_extra: oomp_symbol_conn_01x18_shielded
+  oomp_key_full: oomp_symbol_conn_01x18_shielded_acb2f6
+  oomp_key_simple: conn_01x18_shielded
   owner_name: kicad
-  symbol_name: connector_generic_shielded_conn_01x18_shielded
+  symbol_name: conn_01x18_shielded
 oomp_key: oomp_kicad_connector_generic_shielded_conn_01x18_shielded
 oomp_key_simple: kicad_connector_generic_shielded_conn_01x18_shielded
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

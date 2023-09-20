@@ -1,19 +1,19 @@
 id: kicad_interface_uart_gd65232dw
 library: interface_uart
 library_name: Interface_UART
-name: interface_uart_gd65232dw
+name: gd65232dw
 oomp:
   library_name: interface_uart
-  md5: f387b07bfeafbb86e13005cd2ff99a7b
-  md5_10: f387b07bfe
-  md5_5: f387b
-  md5_6: f387b0
-  oomp_key: oomp_interface_uart_gd65232dw
-  oomp_key_extra: oomp_symbol_interface_uart_gd65232dw
-  oomp_key_full: oomp_symbol_interface_uart_gd65232dw_f387b0
-  oomp_key_simple: interface_uart_gd65232dw
+  md5: e2618eaf5c95ba2e0a3c02864ff97078
+  md5_10: e2618eaf5c
+  md5_5: e2618
+  md5_6: e2618e
+  oomp_key: oomp_gd65232dw
+  oomp_key_extra: oomp_symbol_gd65232dw
+  oomp_key_full: oomp_symbol_gd65232dw_e2618e
+  oomp_key_simple: gd65232dw
   owner_name: kicad
-  symbol_name: interface_uart_gd65232dw
+  symbol_name: gd65232dw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

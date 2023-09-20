@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_lmv393/working
   oomp_src_flat: symbols_flat/kicad_comparator_lmv393/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_lmv393/working
-name: comparator_lmv393
+name: lmv393
 oomp:
   library_name: comparator
-  md5: f0fada31e438340bf4d0416928be3087
-  md5_10: f0fada31e4
-  md5_5: f0fad
-  md5_6: f0fada
-  oomp_key: oomp_comparator_lmv393
-  oomp_key_extra: oomp_symbol_comparator_lmv393
-  oomp_key_full: oomp_symbol_comparator_lmv393_f0fada
-  oomp_key_simple: comparator_lmv393
+  md5: bcb6e5ff2f97fe770bb663b773df0277
+  md5_10: bcb6e5ff2f
+  md5_5: bcb6e
+  md5_6: bcb6e5
+  oomp_key: oomp_lmv393
+  oomp_key_extra: oomp_symbol_lmv393
+  oomp_key_full: oomp_symbol_lmv393_bcb6e5
+  oomp_key_simple: lmv393
   owner_name: kicad
-  symbol_name: comparator_lmv393
+  symbol_name: lmv393
 oomp_key: oomp_kicad_comparator_lmv393
 oomp_key_simple: kicad_comparator_lmv393
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

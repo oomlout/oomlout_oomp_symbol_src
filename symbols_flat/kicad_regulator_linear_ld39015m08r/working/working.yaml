@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ld39015m08r/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ld39015m08r/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ld39015m08r/working
-name: regulator_linear_ld39015m08r
+name: ld39015m08r
 oomp:
   library_name: regulator_linear
-  md5: 3c276b391a339a646efabb7252b03b2b
-  md5_10: 3c276b391a
-  md5_5: 3c276
-  md5_6: 3c276b
-  oomp_key: oomp_regulator_linear_ld39015m08r
-  oomp_key_extra: oomp_symbol_regulator_linear_ld39015m08r
-  oomp_key_full: oomp_symbol_regulator_linear_ld39015m08r_3c276b
-  oomp_key_simple: regulator_linear_ld39015m08r
+  md5: 24ffd7c89fa68595b740af564ff2905e
+  md5_10: 24ffd7c89f
+  md5_5: 24ffd
+  md5_6: 24ffd7
+  oomp_key: oomp_ld39015m08r
+  oomp_key_extra: oomp_symbol_ld39015m08r
+  oomp_key_full: oomp_symbol_ld39015m08r_24ffd7
+  oomp_key_simple: ld39015m08r
   owner_name: kicad
-  symbol_name: regulator_linear_ld39015m08r
+  symbol_name: ld39015m08r
 oomp_key: oomp_kicad_regulator_linear_ld39015m08r
 oomp_key_simple: kicad_regulator_linear_ld39015m08r
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

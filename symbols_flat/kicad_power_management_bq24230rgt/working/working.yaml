@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_bq24230rgt/working
   oomp_src_flat: symbols_flat/kicad_power_management_bq24230rgt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_bq24230rgt/working
-name: power_management_bq24230rgt
+name: bq24230rgt
 oomp:
   library_name: power_management
-  md5: bd7f6978b02b67e78c53a0e758a0016a
-  md5_10: bd7f6978b0
-  md5_5: bd7f6
-  md5_6: bd7f69
-  oomp_key: oomp_power_management_bq24230rgt
-  oomp_key_extra: oomp_symbol_power_management_bq24230rgt
-  oomp_key_full: oomp_symbol_power_management_bq24230rgt_bd7f69
-  oomp_key_simple: power_management_bq24230rgt
+  md5: 31c57f61a3b3b345ceafd29ca05209ac
+  md5_10: 31c57f61a3
+  md5_5: 31c57
+  md5_6: 31c57f
+  oomp_key: oomp_bq24230rgt
+  oomp_key_extra: oomp_symbol_bq24230rgt
+  oomp_key_full: oomp_symbol_bq24230rgt_31c57f
+  oomp_key_simple: bq24230rgt
   owner_name: kicad
-  symbol_name: power_management_bq24230rgt
+  symbol_name: bq24230rgt
 oomp_key: oomp_kicad_power_management_bq24230rgt
 oomp_key_simple: kicad_power_management_bq24230rgt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

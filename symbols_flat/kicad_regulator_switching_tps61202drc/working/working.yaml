@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_tps61202drc
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_tps61202drc
+name: tps61202drc
 oomp:
   library_name: regulator_switching
-  md5: ff211d4a6252d1be092a27d9379260f2
-  md5_10: ff211d4a62
-  md5_5: ff211
-  md5_6: ff211d
-  oomp_key: oomp_regulator_switching_tps61202drc
-  oomp_key_extra: oomp_symbol_regulator_switching_tps61202drc
-  oomp_key_full: oomp_symbol_regulator_switching_tps61202drc_ff211d
-  oomp_key_simple: regulator_switching_tps61202drc
+  md5: 3726ac8b999f47dc249b623963043801
+  md5_10: 3726ac8b99
+  md5_5: 3726a
+  md5_6: 3726ac
+  oomp_key: oomp_tps61202drc
+  oomp_key_extra: oomp_symbol_tps61202drc
+  oomp_key_full: oomp_symbol_tps61202drc_3726ac
+  oomp_key_simple: tps61202drc
   owner_name: kicad
-  symbol_name: regulator_switching_tps61202drc
+  symbol_name: tps61202drc
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

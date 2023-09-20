@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_lm4040lp_2_0/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_lm4040lp_2_0/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_lm4040lp_2_0/working
-name: reference_voltage_lm4040lp_2_0
+name: lm4040lp_2_0
 oomp:
   library_name: reference_voltage
-  md5: cca245d145b74c9c21a54c2bbc0b511b
-  md5_10: cca245d145
-  md5_5: cca24
-  md5_6: cca245
-  oomp_key: oomp_reference_voltage_lm4040lp_2_0
-  oomp_key_extra: oomp_symbol_reference_voltage_lm4040lp_2_0
-  oomp_key_full: oomp_symbol_reference_voltage_lm4040lp_2_0_cca245
-  oomp_key_simple: reference_voltage_lm4040lp_2_0
+  md5: 319cbc4a39e7031fca2c0b8fc5444470
+  md5_10: 319cbc4a39
+  md5_5: 319cb
+  md5_6: 319cbc
+  oomp_key: oomp_lm4040lp_2_0
+  oomp_key_extra: oomp_symbol_lm4040lp_2_0
+  oomp_key_full: oomp_symbol_lm4040lp_2_0_319cbc
+  oomp_key_simple: lm4040lp_2_0
   owner_name: kicad
-  symbol_name: reference_voltage_lm4040lp_2_0
+  symbol_name: lm4040lp_2_0
 oomp_key: oomp_kicad_reference_voltage_lm4040lp_2_0
 oomp_key_simple: kicad_reference_voltage_lm4040lp_2_0
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

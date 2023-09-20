@@ -1,19 +1,19 @@
 id: kicad_rf_module_rak811_hf_us915
 library: rf_module
 library_name: RF_Module
-name: rf_module_rak811_hf_us915
+name: rak811_hf_us915
 oomp:
   library_name: rf_module
-  md5: 9aee0b90af43ed5b6c8927dcf86f4d79
-  md5_10: 9aee0b90af
-  md5_5: 9aee0
-  md5_6: 9aee0b
-  oomp_key: oomp_rf_module_rak811_hf_us915
-  oomp_key_extra: oomp_symbol_rf_module_rak811_hf_us915
-  oomp_key_full: oomp_symbol_rf_module_rak811_hf_us915_9aee0b
-  oomp_key_simple: rf_module_rak811_hf_us915
+  md5: 71d47abc1d04f879596a341553f70cf1
+  md5_10: 71d47abc1d
+  md5_5: 71d47
+  md5_6: 71d47a
+  oomp_key: oomp_rak811_hf_us915
+  oomp_key_extra: oomp_symbol_rak811_hf_us915
+  oomp_key_full: oomp_symbol_rak811_hf_us915_71d47a
+  oomp_key_simple: rak811_hf_us915
   owner_name: kicad
-  symbol_name: rf_module_rak811_hf_us915
+  symbol_name: rak811_hf_us915
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ltc1878ems8/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ltc1878ems8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ltc1878ems8/working
-name: regulator_switching_ltc1878ems8
+name: ltc1878ems8
 oomp:
   library_name: regulator_switching
-  md5: c0fc8568ae65107ffcb10a1070529738
-  md5_10: c0fc8568ae
-  md5_5: c0fc8
-  md5_6: c0fc85
-  oomp_key: oomp_regulator_switching_ltc1878ems8
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc1878ems8
-  oomp_key_full: oomp_symbol_regulator_switching_ltc1878ems8_c0fc85
-  oomp_key_simple: regulator_switching_ltc1878ems8
+  md5: 4e895656a09035268f723b3ba2dbfdb7
+  md5_10: 4e895656a0
+  md5_5: 4e895
+  md5_6: 4e8956
+  oomp_key: oomp_ltc1878ems8
+  oomp_key_extra: oomp_symbol_ltc1878ems8
+  oomp_key_full: oomp_symbol_ltc1878ems8_4e8956
+  oomp_key_simple: ltc1878ems8
   owner_name: kicad
-  symbol_name: regulator_switching_ltc1878ems8
+  symbol_name: ltc1878ems8
 oomp_key: oomp_kicad_regulator_switching_ltc1878ems8
 oomp_key_simple: kicad_regulator_switching_ltc1878ems8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

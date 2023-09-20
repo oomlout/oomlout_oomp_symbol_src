@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_sm6t6v8a/working
   oomp_src_flat: symbols_flat/kicad_diode_sm6t6v8a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_sm6t6v8a/working
-name: diode_sm6t6v8a
+name: sm6t6v8a
 oomp:
   library_name: diode
-  md5: 5b015c55d63d66d4b1982b84e7803a9b
-  md5_10: 5b015c55d6
-  md5_5: 5b015
-  md5_6: 5b015c
-  oomp_key: oomp_diode_sm6t6v8a
-  oomp_key_extra: oomp_symbol_diode_sm6t6v8a
-  oomp_key_full: oomp_symbol_diode_sm6t6v8a_5b015c
-  oomp_key_simple: diode_sm6t6v8a
+  md5: 48d0a9b63c8be79593aa551acb7561e4
+  md5_10: 48d0a9b63c
+  md5_5: 48d0a
+  md5_6: 48d0a9
+  oomp_key: oomp_sm6t6v8a
+  oomp_key_extra: oomp_symbol_sm6t6v8a
+  oomp_key_full: oomp_symbol_sm6t6v8a_48d0a9
+  oomp_key_simple: sm6t6v8a
   owner_name: kicad
-  symbol_name: diode_sm6t6v8a
+  symbol_name: sm6t6v8a
 oomp_key: oomp_kicad_diode_sm6t6v8a
 oomp_key_simple: kicad_diode_sm6t6v8a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

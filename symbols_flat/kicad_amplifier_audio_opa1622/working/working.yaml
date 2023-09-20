@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_opa1622/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_opa1622/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_opa1622/working
-name: amplifier_audio_opa1622
+name: opa1622
 oomp:
   library_name: amplifier_audio
-  md5: ea69c335f2ada3ac143c9cda07804bbc
-  md5_10: ea69c335f2
-  md5_5: ea69c
-  md5_6: ea69c3
-  oomp_key: oomp_amplifier_audio_opa1622
-  oomp_key_extra: oomp_symbol_amplifier_audio_opa1622
-  oomp_key_full: oomp_symbol_amplifier_audio_opa1622_ea69c3
-  oomp_key_simple: amplifier_audio_opa1622
+  md5: 2703c921b836896df19e819c847734ec
+  md5_10: 2703c921b8
+  md5_5: 2703c
+  md5_6: 2703c9
+  oomp_key: oomp_opa1622
+  oomp_key_extra: oomp_symbol_opa1622
+  oomp_key_full: oomp_symbol_opa1622_2703c9
+  oomp_key_simple: opa1622
   owner_name: kicad
-  symbol_name: amplifier_audio_opa1622
+  symbol_name: opa1622
 oomp_key: oomp_kicad_amplifier_audio_opa1622
 oomp_key_simple: kicad_amplifier_audio_opa1622
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

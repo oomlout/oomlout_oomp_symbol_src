@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lm321/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lm321/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lm321/working
-name: amplifier_operational_lm321
+name: lm321
 oomp:
   library_name: amplifier_operational
-  md5: 6391d99cad964ca59c27355a6d8c9400
-  md5_10: 6391d99cad
-  md5_5: 6391d
-  md5_6: 6391d9
-  oomp_key: oomp_amplifier_operational_lm321
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm321
-  oomp_key_full: oomp_symbol_amplifier_operational_lm321_6391d9
-  oomp_key_simple: amplifier_operational_lm321
+  md5: e052aa3f1642205e170898b6f4f747c0
+  md5_10: e052aa3f16
+  md5_5: e052a
+  md5_6: e052aa
+  oomp_key: oomp_lm321
+  oomp_key_extra: oomp_symbol_lm321
+  oomp_key_full: oomp_symbol_lm321_e052aa
+  oomp_key_simple: lm321
   owner_name: kicad
-  symbol_name: amplifier_operational_lm321
+  symbol_name: lm321
 oomp_key: oomp_kicad_amplifier_operational_lm321
 oomp_key_simple: kicad_amplifier_operational_lm321
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

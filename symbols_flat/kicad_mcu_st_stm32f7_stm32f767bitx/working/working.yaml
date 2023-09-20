@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32f7_stm32f767bitx
 library: mcu_st_stm32f7
 library_name: MCU_ST_STM32F7
-name: mcu_st_stm32f7_stm32f767bitx
+name: stm32f767bitx
 oomp:
   library_name: mcu_st_stm32f7
-  md5: 04966d4a74687d2a8548777a778fb7cd
-  md5_10: 04966d4a74
-  md5_5: 04966
-  md5_6: 04966d
-  oomp_key: oomp_mcu_st_stm32f7_stm32f767bitx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f7_stm32f767bitx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f7_stm32f767bitx_04966d
-  oomp_key_simple: mcu_st_stm32f7_stm32f767bitx
+  md5: acfd751fa853f5060795d5c73a326c14
+  md5_10: acfd751fa8
+  md5_5: acfd7
+  md5_6: acfd75
+  oomp_key: oomp_stm32f767bitx
+  oomp_key_extra: oomp_symbol_stm32f767bitx
+  oomp_key_full: oomp_symbol_stm32f767bitx_acfd75
+  oomp_key_simple: stm32f767bitx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f7_stm32f767bitx
+  symbol_name: stm32f767bitx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

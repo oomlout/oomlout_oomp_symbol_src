@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_conn_2rows_09pins/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_2rows_09pins/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_2rows_09pins/working
-name: connector_generic_conn_2rows_09pins
+name: conn_2rows_09pins
 oomp:
   library_name: connector_generic
-  md5: 82908f1ba7614cb7f92143156572b896
-  md5_10: 82908f1ba7
-  md5_5: '82908'
-  md5_6: 82908f
-  oomp_key: oomp_connector_generic_conn_2rows_09pins
-  oomp_key_extra: oomp_symbol_connector_generic_conn_2rows_09pins
-  oomp_key_full: oomp_symbol_connector_generic_conn_2rows_09pins_82908f
-  oomp_key_simple: connector_generic_conn_2rows_09pins
+  md5: 1db7e2274674eb49f04c7aef1a8d0843
+  md5_10: 1db7e22746
+  md5_5: 1db7e
+  md5_6: 1db7e2
+  oomp_key: oomp_conn_2rows_09pins
+  oomp_key_extra: oomp_symbol_conn_2rows_09pins
+  oomp_key_full: oomp_symbol_conn_2rows_09pins_1db7e2
+  oomp_key_simple: conn_2rows_09pins
   owner_name: kicad
-  symbol_name: connector_generic_conn_2rows_09pins
+  symbol_name: conn_2rows_09pins
 oomp_key: oomp_kicad_connector_generic_conn_2rows_09pins
 oomp_key_simple: kicad_connector_generic_conn_2rows_09pins
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_difference_ada4940_1xcp/working
   oomp_src_flat: symbols_flat/kicad_amplifier_difference_ada4940_1xcp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_difference_ada4940_1xcp/working
-name: amplifier_difference_ada4940_1xcp
+name: ada4940_1xcp
 oomp:
   library_name: amplifier_difference
-  md5: 2a6b92cd3fa8cabfa7c9b18919ac7b41
-  md5_10: 2a6b92cd3f
-  md5_5: 2a6b9
-  md5_6: 2a6b92
-  oomp_key: oomp_amplifier_difference_ada4940_1xcp
-  oomp_key_extra: oomp_symbol_amplifier_difference_ada4940_1xcp
-  oomp_key_full: oomp_symbol_amplifier_difference_ada4940_1xcp_2a6b92
-  oomp_key_simple: amplifier_difference_ada4940_1xcp
+  md5: 51b2e81e2a969ee2c88d4fb0cc3c4556
+  md5_10: 51b2e81e2a
+  md5_5: 51b2e
+  md5_6: 51b2e8
+  oomp_key: oomp_ada4940_1xcp
+  oomp_key_extra: oomp_symbol_ada4940_1xcp
+  oomp_key_full: oomp_symbol_ada4940_1xcp_51b2e8
+  oomp_key_simple: ada4940_1xcp
   owner_name: kicad
-  symbol_name: amplifier_difference_ada4940_1xcp
+  symbol_name: ada4940_1xcp
 oomp_key: oomp_kicad_amplifier_difference_ada4940_1xcp
 oomp_key_simple: kicad_amplifier_difference_ada4940_1xcp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

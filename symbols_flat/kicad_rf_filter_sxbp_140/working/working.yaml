@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_filter_sxbp_140/working
   oomp_src_flat: symbols_flat/kicad_rf_filter_sxbp_140/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_filter_sxbp_140/working
-name: rf_filter_sxbp_140
+name: sxbp_140
 oomp:
   library_name: rf_filter
-  md5: 72e5ce423162a1913df4bd7090664785
-  md5_10: 72e5ce4231
-  md5_5: 72e5c
-  md5_6: 72e5ce
-  oomp_key: oomp_rf_filter_sxbp_140
-  oomp_key_extra: oomp_symbol_rf_filter_sxbp_140
-  oomp_key_full: oomp_symbol_rf_filter_sxbp_140_72e5ce
-  oomp_key_simple: rf_filter_sxbp_140
+  md5: 7b4c9734ddac2cdeb64c8efd948e45ed
+  md5_10: 7b4c9734dd
+  md5_5: 7b4c9
+  md5_6: 7b4c97
+  oomp_key: oomp_sxbp_140
+  oomp_key_extra: oomp_symbol_sxbp_140
+  oomp_key_full: oomp_symbol_sxbp_140_7b4c97
+  oomp_key_simple: sxbp_140
   owner_name: kicad
-  symbol_name: rf_filter_sxbp_140
+  symbol_name: sxbp_140
 oomp_key: oomp_kicad_rf_filter_sxbp_140
 oomp_key_simple: kicad_rf_filter_sxbp_140
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

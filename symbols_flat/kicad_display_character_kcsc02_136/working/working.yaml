@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_kcsc02_136/working
   oomp_src_flat: symbols_flat/kicad_display_character_kcsc02_136/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_kcsc02_136/working
-name: display_character_kcsc02_136
+name: kcsc02_136
 oomp:
   library_name: display_character
-  md5: b7578cf8531eb7c5eb7b79aa113b6225
-  md5_10: b7578cf853
-  md5_5: b7578
-  md5_6: b7578c
-  oomp_key: oomp_display_character_kcsc02_136
-  oomp_key_extra: oomp_symbol_display_character_kcsc02_136
-  oomp_key_full: oomp_symbol_display_character_kcsc02_136_b7578c
-  oomp_key_simple: display_character_kcsc02_136
+  md5: 68c1bbf3a3da4a59df760cb0f3b74126
+  md5_10: 68c1bbf3a3
+  md5_5: 68c1b
+  md5_6: 68c1bb
+  oomp_key: oomp_kcsc02_136
+  oomp_key_extra: oomp_symbol_kcsc02_136
+  oomp_key_full: oomp_symbol_kcsc02_136_68c1bb
+  oomp_key_simple: kcsc02_136
   owner_name: kicad
-  symbol_name: display_character_kcsc02_136
+  symbol_name: kcsc02_136
 oomp_key: oomp_kicad_display_character_kcsc02_136
 oomp_key_simple: kicad_display_character_kcsc02_136
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_lt1026/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_lt1026/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_lt1026/working
-name: converter_dcdc_lt1026
+name: lt1026
 oomp:
   library_name: converter_dcdc
-  md5: 58334b3b25d74fde61a66e06be3c6ea3
-  md5_10: 58334b3b25
-  md5_5: '58334'
-  md5_6: 58334b
-  oomp_key: oomp_converter_dcdc_lt1026
-  oomp_key_extra: oomp_symbol_converter_dcdc_lt1026
-  oomp_key_full: oomp_symbol_converter_dcdc_lt1026_58334b
-  oomp_key_simple: converter_dcdc_lt1026
+  md5: 3cd695f3f5ab421118c02d85120887db
+  md5_10: 3cd695f3f5
+  md5_5: 3cd69
+  md5_6: 3cd695
+  oomp_key: oomp_lt1026
+  oomp_key_extra: oomp_symbol_lt1026
+  oomp_key_full: oomp_symbol_lt1026_3cd695
+  oomp_key_simple: lt1026
   owner_name: kicad
-  symbol_name: converter_dcdc_lt1026
+  symbol_name: lt1026
 oomp_key: oomp_kicad_converter_dcdc_lt1026
 oomp_key_simple: kicad_converter_dcdc_lt1026
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_adv7280xcp/working
   oomp_src_flat: symbols_flat/kicad_video_adv7280xcp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_adv7280xcp/working
-name: video_adv7280xcp
+name: adv7280xcp
 oomp:
   library_name: video
-  md5: 6cba11dc7372f5261098a7e3138192ae
-  md5_10: 6cba11dc73
-  md5_5: 6cba1
-  md5_6: 6cba11
-  oomp_key: oomp_video_adv7280xcp
-  oomp_key_extra: oomp_symbol_video_adv7280xcp
-  oomp_key_full: oomp_symbol_video_adv7280xcp_6cba11
-  oomp_key_simple: video_adv7280xcp
+  md5: 2b1ba0866140d06fe0eb57ffc3ba87c2
+  md5_10: 2b1ba08661
+  md5_5: 2b1ba
+  md5_6: 2b1ba0
+  oomp_key: oomp_adv7280xcp
+  oomp_key_extra: oomp_symbol_adv7280xcp
+  oomp_key_full: oomp_symbol_adv7280xcp_2b1ba0
+  oomp_key_simple: adv7280xcp
   owner_name: kicad
-  symbol_name: video_adv7280xcp
+  symbol_name: adv7280xcp
 oomp_key: oomp_kicad_video_adv7280xcp
 oomp_key_simple: kicad_video_adv7280xcp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

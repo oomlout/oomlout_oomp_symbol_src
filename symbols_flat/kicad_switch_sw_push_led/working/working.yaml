@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_push_led/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_push_led/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_push_led/working
-name: switch_sw_push_led
+name: sw_push_led
 oomp:
   library_name: switch
-  md5: 1f49042520210389d48289fad1a3e989
-  md5_10: 1f49042520
-  md5_5: 1f490
-  md5_6: 1f4904
-  oomp_key: oomp_switch_sw_push_led
-  oomp_key_extra: oomp_symbol_switch_sw_push_led
-  oomp_key_full: oomp_symbol_switch_sw_push_led_1f4904
-  oomp_key_simple: switch_sw_push_led
+  md5: 172679748c7fce7022d9a4080df5d0c0
+  md5_10: 172679748c
+  md5_5: '17267'
+  md5_6: '172679'
+  oomp_key: oomp_sw_push_led
+  oomp_key_extra: oomp_symbol_sw_push_led
+  oomp_key_full: oomp_symbol_sw_push_led_172679
+  oomp_key_simple: sw_push_led
   owner_name: kicad
-  symbol_name: switch_sw_push_led
+  symbol_name: sw_push_led
 oomp_key: oomp_kicad_switch_sw_push_led
 oomp_key_simple: kicad_switch_sw_push_led
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

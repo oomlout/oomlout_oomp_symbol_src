@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_solidstate_fodm3011/working
   oomp_src_flat: symbols_flat/kicad_relay_solidstate_fodm3011/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_solidstate_fodm3011/working
-name: relay_solidstate_fodm3011
+name: fodm3011
 oomp:
   library_name: relay_solidstate
-  md5: 60005e77d571485fb5bc60e975933248
-  md5_10: 60005e77d5
-  md5_5: '60005'
-  md5_6: 60005e
-  oomp_key: oomp_relay_solidstate_fodm3011
-  oomp_key_extra: oomp_symbol_relay_solidstate_fodm3011
-  oomp_key_full: oomp_symbol_relay_solidstate_fodm3011_60005e
-  oomp_key_simple: relay_solidstate_fodm3011
+  md5: 60f0d724ea8a590d7861849d3948b474
+  md5_10: 60f0d724ea
+  md5_5: 60f0d
+  md5_6: 60f0d7
+  oomp_key: oomp_fodm3011
+  oomp_key_extra: oomp_symbol_fodm3011
+  oomp_key_full: oomp_symbol_fodm3011_60f0d7
+  oomp_key_simple: fodm3011
   owner_name: kicad
-  symbol_name: relay_solidstate_fodm3011
+  symbol_name: fodm3011
 oomp_key: oomp_kicad_relay_solidstate_fodm3011
 oomp_key_simple: kicad_relay_solidstate_fodm3011
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

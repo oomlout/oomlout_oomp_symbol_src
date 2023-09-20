@@ -1,19 +1,19 @@
 id: kicad_video_tda8702t
 library: video
 library_name: Video
-name: video_tda8702t
+name: tda8702t
 oomp:
   library_name: video
-  md5: 566f85bf2a3d6d904d23ccbdeb7b7070
-  md5_10: 566f85bf2a
-  md5_5: 566f8
-  md5_6: 566f85
-  oomp_key: oomp_video_tda8702t
-  oomp_key_extra: oomp_symbol_video_tda8702t
-  oomp_key_full: oomp_symbol_video_tda8702t_566f85
-  oomp_key_simple: video_tda8702t
+  md5: 1d1baeb07ce57d81ae2e7810ec182432
+  md5_10: 1d1baeb07c
+  md5_5: 1d1ba
+  md5_6: 1d1bae
+  oomp_key: oomp_tda8702t
+  oomp_key_extra: oomp_symbol_tda8702t
+  oomp_key_full: oomp_symbol_tda8702t_1d1bae
+  oomp_key_simple: tda8702t
   owner_name: kicad
-  symbol_name: video_tda8702t
+  symbol_name: tda8702t
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

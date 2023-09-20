@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_supervisor_mcp120_xxxxsn/working
   oomp_src_flat: symbols_flat/kicad_power_supervisor_mcp120_xxxxsn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_supervisor_mcp120_xxxxsn/working
-name: power_supervisor_mcp120_xxxxsn
+name: mcp120_xxxxsn
 oomp:
   library_name: power_supervisor
-  md5: 9c8f9a85dacad1f10a8b912bb6aaa5d9
-  md5_10: 9c8f9a85da
-  md5_5: 9c8f9
-  md5_6: 9c8f9a
-  oomp_key: oomp_power_supervisor_mcp120_xxxxsn
-  oomp_key_extra: oomp_symbol_power_supervisor_mcp120_xxxxsn
-  oomp_key_full: oomp_symbol_power_supervisor_mcp120_xxxxsn_9c8f9a
-  oomp_key_simple: power_supervisor_mcp120_xxxxsn
+  md5: cd50eabcba5ce363919007cfadcf3947
+  md5_10: cd50eabcba
+  md5_5: cd50e
+  md5_6: cd50ea
+  oomp_key: oomp_mcp120_xxxxsn
+  oomp_key_extra: oomp_symbol_mcp120_xxxxsn
+  oomp_key_full: oomp_symbol_mcp120_xxxxsn_cd50ea
+  oomp_key_simple: mcp120_xxxxsn
   owner_name: kicad
-  symbol_name: power_supervisor_mcp120_xxxxsn
+  symbol_name: mcp120_xxxxsn
 oomp_key: oomp_kicad_power_supervisor_mcp120_xxxxsn
 oomp_key_simple: kicad_power_supervisor_mcp120_xxxxsn
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

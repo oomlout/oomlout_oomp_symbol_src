@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_g6hu_2/working
   oomp_src_flat: symbols_flat/kicad_relay_g6hu_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_g6hu_2/working
-name: relay_g6hu_2
+name: g6hu_2
 oomp:
   library_name: relay
-  md5: 4da2df6f8bea6bffb07d2c87533bae3f
-  md5_10: 4da2df6f8b
-  md5_5: 4da2d
-  md5_6: 4da2df
-  oomp_key: oomp_relay_g6hu_2
-  oomp_key_extra: oomp_symbol_relay_g6hu_2
-  oomp_key_full: oomp_symbol_relay_g6hu_2_4da2df
-  oomp_key_simple: relay_g6hu_2
+  md5: 58ddea431165fbfd19d32a04be6a4da1
+  md5_10: 58ddea4311
+  md5_5: 58dde
+  md5_6: 58ddea
+  oomp_key: oomp_g6hu_2
+  oomp_key_extra: oomp_symbol_g6hu_2
+  oomp_key_full: oomp_symbol_g6hu_2_58ddea
+  oomp_key_simple: g6hu_2
   owner_name: kicad
-  symbol_name: relay_g6hu_2
+  symbol_name: g6hu_2
 oomp_key: oomp_kicad_relay_g6hu_2
 oomp_key_simple: kicad_relay_g6hu_2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

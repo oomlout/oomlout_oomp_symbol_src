@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_l293/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_l293/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_l293/working
-name: driver_motor_l293
+name: l293
 oomp:
   library_name: driver_motor
-  md5: ca8c48533a8f59f6237ff03120563884
-  md5_10: ca8c48533a
-  md5_5: ca8c4
-  md5_6: ca8c48
-  oomp_key: oomp_driver_motor_l293
-  oomp_key_extra: oomp_symbol_driver_motor_l293
-  oomp_key_full: oomp_symbol_driver_motor_l293_ca8c48
-  oomp_key_simple: driver_motor_l293
+  md5: 65d30a5b5c95ad7c6356162dfe101da3
+  md5_10: 65d30a5b5c
+  md5_5: 65d30
+  md5_6: 65d30a
+  oomp_key: oomp_l293
+  oomp_key_extra: oomp_symbol_l293
+  oomp_key_full: oomp_symbol_l293_65d30a
+  oomp_key_simple: l293
   owner_name: kicad
-  symbol_name: driver_motor_l293
+  symbol_name: l293
 oomp_key: oomp_kicad_driver_motor_l293
 oomp_key_simple: kicad_driver_motor_l293
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

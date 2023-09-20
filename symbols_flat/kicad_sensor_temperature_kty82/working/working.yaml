@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_kty82/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_kty82/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_kty82/working
-name: sensor_temperature_kty82
+name: kty82
 oomp:
   library_name: sensor_temperature
-  md5: 22cf05a7c5d769115d61baff3dbc3bd0
-  md5_10: 22cf05a7c5
-  md5_5: 22cf0
-  md5_6: 22cf05
-  oomp_key: oomp_sensor_temperature_kty82
-  oomp_key_extra: oomp_symbol_sensor_temperature_kty82
-  oomp_key_full: oomp_symbol_sensor_temperature_kty82_22cf05
-  oomp_key_simple: sensor_temperature_kty82
+  md5: 76e49287ddd0fce76dcc2331fff803f8
+  md5_10: 76e49287dd
+  md5_5: 76e49
+  md5_6: 76e492
+  oomp_key: oomp_kty82
+  oomp_key_extra: oomp_symbol_kty82
+  oomp_key_full: oomp_symbol_kty82_76e492
+  oomp_key_simple: kty82
   owner_name: kicad
-  symbol_name: sensor_temperature_kty82
+  symbol_name: kty82
 oomp_key: oomp_kicad_sensor_temperature_kty82
 oomp_key_simple: kicad_sensor_temperature_kty82
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

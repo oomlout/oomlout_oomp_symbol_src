@@ -1,19 +1,19 @@
 id: kicad_diode_sm6t200a
 library: diode
 library_name: Diode
-name: diode_sm6t200a
+name: sm6t200a
 oomp:
   library_name: diode
-  md5: f3144935ee5ad847d34c2bd24b50ecef
-  md5_10: f3144935ee
-  md5_5: f3144
-  md5_6: f31449
-  oomp_key: oomp_diode_sm6t200a
-  oomp_key_extra: oomp_symbol_diode_sm6t200a
-  oomp_key_full: oomp_symbol_diode_sm6t200a_f31449
-  oomp_key_simple: diode_sm6t200a
+  md5: 02bdb25507f2f5b04bcb247ff99b4613
+  md5_10: 02bdb25507
+  md5_5: 02bdb
+  md5_6: 02bdb2
+  oomp_key: oomp_sm6t200a
+  oomp_key_extra: oomp_symbol_sm6t200a
+  oomp_key_full: oomp_symbol_sm6t200a_02bdb2
+  oomp_key_simple: sm6t200a
   owner_name: kicad
-  symbol_name: diode_sm6t200a
+  symbol_name: sm6t200a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

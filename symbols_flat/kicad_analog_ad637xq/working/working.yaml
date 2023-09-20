@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_ad637xq/working
   oomp_src_flat: symbols_flat/kicad_analog_ad637xq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_ad637xq/working
-name: analog_ad637xq
+name: ad637xq
 oomp:
   library_name: analog
-  md5: 2ec644b997b569518d7bf12e07291c72
-  md5_10: 2ec644b997
-  md5_5: 2ec64
-  md5_6: 2ec644
-  oomp_key: oomp_analog_ad637xq
-  oomp_key_extra: oomp_symbol_analog_ad637xq
-  oomp_key_full: oomp_symbol_analog_ad637xq_2ec644
-  oomp_key_simple: analog_ad637xq
+  md5: 393ef47f1b899b3abf03feff4d6cfa46
+  md5_10: 393ef47f1b
+  md5_5: 393ef
+  md5_6: 393ef4
+  oomp_key: oomp_ad637xq
+  oomp_key_extra: oomp_symbol_ad637xq
+  oomp_key_full: oomp_symbol_ad637xq_393ef4
+  oomp_key_simple: ad637xq
   owner_name: kicad
-  symbol_name: analog_ad637xq
+  symbol_name: ad637xq
 oomp_key: oomp_kicad_analog_ad637xq
 oomp_key_simple: kicad_analog_ad637xq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

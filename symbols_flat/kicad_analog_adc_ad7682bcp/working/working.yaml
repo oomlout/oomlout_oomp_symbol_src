@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ad7682bcp/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ad7682bcp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ad7682bcp/working
-name: analog_adc_ad7682bcp
+name: ad7682bcp
 oomp:
   library_name: analog_adc
-  md5: fa55bfab11905324d96bf1eb38e62c8d
-  md5_10: fa55bfab11
-  md5_5: fa55b
-  md5_6: fa55bf
-  oomp_key: oomp_analog_adc_ad7682bcp
-  oomp_key_extra: oomp_symbol_analog_adc_ad7682bcp
-  oomp_key_full: oomp_symbol_analog_adc_ad7682bcp_fa55bf
-  oomp_key_simple: analog_adc_ad7682bcp
+  md5: 5c0cde47ef9a44a9e4f66299fdbe79ac
+  md5_10: 5c0cde47ef
+  md5_5: 5c0cd
+  md5_6: 5c0cde
+  oomp_key: oomp_ad7682bcp
+  oomp_key_extra: oomp_symbol_ad7682bcp
+  oomp_key_full: oomp_symbol_ad7682bcp_5c0cde
+  oomp_key_simple: ad7682bcp
   owner_name: kicad
-  symbol_name: analog_adc_ad7682bcp
+  symbol_name: ad7682bcp
 oomp_key: oomp_kicad_analog_adc_ad7682bcp
 oomp_key_simple: kicad_analog_adc_ad7682bcp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

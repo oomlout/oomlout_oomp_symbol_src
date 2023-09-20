@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_potentiometer_digital_mcp45hv51_st/working
   oomp_src_flat: symbols_flat/kicad_potentiometer_digital_mcp45hv51_st/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_potentiometer_digital_mcp45hv51_st/working
-name: potentiometer_digital_mcp45hv51_st
+name: mcp45hv51_st
 oomp:
   library_name: potentiometer_digital
-  md5: ae4fdf8aadf64d5e99cf059ea7a42205
-  md5_10: ae4fdf8aad
-  md5_5: ae4fd
-  md5_6: ae4fdf
-  oomp_key: oomp_potentiometer_digital_mcp45hv51_st
-  oomp_key_extra: oomp_symbol_potentiometer_digital_mcp45hv51_st
-  oomp_key_full: oomp_symbol_potentiometer_digital_mcp45hv51_st_ae4fdf
-  oomp_key_simple: potentiometer_digital_mcp45hv51_st
+  md5: 6be57abf75beeb96761c4bcce38cdb5b
+  md5_10: 6be57abf75
+  md5_5: 6be57
+  md5_6: 6be57a
+  oomp_key: oomp_mcp45hv51_st
+  oomp_key_extra: oomp_symbol_mcp45hv51_st
+  oomp_key_full: oomp_symbol_mcp45hv51_st_6be57a
+  oomp_key_simple: mcp45hv51_st
   owner_name: kicad
-  symbol_name: potentiometer_digital_mcp45hv51_st
+  symbol_name: mcp45hv51_st
 oomp_key: oomp_kicad_potentiometer_digital_mcp45hv51_st
 oomp_key_simple: kicad_potentiometer_digital_mcp45hv51_st
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

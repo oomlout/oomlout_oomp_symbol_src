@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_tda7265/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_tda7265/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_tda7265/working
-name: amplifier_audio_tda7265
+name: tda7265
 oomp:
   library_name: amplifier_audio
-  md5: 8fe5d804135c5a288708fb7e99cb3893
-  md5_10: 8fe5d80413
-  md5_5: 8fe5d
-  md5_6: 8fe5d8
-  oomp_key: oomp_amplifier_audio_tda7265
-  oomp_key_extra: oomp_symbol_amplifier_audio_tda7265
-  oomp_key_full: oomp_symbol_amplifier_audio_tda7265_8fe5d8
-  oomp_key_simple: amplifier_audio_tda7265
+  md5: 241ccd8e84e560a233bad4aa71579adf
+  md5_10: 241ccd8e84
+  md5_5: 241cc
+  md5_6: 241ccd
+  oomp_key: oomp_tda7265
+  oomp_key_extra: oomp_symbol_tda7265
+  oomp_key_full: oomp_symbol_tda7265_241ccd
+  oomp_key_simple: tda7265
   owner_name: kicad
-  symbol_name: amplifier_audio_tda7265
+  symbol_name: tda7265
 oomp_key: oomp_kicad_amplifier_audio_tda7265
 oomp_key_simple: kicad_amplifier_audio_tda7265
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

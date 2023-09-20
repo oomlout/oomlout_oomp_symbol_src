@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_tpic6595/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_tpic6595/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_tpic6595/working
-name: interface_expansion_tpic6595
+name: tpic6595
 oomp:
   library_name: interface_expansion
-  md5: 544d15d81c47fd02655d6d26f8a08000
-  md5_10: 544d15d81c
-  md5_5: 544d1
-  md5_6: 544d15
-  oomp_key: oomp_interface_expansion_tpic6595
-  oomp_key_extra: oomp_symbol_interface_expansion_tpic6595
-  oomp_key_full: oomp_symbol_interface_expansion_tpic6595_544d15
-  oomp_key_simple: interface_expansion_tpic6595
+  md5: 77f54283c1617fb59ee86af638ec6927
+  md5_10: 77f54283c1
+  md5_5: 77f54
+  md5_6: 77f542
+  oomp_key: oomp_tpic6595
+  oomp_key_extra: oomp_symbol_tpic6595
+  oomp_key_full: oomp_symbol_tpic6595_77f542
+  oomp_key_simple: tpic6595
   owner_name: kicad
-  symbol_name: interface_expansion_tpic6595
+  symbol_name: tpic6595
 oomp_key: oomp_kicad_interface_expansion_tpic6595
 oomp_key_simple: kicad_interface_expansion_tpic6595
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

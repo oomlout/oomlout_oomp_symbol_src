@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_adm2587e/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_adm2587e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_adm2587e/working
-name: interface_uart_adm2587e
+name: adm2587e
 oomp:
   library_name: interface_uart
-  md5: 8a3d3e8ea75db4f02352f07930ed01bc
-  md5_10: 8a3d3e8ea7
-  md5_5: 8a3d3
-  md5_6: 8a3d3e
-  oomp_key: oomp_interface_uart_adm2587e
-  oomp_key_extra: oomp_symbol_interface_uart_adm2587e
-  oomp_key_full: oomp_symbol_interface_uart_adm2587e_8a3d3e
-  oomp_key_simple: interface_uart_adm2587e
+  md5: 8c2159459048aa1604a085375e63b9ea
+  md5_10: 8c21594590
+  md5_5: 8c215
+  md5_6: 8c2159
+  oomp_key: oomp_adm2587e
+  oomp_key_extra: oomp_symbol_adm2587e
+  oomp_key_full: oomp_symbol_adm2587e_8c2159
+  oomp_key_simple: adm2587e
   owner_name: kicad
-  symbol_name: interface_uart_adm2587e
+  symbol_name: adm2587e
 oomp_key: oomp_kicad_interface_uart_adm2587e
 oomp_key_simple: kicad_interface_uart_adm2587e
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

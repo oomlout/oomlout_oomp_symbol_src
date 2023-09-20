@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_ref3212amdbvrep/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_ref3212amdbvrep/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_ref3212amdbvrep/working
-name: reference_voltage_ref3212amdbvrep
+name: ref3212amdbvrep
 oomp:
   library_name: reference_voltage
-  md5: 7a1a957155aa81043d9e23b750a72cf2
-  md5_10: 7a1a957155
-  md5_5: 7a1a9
-  md5_6: 7a1a95
-  oomp_key: oomp_reference_voltage_ref3212amdbvrep
-  oomp_key_extra: oomp_symbol_reference_voltage_ref3212amdbvrep
-  oomp_key_full: oomp_symbol_reference_voltage_ref3212amdbvrep_7a1a95
-  oomp_key_simple: reference_voltage_ref3212amdbvrep
+  md5: 88e83f6027f90056aa7cf0b32fb26157
+  md5_10: 88e83f6027
+  md5_5: 88e83
+  md5_6: 88e83f
+  oomp_key: oomp_ref3212amdbvrep
+  oomp_key_extra: oomp_symbol_ref3212amdbvrep
+  oomp_key_full: oomp_symbol_ref3212amdbvrep_88e83f
+  oomp_key_simple: ref3212amdbvrep
   owner_name: kicad
-  symbol_name: reference_voltage_ref3212amdbvrep
+  symbol_name: ref3212amdbvrep
 oomp_key: oomp_kicad_reference_voltage_ref3212amdbvrep
 oomp_key_simple: kicad_reference_voltage_ref3212amdbvrep
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

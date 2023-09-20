@@ -1,19 +1,19 @@
 id: kicad_diode_esd9b3_3st5g
 library: diode
 library_name: Diode
-name: diode_esd9b3_3st5g
+name: esd9b3_3st5g
 oomp:
   library_name: diode
-  md5: 27e2061912da47839e631dfc7cc8d99f
-  md5_10: 27e2061912
-  md5_5: 27e20
-  md5_6: 27e206
-  oomp_key: oomp_diode_esd9b3_3st5g
-  oomp_key_extra: oomp_symbol_diode_esd9b3_3st5g
-  oomp_key_full: oomp_symbol_diode_esd9b3_3st5g_27e206
-  oomp_key_simple: diode_esd9b3_3st5g
+  md5: a58c66771eb8738ef672967613072c71
+  md5_10: a58c66771e
+  md5_5: a58c6
+  md5_6: a58c66
+  oomp_key: oomp_esd9b3_3st5g
+  oomp_key_extra: oomp_symbol_esd9b3_3st5g
+  oomp_key_full: oomp_symbol_esd9b3_3st5g_a58c66
+  oomp_key_simple: esd9b3_3st5g
   owner_name: kicad
-  symbol_name: diode_esd9b3_3st5g
+  symbol_name: esd9b3_3st5g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

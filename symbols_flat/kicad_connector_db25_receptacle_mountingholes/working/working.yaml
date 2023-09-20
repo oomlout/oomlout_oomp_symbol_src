@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_db25_receptacle_mountingholes/working
   oomp_src_flat: symbols_flat/kicad_connector_db25_receptacle_mountingholes/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_db25_receptacle_mountingholes/working
-name: connector_db25_receptacle_mountingholes
+name: db25_receptacle_mountingholes
 oomp:
   library_name: connector
-  md5: aa6e14bf78b36e771d872b28b74d0826
-  md5_10: aa6e14bf78
-  md5_5: aa6e1
-  md5_6: aa6e14
-  oomp_key: oomp_connector_db25_receptacle_mountingholes
-  oomp_key_extra: oomp_symbol_connector_db25_receptacle_mountingholes
-  oomp_key_full: oomp_symbol_connector_db25_receptacle_mountingholes_aa6e14
-  oomp_key_simple: connector_db25_receptacle_mountingholes
+  md5: 63826ad4bbc932a539f2779c01da5d61
+  md5_10: 63826ad4bb
+  md5_5: '63826'
+  md5_6: 63826a
+  oomp_key: oomp_db25_receptacle_mountingholes
+  oomp_key_extra: oomp_symbol_db25_receptacle_mountingholes
+  oomp_key_full: oomp_symbol_db25_receptacle_mountingholes_63826a
+  oomp_key_simple: db25_receptacle_mountingholes
   owner_name: kicad
-  symbol_name: connector_db25_receptacle_mountingholes
+  symbol_name: db25_receptacle_mountingholes
 oomp_key: oomp_kicad_connector_db25_receptacle_mountingholes
 oomp_key_simple: kicad_connector_db25_receptacle_mountingholes
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

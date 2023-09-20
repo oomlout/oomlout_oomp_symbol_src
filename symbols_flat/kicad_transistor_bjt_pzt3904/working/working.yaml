@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_pzt3904/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_pzt3904/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_pzt3904/working
-name: transistor_bjt_pzt3904
+name: pzt3904
 oomp:
   library_name: transistor_bjt
-  md5: d8ea34d2642a4c66691bafe6902a72b3
-  md5_10: d8ea34d264
-  md5_5: d8ea3
-  md5_6: d8ea34
-  oomp_key: oomp_transistor_bjt_pzt3904
-  oomp_key_extra: oomp_symbol_transistor_bjt_pzt3904
-  oomp_key_full: oomp_symbol_transistor_bjt_pzt3904_d8ea34
-  oomp_key_simple: transistor_bjt_pzt3904
+  md5: 02e75d923becea492a0fe02d55c40b61
+  md5_10: 02e75d923b
+  md5_5: 02e75
+  md5_6: 02e75d
+  oomp_key: oomp_pzt3904
+  oomp_key_extra: oomp_symbol_pzt3904
+  oomp_key_full: oomp_symbol_pzt3904_02e75d
+  oomp_key_simple: pzt3904
   owner_name: kicad
-  symbol_name: transistor_bjt_pzt3904
+  symbol_name: pzt3904
 oomp_key: oomp_kicad_transistor_bjt_pzt3904
 oomp_key_simple: kicad_transistor_bjt_pzt3904
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_transistor_bjt_bc860
 library: transistor_bjt
 library_name: Transistor_BJT
-name: transistor_bjt_bc860
+name: bc860
 oomp:
   library_name: transistor_bjt
-  md5: 5e62d8bff72f780efbcf8a0c7f0380e2
-  md5_10: 5e62d8bff7
-  md5_5: 5e62d
-  md5_6: 5e62d8
-  oomp_key: oomp_transistor_bjt_bc860
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc860
-  oomp_key_full: oomp_symbol_transistor_bjt_bc860_5e62d8
-  oomp_key_simple: transistor_bjt_bc860
+  md5: 94b8bae5f41d5c23122c4f008bf2bcec
+  md5_10: 94b8bae5f4
+  md5_5: 94b8b
+  md5_6: 94b8ba
+  oomp_key: oomp_bc860
+  oomp_key_extra: oomp_symbol_bc860
+  oomp_key_full: oomp_symbol_bc860_94b8ba
+  oomp_key_simple: bc860
   owner_name: kicad
-  symbol_name: transistor_bjt_bc860
+  symbol_name: bc860
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

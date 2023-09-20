@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_mcp4728/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_mcp4728/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_mcp4728/working
-name: analog_dac_mcp4728
+name: mcp4728
 oomp:
   library_name: analog_dac
-  md5: 189c54b867c644b8bcea1a450d564f6a
-  md5_10: 189c54b867
-  md5_5: 189c5
-  md5_6: 189c54
-  oomp_key: oomp_analog_dac_mcp4728
-  oomp_key_extra: oomp_symbol_analog_dac_mcp4728
-  oomp_key_full: oomp_symbol_analog_dac_mcp4728_189c54
-  oomp_key_simple: analog_dac_mcp4728
+  md5: d2bb1ae48894a804a40e216ccd7e8755
+  md5_10: d2bb1ae488
+  md5_5: d2bb1
+  md5_6: d2bb1a
+  oomp_key: oomp_mcp4728
+  oomp_key_extra: oomp_symbol_mcp4728
+  oomp_key_full: oomp_symbol_mcp4728_d2bb1a
+  oomp_key_simple: mcp4728
   owner_name: kicad
-  symbol_name: analog_dac_mcp4728
+  symbol_name: mcp4728
 oomp_key: oomp_kicad_analog_dac_mcp4728
 oomp_key_simple: kicad_analog_dac_mcp4728
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

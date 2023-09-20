@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_adg633ycp/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_adg633ycp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_adg633ycp/working
-name: analog_switch_adg633ycp
+name: adg633ycp
 oomp:
   library_name: analog_switch
-  md5: 71802fe8bae73eb2996fd6fab742a076
-  md5_10: 71802fe8ba
-  md5_5: '71802'
-  md5_6: 71802f
-  oomp_key: oomp_analog_switch_adg633ycp
-  oomp_key_extra: oomp_symbol_analog_switch_adg633ycp
-  oomp_key_full: oomp_symbol_analog_switch_adg633ycp_71802f
-  oomp_key_simple: analog_switch_adg633ycp
+  md5: 73be8366cffaba56ffbca212a5532443
+  md5_10: 73be8366cf
+  md5_5: 73be8
+  md5_6: 73be83
+  oomp_key: oomp_adg633ycp
+  oomp_key_extra: oomp_symbol_adg633ycp
+  oomp_key_full: oomp_symbol_adg633ycp_73be83
+  oomp_key_simple: adg633ycp
   owner_name: kicad
-  symbol_name: analog_switch_adg633ycp
+  symbol_name: adg633ycp
 oomp_key: oomp_kicad_analog_switch_adg633ycp
 oomp_key_simple: kicad_analog_switch_adg633ycp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_gsource/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_gsource/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_gsource/working
-name: simulation_spice_gsource
+name: gsource
 oomp:
   library_name: simulation_spice
-  md5: 358cd1dbd88ba9b47693e8c60be2bd87
-  md5_10: 358cd1dbd8
-  md5_5: 358cd
-  md5_6: 358cd1
-  oomp_key: oomp_simulation_spice_gsource
-  oomp_key_extra: oomp_symbol_simulation_spice_gsource
-  oomp_key_full: oomp_symbol_simulation_spice_gsource_358cd1
-  oomp_key_simple: simulation_spice_gsource
+  md5: 50d5c44574dcc2e3e947a0650afa91dd
+  md5_10: 50d5c44574
+  md5_5: 50d5c
+  md5_6: 50d5c4
+  oomp_key: oomp_gsource
+  oomp_key_extra: oomp_symbol_gsource
+  oomp_key_full: oomp_symbol_gsource_50d5c4
+  oomp_key_simple: gsource
   owner_name: kicad
-  symbol_name: simulation_spice_gsource
+  symbol_name: gsource
 oomp_key: oomp_kicad_simulation_spice_gsource
 oomp_key_simple: kicad_simulation_spice_gsource
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

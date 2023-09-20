@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_instrumentation_ad623ar/working
   oomp_src_flat: symbols_flat/kicad_amplifier_instrumentation_ad623ar/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_instrumentation_ad623ar/working
-name: amplifier_instrumentation_ad623ar
+name: ad623ar
 oomp:
   library_name: amplifier_instrumentation
-  md5: 6c297d595dc0f87d7b78ab71adb90c6d
-  md5_10: 6c297d595d
-  md5_5: 6c297
-  md5_6: 6c297d
-  oomp_key: oomp_amplifier_instrumentation_ad623ar
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ad623ar
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ad623ar_6c297d
-  oomp_key_simple: amplifier_instrumentation_ad623ar
+  md5: 5a00b4d2bdc5ef4f5b99262cd72a8210
+  md5_10: 5a00b4d2bd
+  md5_5: 5a00b
+  md5_6: 5a00b4
+  oomp_key: oomp_ad623ar
+  oomp_key_extra: oomp_symbol_ad623ar
+  oomp_key_full: oomp_symbol_ad623ar_5a00b4
+  oomp_key_simple: ad623ar
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ad623ar
+  symbol_name: ad623ar
 oomp_key: oomp_kicad_amplifier_instrumentation_ad623ar
 oomp_key_simple: kicad_amplifier_instrumentation_ad623ar
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

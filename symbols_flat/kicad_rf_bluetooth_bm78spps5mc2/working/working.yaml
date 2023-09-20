@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_bluetooth_bm78spps5mc2/working
   oomp_src_flat: symbols_flat/kicad_rf_bluetooth_bm78spps5mc2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_bluetooth_bm78spps5mc2/working
-name: rf_bluetooth_bm78spps5mc2
+name: bm78spps5mc2
 oomp:
   library_name: rf_bluetooth
-  md5: 8085726a6c620bb631ee814ccff69189
-  md5_10: 8085726a6c
-  md5_5: '80857'
-  md5_6: '808572'
-  oomp_key: oomp_rf_bluetooth_bm78spps5mc2
-  oomp_key_extra: oomp_symbol_rf_bluetooth_bm78spps5mc2
-  oomp_key_full: oomp_symbol_rf_bluetooth_bm78spps5mc2_808572
-  oomp_key_simple: rf_bluetooth_bm78spps5mc2
+  md5: 9fb9a1985dd1a17769bc9f84457f72e0
+  md5_10: 9fb9a1985d
+  md5_5: 9fb9a
+  md5_6: 9fb9a1
+  oomp_key: oomp_bm78spps5mc2
+  oomp_key_extra: oomp_symbol_bm78spps5mc2
+  oomp_key_full: oomp_symbol_bm78spps5mc2_9fb9a1
+  oomp_key_simple: bm78spps5mc2
   owner_name: kicad
-  symbol_name: rf_bluetooth_bm78spps5mc2
+  symbol_name: bm78spps5mc2
 oomp_key: oomp_kicad_rf_bluetooth_bm78spps5mc2
 oomp_key_simple: kicad_rf_bluetooth_bm78spps5mc2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_filter_bpf_a355/working
   oomp_src_flat: symbols_flat/kicad_rf_filter_bpf_a355/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_filter_bpf_a355/working
-name: rf_filter_bpf_a355
+name: bpf_a355
 oomp:
   library_name: rf_filter
-  md5: 86989edfc419e18d3e43686d9c327cd4
-  md5_10: 86989edfc4
-  md5_5: '86989'
-  md5_6: 86989e
-  oomp_key: oomp_rf_filter_bpf_a355
-  oomp_key_extra: oomp_symbol_rf_filter_bpf_a355
-  oomp_key_full: oomp_symbol_rf_filter_bpf_a355_86989e
-  oomp_key_simple: rf_filter_bpf_a355
+  md5: 1212530a7dbb8c2087b828159234a06a
+  md5_10: 1212530a7d
+  md5_5: '12125'
+  md5_6: '121253'
+  oomp_key: oomp_bpf_a355
+  oomp_key_extra: oomp_symbol_bpf_a355
+  oomp_key_full: oomp_symbol_bpf_a355_121253
+  oomp_key_simple: bpf_a355
   owner_name: kicad
-  symbol_name: rf_filter_bpf_a355
+  symbol_name: bpf_a355
 oomp_key: oomp_kicad_rf_filter_bpf_a355
 oomp_key_simple: kicad_rf_filter_bpf_a355
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

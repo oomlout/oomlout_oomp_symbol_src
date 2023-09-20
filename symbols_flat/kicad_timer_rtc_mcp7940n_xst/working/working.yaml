@@ -1,19 +1,19 @@
 id: kicad_timer_rtc_mcp7940n_xst
 library: timer_rtc
 library_name: Timer_RTC
-name: timer_rtc_mcp7940n_xst
+name: mcp7940n_xst
 oomp:
   library_name: timer_rtc
-  md5: 5d44dc6bdac34aa785090ac96f500d29
-  md5_10: 5d44dc6bda
-  md5_5: 5d44d
-  md5_6: 5d44dc
-  oomp_key: oomp_timer_rtc_mcp7940n_xst
-  oomp_key_extra: oomp_symbol_timer_rtc_mcp7940n_xst
-  oomp_key_full: oomp_symbol_timer_rtc_mcp7940n_xst_5d44dc
-  oomp_key_simple: timer_rtc_mcp7940n_xst
+  md5: 371a44bb28c480c642749912f109490a
+  md5_10: 371a44bb28
+  md5_5: 371a4
+  md5_6: 371a44
+  oomp_key: oomp_mcp7940n_xst
+  oomp_key_extra: oomp_symbol_mcp7940n_xst
+  oomp_key_full: oomp_symbol_mcp7940n_xst_371a44
+  oomp_key_simple: mcp7940n_xst
   owner_name: kicad
-  symbol_name: timer_rtc_mcp7940n_xst
+  symbol_name: mcp7940n_xst
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

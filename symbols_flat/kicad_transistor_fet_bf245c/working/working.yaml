@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_bf245c
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_bf245c
+name: bf245c
 oomp:
   library_name: transistor_fet
-  md5: b6419b08bb0fd03e2cbb4477e010b811
-  md5_10: b6419b08bb
-  md5_5: b6419
-  md5_6: b6419b
-  oomp_key: oomp_transistor_fet_bf245c
-  oomp_key_extra: oomp_symbol_transistor_fet_bf245c
-  oomp_key_full: oomp_symbol_transistor_fet_bf245c_b6419b
-  oomp_key_simple: transistor_fet_bf245c
+  md5: cf4d85ad0c7e3960e4f1cda51f096af8
+  md5_10: cf4d85ad0c
+  md5_5: cf4d8
+  md5_6: cf4d85
+  oomp_key: oomp_bf245c
+  oomp_key_extra: oomp_symbol_bf245c
+  oomp_key_full: oomp_symbol_bf245c_cf4d85
+  oomp_key_simple: bf245c
   owner_name: kicad
-  symbol_name: transistor_fet_bf245c
+  symbol_name: bf245c
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

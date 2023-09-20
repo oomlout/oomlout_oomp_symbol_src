@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_opa551u/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_opa551u/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_opa551u/working
-name: amplifier_operational_opa551u
+name: opa551u
 oomp:
   library_name: amplifier_operational
-  md5: 892de4cff746d142c23bab7cb518110a
-  md5_10: 892de4cff7
-  md5_5: 892de
-  md5_6: 892de4
-  oomp_key: oomp_amplifier_operational_opa551u
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa551u
-  oomp_key_full: oomp_symbol_amplifier_operational_opa551u_892de4
-  oomp_key_simple: amplifier_operational_opa551u
+  md5: 9b542bf41342d48248c0ea7bb05e1375
+  md5_10: 9b542bf413
+  md5_5: 9b542
+  md5_6: 9b542b
+  oomp_key: oomp_opa551u
+  oomp_key_extra: oomp_symbol_opa551u
+  oomp_key_full: oomp_symbol_opa551u_9b542b
+  oomp_key_simple: opa551u
   owner_name: kicad
-  symbol_name: amplifier_operational_opa551u
+  symbol_name: opa551u
 oomp_key: oomp_kicad_amplifier_operational_opa551u
 oomp_key_simple: kicad_amplifier_operational_opa551u
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

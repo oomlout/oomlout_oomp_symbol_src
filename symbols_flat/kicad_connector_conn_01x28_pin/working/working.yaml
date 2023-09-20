@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_01x28_pin/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_01x28_pin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_01x28_pin/working
-name: connector_conn_01x28_pin
+name: conn_01x28_pin
 oomp:
   library_name: connector
-  md5: b00b5181599d6a400e968820aed4640a
-  md5_10: b00b518159
-  md5_5: b00b5
-  md5_6: b00b51
-  oomp_key: oomp_connector_conn_01x28_pin
-  oomp_key_extra: oomp_symbol_connector_conn_01x28_pin
-  oomp_key_full: oomp_symbol_connector_conn_01x28_pin_b00b51
-  oomp_key_simple: connector_conn_01x28_pin
+  md5: 1817cb32387a304aa45a16bf0a7a25af
+  md5_10: 1817cb3238
+  md5_5: 1817c
+  md5_6: 1817cb
+  oomp_key: oomp_conn_01x28_pin
+  oomp_key_extra: oomp_symbol_conn_01x28_pin
+  oomp_key_full: oomp_symbol_conn_01x28_pin_1817cb
+  oomp_key_simple: conn_01x28_pin
   owner_name: kicad
-  symbol_name: connector_conn_01x28_pin
+  symbol_name: conn_01x28_pin
 oomp_key: oomp_kicad_connector_conn_01x28_pin
 oomp_key_simple: kicad_connector_conn_01x28_pin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_pcf8574/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_pcf8574/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_pcf8574/working
-name: interface_expansion_pcf8574
+name: pcf8574
 oomp:
   library_name: interface_expansion
-  md5: e6e84e0bd3ba38c59ded29cebd22d2bb
-  md5_10: e6e84e0bd3
-  md5_5: e6e84
-  md5_6: e6e84e
-  oomp_key: oomp_interface_expansion_pcf8574
-  oomp_key_extra: oomp_symbol_interface_expansion_pcf8574
-  oomp_key_full: oomp_symbol_interface_expansion_pcf8574_e6e84e
-  oomp_key_simple: interface_expansion_pcf8574
+  md5: bad51de60823e00ac48f1fe88bb92d96
+  md5_10: bad51de608
+  md5_5: bad51
+  md5_6: bad51d
+  oomp_key: oomp_pcf8574
+  oomp_key_extra: oomp_symbol_pcf8574
+  oomp_key_full: oomp_symbol_pcf8574_bad51d
+  oomp_key_simple: pcf8574
   owner_name: kicad
-  symbol_name: interface_expansion_pcf8574
+  symbol_name: pcf8574
 oomp_key: oomp_kicad_interface_expansion_pcf8574
 oomp_key_simple: kicad_interface_expansion_pcf8574
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

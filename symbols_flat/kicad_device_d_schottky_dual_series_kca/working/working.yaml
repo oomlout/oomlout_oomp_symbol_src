@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_dual_series_kca/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_dual_series_kca/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_dual_series_kca/working
-name: device_d_schottky_dual_series_kca
+name: d_schottky_dual_series_kca
 oomp:
   library_name: device
-  md5: cffc500163f8701725e5d7dd199161ac
-  md5_10: cffc500163
-  md5_5: cffc5
-  md5_6: cffc50
-  oomp_key: oomp_device_d_schottky_dual_series_kca
-  oomp_key_extra: oomp_symbol_device_d_schottky_dual_series_kca
-  oomp_key_full: oomp_symbol_device_d_schottky_dual_series_kca_cffc50
-  oomp_key_simple: device_d_schottky_dual_series_kca
+  md5: ff53850fb0d948cbf37d5f72cdc9fda4
+  md5_10: ff53850fb0
+  md5_5: ff538
+  md5_6: ff5385
+  oomp_key: oomp_d_schottky_dual_series_kca
+  oomp_key_extra: oomp_symbol_d_schottky_dual_series_kca
+  oomp_key_full: oomp_symbol_d_schottky_dual_series_kca_ff5385
+  oomp_key_simple: d_schottky_dual_series_kca
   owner_name: kicad
-  symbol_name: device_d_schottky_dual_series_kca
+  symbol_name: d_schottky_dual_series_kca
 oomp_key: oomp_kicad_device_d_schottky_dual_series_kca
 oomp_key_simple: kicad_device_d_schottky_dual_series_kca
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

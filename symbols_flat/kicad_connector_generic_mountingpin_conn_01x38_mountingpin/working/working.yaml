@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_mountingpin_conn_01x38_mountingpin/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_mountingpin_conn_01x38_mountingpin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_mountingpin_conn_01x38_mountingpin/working
-name: connector_generic_mountingpin_conn_01x38_mountingpin
+name: conn_01x38_mountingpin
 oomp:
   library_name: connector_generic_mountingpin
-  md5: c82671882fe96bf0efbe55ea80654e28
-  md5_10: c82671882f
-  md5_5: c8267
-  md5_6: c82671
-  oomp_key: oomp_connector_generic_mountingpin_conn_01x38_mountingpin
-  oomp_key_extra: oomp_symbol_connector_generic_mountingpin_conn_01x38_mountingpin
-  oomp_key_full: oomp_symbol_connector_generic_mountingpin_conn_01x38_mountingpin_c82671
-  oomp_key_simple: connector_generic_mountingpin_conn_01x38_mountingpin
+  md5: a274ef8ee0d5e91bc89b87ea17030ffa
+  md5_10: a274ef8ee0
+  md5_5: a274e
+  md5_6: a274ef
+  oomp_key: oomp_conn_01x38_mountingpin
+  oomp_key_extra: oomp_symbol_conn_01x38_mountingpin
+  oomp_key_full: oomp_symbol_conn_01x38_mountingpin_a274ef
+  oomp_key_simple: conn_01x38_mountingpin
   owner_name: kicad
-  symbol_name: connector_generic_mountingpin_conn_01x38_mountingpin
+  symbol_name: conn_01x38_mountingpin
 oomp_key: oomp_kicad_connector_generic_mountingpin_conn_01x38_mountingpin
 oomp_key_simple: kicad_connector_generic_mountingpin_conn_01x38_mountingpin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

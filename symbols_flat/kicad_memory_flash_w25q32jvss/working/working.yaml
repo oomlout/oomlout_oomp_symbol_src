@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_flash_w25q32jvss/working
   oomp_src_flat: symbols_flat/kicad_memory_flash_w25q32jvss/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_flash_w25q32jvss/working
-name: memory_flash_w25q32jvss
+name: w25q32jvss
 oomp:
   library_name: memory_flash
-  md5: b26efe3e3891f8a4d305c06b93d5618d
-  md5_10: b26efe3e38
-  md5_5: b26ef
-  md5_6: b26efe
-  oomp_key: oomp_memory_flash_w25q32jvss
-  oomp_key_extra: oomp_symbol_memory_flash_w25q32jvss
-  oomp_key_full: oomp_symbol_memory_flash_w25q32jvss_b26efe
-  oomp_key_simple: memory_flash_w25q32jvss
+  md5: d3b5ed1e32f9b9449c53b3d5e5b8dfab
+  md5_10: d3b5ed1e32
+  md5_5: d3b5e
+  md5_6: d3b5ed
+  oomp_key: oomp_w25q32jvss
+  oomp_key_extra: oomp_symbol_w25q32jvss
+  oomp_key_full: oomp_symbol_w25q32jvss_d3b5ed
+  oomp_key_simple: w25q32jvss
   owner_name: kicad
-  symbol_name: memory_flash_w25q32jvss
+  symbol_name: w25q32jvss
 oomp_key: oomp_kicad_memory_flash_w25q32jvss
 oomp_key_simple: kicad_memory_flash_w25q32jvss
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

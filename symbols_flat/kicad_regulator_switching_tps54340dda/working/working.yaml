@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_tps54340dda
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_tps54340dda
+name: tps54340dda
 oomp:
   library_name: regulator_switching
-  md5: 47c707b9a39a6f45bffe5b51b9702c97
-  md5_10: 47c707b9a3
-  md5_5: 47c70
-  md5_6: 47c707
-  oomp_key: oomp_regulator_switching_tps54340dda
-  oomp_key_extra: oomp_symbol_regulator_switching_tps54340dda
-  oomp_key_full: oomp_symbol_regulator_switching_tps54340dda_47c707
-  oomp_key_simple: regulator_switching_tps54340dda
+  md5: 8b60a98fd827a524903133e20b745984
+  md5_10: 8b60a98fd8
+  md5_5: 8b60a
+  md5_6: 8b60a9
+  oomp_key: oomp_tps54340dda
+  oomp_key_extra: oomp_symbol_tps54340dda
+  oomp_key_full: oomp_symbol_tps54340dda_8b60a9
+  oomp_key_simple: tps54340dda
   owner_name: kicad
-  symbol_name: regulator_switching_tps54340dda
+  symbol_name: tps54340dda
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

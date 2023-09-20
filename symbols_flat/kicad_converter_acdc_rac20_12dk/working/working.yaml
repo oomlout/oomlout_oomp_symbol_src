@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_rac20_12dk/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_rac20_12dk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_rac20_12dk/working
-name: converter_acdc_rac20_12dk
+name: rac20_12dk
 oomp:
   library_name: converter_acdc
-  md5: b877b9e7a83c49ecab204109c8c7803b
-  md5_10: b877b9e7a8
-  md5_5: b877b
-  md5_6: b877b9
-  oomp_key: oomp_converter_acdc_rac20_12dk
-  oomp_key_extra: oomp_symbol_converter_acdc_rac20_12dk
-  oomp_key_full: oomp_symbol_converter_acdc_rac20_12dk_b877b9
-  oomp_key_simple: converter_acdc_rac20_12dk
+  md5: 910e2120794be04ba6b76be2521c1e78
+  md5_10: 910e212079
+  md5_5: 910e2
+  md5_6: 910e21
+  oomp_key: oomp_rac20_12dk
+  oomp_key_extra: oomp_symbol_rac20_12dk
+  oomp_key_full: oomp_symbol_rac20_12dk_910e21
+  oomp_key_simple: rac20_12dk
   owner_name: kicad
-  symbol_name: converter_acdc_rac20_12dk
+  symbol_name: rac20_12dk
 oomp_key: oomp_kicad_converter_acdc_rac20_12dk
 oomp_key_simple: kicad_converter_acdc_rac20_12dk
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

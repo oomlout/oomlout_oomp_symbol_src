@@ -1,19 +1,19 @@
 id: kicad_rf_module_esp_12f
 library: rf_module
 library_name: RF_Module
-name: rf_module_esp_12f
+name: esp_12f
 oomp:
   library_name: rf_module
-  md5: 4faccc9616f1081433a292ed2788b2f5
-  md5_10: 4faccc9616
-  md5_5: 4facc
-  md5_6: 4faccc
-  oomp_key: oomp_rf_module_esp_12f
-  oomp_key_extra: oomp_symbol_rf_module_esp_12f
-  oomp_key_full: oomp_symbol_rf_module_esp_12f_4faccc
-  oomp_key_simple: rf_module_esp_12f
+  md5: fa4b292c0d9b2065b80fb1518bba3894
+  md5_10: fa4b292c0d
+  md5_5: fa4b2
+  md5_6: fa4b29
+  oomp_key: oomp_esp_12f
+  oomp_key_extra: oomp_symbol_esp_12f
+  oomp_key_full: oomp_symbol_esp_12f_fa4b29
+  oomp_key_simple: esp_12f
   owner_name: kicad
-  symbol_name: rf_module_esp_12f
+  symbol_name: esp_12f
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

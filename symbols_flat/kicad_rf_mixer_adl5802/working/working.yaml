@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_mixer_adl5802/working
   oomp_src_flat: symbols_flat/kicad_rf_mixer_adl5802/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_mixer_adl5802/working
-name: rf_mixer_adl5802
+name: adl5802
 oomp:
   library_name: rf_mixer
-  md5: a3a415ffc86b4b8a978f663dd4da627e
-  md5_10: a3a415ffc8
-  md5_5: a3a41
-  md5_6: a3a415
-  oomp_key: oomp_rf_mixer_adl5802
-  oomp_key_extra: oomp_symbol_rf_mixer_adl5802
-  oomp_key_full: oomp_symbol_rf_mixer_adl5802_a3a415
-  oomp_key_simple: rf_mixer_adl5802
+  md5: 6ba447abe6b8804eb0a0afdac0ba8de7
+  md5_10: 6ba447abe6
+  md5_5: 6ba44
+  md5_6: 6ba447
+  oomp_key: oomp_adl5802
+  oomp_key_extra: oomp_symbol_adl5802
+  oomp_key_full: oomp_symbol_adl5802_6ba447
+  oomp_key_simple: adl5802
   owner_name: kicad
-  symbol_name: rf_mixer_adl5802
+  symbol_name: adl5802
 oomp_key: oomp_kicad_rf_mixer_adl5802
 oomp_key_simple: kicad_rf_mixer_adl5802
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

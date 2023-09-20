@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_adp7182aujz_1_8/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_adp7182aujz_1_8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_adp7182aujz_1_8/working
-name: regulator_linear_adp7182aujz_1_8
+name: adp7182aujz_1_8
 oomp:
   library_name: regulator_linear
-  md5: 23217c4bdbae2673c2ee8e0bd6348c7f
-  md5_10: 23217c4bdb
-  md5_5: '23217'
-  md5_6: 23217c
-  oomp_key: oomp_regulator_linear_adp7182aujz_1_8
-  oomp_key_extra: oomp_symbol_regulator_linear_adp7182aujz_1_8
-  oomp_key_full: oomp_symbol_regulator_linear_adp7182aujz_1_8_23217c
-  oomp_key_simple: regulator_linear_adp7182aujz_1_8
+  md5: 5b3656b3b80fd2e28c701f7632f209b6
+  md5_10: 5b3656b3b8
+  md5_5: 5b365
+  md5_6: 5b3656
+  oomp_key: oomp_adp7182aujz_1_8
+  oomp_key_extra: oomp_symbol_adp7182aujz_1_8
+  oomp_key_full: oomp_symbol_adp7182aujz_1_8_5b3656
+  oomp_key_simple: adp7182aujz_1_8
   owner_name: kicad
-  symbol_name: regulator_linear_adp7182aujz_1_8
+  symbol_name: adp7182aujz_1_8
 oomp_key: oomp_kicad_regulator_linear_adp7182aujz_1_8
 oomp_key_simple: kicad_regulator_linear_adp7182aujz_1_8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

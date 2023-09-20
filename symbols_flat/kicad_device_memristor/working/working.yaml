@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_memristor/working
   oomp_src_flat: symbols_flat/kicad_device_memristor/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_memristor/working
-name: device_memristor
+name: memristor
 oomp:
   library_name: device
-  md5: 596ef9a22c1815760002ee4989944e1c
-  md5_10: 596ef9a22c
-  md5_5: 596ef
-  md5_6: 596ef9
-  oomp_key: oomp_device_memristor
-  oomp_key_extra: oomp_symbol_device_memristor
-  oomp_key_full: oomp_symbol_device_memristor_596ef9
-  oomp_key_simple: device_memristor
+  md5: 32e0cb0a831e43feb108ffb28de8218d
+  md5_10: 32e0cb0a83
+  md5_5: 32e0c
+  md5_6: 32e0cb
+  oomp_key: oomp_memristor
+  oomp_key_extra: oomp_symbol_memristor
+  oomp_key_full: oomp_symbol_memristor_32e0cb
+  oomp_key_simple: memristor
   owner_name: kicad
-  symbol_name: device_memristor
+  symbol_name: memristor
 oomp_key: oomp_kicad_device_memristor
 oomp_key_simple: kicad_device_memristor
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

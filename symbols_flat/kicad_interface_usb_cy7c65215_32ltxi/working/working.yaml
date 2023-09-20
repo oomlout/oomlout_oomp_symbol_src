@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_cy7c65215_32ltxi/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_cy7c65215_32ltxi/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_cy7c65215_32ltxi/working
-name: interface_usb_cy7c65215_32ltxi
+name: cy7c65215_32ltxi
 oomp:
   library_name: interface_usb
-  md5: 12d4fe2d3bf2ca782b859a7e59bcf72f
-  md5_10: 12d4fe2d3b
-  md5_5: 12d4f
-  md5_6: 12d4fe
-  oomp_key: oomp_interface_usb_cy7c65215_32ltxi
-  oomp_key_extra: oomp_symbol_interface_usb_cy7c65215_32ltxi
-  oomp_key_full: oomp_symbol_interface_usb_cy7c65215_32ltxi_12d4fe
-  oomp_key_simple: interface_usb_cy7c65215_32ltxi
+  md5: 92aa844a210c57101080c7fe3a90250e
+  md5_10: 92aa844a21
+  md5_5: 92aa8
+  md5_6: 92aa84
+  oomp_key: oomp_cy7c65215_32ltxi
+  oomp_key_extra: oomp_symbol_cy7c65215_32ltxi
+  oomp_key_full: oomp_symbol_cy7c65215_32ltxi_92aa84
+  oomp_key_simple: cy7c65215_32ltxi
   owner_name: kicad
-  symbol_name: interface_usb_cy7c65215_32ltxi
+  symbol_name: cy7c65215_32ltxi
 oomp_key: oomp_kicad_interface_usb_cy7c65215_32ltxi
 oomp_key_simple: kicad_interface_usb_cy7c65215_32ltxi
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

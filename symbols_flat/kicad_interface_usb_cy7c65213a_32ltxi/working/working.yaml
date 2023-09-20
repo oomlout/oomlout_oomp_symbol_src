@@ -1,19 +1,19 @@
 id: kicad_interface_usb_cy7c65213a_32ltxi
 library: interface_usb
 library_name: Interface_USB
-name: interface_usb_cy7c65213a_32ltxi
+name: cy7c65213a_32ltxi
 oomp:
   library_name: interface_usb
-  md5: 3bf4fe48bb36c08cebb8724028620899
-  md5_10: 3bf4fe48bb
-  md5_5: 3bf4f
-  md5_6: 3bf4fe
-  oomp_key: oomp_interface_usb_cy7c65213a_32ltxi
-  oomp_key_extra: oomp_symbol_interface_usb_cy7c65213a_32ltxi
-  oomp_key_full: oomp_symbol_interface_usb_cy7c65213a_32ltxi_3bf4fe
-  oomp_key_simple: interface_usb_cy7c65213a_32ltxi
+  md5: 1439d807ec34573fefb454908c929368
+  md5_10: 1439d807ec
+  md5_5: 1439d
+  md5_6: 1439d8
+  oomp_key: oomp_cy7c65213a_32ltxi
+  oomp_key_extra: oomp_symbol_cy7c65213a_32ltxi
+  oomp_key_full: oomp_symbol_cy7c65213a_32ltxi_1439d8
+  oomp_key_simple: cy7c65213a_32ltxi
   owner_name: kicad
-  symbol_name: interface_usb_cy7c65213a_32ltxi
+  symbol_name: cy7c65213a_32ltxi
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

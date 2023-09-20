@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_ld1117s50tr_sot223
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_ld1117s50tr_sot223
+name: ld1117s50tr_sot223
 oomp:
   library_name: regulator_linear
-  md5: 559427bfb414c8fc7a17475f98f5ca0f
-  md5_10: 559427bfb4
-  md5_5: '55942'
-  md5_6: '559427'
-  oomp_key: oomp_regulator_linear_ld1117s50tr_sot223
-  oomp_key_extra: oomp_symbol_regulator_linear_ld1117s50tr_sot223
-  oomp_key_full: oomp_symbol_regulator_linear_ld1117s50tr_sot223_559427
-  oomp_key_simple: regulator_linear_ld1117s50tr_sot223
+  md5: 412cabb59ff775fd4fed2c1cb6006a14
+  md5_10: 412cabb59f
+  md5_5: 412ca
+  md5_6: 412cab
+  oomp_key: oomp_ld1117s50tr_sot223
+  oomp_key_extra: oomp_symbol_ld1117s50tr_sot223
+  oomp_key_full: oomp_symbol_ld1117s50tr_sot223_412cab
+  oomp_key_simple: ld1117s50tr_sot223
   owner_name: kicad
-  symbol_name: regulator_linear_ld1117s50tr_sot223
+  symbol_name: ld1117s50tr_sot223
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

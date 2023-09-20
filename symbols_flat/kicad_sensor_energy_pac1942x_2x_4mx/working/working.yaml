@@ -1,19 +1,19 @@
 id: kicad_sensor_energy_pac1942x_2x_4mx
 library: sensor_energy
 library_name: Sensor_Energy
-name: sensor_energy_pac1942x_2x_4mx
+name: pac1942x_2x_4mx
 oomp:
   library_name: sensor_energy
-  md5: 811d7da2a13e79587dc3c77ed4150aa2
-  md5_10: 811d7da2a1
-  md5_5: 811d7
-  md5_6: 811d7d
-  oomp_key: oomp_sensor_energy_pac1942x_2x_4mx
-  oomp_key_extra: oomp_symbol_sensor_energy_pac1942x_2x_4mx
-  oomp_key_full: oomp_symbol_sensor_energy_pac1942x_2x_4mx_811d7d
-  oomp_key_simple: sensor_energy_pac1942x_2x_4mx
+  md5: 6d8ceb95d454dae4ee484313d9e13293
+  md5_10: 6d8ceb95d4
+  md5_5: 6d8ce
+  md5_6: 6d8ceb
+  oomp_key: oomp_pac1942x_2x_4mx
+  oomp_key_extra: oomp_symbol_pac1942x_2x_4mx
+  oomp_key_full: oomp_symbol_pac1942x_2x_4mx_6d8ceb
+  oomp_key_simple: pac1942x_2x_4mx
   owner_name: kicad
-  symbol_name: sensor_energy_pac1942x_2x_4mx
+  symbol_name: pac1942x_2x_4mx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

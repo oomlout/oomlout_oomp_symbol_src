@@ -1,19 +1,19 @@
 id: kicad_connector_rj45_led_shielded
 library: connector
 library_name: Connector
-name: connector_rj45_led_shielded
+name: rj45_led_shielded
 oomp:
   library_name: connector
-  md5: 78aab82cb63ce4f87615c0c506443de3
-  md5_10: 78aab82cb6
-  md5_5: 78aab
-  md5_6: 78aab8
-  oomp_key: oomp_connector_rj45_led_shielded
-  oomp_key_extra: oomp_symbol_connector_rj45_led_shielded
-  oomp_key_full: oomp_symbol_connector_rj45_led_shielded_78aab8
-  oomp_key_simple: connector_rj45_led_shielded
+  md5: 8e1e4d34819e4bdec1d79ff21ee070fc
+  md5_10: 8e1e4d3481
+  md5_5: 8e1e4
+  md5_6: 8e1e4d
+  oomp_key: oomp_rj45_led_shielded
+  oomp_key_extra: oomp_symbol_rj45_led_shielded
+  oomp_key_full: oomp_symbol_rj45_led_shielded_8e1e4d
+  oomp_key_simple: rj45_led_shielded
   owner_name: kicad
-  symbol_name: connector_rj45_led_shielded
+  symbol_name: rj45_led_shielded
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

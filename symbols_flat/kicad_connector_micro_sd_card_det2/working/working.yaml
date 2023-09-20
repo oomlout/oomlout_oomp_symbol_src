@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_micro_sd_card_det2/working
   oomp_src_flat: symbols_flat/kicad_connector_micro_sd_card_det2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_micro_sd_card_det2/working
-name: connector_micro_sd_card_det2
+name: micro_sd_card_det2
 oomp:
   library_name: connector
-  md5: f865bbf8d2e986e500cf863328708094
-  md5_10: f865bbf8d2
-  md5_5: f865b
-  md5_6: f865bb
-  oomp_key: oomp_connector_micro_sd_card_det2
-  oomp_key_extra: oomp_symbol_connector_micro_sd_card_det2
-  oomp_key_full: oomp_symbol_connector_micro_sd_card_det2_f865bb
-  oomp_key_simple: connector_micro_sd_card_det2
+  md5: b864bf41803526198a0ba5c43301c65a
+  md5_10: b864bf4180
+  md5_5: b864b
+  md5_6: b864bf
+  oomp_key: oomp_micro_sd_card_det2
+  oomp_key_extra: oomp_symbol_micro_sd_card_det2
+  oomp_key_full: oomp_symbol_micro_sd_card_det2_b864bf
+  oomp_key_simple: micro_sd_card_det2
   owner_name: kicad
-  symbol_name: connector_micro_sd_card_det2
+  symbol_name: micro_sd_card_det2
 oomp_key: oomp_kicad_connector_micro_sd_card_det2
 oomp_key_simple: kicad_connector_micro_sd_card_det2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_lm5109ma/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_lm5109ma/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_lm5109ma/working
-name: driver_fet_lm5109ma
+name: lm5109ma
 oomp:
   library_name: driver_fet
-  md5: f8db00ac698ddf7cec883378d5ca67e5
-  md5_10: f8db00ac69
-  md5_5: f8db0
-  md5_6: f8db00
-  oomp_key: oomp_driver_fet_lm5109ma
-  oomp_key_extra: oomp_symbol_driver_fet_lm5109ma
-  oomp_key_full: oomp_symbol_driver_fet_lm5109ma_f8db00
-  oomp_key_simple: driver_fet_lm5109ma
+  md5: 973a9a1eea8e72df2edcb9361f0a5201
+  md5_10: 973a9a1eea
+  md5_5: 973a9
+  md5_6: 973a9a
+  oomp_key: oomp_lm5109ma
+  oomp_key_extra: oomp_symbol_lm5109ma
+  oomp_key_full: oomp_symbol_lm5109ma_973a9a
+  oomp_key_simple: lm5109ma
   owner_name: kicad
-  symbol_name: driver_fet_lm5109ma
+  symbol_name: lm5109ma
 oomp_key: oomp_kicad_driver_fet_lm5109ma
 oomp_key_simple: kicad_driver_fet_lm5109ma
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

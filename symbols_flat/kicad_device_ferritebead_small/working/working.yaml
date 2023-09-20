@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_ferritebead_small/working
   oomp_src_flat: symbols_flat/kicad_device_ferritebead_small/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_ferritebead_small/working
-name: device_ferritebead_small
+name: ferritebead_small
 oomp:
   library_name: device
-  md5: 9686a4e4decb69649a406a705320ebac
-  md5_10: 9686a4e4de
-  md5_5: 9686a
-  md5_6: 9686a4
-  oomp_key: oomp_device_ferritebead_small
-  oomp_key_extra: oomp_symbol_device_ferritebead_small
-  oomp_key_full: oomp_symbol_device_ferritebead_small_9686a4
-  oomp_key_simple: device_ferritebead_small
+  md5: 560aa3fcd241de9a23a671e3558c093c
+  md5_10: 560aa3fcd2
+  md5_5: 560aa
+  md5_6: 560aa3
+  oomp_key: oomp_ferritebead_small
+  oomp_key_extra: oomp_symbol_ferritebead_small
+  oomp_key_full: oomp_symbol_ferritebead_small_560aa3
+  oomp_key_simple: ferritebead_small
   owner_name: kicad
-  symbol_name: device_ferritebead_small
+  symbol_name: ferritebead_small
 oomp_key: oomp_kicad_device_ferritebead_small
 oomp_key_simple: kicad_device_ferritebead_small
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_analog_adc_adc121c021cimm
 library: analog_adc
 library_name: Analog_ADC
-name: analog_adc_adc121c021cimm
+name: adc121c021cimm
 oomp:
   library_name: analog_adc
-  md5: 44e9d8fd1b60a51c5225ddbbeccb23cc
-  md5_10: 44e9d8fd1b
-  md5_5: 44e9d
-  md5_6: 44e9d8
-  oomp_key: oomp_analog_adc_adc121c021cimm
-  oomp_key_extra: oomp_symbol_analog_adc_adc121c021cimm
-  oomp_key_full: oomp_symbol_analog_adc_adc121c021cimm_44e9d8
-  oomp_key_simple: analog_adc_adc121c021cimm
+  md5: db3d2cd1490cc60f57a0d367c10205a4
+  md5_10: db3d2cd149
+  md5_5: db3d2
+  md5_6: db3d2c
+  oomp_key: oomp_adc121c021cimm
+  oomp_key_extra: oomp_symbol_adc121c021cimm
+  oomp_key_full: oomp_symbol_adc121c021cimm_db3d2c
+  oomp_key_simple: adc121c021cimm
   owner_name: kicad
-  symbol_name: analog_adc_adc121c021cimm
+  symbol_name: adc121c021cimm
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

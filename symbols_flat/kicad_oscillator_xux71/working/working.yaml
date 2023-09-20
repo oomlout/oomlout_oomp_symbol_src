@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_xux71/working
   oomp_src_flat: symbols_flat/kicad_oscillator_xux71/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_xux71/working
-name: oscillator_xux71
+name: xux71
 oomp:
   library_name: oscillator
-  md5: 0aa41f39dd7b991870aea4f2549d4baf
-  md5_10: 0aa41f39dd
-  md5_5: 0aa41
-  md5_6: 0aa41f
-  oomp_key: oomp_oscillator_xux71
-  oomp_key_extra: oomp_symbol_oscillator_xux71
-  oomp_key_full: oomp_symbol_oscillator_xux71_0aa41f
-  oomp_key_simple: oscillator_xux71
+  md5: b76d2dd1d9fefc5a9e63ad6eaba0a950
+  md5_10: b76d2dd1d9
+  md5_5: b76d2
+  md5_6: b76d2d
+  oomp_key: oomp_xux71
+  oomp_key_extra: oomp_symbol_xux71
+  oomp_key_full: oomp_symbol_xux71_b76d2d
+  oomp_key_simple: xux71
   owner_name: kicad
-  symbol_name: oscillator_xux71
+  symbol_name: xux71
 oomp_key: oomp_kicad_oscillator_xux71
 oomp_key_simple: kicad_oscillator_xux71
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

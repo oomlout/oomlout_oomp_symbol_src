@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32l4_stm32l496vgtx
 library: mcu_st_stm32l4
 library_name: MCU_ST_STM32L4
-name: mcu_st_stm32l4_stm32l496vgtx
+name: stm32l496vgtx
 oomp:
   library_name: mcu_st_stm32l4
-  md5: 4ff0817b3e809b59a634d945cd5fb084
-  md5_10: 4ff0817b3e
-  md5_5: 4ff08
-  md5_6: 4ff081
-  oomp_key: oomp_mcu_st_stm32l4_stm32l496vgtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l496vgtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l496vgtx_4ff081
-  oomp_key_simple: mcu_st_stm32l4_stm32l496vgtx
+  md5: c7007145da30745ffcb966b939c15891
+  md5_10: c7007145da
+  md5_5: c7007
+  md5_6: c70071
+  oomp_key: oomp_stm32l496vgtx
+  oomp_key_extra: oomp_symbol_stm32l496vgtx
+  oomp_key_full: oomp_symbol_stm32l496vgtx_c70071
+  oomp_key_simple: stm32l496vgtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l496vgtx
+  symbol_name: stm32l496vgtx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

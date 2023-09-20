@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bat54w/working
   oomp_src_flat: symbols_flat/kicad_diode_bat54w/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bat54w/working
-name: diode_bat54w
+name: bat54w
 oomp:
   library_name: diode
-  md5: 5a5d1097a6e7a0e5a2e22f1d6ac15283
-  md5_10: 5a5d1097a6
-  md5_5: 5a5d1
-  md5_6: 5a5d10
-  oomp_key: oomp_diode_bat54w
-  oomp_key_extra: oomp_symbol_diode_bat54w
-  oomp_key_full: oomp_symbol_diode_bat54w_5a5d10
-  oomp_key_simple: diode_bat54w
+  md5: f2d1ddff1c7c5ce802f9a3e56a64a591
+  md5_10: f2d1ddff1c
+  md5_5: f2d1d
+  md5_6: f2d1dd
+  oomp_key: oomp_bat54w
+  oomp_key_extra: oomp_symbol_bat54w
+  oomp_key_full: oomp_symbol_bat54w_f2d1dd
+  oomp_key_simple: bat54w
   owner_name: kicad
-  symbol_name: diode_bat54w
+  symbol_name: bat54w
 oomp_key: oomp_kicad_diode_bat54w
 oomp_key_simple: kicad_diode_bat54w
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

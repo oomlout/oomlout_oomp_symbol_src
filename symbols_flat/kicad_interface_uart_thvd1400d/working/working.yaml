@@ -1,19 +1,19 @@
 id: kicad_interface_uart_thvd1400d
 library: interface_uart
 library_name: Interface_UART
-name: interface_uart_thvd1400d
+name: thvd1400d
 oomp:
   library_name: interface_uart
-  md5: b979a13a2e1f018d67db12ae6283a80c
-  md5_10: b979a13a2e
-  md5_5: b979a
-  md5_6: b979a1
-  oomp_key: oomp_interface_uart_thvd1400d
-  oomp_key_extra: oomp_symbol_interface_uart_thvd1400d
-  oomp_key_full: oomp_symbol_interface_uart_thvd1400d_b979a1
-  oomp_key_simple: interface_uart_thvd1400d
+  md5: 58044c6c81a72903299e25a180a2348d
+  md5_10: 58044c6c81
+  md5_5: '58044'
+  md5_6: 58044c
+  oomp_key: oomp_thvd1400d
+  oomp_key_extra: oomp_symbol_thvd1400d
+  oomp_key_full: oomp_symbol_thvd1400d_58044c
+  oomp_key_simple: thvd1400d
   owner_name: kicad
-  symbol_name: interface_uart_thvd1400d
+  symbol_name: thvd1400d
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_tle2426xlp/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_tle2426xlp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_tle2426xlp/working
-name: reference_voltage_tle2426xlp
+name: tle2426xlp
 oomp:
   library_name: reference_voltage
-  md5: 217017a8151df5b49b27f8f2a40ee7fa
-  md5_10: 217017a815
-  md5_5: '21701'
-  md5_6: '217017'
-  oomp_key: oomp_reference_voltage_tle2426xlp
-  oomp_key_extra: oomp_symbol_reference_voltage_tle2426xlp
-  oomp_key_full: oomp_symbol_reference_voltage_tle2426xlp_217017
-  oomp_key_simple: reference_voltage_tle2426xlp
+  md5: e97cd10408f7ef3ef8319156903cc3a6
+  md5_10: e97cd10408
+  md5_5: e97cd
+  md5_6: e97cd1
+  oomp_key: oomp_tle2426xlp
+  oomp_key_extra: oomp_symbol_tle2426xlp
+  oomp_key_full: oomp_symbol_tle2426xlp_e97cd1
+  oomp_key_simple: tle2426xlp
   owner_name: kicad
-  symbol_name: reference_voltage_tle2426xlp
+  symbol_name: tle2426xlp
 oomp_key: oomp_kicad_reference_voltage_tle2426xlp
 oomp_key_simple: kicad_reference_voltage_tle2426xlp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_tmc2130_la/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_tmc2130_la/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_tmc2130_la/working
-name: driver_motor_tmc2130_la
+name: tmc2130_la
 oomp:
   library_name: driver_motor
-  md5: 165f96d06dee9397382007b666d76671
-  md5_10: 165f96d06d
-  md5_5: 165f9
-  md5_6: 165f96
-  oomp_key: oomp_driver_motor_tmc2130_la
-  oomp_key_extra: oomp_symbol_driver_motor_tmc2130_la
-  oomp_key_full: oomp_symbol_driver_motor_tmc2130_la_165f96
-  oomp_key_simple: driver_motor_tmc2130_la
+  md5: 07c2a9356fe4709ed644a8749d667085
+  md5_10: 07c2a9356f
+  md5_5: 07c2a
+  md5_6: 07c2a9
+  oomp_key: oomp_tmc2130_la
+  oomp_key_extra: oomp_symbol_tmc2130_la
+  oomp_key_full: oomp_symbol_tmc2130_la_07c2a9
+  oomp_key_simple: tmc2130_la
   owner_name: kicad
-  symbol_name: driver_motor_tmc2130_la
+  symbol_name: tmc2130_la
 oomp_key: oomp_kicad_driver_motor_tmc2130_la
 oomp_key_simple: kicad_driver_motor_tmc2130_la
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

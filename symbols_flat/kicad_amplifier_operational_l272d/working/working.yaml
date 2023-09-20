@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_l272d/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_l272d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_l272d/working
-name: amplifier_operational_l272d
+name: l272d
 oomp:
   library_name: amplifier_operational
-  md5: 70dba61152f2aa3b14968c26a7380602
-  md5_10: 70dba61152
-  md5_5: 70dba
-  md5_6: 70dba6
-  oomp_key: oomp_amplifier_operational_l272d
-  oomp_key_extra: oomp_symbol_amplifier_operational_l272d
-  oomp_key_full: oomp_symbol_amplifier_operational_l272d_70dba6
-  oomp_key_simple: amplifier_operational_l272d
+  md5: 2171d8b98a01801d17e11f166e961071
+  md5_10: 2171d8b98a
+  md5_5: 2171d
+  md5_6: 2171d8
+  oomp_key: oomp_l272d
+  oomp_key_extra: oomp_symbol_l272d
+  oomp_key_full: oomp_symbol_l272d_2171d8
+  oomp_key_simple: l272d
   owner_name: kicad
-  symbol_name: amplifier_operational_l272d
+  symbol_name: l272d
 oomp_key: oomp_kicad_amplifier_operational_l272d
 oomp_key_simple: kicad_amplifier_operational_l272d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

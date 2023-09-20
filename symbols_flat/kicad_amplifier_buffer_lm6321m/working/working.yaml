@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_buffer_lm6321m/working
   oomp_src_flat: symbols_flat/kicad_amplifier_buffer_lm6321m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_buffer_lm6321m/working
-name: amplifier_buffer_lm6321m
+name: lm6321m
 oomp:
   library_name: amplifier_buffer
-  md5: 00a21e0bcdfd17b9364464329ab51a5a
-  md5_10: 00a21e0bcd
-  md5_5: 00a21
-  md5_6: 00a21e
-  oomp_key: oomp_amplifier_buffer_lm6321m
-  oomp_key_extra: oomp_symbol_amplifier_buffer_lm6321m
-  oomp_key_full: oomp_symbol_amplifier_buffer_lm6321m_00a21e
-  oomp_key_simple: amplifier_buffer_lm6321m
+  md5: 913473d50a91c941cc80af9d60cdaddf
+  md5_10: 913473d50a
+  md5_5: '91347'
+  md5_6: '913473'
+  oomp_key: oomp_lm6321m
+  oomp_key_extra: oomp_symbol_lm6321m
+  oomp_key_full: oomp_symbol_lm6321m_913473
+  oomp_key_simple: lm6321m
   owner_name: kicad
-  symbol_name: amplifier_buffer_lm6321m
+  symbol_name: lm6321m
 oomp_key: oomp_kicad_amplifier_buffer_lm6321m
 oomp_key_simple: kicad_amplifier_buffer_lm6321m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

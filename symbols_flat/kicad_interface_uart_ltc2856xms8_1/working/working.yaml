@@ -1,19 +1,19 @@
 id: kicad_interface_uart_ltc2856xms8_1
 library: interface_uart
 library_name: Interface_UART
-name: interface_uart_ltc2856xms8_1
+name: ltc2856xms8_1
 oomp:
   library_name: interface_uart
-  md5: 342cf41d210e5817fd8a00972de0b9de
-  md5_10: 342cf41d21
-  md5_5: 342cf
-  md5_6: 342cf4
-  oomp_key: oomp_interface_uart_ltc2856xms8_1
-  oomp_key_extra: oomp_symbol_interface_uart_ltc2856xms8_1
-  oomp_key_full: oomp_symbol_interface_uart_ltc2856xms8_1_342cf4
-  oomp_key_simple: interface_uart_ltc2856xms8_1
+  md5: a41fe3c3b15222b4d01d33605a43ecdc
+  md5_10: a41fe3c3b1
+  md5_5: a41fe
+  md5_6: a41fe3
+  oomp_key: oomp_ltc2856xms8_1
+  oomp_key_extra: oomp_symbol_ltc2856xms8_1
+  oomp_key_full: oomp_symbol_ltc2856xms8_1_a41fe3
+  oomp_key_simple: ltc2856xms8_1
   owner_name: kicad
-  symbol_name: interface_uart_ltc2856xms8_1
+  symbol_name: ltc2856xms8_1
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

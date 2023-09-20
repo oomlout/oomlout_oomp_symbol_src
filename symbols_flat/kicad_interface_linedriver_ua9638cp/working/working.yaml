@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_linedriver_ua9638cp/working
   oomp_src_flat: symbols_flat/kicad_interface_linedriver_ua9638cp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_linedriver_ua9638cp/working
-name: interface_linedriver_ua9638cp
+name: ua9638cp
 oomp:
   library_name: interface_linedriver
-  md5: 6a95faaef7846f86202ffeec1c521924
-  md5_10: 6a95faaef7
-  md5_5: 6a95f
-  md5_6: 6a95fa
-  oomp_key: oomp_interface_linedriver_ua9638cp
-  oomp_key_extra: oomp_symbol_interface_linedriver_ua9638cp
-  oomp_key_full: oomp_symbol_interface_linedriver_ua9638cp_6a95fa
-  oomp_key_simple: interface_linedriver_ua9638cp
+  md5: 26fc6e01f97dc77dd5f6f58eaaaf4cb9
+  md5_10: 26fc6e01f9
+  md5_5: 26fc6
+  md5_6: 26fc6e
+  oomp_key: oomp_ua9638cp
+  oomp_key_extra: oomp_symbol_ua9638cp
+  oomp_key_full: oomp_symbol_ua9638cp_26fc6e
+  oomp_key_simple: ua9638cp
   owner_name: kicad
-  symbol_name: interface_linedriver_ua9638cp
+  symbol_name: ua9638cp
 oomp_key: oomp_kicad_interface_linedriver_ua9638cp
 oomp_key_simple: kicad_interface_linedriver_ua9638cp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

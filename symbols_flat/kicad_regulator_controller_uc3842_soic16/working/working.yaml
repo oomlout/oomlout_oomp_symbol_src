@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_uc3842_soic16/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_uc3842_soic16/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_uc3842_soic16/working
-name: regulator_controller_uc3842_soic16
+name: uc3842_soic16
 oomp:
   library_name: regulator_controller
-  md5: e8eae8a05045fe998513ed294be8c377
-  md5_10: e8eae8a050
-  md5_5: e8eae
-  md5_6: e8eae8
-  oomp_key: oomp_regulator_controller_uc3842_soic16
-  oomp_key_extra: oomp_symbol_regulator_controller_uc3842_soic16
-  oomp_key_full: oomp_symbol_regulator_controller_uc3842_soic16_e8eae8
-  oomp_key_simple: regulator_controller_uc3842_soic16
+  md5: b30cd1c6254e11e46ee12ca5944fc5b1
+  md5_10: b30cd1c625
+  md5_5: b30cd
+  md5_6: b30cd1
+  oomp_key: oomp_uc3842_soic16
+  oomp_key_extra: oomp_symbol_uc3842_soic16
+  oomp_key_full: oomp_symbol_uc3842_soic16_b30cd1
+  oomp_key_simple: uc3842_soic16
   owner_name: kicad
-  symbol_name: regulator_controller_uc3842_soic16
+  symbol_name: uc3842_soic16
 oomp_key: oomp_kicad_regulator_controller_uc3842_soic16
 oomp_key_simple: kicad_regulator_controller_uc3842_soic16
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

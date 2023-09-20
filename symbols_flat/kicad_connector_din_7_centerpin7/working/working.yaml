@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_din_7_centerpin7/working
   oomp_src_flat: symbols_flat/kicad_connector_din_7_centerpin7/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_din_7_centerpin7/working
-name: connector_din_7_centerpin7
+name: din_7_centerpin7
 oomp:
   library_name: connector
-  md5: 1e06cbf283ae34d406bd14571063a04f
-  md5_10: 1e06cbf283
-  md5_5: 1e06c
-  md5_6: 1e06cb
-  oomp_key: oomp_connector_din_7_centerpin7
-  oomp_key_extra: oomp_symbol_connector_din_7_centerpin7
-  oomp_key_full: oomp_symbol_connector_din_7_centerpin7_1e06cb
-  oomp_key_simple: connector_din_7_centerpin7
+  md5: 2c2b2733112e436594f9eab00a86febe
+  md5_10: 2c2b273311
+  md5_5: 2c2b2
+  md5_6: 2c2b27
+  oomp_key: oomp_din_7_centerpin7
+  oomp_key_extra: oomp_symbol_din_7_centerpin7
+  oomp_key_full: oomp_symbol_din_7_centerpin7_2c2b27
+  oomp_key_simple: din_7_centerpin7
   owner_name: kicad
-  symbol_name: connector_din_7_centerpin7
+  symbol_name: din_7_centerpin7
 oomp_key: oomp_kicad_connector_din_7_centerpin7
 oomp_key_simple: kicad_connector_din_7_centerpin7
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

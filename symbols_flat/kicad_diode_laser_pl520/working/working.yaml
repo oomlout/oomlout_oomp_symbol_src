@@ -1,19 +1,19 @@
 id: kicad_diode_laser_pl520
 library: diode_laser
 library_name: Diode_Laser
-name: diode_laser_pl520
+name: pl520
 oomp:
   library_name: diode_laser
-  md5: 729dcbdbd59433ad580a10739bc07079
-  md5_10: 729dcbdbd5
-  md5_5: 729dc
-  md5_6: 729dcb
-  oomp_key: oomp_diode_laser_pl520
-  oomp_key_extra: oomp_symbol_diode_laser_pl520
-  oomp_key_full: oomp_symbol_diode_laser_pl520_729dcb
-  oomp_key_simple: diode_laser_pl520
+  md5: 01c2bc00c5bd89ba042452e396e7c0f9
+  md5_10: 01c2bc00c5
+  md5_5: 01c2b
+  md5_6: 01c2bc
+  oomp_key: oomp_pl520
+  oomp_key_extra: oomp_symbol_pl520
+  oomp_key_full: oomp_symbol_pl520_01c2bc
+  oomp_key_simple: pl520
   owner_name: kicad
-  symbol_name: diode_laser_pl520
+  symbol_name: pl520
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_sensor_current_acs717xmatr_20b
 library: sensor_current
 library_name: Sensor_Current
-name: sensor_current_acs717xmatr_20b
+name: acs717xmatr_20b
 oomp:
   library_name: sensor_current
-  md5: 765ba54948b9fb335dce01ed682882f6
-  md5_10: 765ba54948
-  md5_5: 765ba
-  md5_6: 765ba5
-  oomp_key: oomp_sensor_current_acs717xmatr_20b
-  oomp_key_extra: oomp_symbol_sensor_current_acs717xmatr_20b
-  oomp_key_full: oomp_symbol_sensor_current_acs717xmatr_20b_765ba5
-  oomp_key_simple: sensor_current_acs717xmatr_20b
+  md5: c722f4848a81f04f556646fa5f77dea8
+  md5_10: c722f4848a
+  md5_5: c722f
+  md5_6: c722f4
+  oomp_key: oomp_acs717xmatr_20b
+  oomp_key_extra: oomp_symbol_acs717xmatr_20b
+  oomp_key_full: oomp_symbol_acs717xmatr_20b_c722f4
+  oomp_key_simple: acs717xmatr_20b
   owner_name: kicad
-  symbol_name: sensor_current_acs717xmatr_20b
+  symbol_name: acs717xmatr_20b
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

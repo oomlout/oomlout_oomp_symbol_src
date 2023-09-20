@@ -1,19 +1,19 @@
 id: kicad_analog_adc_ltc1406ign
 library: analog_adc
 library_name: Analog_ADC
-name: analog_adc_ltc1406ign
+name: ltc1406ign
 oomp:
   library_name: analog_adc
-  md5: 877cfbf6b7e94c514cfbfbc2bbaec331
-  md5_10: 877cfbf6b7
-  md5_5: 877cf
-  md5_6: 877cfb
-  oomp_key: oomp_analog_adc_ltc1406ign
-  oomp_key_extra: oomp_symbol_analog_adc_ltc1406ign
-  oomp_key_full: oomp_symbol_analog_adc_ltc1406ign_877cfb
-  oomp_key_simple: analog_adc_ltc1406ign
+  md5: bcea865cef7071cd17dce424e78ac635
+  md5_10: bcea865cef
+  md5_5: bcea8
+  md5_6: bcea86
+  oomp_key: oomp_ltc1406ign
+  oomp_key_extra: oomp_symbol_ltc1406ign
+  oomp_key_full: oomp_symbol_ltc1406ign_bcea86
+  oomp_key_simple: ltc1406ign
   owner_name: kicad
-  symbol_name: analog_adc_ltc1406ign
+  symbol_name: ltc1406ign
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

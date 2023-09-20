@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_hid_joywarrior24a10l/working
   oomp_src_flat: symbols_flat/kicad_interface_hid_joywarrior24a10l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_hid_joywarrior24a10l/working
-name: interface_hid_joywarrior24a10l
+name: joywarrior24a10l
 oomp:
   library_name: interface_hid
-  md5: f7ee6f8b3e65dc250c80a99fd2402d54
-  md5_10: f7ee6f8b3e
-  md5_5: f7ee6
-  md5_6: f7ee6f
-  oomp_key: oomp_interface_hid_joywarrior24a10l
-  oomp_key_extra: oomp_symbol_interface_hid_joywarrior24a10l
-  oomp_key_full: oomp_symbol_interface_hid_joywarrior24a10l_f7ee6f
-  oomp_key_simple: interface_hid_joywarrior24a10l
+  md5: 43fbaa504583196373ccf26529bde7c4
+  md5_10: 43fbaa5045
+  md5_5: 43fba
+  md5_6: 43fbaa
+  oomp_key: oomp_joywarrior24a10l
+  oomp_key_extra: oomp_symbol_joywarrior24a10l
+  oomp_key_full: oomp_symbol_joywarrior24a10l_43fbaa
+  oomp_key_simple: joywarrior24a10l
   owner_name: kicad
-  symbol_name: interface_hid_joywarrior24a10l
+  symbol_name: joywarrior24a10l
 oomp_key: oomp_kicad_interface_hid_joywarrior24a10l
 oomp_key_simple: kicad_interface_hid_joywarrior24a10l
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

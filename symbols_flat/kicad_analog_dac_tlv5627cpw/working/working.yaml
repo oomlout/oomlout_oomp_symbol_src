@@ -1,19 +1,19 @@
 id: kicad_analog_dac_tlv5627cpw
 library: analog_dac
 library_name: Analog_DAC
-name: analog_dac_tlv5627cpw
+name: tlv5627cpw
 oomp:
   library_name: analog_dac
-  md5: 3837cd899964c8131c172b1ff47451c4
-  md5_10: 3837cd8999
-  md5_5: 3837c
-  md5_6: 3837cd
-  oomp_key: oomp_analog_dac_tlv5627cpw
-  oomp_key_extra: oomp_symbol_analog_dac_tlv5627cpw
-  oomp_key_full: oomp_symbol_analog_dac_tlv5627cpw_3837cd
-  oomp_key_simple: analog_dac_tlv5627cpw
+  md5: cf631a80f38f461fa59e767ae2006941
+  md5_10: cf631a80f3
+  md5_5: cf631
+  md5_6: cf631a
+  oomp_key: oomp_tlv5627cpw
+  oomp_key_extra: oomp_symbol_tlv5627cpw
+  oomp_key_full: oomp_symbol_tlv5627cpw_cf631a
+  oomp_key_simple: tlv5627cpw
   owner_name: kicad
-  symbol_name: analog_dac_tlv5627cpw
+  symbol_name: tlv5627cpw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

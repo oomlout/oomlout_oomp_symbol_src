@@ -1,19 +1,19 @@
 id: kicad_rf_amplifier_hmc8500pm5e
 library: rf_amplifier
 library_name: RF_Amplifier
-name: rf_amplifier_hmc8500pm5e
+name: hmc8500pm5e
 oomp:
   library_name: rf_amplifier
-  md5: 35a316e8f19d1707cffce4b7038b5773
-  md5_10: 35a316e8f1
-  md5_5: 35a31
-  md5_6: 35a316
-  oomp_key: oomp_rf_amplifier_hmc8500pm5e
-  oomp_key_extra: oomp_symbol_rf_amplifier_hmc8500pm5e
-  oomp_key_full: oomp_symbol_rf_amplifier_hmc8500pm5e_35a316
-  oomp_key_simple: rf_amplifier_hmc8500pm5e
+  md5: 2c0b5868b6b4853a09f17ee2c58b01ec
+  md5_10: 2c0b5868b6
+  md5_5: 2c0b5
+  md5_6: 2c0b58
+  oomp_key: oomp_hmc8500pm5e
+  oomp_key_extra: oomp_symbol_hmc8500pm5e
+  oomp_key_full: oomp_symbol_hmc8500pm5e_2c0b58
+  oomp_key_simple: hmc8500pm5e
   owner_name: kicad
-  symbol_name: rf_amplifier_hmc8500pm5e
+  symbol_name: hmc8500pm5e
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

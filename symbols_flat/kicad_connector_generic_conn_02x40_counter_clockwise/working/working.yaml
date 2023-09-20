@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_conn_02x40_counter_clockwise/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_02x40_counter_clockwise/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_02x40_counter_clockwise/working
-name: connector_generic_conn_02x40_counter_clockwise
+name: conn_02x40_counter_clockwise
 oomp:
   library_name: connector_generic
-  md5: c4e8bb3fea51760cdad2d67a8e9613b8
-  md5_10: c4e8bb3fea
-  md5_5: c4e8b
-  md5_6: c4e8bb
-  oomp_key: oomp_connector_generic_conn_02x40_counter_clockwise
-  oomp_key_extra: oomp_symbol_connector_generic_conn_02x40_counter_clockwise
-  oomp_key_full: oomp_symbol_connector_generic_conn_02x40_counter_clockwise_c4e8bb
-  oomp_key_simple: connector_generic_conn_02x40_counter_clockwise
+  md5: 1cbd60dade3b94133e31be8f7ff4eb76
+  md5_10: 1cbd60dade
+  md5_5: 1cbd6
+  md5_6: 1cbd60
+  oomp_key: oomp_conn_02x40_counter_clockwise
+  oomp_key_extra: oomp_symbol_conn_02x40_counter_clockwise
+  oomp_key_full: oomp_symbol_conn_02x40_counter_clockwise_1cbd60
+  oomp_key_simple: conn_02x40_counter_clockwise
   owner_name: kicad
-  symbol_name: connector_generic_conn_02x40_counter_clockwise
+  symbol_name: conn_02x40_counter_clockwise
 oomp_key: oomp_kicad_connector_generic_conn_02x40_counter_clockwise
 oomp_key_simple: kicad_connector_generic_conn_02x40_counter_clockwise
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

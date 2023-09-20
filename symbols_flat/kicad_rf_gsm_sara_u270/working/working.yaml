@@ -1,19 +1,19 @@
 id: kicad_rf_gsm_sara_u270
 library: rf_gsm
 library_name: RF_GSM
-name: rf_gsm_sara_u270
+name: sara_u270
 oomp:
   library_name: rf_gsm
-  md5: fad8ae472e08525bb413722f9604fba2
-  md5_10: fad8ae472e
-  md5_5: fad8a
-  md5_6: fad8ae
-  oomp_key: oomp_rf_gsm_sara_u270
-  oomp_key_extra: oomp_symbol_rf_gsm_sara_u270
-  oomp_key_full: oomp_symbol_rf_gsm_sara_u270_fad8ae
-  oomp_key_simple: rf_gsm_sara_u270
+  md5: 093c229e9e721299bf1a6d07d8249a32
+  md5_10: 093c229e9e
+  md5_5: 093c2
+  md5_6: 093c22
+  oomp_key: oomp_sara_u270
+  oomp_key_extra: oomp_symbol_sara_u270
+  oomp_key_full: oomp_symbol_sara_u270_093c22
+  oomp_key_simple: sara_u270
   owner_name: kicad
-  symbol_name: rf_gsm_sara_u270
+  symbol_name: sara_u270
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

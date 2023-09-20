@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_drv8872dda/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_drv8872dda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_drv8872dda/working
-name: driver_motor_drv8872dda
+name: drv8872dda
 oomp:
   library_name: driver_motor
-  md5: 1b64fe7e11715d8adcf87529299d3eda
-  md5_10: 1b64fe7e11
-  md5_5: 1b64f
-  md5_6: 1b64fe
-  oomp_key: oomp_driver_motor_drv8872dda
-  oomp_key_extra: oomp_symbol_driver_motor_drv8872dda
-  oomp_key_full: oomp_symbol_driver_motor_drv8872dda_1b64fe
-  oomp_key_simple: driver_motor_drv8872dda
+  md5: 6de2704bed68746d34ea9e0806fbb67d
+  md5_10: 6de2704bed
+  md5_5: 6de27
+  md5_6: 6de270
+  oomp_key: oomp_drv8872dda
+  oomp_key_extra: oomp_symbol_drv8872dda
+  oomp_key_full: oomp_symbol_drv8872dda_6de270
+  oomp_key_simple: drv8872dda
   owner_name: kicad
-  symbol_name: driver_motor_drv8872dda
+  symbol_name: drv8872dda
 oomp_key: oomp_kicad_driver_motor_drv8872dda
 oomp_key_simple: kicad_driver_motor_drv8872dda
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

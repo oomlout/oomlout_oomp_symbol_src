@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_iso7760dw/working
   oomp_src_flat: symbols_flat/kicad_isolator_iso7760dw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_iso7760dw/working
-name: isolator_iso7760dw
+name: iso7760dw
 oomp:
   library_name: isolator
-  md5: 61c54011db3ca1532a4eb307645eef04
-  md5_10: 61c54011db
-  md5_5: 61c54
-  md5_6: 61c540
-  oomp_key: oomp_isolator_iso7760dw
-  oomp_key_extra: oomp_symbol_isolator_iso7760dw
-  oomp_key_full: oomp_symbol_isolator_iso7760dw_61c540
-  oomp_key_simple: isolator_iso7760dw
+  md5: 97b68ab5731f3622343b6bb242a9c44b
+  md5_10: 97b68ab573
+  md5_5: 97b68
+  md5_6: 97b68a
+  oomp_key: oomp_iso7760dw
+  oomp_key_extra: oomp_symbol_iso7760dw
+  oomp_key_full: oomp_symbol_iso7760dw_97b68a
+  oomp_key_simple: iso7760dw
   owner_name: kicad
-  symbol_name: isolator_iso7760dw
+  symbol_name: iso7760dw
 oomp_key: oomp_kicad_isolator_iso7760dw
 oomp_key_simple: kicad_isolator_iso7760dw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

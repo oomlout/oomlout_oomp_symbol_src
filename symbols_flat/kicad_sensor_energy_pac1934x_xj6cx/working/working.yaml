@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_energy_pac1934x_xj6cx/working
   oomp_src_flat: symbols_flat/kicad_sensor_energy_pac1934x_xj6cx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_energy_pac1934x_xj6cx/working
-name: sensor_energy_pac1934x_xj6cx
+name: pac1934x_xj6cx
 oomp:
   library_name: sensor_energy
-  md5: 9c90790375e1e725372acb256f37f08a
-  md5_10: 9c90790375
-  md5_5: 9c907
-  md5_6: 9c9079
-  oomp_key: oomp_sensor_energy_pac1934x_xj6cx
-  oomp_key_extra: oomp_symbol_sensor_energy_pac1934x_xj6cx
-  oomp_key_full: oomp_symbol_sensor_energy_pac1934x_xj6cx_9c9079
-  oomp_key_simple: sensor_energy_pac1934x_xj6cx
+  md5: e84e6a711793e864a3888a495780a020
+  md5_10: e84e6a7117
+  md5_5: e84e6
+  md5_6: e84e6a
+  oomp_key: oomp_pac1934x_xj6cx
+  oomp_key_extra: oomp_symbol_pac1934x_xj6cx
+  oomp_key_full: oomp_symbol_pac1934x_xj6cx_e84e6a
+  oomp_key_simple: pac1934x_xj6cx
   owner_name: kicad
-  symbol_name: sensor_energy_pac1934x_xj6cx
+  symbol_name: pac1934x_xj6cx
 oomp_key: oomp_kicad_sensor_energy_pac1934x_xj6cx
 oomp_key_simple: kicad_sensor_energy_pac1934x_xj6cx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

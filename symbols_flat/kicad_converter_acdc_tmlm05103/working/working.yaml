@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_tmlm05103/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_tmlm05103/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_tmlm05103/working
-name: converter_acdc_tmlm05103
+name: tmlm05103
 oomp:
   library_name: converter_acdc
-  md5: 805ff8eadb1c8b03c4f4856f146c4313
-  md5_10: 805ff8eadb
-  md5_5: 805ff
-  md5_6: 805ff8
-  oomp_key: oomp_converter_acdc_tmlm05103
-  oomp_key_extra: oomp_symbol_converter_acdc_tmlm05103
-  oomp_key_full: oomp_symbol_converter_acdc_tmlm05103_805ff8
-  oomp_key_simple: converter_acdc_tmlm05103
+  md5: 054714f64739ad0ecee45da4fb68d45c
+  md5_10: 054714f647
+  md5_5: '05471'
+  md5_6: '054714'
+  oomp_key: oomp_tmlm05103
+  oomp_key_extra: oomp_symbol_tmlm05103
+  oomp_key_full: oomp_symbol_tmlm05103_054714
+  oomp_key_simple: tmlm05103
   owner_name: kicad
-  symbol_name: converter_acdc_tmlm05103
+  symbol_name: tmlm05103
 oomp_key: oomp_kicad_converter_acdc_tmlm05103
 oomp_key_simple: kicad_converter_acdc_tmlm05103
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

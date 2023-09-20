@@ -1,19 +1,19 @@
 id: kicad_mcu_microchip_pic10_pic10f322_iot
 library: mcu_microchip_pic10
 library_name: MCU_Microchip_PIC10
-name: mcu_microchip_pic10_pic10f322_iot
+name: pic10f322_iot
 oomp:
   library_name: mcu_microchip_pic10
-  md5: 3e4f757b6b7419dc16520bd16e592e0a
-  md5_10: 3e4f757b6b
-  md5_5: 3e4f7
-  md5_6: 3e4f75
-  oomp_key: oomp_mcu_microchip_pic10_pic10f322_iot
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic10_pic10f322_iot
-  oomp_key_full: oomp_symbol_mcu_microchip_pic10_pic10f322_iot_3e4f75
-  oomp_key_simple: mcu_microchip_pic10_pic10f322_iot
+  md5: 291c443abe03e453e462acbe7c4c6798
+  md5_10: 291c443abe
+  md5_5: 291c4
+  md5_6: 291c44
+  oomp_key: oomp_pic10f322_iot
+  oomp_key_extra: oomp_symbol_pic10f322_iot
+  oomp_key_full: oomp_symbol_pic10f322_iot_291c44
+  oomp_key_simple: pic10f322_iot
   owner_name: kicad
-  symbol_name: mcu_microchip_pic10_pic10f322_iot
+  symbol_name: pic10f322_iot
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

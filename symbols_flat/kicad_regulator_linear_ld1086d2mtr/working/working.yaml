@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ld1086d2mtr/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ld1086d2mtr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ld1086d2mtr/working
-name: regulator_linear_ld1086d2mtr
+name: ld1086d2mtr
 oomp:
   library_name: regulator_linear
-  md5: c374aae4ff9433997889e486cd1aeada
-  md5_10: c374aae4ff
-  md5_5: c374a
-  md5_6: c374aa
-  oomp_key: oomp_regulator_linear_ld1086d2mtr
-  oomp_key_extra: oomp_symbol_regulator_linear_ld1086d2mtr
-  oomp_key_full: oomp_symbol_regulator_linear_ld1086d2mtr_c374aa
-  oomp_key_simple: regulator_linear_ld1086d2mtr
+  md5: 87755d7f198251c8d277e1cd342d8c75
+  md5_10: 87755d7f19
+  md5_5: '87755'
+  md5_6: 87755d
+  oomp_key: oomp_ld1086d2mtr
+  oomp_key_extra: oomp_symbol_ld1086d2mtr
+  oomp_key_full: oomp_symbol_ld1086d2mtr_87755d
+  oomp_key_simple: ld1086d2mtr
   owner_name: kicad
-  symbol_name: regulator_linear_ld1086d2mtr
+  symbol_name: ld1086d2mtr
 oomp_key: oomp_kicad_regulator_linear_ld1086d2mtr
 oomp_key_simple: kicad_regulator_linear_ld1086d2mtr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

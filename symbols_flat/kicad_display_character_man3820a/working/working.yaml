@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_man3820a/working
   oomp_src_flat: symbols_flat/kicad_display_character_man3820a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_man3820a/working
-name: display_character_man3820a
+name: man3820a
 oomp:
   library_name: display_character
-  md5: 99fbc617e48f899d51a8acf37aa4a0c5
-  md5_10: 99fbc617e4
-  md5_5: 99fbc
-  md5_6: 99fbc6
-  oomp_key: oomp_display_character_man3820a
-  oomp_key_extra: oomp_symbol_display_character_man3820a
-  oomp_key_full: oomp_symbol_display_character_man3820a_99fbc6
-  oomp_key_simple: display_character_man3820a
+  md5: ee731028a7ddde89e4d9b46ebddb21a8
+  md5_10: ee731028a7
+  md5_5: ee731
+  md5_6: ee7310
+  oomp_key: oomp_man3820a
+  oomp_key_extra: oomp_symbol_man3820a
+  oomp_key_full: oomp_symbol_man3820a_ee7310
+  oomp_key_simple: man3820a
   owner_name: kicad
-  symbol_name: display_character_man3820a
+  symbol_name: man3820a
 oomp_key: oomp_kicad_display_character_man3820a
 oomp_key_simple: kicad_display_character_man3820a
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

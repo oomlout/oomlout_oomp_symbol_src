@@ -1,19 +1,19 @@
 id: kicad_diode_bar43film
 library: diode
 library_name: Diode
-name: diode_bar43film
+name: bar43film
 oomp:
   library_name: diode
-  md5: 85f2c24a1068f9dcbbea92d8ecbef176
-  md5_10: 85f2c24a10
-  md5_5: 85f2c
-  md5_6: 85f2c2
-  oomp_key: oomp_diode_bar43film
-  oomp_key_extra: oomp_symbol_diode_bar43film
-  oomp_key_full: oomp_symbol_diode_bar43film_85f2c2
-  oomp_key_simple: diode_bar43film
+  md5: 36142199233dc7360de242cb9e63ffdf
+  md5_10: '3614219923'
+  md5_5: '36142'
+  md5_6: '361421'
+  oomp_key: oomp_bar43film
+  oomp_key_extra: oomp_symbol_bar43film
+  oomp_key_full: oomp_symbol_bar43film_361421
+  oomp_key_simple: bar43film
   owner_name: kicad
-  symbol_name: diode_bar43film
+  symbol_name: bar43film
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

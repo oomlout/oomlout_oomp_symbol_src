@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_ground/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_xlr3_audiojack3_combo_ground/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_ground/working
-name: connector_audio_xlr3_audiojack3_combo_ground
+name: xlr3_audiojack3_combo_ground
 oomp:
   library_name: connector_audio
-  md5: fc44cc2396d50a17ffa14ce0ad3090ce
-  md5_10: fc44cc2396
-  md5_5: fc44c
-  md5_6: fc44cc
-  oomp_key: oomp_connector_audio_xlr3_audiojack3_combo_ground
-  oomp_key_extra: oomp_symbol_connector_audio_xlr3_audiojack3_combo_ground
-  oomp_key_full: oomp_symbol_connector_audio_xlr3_audiojack3_combo_ground_fc44cc
-  oomp_key_simple: connector_audio_xlr3_audiojack3_combo_ground
+  md5: 5fcba1bcbaddd2d2c77a3b0df3e9ff94
+  md5_10: 5fcba1bcba
+  md5_5: 5fcba
+  md5_6: 5fcba1
+  oomp_key: oomp_xlr3_audiojack3_combo_ground
+  oomp_key_extra: oomp_symbol_xlr3_audiojack3_combo_ground
+  oomp_key_full: oomp_symbol_xlr3_audiojack3_combo_ground_5fcba1
+  oomp_key_simple: xlr3_audiojack3_combo_ground
   owner_name: kicad
-  symbol_name: connector_audio_xlr3_audiojack3_combo_ground
+  symbol_name: xlr3_audiojack3_combo_ground
 oomp_key: oomp_kicad_connector_audio_xlr3_audiojack3_combo_ground
 oomp_key_simple: kicad_connector_audio_xlr3_audiojack3_combo_ground
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

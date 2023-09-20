@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_td1205/working
   oomp_src_flat: symbols_flat/kicad_rf_module_td1205/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_td1205/working
-name: rf_module_td1205
+name: td1205
 oomp:
   library_name: rf_module
-  md5: 59c9b6a0c60f7c1e9d39fb8873d0e120
-  md5_10: 59c9b6a0c6
-  md5_5: 59c9b
-  md5_6: 59c9b6
-  oomp_key: oomp_rf_module_td1205
-  oomp_key_extra: oomp_symbol_rf_module_td1205
-  oomp_key_full: oomp_symbol_rf_module_td1205_59c9b6
-  oomp_key_simple: rf_module_td1205
+  md5: c97e8eda616177310092b4451b99cba6
+  md5_10: c97e8eda61
+  md5_5: c97e8
+  md5_6: c97e8e
+  oomp_key: oomp_td1205
+  oomp_key_extra: oomp_symbol_td1205
+  oomp_key_full: oomp_symbol_td1205_c97e8e
+  oomp_key_simple: td1205
   owner_name: kicad
-  symbol_name: rf_module_td1205
+  symbol_name: td1205
 oomp_key: oomp_kicad_rf_module_td1205
 oomp_key_simple: kicad_rf_module_td1205
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

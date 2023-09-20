@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_sp0502bajt/working
   oomp_src_flat: symbols_flat/kicad_power_protection_sp0502bajt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_sp0502bajt/working
-name: power_protection_sp0502bajt
+name: sp0502bajt
 oomp:
   library_name: power_protection
-  md5: 6d7099930010943c62a0cff3c9763482
-  md5_10: 6d70999300
-  md5_5: 6d709
-  md5_6: 6d7099
-  oomp_key: oomp_power_protection_sp0502bajt
-  oomp_key_extra: oomp_symbol_power_protection_sp0502bajt
-  oomp_key_full: oomp_symbol_power_protection_sp0502bajt_6d7099
-  oomp_key_simple: power_protection_sp0502bajt
+  md5: d7ad65ca5faf05db3952c5c008cc666e
+  md5_10: d7ad65ca5f
+  md5_5: d7ad6
+  md5_6: d7ad65
+  oomp_key: oomp_sp0502bajt
+  oomp_key_extra: oomp_symbol_sp0502bajt
+  oomp_key_full: oomp_symbol_sp0502bajt_d7ad65
+  oomp_key_simple: sp0502bajt
   owner_name: kicad
-  symbol_name: power_protection_sp0502bajt
+  symbol_name: sp0502bajt
 oomp_key: oomp_kicad_power_protection_sp0502bajt
 oomp_key_simple: kicad_power_protection_sp0502bajt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

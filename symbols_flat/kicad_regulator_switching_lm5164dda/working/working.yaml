@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lm5164dda/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lm5164dda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lm5164dda/working
-name: regulator_switching_lm5164dda
+name: lm5164dda
 oomp:
   library_name: regulator_switching
-  md5: 5e121226d9404062c37b2740f052be35
-  md5_10: 5e121226d9
-  md5_5: 5e121
-  md5_6: 5e1212
-  oomp_key: oomp_regulator_switching_lm5164dda
-  oomp_key_extra: oomp_symbol_regulator_switching_lm5164dda
-  oomp_key_full: oomp_symbol_regulator_switching_lm5164dda_5e1212
-  oomp_key_simple: regulator_switching_lm5164dda
+  md5: ee7f026d6566975efc15aef85cd804c2
+  md5_10: ee7f026d65
+  md5_5: ee7f0
+  md5_6: ee7f02
+  oomp_key: oomp_lm5164dda
+  oomp_key_extra: oomp_symbol_lm5164dda
+  oomp_key_full: oomp_symbol_lm5164dda_ee7f02
+  oomp_key_simple: lm5164dda
   owner_name: kicad
-  symbol_name: regulator_switching_lm5164dda
+  symbol_name: lm5164dda
 oomp_key: oomp_kicad_regulator_switching_lm5164dda
 oomp_key_simple: kicad_regulator_switching_lm5164dda
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

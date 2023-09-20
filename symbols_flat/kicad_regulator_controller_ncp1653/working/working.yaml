@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ncp1653/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ncp1653/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ncp1653/working
-name: regulator_controller_ncp1653
+name: ncp1653
 oomp:
   library_name: regulator_controller
-  md5: be30d9abbdbc1b613c6c25369dec91ba
-  md5_10: be30d9abbd
-  md5_5: be30d
-  md5_6: be30d9
-  oomp_key: oomp_regulator_controller_ncp1653
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp1653
-  oomp_key_full: oomp_symbol_regulator_controller_ncp1653_be30d9
-  oomp_key_simple: regulator_controller_ncp1653
+  md5: 82e7cc0eccbb03b02155cfe9d13fbbc4
+  md5_10: 82e7cc0ecc
+  md5_5: 82e7c
+  md5_6: 82e7cc
+  oomp_key: oomp_ncp1653
+  oomp_key_extra: oomp_symbol_ncp1653
+  oomp_key_full: oomp_symbol_ncp1653_82e7cc
+  oomp_key_simple: ncp1653
   owner_name: kicad
-  symbol_name: regulator_controller_ncp1653
+  symbol_name: ncp1653
 oomp_key: oomp_kicad_regulator_controller_ncp1653
 oomp_key_simple: kicad_regulator_controller_ncp1653
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

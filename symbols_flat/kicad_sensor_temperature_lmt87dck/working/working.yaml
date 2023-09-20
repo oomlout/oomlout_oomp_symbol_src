@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_lmt87dck/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_lmt87dck/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_lmt87dck/working
-name: sensor_temperature_lmt87dck
+name: lmt87dck
 oomp:
   library_name: sensor_temperature
-  md5: 335388a066d227bd3715daab1956338d
-  md5_10: 335388a066
-  md5_5: '33538'
-  md5_6: '335388'
-  oomp_key: oomp_sensor_temperature_lmt87dck
-  oomp_key_extra: oomp_symbol_sensor_temperature_lmt87dck
-  oomp_key_full: oomp_symbol_sensor_temperature_lmt87dck_335388
-  oomp_key_simple: sensor_temperature_lmt87dck
+  md5: 1263a110727f4d8f8f7d117f5437bb6c
+  md5_10: 1263a11072
+  md5_5: 1263a
+  md5_6: 1263a1
+  oomp_key: oomp_lmt87dck
+  oomp_key_extra: oomp_symbol_lmt87dck
+  oomp_key_full: oomp_symbol_lmt87dck_1263a1
+  oomp_key_simple: lmt87dck
   owner_name: kicad
-  symbol_name: sensor_temperature_lmt87dck
+  symbol_name: lmt87dck
 oomp_key: oomp_kicad_sensor_temperature_lmt87dck
 oomp_key_simple: kicad_sensor_temperature_lmt87dck
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

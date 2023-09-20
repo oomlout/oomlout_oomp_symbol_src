@@ -1,19 +1,19 @@
 id: kicad_relay_solidstate_aqh1223
 library: relay_solidstate
 library_name: Relay_SolidState
-name: relay_solidstate_aqh1223
+name: aqh1223
 oomp:
   library_name: relay_solidstate
-  md5: 84e5c9c1697048e382984a401c66e850
-  md5_10: 84e5c9c169
-  md5_5: 84e5c
-  md5_6: 84e5c9
-  oomp_key: oomp_relay_solidstate_aqh1223
-  oomp_key_extra: oomp_symbol_relay_solidstate_aqh1223
-  oomp_key_full: oomp_symbol_relay_solidstate_aqh1223_84e5c9
-  oomp_key_simple: relay_solidstate_aqh1223
+  md5: 2fc402ef043701306a7af32362a3168b
+  md5_10: 2fc402ef04
+  md5_5: 2fc40
+  md5_6: 2fc402
+  oomp_key: oomp_aqh1223
+  oomp_key_extra: oomp_symbol_aqh1223
+  oomp_key_full: oomp_symbol_aqh1223_2fc402
+  oomp_key_simple: aqh1223
   owner_name: kicad
-  symbol_name: relay_solidstate_aqh1223
+  symbol_name: aqh1223
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

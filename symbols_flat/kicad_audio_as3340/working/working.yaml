@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_as3340/working
   oomp_src_flat: symbols_flat/kicad_audio_as3340/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_as3340/working
-name: audio_as3340
+name: as3340
 oomp:
   library_name: audio
-  md5: 6a993774ab89127d3ae67728c84ed7f4
-  md5_10: 6a993774ab
-  md5_5: 6a993
-  md5_6: 6a9937
-  oomp_key: oomp_audio_as3340
-  oomp_key_extra: oomp_symbol_audio_as3340
-  oomp_key_full: oomp_symbol_audio_as3340_6a9937
-  oomp_key_simple: audio_as3340
+  md5: 78931d60a2ae1f11e2d7855da739a0d8
+  md5_10: 78931d60a2
+  md5_5: '78931'
+  md5_6: 78931d
+  oomp_key: oomp_as3340
+  oomp_key_extra: oomp_symbol_as3340
+  oomp_key_full: oomp_symbol_as3340_78931d
+  oomp_key_simple: as3340
   owner_name: kicad
-  symbol_name: audio_as3340
+  symbol_name: as3340
 oomp_key: oomp_kicad_audio_as3340
 oomp_key_simple: kicad_audio_as3340
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

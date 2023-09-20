@@ -1,19 +1,19 @@
 id: kicad_connector_audio_nc5fbh
 library: connector_audio
 library_name: Connector_Audio
-name: connector_audio_nc5fbh
+name: nc5fbh
 oomp:
   library_name: connector_audio
-  md5: 425efcd4f1cac54e067c9578e4446294
-  md5_10: 425efcd4f1
-  md5_5: 425ef
-  md5_6: 425efc
-  oomp_key: oomp_connector_audio_nc5fbh
-  oomp_key_extra: oomp_symbol_connector_audio_nc5fbh
-  oomp_key_full: oomp_symbol_connector_audio_nc5fbh_425efc
-  oomp_key_simple: connector_audio_nc5fbh
+  md5: 395e70fcf0c7abec680c89449c9f145e
+  md5_10: 395e70fcf0
+  md5_5: 395e7
+  md5_6: 395e70
+  oomp_key: oomp_nc5fbh
+  oomp_key_extra: oomp_symbol_nc5fbh
+  oomp_key_full: oomp_symbol_nc5fbh_395e70
+  oomp_key_simple: nc5fbh
   owner_name: kicad
-  symbol_name: connector_audio_nc5fbh
+  symbol_name: nc5fbh
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

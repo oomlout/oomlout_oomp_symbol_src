@@ -1,19 +1,19 @@
 id: kicad_valve_ef85
 library: valve
 library_name: Valve
-name: valve_ef85
+name: ef85
 oomp:
   library_name: valve
-  md5: acb51112998edae7ce62865949390998
-  md5_10: acb5111299
-  md5_5: acb51
-  md5_6: acb511
-  oomp_key: oomp_valve_ef85
-  oomp_key_extra: oomp_symbol_valve_ef85
-  oomp_key_full: oomp_symbol_valve_ef85_acb511
-  oomp_key_simple: valve_ef85
+  md5: 8ebd2d0f8c28ffc63ff50b781c6b3118
+  md5_10: 8ebd2d0f8c
+  md5_5: 8ebd2
+  md5_6: 8ebd2d
+  oomp_key: oomp_ef85
+  oomp_key_extra: oomp_symbol_ef85
+  oomp_key_full: oomp_symbol_ef85_8ebd2d
+  oomp_key_simple: ef85
   owner_name: kicad
-  symbol_name: valve_ef85
+  symbol_name: ef85
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

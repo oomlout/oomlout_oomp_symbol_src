@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_attiny_attiny48_mm/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_attiny_attiny48_mm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_attiny_attiny48_mm/working
-name: mcu_microchip_attiny_attiny48_mm
+name: attiny48_mm
 oomp:
   library_name: mcu_microchip_attiny
-  md5: f2d3e1e39b501b374e72bd526acf6e84
-  md5_10: f2d3e1e39b
-  md5_5: f2d3e
-  md5_6: f2d3e1
-  oomp_key: oomp_mcu_microchip_attiny_attiny48_mm
-  oomp_key_extra: oomp_symbol_mcu_microchip_attiny_attiny48_mm
-  oomp_key_full: oomp_symbol_mcu_microchip_attiny_attiny48_mm_f2d3e1
-  oomp_key_simple: mcu_microchip_attiny_attiny48_mm
+  md5: e615e1e814a0cfde1512c23d42e67f61
+  md5_10: e615e1e814
+  md5_5: e615e
+  md5_6: e615e1
+  oomp_key: oomp_attiny48_mm
+  oomp_key_extra: oomp_symbol_attiny48_mm
+  oomp_key_full: oomp_symbol_attiny48_mm_e615e1
+  oomp_key_simple: attiny48_mm
   owner_name: kicad
-  symbol_name: mcu_microchip_attiny_attiny48_mm
+  symbol_name: attiny48_mm
 oomp_key: oomp_kicad_mcu_microchip_attiny_attiny48_mm
 oomp_key_simple: kicad_mcu_microchip_attiny_attiny48_mm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

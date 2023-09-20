@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_ltv_827s/working
   oomp_src_flat: symbols_flat/kicad_isolator_ltv_827s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_ltv_827s/working
-name: isolator_ltv_827s
+name: ltv_827s
 oomp:
   library_name: isolator
-  md5: df8f106995fa88ca144da88f862171cb
-  md5_10: df8f106995
-  md5_5: df8f1
-  md5_6: df8f10
-  oomp_key: oomp_isolator_ltv_827s
-  oomp_key_extra: oomp_symbol_isolator_ltv_827s
-  oomp_key_full: oomp_symbol_isolator_ltv_827s_df8f10
-  oomp_key_simple: isolator_ltv_827s
+  md5: 6c26b0217c813707eafb968a9b95b1bb
+  md5_10: 6c26b0217c
+  md5_5: 6c26b
+  md5_6: 6c26b0
+  oomp_key: oomp_ltv_827s
+  oomp_key_extra: oomp_symbol_ltv_827s
+  oomp_key_full: oomp_symbol_ltv_827s_6c26b0
+  oomp_key_simple: ltv_827s
   owner_name: kicad
-  symbol_name: isolator_ltv_827s
+  symbol_name: ltv_827s
 oomp_key: oomp_kicad_isolator_ltv_827s
 oomp_key_simple: kicad_isolator_ltv_827s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

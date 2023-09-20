@@ -1,19 +1,19 @@
 id: kicad_relay_solidstate_tlp148g
 library: relay_solidstate
 library_name: Relay_SolidState
-name: relay_solidstate_tlp148g
+name: tlp148g
 oomp:
   library_name: relay_solidstate
-  md5: d5817ddd6a17e57c25a60dfc9f28e819
-  md5_10: d5817ddd6a
-  md5_5: d5817
-  md5_6: d5817d
-  oomp_key: oomp_relay_solidstate_tlp148g
-  oomp_key_extra: oomp_symbol_relay_solidstate_tlp148g
-  oomp_key_full: oomp_symbol_relay_solidstate_tlp148g_d5817d
-  oomp_key_simple: relay_solidstate_tlp148g
+  md5: 7f038fd232300d891ef3e1b5a6d29eac
+  md5_10: 7f038fd232
+  md5_5: 7f038
+  md5_6: 7f038f
+  oomp_key: oomp_tlp148g
+  oomp_key_extra: oomp_symbol_tlp148g
+  oomp_key_full: oomp_symbol_tlp148g_7f038f
+  oomp_key_simple: tlp148g
   owner_name: kicad
-  symbol_name: relay_solidstate_tlp148g
+  symbol_name: tlp148g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

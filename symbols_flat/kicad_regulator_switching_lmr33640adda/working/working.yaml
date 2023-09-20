@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lmr33640adda/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lmr33640adda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lmr33640adda/working
-name: regulator_switching_lmr33640adda
+name: lmr33640adda
 oomp:
   library_name: regulator_switching
-  md5: abbe9a6a5d194ee47731861d24f9d2b4
-  md5_10: abbe9a6a5d
-  md5_5: abbe9
-  md5_6: abbe9a
-  oomp_key: oomp_regulator_switching_lmr33640adda
-  oomp_key_extra: oomp_symbol_regulator_switching_lmr33640adda
-  oomp_key_full: oomp_symbol_regulator_switching_lmr33640adda_abbe9a
-  oomp_key_simple: regulator_switching_lmr33640adda
+  md5: 24e6d90d00450ebd2cdb44a117a229ae
+  md5_10: 24e6d90d00
+  md5_5: 24e6d
+  md5_6: 24e6d9
+  oomp_key: oomp_lmr33640adda
+  oomp_key_extra: oomp_symbol_lmr33640adda
+  oomp_key_full: oomp_symbol_lmr33640adda_24e6d9
+  oomp_key_simple: lmr33640adda
   owner_name: kicad
-  symbol_name: regulator_switching_lmr33640adda
+  symbol_name: lmr33640adda
 oomp_key: oomp_kicad_regulator_switching_lmr33640adda
 oomp_key_simple: kicad_regulator_switching_lmr33640adda
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

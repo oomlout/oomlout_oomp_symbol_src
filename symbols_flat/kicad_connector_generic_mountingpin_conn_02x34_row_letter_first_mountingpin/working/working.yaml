@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin/working
-name: connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin
+name: conn_02x34_row_letter_first_mountingpin
 oomp:
   library_name: connector_generic_mountingpin
-  md5: 76492794819a0f64e162333dc2728ac3
-  md5_10: '7649279481'
-  md5_5: '76492'
-  md5_6: '764927'
-  oomp_key: oomp_connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin
-  oomp_key_extra: oomp_symbol_connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin
-  oomp_key_full: oomp_symbol_connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin_764927
-  oomp_key_simple: connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin
+  md5: fe20e15ae4594647fd7ca145ed05e32e
+  md5_10: fe20e15ae4
+  md5_5: fe20e
+  md5_6: fe20e1
+  oomp_key: oomp_conn_02x34_row_letter_first_mountingpin
+  oomp_key_extra: oomp_symbol_conn_02x34_row_letter_first_mountingpin
+  oomp_key_full: oomp_symbol_conn_02x34_row_letter_first_mountingpin_fe20e1
+  oomp_key_simple: conn_02x34_row_letter_first_mountingpin
   owner_name: kicad
-  symbol_name: connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin
+  symbol_name: conn_02x34_row_letter_first_mountingpin
 oomp_key: oomp_kicad_connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin
 oomp_key_simple: kicad_connector_generic_mountingpin_conn_02x34_row_letter_first_mountingpin
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

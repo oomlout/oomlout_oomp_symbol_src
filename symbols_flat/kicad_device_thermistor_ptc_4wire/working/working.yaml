@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_thermistor_ptc_4wire/working
   oomp_src_flat: symbols_flat/kicad_device_thermistor_ptc_4wire/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_thermistor_ptc_4wire/working
-name: device_thermistor_ptc_4wire
+name: thermistor_ptc_4wire
 oomp:
   library_name: device
-  md5: f48a9ebf9ae4a317d2549188c258943c
-  md5_10: f48a9ebf9a
-  md5_5: f48a9
-  md5_6: f48a9e
-  oomp_key: oomp_device_thermistor_ptc_4wire
-  oomp_key_extra: oomp_symbol_device_thermistor_ptc_4wire
-  oomp_key_full: oomp_symbol_device_thermistor_ptc_4wire_f48a9e
-  oomp_key_simple: device_thermistor_ptc_4wire
+  md5: aafb04fcf6072d7a672e6c8dda83a50c
+  md5_10: aafb04fcf6
+  md5_5: aafb0
+  md5_6: aafb04
+  oomp_key: oomp_thermistor_ptc_4wire
+  oomp_key_extra: oomp_symbol_thermistor_ptc_4wire
+  oomp_key_full: oomp_symbol_thermistor_ptc_4wire_aafb04
+  oomp_key_simple: thermistor_ptc_4wire
   owner_name: kicad
-  symbol_name: device_thermistor_ptc_4wire
+  symbol_name: thermistor_ptc_4wire
 oomp_key: oomp_kicad_device_thermistor_ptc_4wire
 oomp_key_simple: kicad_device_thermistor_ptc_4wire
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

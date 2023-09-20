@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_ad586/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_ad586/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_ad586/working
-name: reference_voltage_ad586
+name: ad586
 oomp:
   library_name: reference_voltage
-  md5: 05107d58862ac2349b07b8e13b64ac49
-  md5_10: 05107d5886
-  md5_5: '05107'
-  md5_6: 05107d
-  oomp_key: oomp_reference_voltage_ad586
-  oomp_key_extra: oomp_symbol_reference_voltage_ad586
-  oomp_key_full: oomp_symbol_reference_voltage_ad586_05107d
-  oomp_key_simple: reference_voltage_ad586
+  md5: 3350cb63532a3cdc65abe2c0df0b4b25
+  md5_10: 3350cb6353
+  md5_5: 3350c
+  md5_6: 3350cb
+  oomp_key: oomp_ad586
+  oomp_key_extra: oomp_symbol_ad586
+  oomp_key_full: oomp_symbol_ad586_3350cb
+  oomp_key_simple: ad586
   owner_name: kicad
-  symbol_name: reference_voltage_ad586
+  symbol_name: ad586
 oomp_key: oomp_kicad_reference_voltage_ad586
 oomp_key_simple: kicad_reference_voltage_ad586
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

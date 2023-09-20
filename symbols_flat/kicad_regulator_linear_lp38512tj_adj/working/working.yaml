@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lp38512tj_adj/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lp38512tj_adj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lp38512tj_adj/working
-name: regulator_linear_lp38512tj_adj
+name: lp38512tj_adj
 oomp:
   library_name: regulator_linear
-  md5: 1d8a2f9c25c6ddf76cbd9d5022fe3307
-  md5_10: 1d8a2f9c25
-  md5_5: 1d8a2
-  md5_6: 1d8a2f
-  oomp_key: oomp_regulator_linear_lp38512tj_adj
-  oomp_key_extra: oomp_symbol_regulator_linear_lp38512tj_adj
-  oomp_key_full: oomp_symbol_regulator_linear_lp38512tj_adj_1d8a2f
-  oomp_key_simple: regulator_linear_lp38512tj_adj
+  md5: 50aa66403c33d74092c9ca1ef317be20
+  md5_10: 50aa66403c
+  md5_5: 50aa6
+  md5_6: 50aa66
+  oomp_key: oomp_lp38512tj_adj
+  oomp_key_extra: oomp_symbol_lp38512tj_adj
+  oomp_key_full: oomp_symbol_lp38512tj_adj_50aa66
+  oomp_key_simple: lp38512tj_adj
   owner_name: kicad
-  symbol_name: regulator_linear_lp38512tj_adj
+  symbol_name: lp38512tj_adj
 oomp_key: oomp_kicad_regulator_linear_lp38512tj_adj
 oomp_key_simple: kicad_regulator_linear_lp38512tj_adj
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

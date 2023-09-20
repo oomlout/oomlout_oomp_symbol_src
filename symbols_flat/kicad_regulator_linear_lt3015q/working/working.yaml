@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lt3015q/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lt3015q/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lt3015q/working
-name: regulator_linear_lt3015q
+name: lt3015q
 oomp:
   library_name: regulator_linear
-  md5: a20904673c65b517b26f4612be6f8f8d
-  md5_10: a20904673c
-  md5_5: a2090
-  md5_6: a20904
-  oomp_key: oomp_regulator_linear_lt3015q
-  oomp_key_extra: oomp_symbol_regulator_linear_lt3015q
-  oomp_key_full: oomp_symbol_regulator_linear_lt3015q_a20904
-  oomp_key_simple: regulator_linear_lt3015q
+  md5: c83c4899effb22d3a927a5ad314f1f11
+  md5_10: c83c4899ef
+  md5_5: c83c4
+  md5_6: c83c48
+  oomp_key: oomp_lt3015q
+  oomp_key_extra: oomp_symbol_lt3015q
+  oomp_key_full: oomp_symbol_lt3015q_c83c48
+  oomp_key_simple: lt3015q
   owner_name: kicad
-  symbol_name: regulator_linear_lt3015q
+  symbol_name: lt3015q
 oomp_key: oomp_kicad_regulator_linear_lt3015q
 oomp_key_simple: kicad_regulator_linear_lt3015q
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

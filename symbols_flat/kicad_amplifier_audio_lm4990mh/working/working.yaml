@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_lm4990mh/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_lm4990mh/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_lm4990mh/working
-name: amplifier_audio_lm4990mh
+name: lm4990mh
 oomp:
   library_name: amplifier_audio
-  md5: ef1e7fc415fbeb873b1df9c7105401a0
-  md5_10: ef1e7fc415
-  md5_5: ef1e7
-  md5_6: ef1e7f
-  oomp_key: oomp_amplifier_audio_lm4990mh
-  oomp_key_extra: oomp_symbol_amplifier_audio_lm4990mh
-  oomp_key_full: oomp_symbol_amplifier_audio_lm4990mh_ef1e7f
-  oomp_key_simple: amplifier_audio_lm4990mh
+  md5: 5be85fe921000916e0be9086b1c7c312
+  md5_10: 5be85fe921
+  md5_5: 5be85
+  md5_6: 5be85f
+  oomp_key: oomp_lm4990mh
+  oomp_key_extra: oomp_symbol_lm4990mh
+  oomp_key_full: oomp_symbol_lm4990mh_5be85f
+  oomp_key_simple: lm4990mh
   owner_name: kicad
-  symbol_name: amplifier_audio_lm4990mh
+  symbol_name: lm4990mh
 oomp_key: oomp_kicad_amplifier_audio_lm4990mh
 oomp_key_simple: kicad_amplifier_audio_lm4990mh
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

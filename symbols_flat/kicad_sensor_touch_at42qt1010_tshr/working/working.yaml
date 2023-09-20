@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_touch_at42qt1010_tshr/working
   oomp_src_flat: symbols_flat/kicad_sensor_touch_at42qt1010_tshr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_touch_at42qt1010_tshr/working
-name: sensor_touch_at42qt1010_tshr
+name: at42qt1010_tshr
 oomp:
   library_name: sensor_touch
-  md5: 76ecc1fcd4845db7d543ec7cb54bdd9f
-  md5_10: 76ecc1fcd4
-  md5_5: 76ecc
-  md5_6: 76ecc1
-  oomp_key: oomp_sensor_touch_at42qt1010_tshr
-  oomp_key_extra: oomp_symbol_sensor_touch_at42qt1010_tshr
-  oomp_key_full: oomp_symbol_sensor_touch_at42qt1010_tshr_76ecc1
-  oomp_key_simple: sensor_touch_at42qt1010_tshr
+  md5: d24074ef8e16cf2c6384d90929b18695
+  md5_10: d24074ef8e
+  md5_5: d2407
+  md5_6: d24074
+  oomp_key: oomp_at42qt1010_tshr
+  oomp_key_extra: oomp_symbol_at42qt1010_tshr
+  oomp_key_full: oomp_symbol_at42qt1010_tshr_d24074
+  oomp_key_simple: at42qt1010_tshr
   owner_name: kicad
-  symbol_name: sensor_touch_at42qt1010_tshr
+  symbol_name: at42qt1010_tshr
 oomp_key: oomp_kicad_sensor_touch_at42qt1010_tshr
 oomp_key_simple: kicad_sensor_touch_at42qt1010_tshr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

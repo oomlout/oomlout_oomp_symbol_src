@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_difference_amc1100dwv/working
   oomp_src_flat: symbols_flat/kicad_amplifier_difference_amc1100dwv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_difference_amc1100dwv/working
-name: amplifier_difference_amc1100dwv
+name: amc1100dwv
 oomp:
   library_name: amplifier_difference
-  md5: ebd122b2834f9a6978308c2fbfbce909
-  md5_10: ebd122b283
-  md5_5: ebd12
-  md5_6: ebd122
-  oomp_key: oomp_amplifier_difference_amc1100dwv
-  oomp_key_extra: oomp_symbol_amplifier_difference_amc1100dwv
-  oomp_key_full: oomp_symbol_amplifier_difference_amc1100dwv_ebd122
-  oomp_key_simple: amplifier_difference_amc1100dwv
+  md5: 1e870c34992c3fc68316263d8d94a258
+  md5_10: 1e870c3499
+  md5_5: 1e870
+  md5_6: 1e870c
+  oomp_key: oomp_amc1100dwv
+  oomp_key_extra: oomp_symbol_amc1100dwv
+  oomp_key_full: oomp_symbol_amc1100dwv_1e870c
+  oomp_key_simple: amc1100dwv
   owner_name: kicad
-  symbol_name: amplifier_difference_amc1100dwv
+  symbol_name: amc1100dwv
 oomp_key: oomp_kicad_amplifier_difference_amc1100dwv
 oomp_key_simple: kicad_amplifier_difference_amc1100dwv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

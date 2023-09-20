@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_isl3295xxh/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_isl3295xxh/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_isl3295xxh/working
-name: interface_uart_isl3295xxh
+name: isl3295xxh
 oomp:
   library_name: interface_uart
-  md5: 428a5df1ba5c77ef208c6066e6877cb3
-  md5_10: 428a5df1ba
-  md5_5: 428a5
-  md5_6: 428a5d
-  oomp_key: oomp_interface_uart_isl3295xxh
-  oomp_key_extra: oomp_symbol_interface_uart_isl3295xxh
-  oomp_key_full: oomp_symbol_interface_uart_isl3295xxh_428a5d
-  oomp_key_simple: interface_uart_isl3295xxh
+  md5: f511ab40dc3a11ba883a1c870edb9988
+  md5_10: f511ab40dc
+  md5_5: f511a
+  md5_6: f511ab
+  oomp_key: oomp_isl3295xxh
+  oomp_key_extra: oomp_symbol_isl3295xxh
+  oomp_key_full: oomp_symbol_isl3295xxh_f511ab
+  oomp_key_simple: isl3295xxh
   owner_name: kicad
-  symbol_name: interface_uart_isl3295xxh
+  symbol_name: isl3295xxh
 oomp_key: oomp_kicad_interface_uart_isl3295xxh
 oomp_key_simple: kicad_interface_uart_isl3295xxh
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

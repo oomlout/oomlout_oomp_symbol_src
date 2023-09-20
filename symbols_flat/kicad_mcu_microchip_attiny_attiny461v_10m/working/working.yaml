@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_attiny_attiny461v_10m/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_attiny_attiny461v_10m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_attiny_attiny461v_10m/working
-name: mcu_microchip_attiny_attiny461v_10m
+name: attiny461v_10m
 oomp:
   library_name: mcu_microchip_attiny
-  md5: abfa3043d3a7a28127cf054217823a3e
-  md5_10: abfa3043d3
-  md5_5: abfa3
-  md5_6: abfa30
-  oomp_key: oomp_mcu_microchip_attiny_attiny461v_10m
-  oomp_key_extra: oomp_symbol_mcu_microchip_attiny_attiny461v_10m
-  oomp_key_full: oomp_symbol_mcu_microchip_attiny_attiny461v_10m_abfa30
-  oomp_key_simple: mcu_microchip_attiny_attiny461v_10m
+  md5: bc031343a0c61a74385d349bb16e855a
+  md5_10: bc031343a0
+  md5_5: bc031
+  md5_6: bc0313
+  oomp_key: oomp_attiny461v_10m
+  oomp_key_extra: oomp_symbol_attiny461v_10m
+  oomp_key_full: oomp_symbol_attiny461v_10m_bc0313
+  oomp_key_simple: attiny461v_10m
   owner_name: kicad
-  symbol_name: mcu_microchip_attiny_attiny461v_10m
+  symbol_name: attiny461v_10m
 oomp_key: oomp_kicad_mcu_microchip_attiny_attiny461v_10m
 oomp_key_simple: kicad_mcu_microchip_attiny_attiny461v_10m
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

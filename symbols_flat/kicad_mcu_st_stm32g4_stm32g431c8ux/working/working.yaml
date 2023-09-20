@@ -1,19 +1,19 @@
 id: kicad_mcu_st_stm32g4_stm32g431c8ux
 library: mcu_st_stm32g4
 library_name: MCU_ST_STM32G4
-name: mcu_st_stm32g4_stm32g431c8ux
+name: stm32g431c8ux
 oomp:
   library_name: mcu_st_stm32g4
-  md5: c288f54921ad6761f881635785ad6582
-  md5_10: c288f54921
-  md5_5: c288f
-  md5_6: c288f5
-  oomp_key: oomp_mcu_st_stm32g4_stm32g431c8ux
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g431c8ux
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g431c8ux_c288f5
-  oomp_key_simple: mcu_st_stm32g4_stm32g431c8ux
+  md5: afe631e89308662440bc5a277561a080
+  md5_10: afe631e893
+  md5_5: afe63
+  md5_6: afe631
+  oomp_key: oomp_stm32g431c8ux
+  oomp_key_extra: oomp_symbol_stm32g431c8ux
+  oomp_key_full: oomp_symbol_stm32g431c8ux_afe631
+  oomp_key_simple: stm32g431c8ux
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g431c8ux
+  symbol_name: stm32g431c8ux
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

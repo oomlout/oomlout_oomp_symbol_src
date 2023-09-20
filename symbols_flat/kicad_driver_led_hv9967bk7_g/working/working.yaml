@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_hv9967bk7_g/working
   oomp_src_flat: symbols_flat/kicad_driver_led_hv9967bk7_g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_hv9967bk7_g/working
-name: driver_led_hv9967bk7_g
+name: hv9967bk7_g
 oomp:
   library_name: driver_led
-  md5: 602e81478e00c09771ec30ff6381163b
-  md5_10: 602e81478e
-  md5_5: 602e8
-  md5_6: 602e81
-  oomp_key: oomp_driver_led_hv9967bk7_g
-  oomp_key_extra: oomp_symbol_driver_led_hv9967bk7_g
-  oomp_key_full: oomp_symbol_driver_led_hv9967bk7_g_602e81
-  oomp_key_simple: driver_led_hv9967bk7_g
+  md5: 587350541184a55f4a512efda3ec8c49
+  md5_10: '5873505411'
+  md5_5: '58735'
+  md5_6: '587350'
+  oomp_key: oomp_hv9967bk7_g
+  oomp_key_extra: oomp_symbol_hv9967bk7_g
+  oomp_key_full: oomp_symbol_hv9967bk7_g_587350
+  oomp_key_simple: hv9967bk7_g
   owner_name: kicad
-  symbol_name: driver_led_hv9967bk7_g
+  symbol_name: hv9967bk7_g
 oomp_key: oomp_kicad_driver_led_hv9967bk7_g
 oomp_key_simple: kicad_driver_led_hv9967bk7_g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

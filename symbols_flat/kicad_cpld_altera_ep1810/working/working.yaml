@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpld_altera_ep1810/working
   oomp_src_flat: symbols_flat/kicad_cpld_altera_ep1810/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpld_altera_ep1810/working
-name: cpld_altera_ep1810
+name: ep1810
 oomp:
   library_name: cpld_altera
-  md5: 900e5bec3b842155cdad8c2409507c4f
-  md5_10: 900e5bec3b
-  md5_5: 900e5
-  md5_6: 900e5b
-  oomp_key: oomp_cpld_altera_ep1810
-  oomp_key_extra: oomp_symbol_cpld_altera_ep1810
-  oomp_key_full: oomp_symbol_cpld_altera_ep1810_900e5b
-  oomp_key_simple: cpld_altera_ep1810
+  md5: a03fa971f0607364392b1581b23bd88f
+  md5_10: a03fa971f0
+  md5_5: a03fa
+  md5_6: a03fa9
+  oomp_key: oomp_ep1810
+  oomp_key_extra: oomp_symbol_ep1810
+  oomp_key_full: oomp_symbol_ep1810_a03fa9
+  oomp_key_simple: ep1810
   owner_name: kicad
-  symbol_name: cpld_altera_ep1810
+  symbol_name: ep1810
 oomp_key: oomp_kicad_cpld_altera_ep1810
 oomp_key_simple: kicad_cpld_altera_ep1810
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

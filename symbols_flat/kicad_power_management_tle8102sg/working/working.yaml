@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_tle8102sg/working
   oomp_src_flat: symbols_flat/kicad_power_management_tle8102sg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_tle8102sg/working
-name: power_management_tle8102sg
+name: tle8102sg
 oomp:
   library_name: power_management
-  md5: 614f6b70e9a962dfc0e0bfc540f8c40b
-  md5_10: 614f6b70e9
-  md5_5: 614f6
-  md5_6: 614f6b
-  oomp_key: oomp_power_management_tle8102sg
-  oomp_key_extra: oomp_symbol_power_management_tle8102sg
-  oomp_key_full: oomp_symbol_power_management_tle8102sg_614f6b
-  oomp_key_simple: power_management_tle8102sg
+  md5: bd52c7e786b6f3d34977a9ab4b39ba49
+  md5_10: bd52c7e786
+  md5_5: bd52c
+  md5_6: bd52c7
+  oomp_key: oomp_tle8102sg
+  oomp_key_extra: oomp_symbol_tle8102sg
+  oomp_key_full: oomp_symbol_tle8102sg_bd52c7
+  oomp_key_simple: tle8102sg
   owner_name: kicad
-  symbol_name: power_management_tle8102sg
+  symbol_name: tle8102sg
 oomp_key: oomp_kicad_power_management_tle8102sg
 oomp_key_simple: kicad_power_management_tle8102sg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

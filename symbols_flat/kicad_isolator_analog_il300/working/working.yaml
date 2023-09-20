@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_analog_il300/working
   oomp_src_flat: symbols_flat/kicad_isolator_analog_il300/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_analog_il300/working
-name: isolator_analog_il300
+name: il300
 oomp:
   library_name: isolator_analog
-  md5: 2a24c901ed3b3e92fe3ff700e270063e
-  md5_10: 2a24c901ed
-  md5_5: 2a24c
-  md5_6: 2a24c9
-  oomp_key: oomp_isolator_analog_il300
-  oomp_key_extra: oomp_symbol_isolator_analog_il300
-  oomp_key_full: oomp_symbol_isolator_analog_il300_2a24c9
-  oomp_key_simple: isolator_analog_il300
+  md5: cd45aa0d25fb576eccbc9d0237646f46
+  md5_10: cd45aa0d25
+  md5_5: cd45a
+  md5_6: cd45aa
+  oomp_key: oomp_il300
+  oomp_key_extra: oomp_symbol_il300
+  oomp_key_full: oomp_symbol_il300_cd45aa
+  oomp_key_simple: il300
   owner_name: kicad
-  symbol_name: isolator_analog_il300
+  symbol_name: il300
 oomp_key: oomp_kicad_isolator_analog_il300
 oomp_key_simple: kicad_isolator_analog_il300
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

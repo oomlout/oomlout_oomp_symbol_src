@@ -1,19 +1,19 @@
 id: kicad_dsp_analogdevices_adau1702
 library: dsp_analogdevices
 library_name: DSP_AnalogDevices
-name: dsp_analogdevices_adau1702
+name: adau1702
 oomp:
   library_name: dsp_analogdevices
-  md5: 5fd753aa50c522f93beb6a45f53b1811
-  md5_10: 5fd753aa50
-  md5_5: 5fd75
-  md5_6: 5fd753
-  oomp_key: oomp_dsp_analogdevices_adau1702
-  oomp_key_extra: oomp_symbol_dsp_analogdevices_adau1702
-  oomp_key_full: oomp_symbol_dsp_analogdevices_adau1702_5fd753
-  oomp_key_simple: dsp_analogdevices_adau1702
+  md5: 3a06624bec6a224e8b1943fc86932540
+  md5_10: 3a06624bec
+  md5_5: 3a066
+  md5_6: 3a0662
+  oomp_key: oomp_adau1702
+  oomp_key_extra: oomp_symbol_adau1702
+  oomp_key_full: oomp_symbol_adau1702_3a0662
+  oomp_key_simple: adau1702
   owner_name: kicad
-  symbol_name: dsp_analogdevices_adau1702
+  symbol_name: adau1702
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

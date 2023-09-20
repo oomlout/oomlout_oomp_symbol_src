@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_am_fm_sa605dk/working
   oomp_src_flat: symbols_flat/kicad_rf_am_fm_sa605dk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_am_fm_sa605dk/working
-name: rf_am_fm_sa605dk
+name: sa605dk
 oomp:
   library_name: rf_am_fm
-  md5: 32ed0d26153870e67a355fc9fa494449
-  md5_10: 32ed0d2615
-  md5_5: 32ed0
-  md5_6: 32ed0d
-  oomp_key: oomp_rf_am_fm_sa605dk
-  oomp_key_extra: oomp_symbol_rf_am_fm_sa605dk
-  oomp_key_full: oomp_symbol_rf_am_fm_sa605dk_32ed0d
-  oomp_key_simple: rf_am_fm_sa605dk
+  md5: d38f6ad2926c147dd664b7823c771f99
+  md5_10: d38f6ad292
+  md5_5: d38f6
+  md5_6: d38f6a
+  oomp_key: oomp_sa605dk
+  oomp_key_extra: oomp_symbol_sa605dk
+  oomp_key_full: oomp_symbol_sa605dk_d38f6a
+  oomp_key_simple: sa605dk
   owner_name: kicad
-  symbol_name: rf_am_fm_sa605dk
+  symbol_name: sa605dk
 oomp_key: oomp_kicad_rf_am_fm_sa605dk
 oomp_key_simple: kicad_rf_am_fm_sa605dk
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

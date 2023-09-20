@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_ad8218xcp/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_ad8218xcp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_ad8218xcp/working
-name: amplifier_current_ad8218xcp
+name: ad8218xcp
 oomp:
   library_name: amplifier_current
-  md5: cae152674dd5d6071a07b06c931e911c
-  md5_10: cae152674d
-  md5_5: cae15
-  md5_6: cae152
-  oomp_key: oomp_amplifier_current_ad8218xcp
-  oomp_key_extra: oomp_symbol_amplifier_current_ad8218xcp
-  oomp_key_full: oomp_symbol_amplifier_current_ad8218xcp_cae152
-  oomp_key_simple: amplifier_current_ad8218xcp
+  md5: cb5943c3227ca65c9784d140f1c271a7
+  md5_10: cb5943c322
+  md5_5: cb594
+  md5_6: cb5943
+  oomp_key: oomp_ad8218xcp
+  oomp_key_extra: oomp_symbol_ad8218xcp
+  oomp_key_full: oomp_symbol_ad8218xcp_cb5943
+  oomp_key_simple: ad8218xcp
   owner_name: kicad
-  symbol_name: amplifier_current_ad8218xcp
+  symbol_name: ad8218xcp
 oomp_key: oomp_kicad_amplifier_current_ad8218xcp
 oomp_key_simple: kicad_amplifier_current_ad8218xcp
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

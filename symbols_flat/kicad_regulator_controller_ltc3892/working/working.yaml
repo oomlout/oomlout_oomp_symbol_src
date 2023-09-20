@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ltc3892/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ltc3892/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ltc3892/working
-name: regulator_controller_ltc3892
+name: ltc3892
 oomp:
   library_name: regulator_controller
-  md5: f492bfe94f3dd9cc73605c09de6c24f1
-  md5_10: f492bfe94f
-  md5_5: f492b
-  md5_6: f492bf
-  oomp_key: oomp_regulator_controller_ltc3892
-  oomp_key_extra: oomp_symbol_regulator_controller_ltc3892
-  oomp_key_full: oomp_symbol_regulator_controller_ltc3892_f492bf
-  oomp_key_simple: regulator_controller_ltc3892
+  md5: d5b8b901efc594f1810cb3490a8666e3
+  md5_10: d5b8b901ef
+  md5_5: d5b8b
+  md5_6: d5b8b9
+  oomp_key: oomp_ltc3892
+  oomp_key_extra: oomp_symbol_ltc3892
+  oomp_key_full: oomp_symbol_ltc3892_d5b8b9
+  oomp_key_simple: ltc3892
   owner_name: kicad
-  symbol_name: regulator_controller_ltc3892
+  symbol_name: ltc3892
 oomp_key: oomp_kicad_regulator_controller_ltc3892
 oomp_key_simple: kicad_regulator_controller_ltc3892
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

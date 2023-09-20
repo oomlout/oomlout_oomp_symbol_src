@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32wl_stm32wle5jcix/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32wl_stm32wle5jcix/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32wl_stm32wle5jcix/working
-name: mcu_st_stm32wl_stm32wle5jcix
+name: stm32wle5jcix
 oomp:
   library_name: mcu_st_stm32wl
-  md5: 7729ca69703017ce8e2414a3c95d6f4b
-  md5_10: 7729ca6970
-  md5_5: 7729c
-  md5_6: 7729ca
-  oomp_key: oomp_mcu_st_stm32wl_stm32wle5jcix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32wl_stm32wle5jcix
-  oomp_key_full: oomp_symbol_mcu_st_stm32wl_stm32wle5jcix_7729ca
-  oomp_key_simple: mcu_st_stm32wl_stm32wle5jcix
+  md5: 606845a2d50e8710a4f833b257e8e2f9
+  md5_10: 606845a2d5
+  md5_5: '60684'
+  md5_6: '606845'
+  oomp_key: oomp_stm32wle5jcix
+  oomp_key_extra: oomp_symbol_stm32wle5jcix
+  oomp_key_full: oomp_symbol_stm32wle5jcix_606845
+  oomp_key_simple: stm32wle5jcix
   owner_name: kicad
-  symbol_name: mcu_st_stm32wl_stm32wle5jcix
+  symbol_name: stm32wle5jcix
 oomp_key: oomp_kicad_mcu_st_stm32wl_stm32wle5jcix
 oomp_key_simple: kicad_mcu_st_stm32wl_stm32wle5jcix
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

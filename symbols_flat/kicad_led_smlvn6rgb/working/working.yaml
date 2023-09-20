@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_smlvn6rgb/working
   oomp_src_flat: symbols_flat/kicad_led_smlvn6rgb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_smlvn6rgb/working
-name: led_smlvn6rgb
+name: smlvn6rgb
 oomp:
   library_name: led
-  md5: 504a4dee1d42b6ac14eb8550da9cf110
-  md5_10: 504a4dee1d
-  md5_5: 504a4
-  md5_6: 504a4d
-  oomp_key: oomp_led_smlvn6rgb
-  oomp_key_extra: oomp_symbol_led_smlvn6rgb
-  oomp_key_full: oomp_symbol_led_smlvn6rgb_504a4d
-  oomp_key_simple: led_smlvn6rgb
+  md5: 15caf71258faa13a24bca5f4e758aabf
+  md5_10: 15caf71258
+  md5_5: 15caf
+  md5_6: 15caf7
+  oomp_key: oomp_smlvn6rgb
+  oomp_key_extra: oomp_symbol_smlvn6rgb
+  oomp_key_full: oomp_symbol_smlvn6rgb_15caf7
+  oomp_key_simple: smlvn6rgb
   owner_name: kicad
-  symbol_name: led_smlvn6rgb
+  symbol_name: smlvn6rgb
 oomp_key: oomp_kicad_led_smlvn6rgb
 oomp_key_simple: kicad_led_smlvn6rgb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

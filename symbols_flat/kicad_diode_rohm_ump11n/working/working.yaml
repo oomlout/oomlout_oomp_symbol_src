@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_rohm_ump11n/working
   oomp_src_flat: symbols_flat/kicad_diode_rohm_ump11n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_rohm_ump11n/working
-name: diode_rohm_ump11n
+name: rohm_ump11n
 oomp:
   library_name: diode
-  md5: 2385f42f07c8e989a4957f697ae81c81
-  md5_10: 2385f42f07
-  md5_5: 2385f
-  md5_6: 2385f4
-  oomp_key: oomp_diode_rohm_ump11n
-  oomp_key_extra: oomp_symbol_diode_rohm_ump11n
-  oomp_key_full: oomp_symbol_diode_rohm_ump11n_2385f4
-  oomp_key_simple: diode_rohm_ump11n
+  md5: e748ef492314fdeb44ab447ff0b5a7d4
+  md5_10: e748ef4923
+  md5_5: e748e
+  md5_6: e748ef
+  oomp_key: oomp_rohm_ump11n
+  oomp_key_extra: oomp_symbol_rohm_ump11n
+  oomp_key_full: oomp_symbol_rohm_ump11n_e748ef
+  oomp_key_simple: rohm_ump11n
   owner_name: kicad
-  symbol_name: diode_rohm_ump11n
+  symbol_name: rohm_ump11n
 oomp_key: oomp_kicad_diode_rohm_ump11n
 oomp_key_simple: kicad_diode_rohm_ump11n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

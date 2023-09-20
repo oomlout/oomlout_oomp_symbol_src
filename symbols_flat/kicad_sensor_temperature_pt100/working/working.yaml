@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_temperature_pt100/working
   oomp_src_flat: symbols_flat/kicad_sensor_temperature_pt100/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_temperature_pt100/working
-name: sensor_temperature_pt100
+name: pt100
 oomp:
   library_name: sensor_temperature
-  md5: c3a2ed26e9ac8704b59ea4f1236dfb41
-  md5_10: c3a2ed26e9
-  md5_5: c3a2e
-  md5_6: c3a2ed
-  oomp_key: oomp_sensor_temperature_pt100
-  oomp_key_extra: oomp_symbol_sensor_temperature_pt100
-  oomp_key_full: oomp_symbol_sensor_temperature_pt100_c3a2ed
-  oomp_key_simple: sensor_temperature_pt100
+  md5: 4f32085e1f5e0377895cde92b4e16833
+  md5_10: 4f32085e1f
+  md5_5: 4f320
+  md5_6: 4f3208
+  oomp_key: oomp_pt100
+  oomp_key_extra: oomp_symbol_pt100
+  oomp_key_full: oomp_symbol_pt100_4f3208
+  oomp_key_simple: pt100
   owner_name: kicad
-  symbol_name: sensor_temperature_pt100
+  symbol_name: pt100
 oomp_key: oomp_kicad_sensor_temperature_pt100
 oomp_key_simple: kicad_sensor_temperature_pt100
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

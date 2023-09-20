@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lm317_to_220/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lm317_to_220/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lm317_to_220/working
-name: regulator_linear_lm317_to_220
+name: lm317_to_220
 oomp:
   library_name: regulator_linear
-  md5: 26aa0c5792e4bdadf02754a0383086ed
-  md5_10: 26aa0c5792
-  md5_5: 26aa0
-  md5_6: 26aa0c
-  oomp_key: oomp_regulator_linear_lm317_to_220
-  oomp_key_extra: oomp_symbol_regulator_linear_lm317_to_220
-  oomp_key_full: oomp_symbol_regulator_linear_lm317_to_220_26aa0c
-  oomp_key_simple: regulator_linear_lm317_to_220
+  md5: be11a4ad16b541d1bbbe901abccd6946
+  md5_10: be11a4ad16
+  md5_5: be11a
+  md5_6: be11a4
+  oomp_key: oomp_lm317_to_220
+  oomp_key_extra: oomp_symbol_lm317_to_220
+  oomp_key_full: oomp_symbol_lm317_to_220_be11a4
+  oomp_key_simple: lm317_to_220
   owner_name: kicad
-  symbol_name: regulator_linear_lm317_to_220
+  symbol_name: lm317_to_220
 oomp_key: oomp_kicad_regulator_linear_lm317_to_220
 oomp_key_simple: kicad_regulator_linear_lm317_to_220
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_ca56_12surkwa/working
   oomp_src_flat: symbols_flat/kicad_display_character_ca56_12surkwa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_ca56_12surkwa/working
-name: display_character_ca56_12surkwa
+name: ca56_12surkwa
 oomp:
   library_name: display_character
-  md5: b0e38181b25a67f87e28f872db8c6dcd
-  md5_10: b0e38181b2
-  md5_5: b0e38
-  md5_6: b0e381
-  oomp_key: oomp_display_character_ca56_12surkwa
-  oomp_key_extra: oomp_symbol_display_character_ca56_12surkwa
-  oomp_key_full: oomp_symbol_display_character_ca56_12surkwa_b0e381
-  oomp_key_simple: display_character_ca56_12surkwa
+  md5: cb00dd344861550dec1b8efcc0c51a6a
+  md5_10: cb00dd3448
+  md5_5: cb00d
+  md5_6: cb00dd
+  oomp_key: oomp_ca56_12surkwa
+  oomp_key_extra: oomp_symbol_ca56_12surkwa
+  oomp_key_full: oomp_symbol_ca56_12surkwa_cb00dd
+  oomp_key_simple: ca56_12surkwa
   owner_name: kicad
-  symbol_name: display_character_ca56_12surkwa
+  symbol_name: ca56_12surkwa
 oomp_key: oomp_kicad_display_character_ca56_12surkwa
 oomp_key_simple: kicad_display_character_ca56_12surkwa
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

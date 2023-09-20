@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_mcp2210x_mq/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_mcp2210x_mq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_mcp2210x_mq/working
-name: interface_usb_mcp2210x_mq
+name: mcp2210x_mq
 oomp:
   library_name: interface_usb
-  md5: 9dab9aa06ba71ea17dbf4a35d880690b
-  md5_10: 9dab9aa06b
-  md5_5: 9dab9
-  md5_6: 9dab9a
-  oomp_key: oomp_interface_usb_mcp2210x_mq
-  oomp_key_extra: oomp_symbol_interface_usb_mcp2210x_mq
-  oomp_key_full: oomp_symbol_interface_usb_mcp2210x_mq_9dab9a
-  oomp_key_simple: interface_usb_mcp2210x_mq
+  md5: 85209388d81a0186f11a89b6bcb2842c
+  md5_10: 85209388d8
+  md5_5: '85209'
+  md5_6: '852093'
+  oomp_key: oomp_mcp2210x_mq
+  oomp_key_extra: oomp_symbol_mcp2210x_mq
+  oomp_key_full: oomp_symbol_mcp2210x_mq_852093
+  oomp_key_simple: mcp2210x_mq
   owner_name: kicad
-  symbol_name: interface_usb_mcp2210x_mq
+  symbol_name: mcp2210x_mq
 oomp_key: oomp_kicad_interface_usb_mcp2210x_mq
 oomp_key_simple: kicad_interface_usb_mcp2210x_mq
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

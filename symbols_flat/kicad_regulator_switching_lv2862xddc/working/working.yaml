@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_lv2862xddc
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_lv2862xddc
+name: lv2862xddc
 oomp:
   library_name: regulator_switching
-  md5: 9090d589e0ca105f7d1de73f1d3e11f3
-  md5_10: 9090d589e0
-  md5_5: 9090d
-  md5_6: 9090d5
-  oomp_key: oomp_regulator_switching_lv2862xddc
-  oomp_key_extra: oomp_symbol_regulator_switching_lv2862xddc
-  oomp_key_full: oomp_symbol_regulator_switching_lv2862xddc_9090d5
-  oomp_key_simple: regulator_switching_lv2862xddc
+  md5: 9c121f597f8593196cafbd37f5d5e2cb
+  md5_10: 9c121f597f
+  md5_5: 9c121
+  md5_6: 9c121f
+  oomp_key: oomp_lv2862xddc
+  oomp_key_extra: oomp_symbol_lv2862xddc
+  oomp_key_full: oomp_symbol_lv2862xddc_9c121f
+  oomp_key_simple: lv2862xddc
   owner_name: kicad
-  symbol_name: regulator_switching_lv2862xddc
+  symbol_name: lv2862xddc
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

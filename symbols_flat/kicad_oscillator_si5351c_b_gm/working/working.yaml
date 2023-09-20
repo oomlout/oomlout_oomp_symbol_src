@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_si5351c_b_gm/working
   oomp_src_flat: symbols_flat/kicad_oscillator_si5351c_b_gm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_si5351c_b_gm/working
-name: oscillator_si5351c_b_gm
+name: si5351c_b_gm
 oomp:
   library_name: oscillator
-  md5: 32d73b8cb741776367a6b5ab6c5976d3
-  md5_10: 32d73b8cb7
-  md5_5: 32d73
-  md5_6: 32d73b
-  oomp_key: oomp_oscillator_si5351c_b_gm
-  oomp_key_extra: oomp_symbol_oscillator_si5351c_b_gm
-  oomp_key_full: oomp_symbol_oscillator_si5351c_b_gm_32d73b
-  oomp_key_simple: oscillator_si5351c_b_gm
+  md5: 73645c9c9be32288356af7120e5c4bd7
+  md5_10: 73645c9c9b
+  md5_5: '73645'
+  md5_6: 73645c
+  oomp_key: oomp_si5351c_b_gm
+  oomp_key_extra: oomp_symbol_si5351c_b_gm
+  oomp_key_full: oomp_symbol_si5351c_b_gm_73645c
+  oomp_key_simple: si5351c_b_gm
   owner_name: kicad
-  symbol_name: oscillator_si5351c_b_gm
+  symbol_name: si5351c_b_gm
 oomp_key: oomp_kicad_oscillator_si5351c_b_gm
 oomp_key_simple: kicad_oscillator_si5351c_b_gm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

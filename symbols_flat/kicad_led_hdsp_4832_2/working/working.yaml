@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_hdsp_4832_2/working
   oomp_src_flat: symbols_flat/kicad_led_hdsp_4832_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_hdsp_4832_2/working
-name: led_hdsp_4832_2
+name: hdsp_4832_2
 oomp:
   library_name: led
-  md5: 92f094a5aa7336a7133ee775299b5540
-  md5_10: 92f094a5aa
-  md5_5: 92f09
-  md5_6: 92f094
-  oomp_key: oomp_led_hdsp_4832_2
-  oomp_key_extra: oomp_symbol_led_hdsp_4832_2
-  oomp_key_full: oomp_symbol_led_hdsp_4832_2_92f094
-  oomp_key_simple: led_hdsp_4832_2
+  md5: 42033388258dfc61a3bee510f1422238
+  md5_10: '4203338825'
+  md5_5: '42033'
+  md5_6: '420333'
+  oomp_key: oomp_hdsp_4832_2
+  oomp_key_extra: oomp_symbol_hdsp_4832_2
+  oomp_key_full: oomp_symbol_hdsp_4832_2_420333
+  oomp_key_simple: hdsp_4832_2
   owner_name: kicad
-  symbol_name: led_hdsp_4832_2
+  symbol_name: hdsp_4832_2
 oomp_key: oomp_kicad_led_hdsp_4832_2
 oomp_key_simple: kicad_led_hdsp_4832_2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

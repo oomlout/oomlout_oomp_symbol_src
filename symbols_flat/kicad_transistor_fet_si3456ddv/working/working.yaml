@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_si3456ddv/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_si3456ddv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_si3456ddv/working
-name: transistor_fet_si3456ddv
+name: si3456ddv
 oomp:
   library_name: transistor_fet
-  md5: 2b6b6d2ff470fa05c620ec8a9382642c
-  md5_10: 2b6b6d2ff4
-  md5_5: 2b6b6
-  md5_6: 2b6b6d
-  oomp_key: oomp_transistor_fet_si3456ddv
-  oomp_key_extra: oomp_symbol_transistor_fet_si3456ddv
-  oomp_key_full: oomp_symbol_transistor_fet_si3456ddv_2b6b6d
-  oomp_key_simple: transistor_fet_si3456ddv
+  md5: b5579709edc22099f8d443b706d2c434
+  md5_10: b5579709ed
+  md5_5: b5579
+  md5_6: b55797
+  oomp_key: oomp_si3456ddv
+  oomp_key_extra: oomp_symbol_si3456ddv
+  oomp_key_full: oomp_symbol_si3456ddv_b55797
+  oomp_key_simple: si3456ddv
   owner_name: kicad
-  symbol_name: transistor_fet_si3456ddv
+  symbol_name: si3456ddv
 oomp_key: oomp_kicad_transistor_fet_si3456ddv
 oomp_key_simple: kicad_transistor_fet_si3456ddv
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

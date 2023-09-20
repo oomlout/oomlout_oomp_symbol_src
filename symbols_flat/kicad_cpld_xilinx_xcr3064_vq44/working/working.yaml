@@ -1,19 +1,19 @@
 id: kicad_cpld_xilinx_xcr3064_vq44
 library: cpld_xilinx
 library_name: CPLD_Xilinx
-name: cpld_xilinx_xcr3064_vq44
+name: xcr3064_vq44
 oomp:
   library_name: cpld_xilinx
-  md5: fdccffd0f698f47fa0b04dda1e863a17
-  md5_10: fdccffd0f6
-  md5_5: fdccf
-  md5_6: fdccff
-  oomp_key: oomp_cpld_xilinx_xcr3064_vq44
-  oomp_key_extra: oomp_symbol_cpld_xilinx_xcr3064_vq44
-  oomp_key_full: oomp_symbol_cpld_xilinx_xcr3064_vq44_fdccff
-  oomp_key_simple: cpld_xilinx_xcr3064_vq44
+  md5: f6e265126fc17940565d35331e36a93e
+  md5_10: f6e265126f
+  md5_5: f6e26
+  md5_6: f6e265
+  oomp_key: oomp_xcr3064_vq44
+  oomp_key_extra: oomp_symbol_xcr3064_vq44
+  oomp_key_full: oomp_symbol_xcr3064_vq44_f6e265
+  oomp_key_simple: xcr3064_vq44
   owner_name: kicad
-  symbol_name: cpld_xilinx_xcr3064_vq44
+  symbol_name: xcr3064_vq44
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

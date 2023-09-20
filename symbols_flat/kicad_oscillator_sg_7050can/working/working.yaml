@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_sg_7050can/working
   oomp_src_flat: symbols_flat/kicad_oscillator_sg_7050can/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_sg_7050can/working
-name: oscillator_sg_7050can
+name: sg_7050can
 oomp:
   library_name: oscillator
-  md5: 2f752abf8149121203fb75d81a89ce11
-  md5_10: 2f752abf81
-  md5_5: 2f752
-  md5_6: 2f752a
-  oomp_key: oomp_oscillator_sg_7050can
-  oomp_key_extra: oomp_symbol_oscillator_sg_7050can
-  oomp_key_full: oomp_symbol_oscillator_sg_7050can_2f752a
-  oomp_key_simple: oscillator_sg_7050can
+  md5: 54d44288c628c46f851c0a9635db2581
+  md5_10: 54d44288c6
+  md5_5: 54d44
+  md5_6: 54d442
+  oomp_key: oomp_sg_7050can
+  oomp_key_extra: oomp_symbol_sg_7050can
+  oomp_key_full: oomp_symbol_sg_7050can_54d442
+  oomp_key_simple: sg_7050can
   owner_name: kicad
-  symbol_name: oscillator_sg_7050can
+  symbol_name: sg_7050can
 oomp_key: oomp_kicad_oscillator_sg_7050can
 oomp_key_simple: kicad_oscillator_sg_7050can
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

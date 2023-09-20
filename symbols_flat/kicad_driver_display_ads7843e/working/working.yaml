@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_display_ads7843e/working
   oomp_src_flat: symbols_flat/kicad_driver_display_ads7843e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_display_ads7843e/working
-name: driver_display_ads7843e
+name: ads7843e
 oomp:
   library_name: driver_display
-  md5: fc9831baa033979be41e047aa26b5b3b
-  md5_10: fc9831baa0
-  md5_5: fc983
-  md5_6: fc9831
-  oomp_key: oomp_driver_display_ads7843e
-  oomp_key_extra: oomp_symbol_driver_display_ads7843e
-  oomp_key_full: oomp_symbol_driver_display_ads7843e_fc9831
-  oomp_key_simple: driver_display_ads7843e
+  md5: 15754c70ab10ac823db492c36b5dd949
+  md5_10: 15754c70ab
+  md5_5: '15754'
+  md5_6: 15754c
+  oomp_key: oomp_ads7843e
+  oomp_key_extra: oomp_symbol_ads7843e
+  oomp_key_full: oomp_symbol_ads7843e_15754c
+  oomp_key_simple: ads7843e
   owner_name: kicad
-  symbol_name: driver_display_ads7843e
+  symbol_name: ads7843e
 oomp_key: oomp_kicad_driver_display_ads7843e
 oomp_key_simple: kicad_driver_display_ads7843e
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

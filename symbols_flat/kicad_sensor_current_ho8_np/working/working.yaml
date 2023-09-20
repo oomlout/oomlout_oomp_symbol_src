@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_ho8_np/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_ho8_np/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_ho8_np/working
-name: sensor_current_ho8_np
+name: ho8_np
 oomp:
   library_name: sensor_current
-  md5: 8095908a43a6332133cb86f6c6c52eca
-  md5_10: 8095908a43
-  md5_5: '80959'
-  md5_6: '809590'
-  oomp_key: oomp_sensor_current_ho8_np
-  oomp_key_extra: oomp_symbol_sensor_current_ho8_np
-  oomp_key_full: oomp_symbol_sensor_current_ho8_np_809590
-  oomp_key_simple: sensor_current_ho8_np
+  md5: 897b8152bd4e2244a4e7d8ac5671c5df
+  md5_10: 897b8152bd
+  md5_5: 897b8
+  md5_6: 897b81
+  oomp_key: oomp_ho8_np
+  oomp_key_extra: oomp_symbol_ho8_np
+  oomp_key_full: oomp_symbol_ho8_np_897b81
+  oomp_key_simple: ho8_np
   owner_name: kicad
-  symbol_name: sensor_current_ho8_np
+  symbol_name: ho8_np
 oomp_key: oomp_kicad_sensor_current_ho8_np
 oomp_key_simple: kicad_sensor_current_ho8_np
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

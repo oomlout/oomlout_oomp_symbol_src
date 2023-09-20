@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_coldfire_mcf5213_lqfp100/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_coldfire_mcf5213_lqfp100/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_coldfire_mcf5213_lqfp100/working
-name: mcu_nxp_coldfire_mcf5213_lqfp100
+name: mcf5213_lqfp100
 oomp:
   library_name: mcu_nxp_coldfire
-  md5: 97e9729753247b0efa7940702dd371b5
-  md5_10: 97e9729753
-  md5_5: 97e97
-  md5_6: 97e972
-  oomp_key: oomp_mcu_nxp_coldfire_mcf5213_lqfp100
-  oomp_key_extra: oomp_symbol_mcu_nxp_coldfire_mcf5213_lqfp100
-  oomp_key_full: oomp_symbol_mcu_nxp_coldfire_mcf5213_lqfp100_97e972
-  oomp_key_simple: mcu_nxp_coldfire_mcf5213_lqfp100
+  md5: bbd839a2a167284ddb7f4ba8be6cba49
+  md5_10: bbd839a2a1
+  md5_5: bbd83
+  md5_6: bbd839
+  oomp_key: oomp_mcf5213_lqfp100
+  oomp_key_extra: oomp_symbol_mcf5213_lqfp100
+  oomp_key_full: oomp_symbol_mcf5213_lqfp100_bbd839
+  oomp_key_simple: mcf5213_lqfp100
   owner_name: kicad
-  symbol_name: mcu_nxp_coldfire_mcf5213_lqfp100
+  symbol_name: mcf5213_lqfp100
 oomp_key: oomp_kicad_mcu_nxp_coldfire_mcf5213_lqfp100
 oomp_key_simple: kicad_mcu_nxp_coldfire_mcf5213_lqfp100
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

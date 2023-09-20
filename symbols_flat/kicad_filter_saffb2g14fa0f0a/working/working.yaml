@@ -1,19 +1,19 @@
 id: kicad_filter_saffb2g14fa0f0a
 library: filter
 library_name: Filter
-name: filter_saffb2g14fa0f0a
+name: saffb2g14fa0f0a
 oomp:
   library_name: filter
-  md5: 322d85b6a846835cb0fd7902ee38a565
-  md5_10: 322d85b6a8
-  md5_5: 322d8
-  md5_6: 322d85
-  oomp_key: oomp_filter_saffb2g14fa0f0a
-  oomp_key_extra: oomp_symbol_filter_saffb2g14fa0f0a
-  oomp_key_full: oomp_symbol_filter_saffb2g14fa0f0a_322d85
-  oomp_key_simple: filter_saffb2g14fa0f0a
+  md5: 8a3cba01f960df0874d19b9d95d5f4aa
+  md5_10: 8a3cba01f9
+  md5_5: 8a3cb
+  md5_6: 8a3cba
+  oomp_key: oomp_saffb2g14fa0f0a
+  oomp_key_extra: oomp_symbol_saffb2g14fa0f0a
+  oomp_key_full: oomp_symbol_saffb2g14fa0f0a_8a3cba
+  oomp_key_simple: saffb2g14fa0f0a
   owner_name: kicad
-  symbol_name: filter_saffb2g14fa0f0a
+  symbol_name: saffb2g14fa0f0a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

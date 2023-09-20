@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_instrumentation_ltc1100xsw/working
   oomp_src_flat: symbols_flat/kicad_amplifier_instrumentation_ltc1100xsw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_instrumentation_ltc1100xsw/working
-name: amplifier_instrumentation_ltc1100xsw
+name: ltc1100xsw
 oomp:
   library_name: amplifier_instrumentation
-  md5: 8cc045233738ad500153b009b98faa67
-  md5_10: 8cc0452337
-  md5_5: 8cc04
-  md5_6: 8cc045
-  oomp_key: oomp_amplifier_instrumentation_ltc1100xsw
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ltc1100xsw
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ltc1100xsw_8cc045
-  oomp_key_simple: amplifier_instrumentation_ltc1100xsw
+  md5: 7b5afabd77188dc5960e7f7cde252830
+  md5_10: 7b5afabd77
+  md5_5: 7b5af
+  md5_6: 7b5afa
+  oomp_key: oomp_ltc1100xsw
+  oomp_key_extra: oomp_symbol_ltc1100xsw
+  oomp_key_full: oomp_symbol_ltc1100xsw_7b5afa
+  oomp_key_simple: ltc1100xsw
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ltc1100xsw
+  symbol_name: ltc1100xsw
 oomp_key: oomp_kicad_amplifier_instrumentation_ltc1100xsw
 oomp_key_simple: kicad_amplifier_instrumentation_ltc1100xsw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

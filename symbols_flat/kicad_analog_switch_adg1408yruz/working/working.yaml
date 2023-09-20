@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_adg1408yruz/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_adg1408yruz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_adg1408yruz/working
-name: analog_switch_adg1408yruz
+name: adg1408yruz
 oomp:
   library_name: analog_switch
-  md5: 1dfb61a1934e51dc46e7ded42015cc80
-  md5_10: 1dfb61a193
-  md5_5: 1dfb6
-  md5_6: 1dfb61
-  oomp_key: oomp_analog_switch_adg1408yruz
-  oomp_key_extra: oomp_symbol_analog_switch_adg1408yruz
-  oomp_key_full: oomp_symbol_analog_switch_adg1408yruz_1dfb61
-  oomp_key_simple: analog_switch_adg1408yruz
+  md5: 650d4fbf5d34c36e74165d24c6b82989
+  md5_10: 650d4fbf5d
+  md5_5: 650d4
+  md5_6: 650d4f
+  oomp_key: oomp_adg1408yruz
+  oomp_key_extra: oomp_symbol_adg1408yruz
+  oomp_key_full: oomp_symbol_adg1408yruz_650d4f
+  oomp_key_simple: adg1408yruz
   owner_name: kicad
-  symbol_name: analog_switch_adg1408yruz
+  symbol_name: adg1408yruz
 oomp_key: oomp_kicad_analog_switch_adg1408yruz
 oomp_key_simple: kicad_analog_switch_adg1408yruz
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

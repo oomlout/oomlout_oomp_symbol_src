@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ltc6957xms_1/working
   oomp_src_flat: symbols_flat/kicad_interface_ltc6957xms_1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ltc6957xms_1/working
-name: interface_ltc6957xms_1
+name: ltc6957xms_1
 oomp:
   library_name: interface
-  md5: c3cd7903da762a0477d311326017c389
-  md5_10: c3cd7903da
-  md5_5: c3cd7
-  md5_6: c3cd79
-  oomp_key: oomp_interface_ltc6957xms_1
-  oomp_key_extra: oomp_symbol_interface_ltc6957xms_1
-  oomp_key_full: oomp_symbol_interface_ltc6957xms_1_c3cd79
-  oomp_key_simple: interface_ltc6957xms_1
+  md5: af6811190317e1dbb4a540702c0e80c5
+  md5_10: af68111903
+  md5_5: af681
+  md5_6: af6811
+  oomp_key: oomp_ltc6957xms_1
+  oomp_key_extra: oomp_symbol_ltc6957xms_1
+  oomp_key_full: oomp_symbol_ltc6957xms_1_af6811
+  oomp_key_simple: ltc6957xms_1
   owner_name: kicad
-  symbol_name: interface_ltc6957xms_1
+  symbol_name: ltc6957xms_1
 oomp_key: oomp_kicad_interface_ltc6957xms_1
 oomp_key_simple: kicad_interface_ltc6957xms_1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

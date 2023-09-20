@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_tny276p
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_tny276p
+name: tny276p
 oomp:
   library_name: regulator_switching
-  md5: 7431838049c22b567a353d1e5d4da604
-  md5_10: '7431838049'
-  md5_5: '74318'
-  md5_6: '743183'
-  oomp_key: oomp_regulator_switching_tny276p
-  oomp_key_extra: oomp_symbol_regulator_switching_tny276p
-  oomp_key_full: oomp_symbol_regulator_switching_tny276p_743183
-  oomp_key_simple: regulator_switching_tny276p
+  md5: 06ad314f8a2a554642cc1e9675104144
+  md5_10: 06ad314f8a
+  md5_5: 06ad3
+  md5_6: 06ad31
+  oomp_key: oomp_tny276p
+  oomp_key_extra: oomp_symbol_tny276p
+  oomp_key_full: oomp_symbol_tny276p_06ad31
+  oomp_key_simple: tny276p
   owner_name: kicad
-  symbol_name: regulator_switching_tny276p
+  symbol_name: tny276p
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_cp2104/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_cp2104/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_cp2104/working
-name: interface_usb_cp2104
+name: cp2104
 oomp:
   library_name: interface_usb
-  md5: 008bc97f60c704081e24987e8c0cf026
-  md5_10: 008bc97f60
-  md5_5: 008bc
-  md5_6: 008bc9
-  oomp_key: oomp_interface_usb_cp2104
-  oomp_key_extra: oomp_symbol_interface_usb_cp2104
-  oomp_key_full: oomp_symbol_interface_usb_cp2104_008bc9
-  oomp_key_simple: interface_usb_cp2104
+  md5: 577015c6466c960d046649dcadad963d
+  md5_10: 577015c646
+  md5_5: '57701'
+  md5_6: '577015'
+  oomp_key: oomp_cp2104
+  oomp_key_extra: oomp_symbol_cp2104
+  oomp_key_full: oomp_symbol_cp2104_577015
+  oomp_key_simple: cp2104
   owner_name: kicad
-  symbol_name: interface_usb_cp2104
+  symbol_name: cp2104
 oomp_key: oomp_kicad_interface_usb_cp2104
 oomp_key_simple: kicad_interface_usb_cp2104
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_cm1213a_01so/working
   oomp_src_flat: symbols_flat/kicad_power_protection_cm1213a_01so/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_cm1213a_01so/working
-name: power_protection_cm1213a_01so
+name: cm1213a_01so
 oomp:
   library_name: power_protection
-  md5: 6e2fd969db9a09e7f539f3c1c948d966
-  md5_10: 6e2fd969db
-  md5_5: 6e2fd
-  md5_6: 6e2fd9
-  oomp_key: oomp_power_protection_cm1213a_01so
-  oomp_key_extra: oomp_symbol_power_protection_cm1213a_01so
-  oomp_key_full: oomp_symbol_power_protection_cm1213a_01so_6e2fd9
-  oomp_key_simple: power_protection_cm1213a_01so
+  md5: 87cd365b2b14755a4b8fdcb7c3cf6f9d
+  md5_10: 87cd365b2b
+  md5_5: 87cd3
+  md5_6: 87cd36
+  oomp_key: oomp_cm1213a_01so
+  oomp_key_extra: oomp_symbol_cm1213a_01so
+  oomp_key_full: oomp_symbol_cm1213a_01so_87cd36
+  oomp_key_simple: cm1213a_01so
   owner_name: kicad
-  symbol_name: power_protection_cm1213a_01so
+  symbol_name: cm1213a_01so
 oomp_key: oomp_kicad_power_protection_cm1213a_01so
 oomp_key_simple: kicad_power_protection_cm1213a_01so
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

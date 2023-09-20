@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_tc7662axpa/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_tc7662axpa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_tc7662axpa/working
-name: converter_dcdc_tc7662axpa
+name: tc7662axpa
 oomp:
   library_name: converter_dcdc
-  md5: 616943cffbba5bf08b757de0fc508c2e
-  md5_10: 616943cffb
-  md5_5: '61694'
-  md5_6: '616943'
-  oomp_key: oomp_converter_dcdc_tc7662axpa
-  oomp_key_extra: oomp_symbol_converter_dcdc_tc7662axpa
-  oomp_key_full: oomp_symbol_converter_dcdc_tc7662axpa_616943
-  oomp_key_simple: converter_dcdc_tc7662axpa
+  md5: f31429d68122f6e76e99929beb5b387d
+  md5_10: f31429d681
+  md5_5: f3142
+  md5_6: f31429
+  oomp_key: oomp_tc7662axpa
+  oomp_key_extra: oomp_symbol_tc7662axpa
+  oomp_key_full: oomp_symbol_tc7662axpa_f31429
+  oomp_key_simple: tc7662axpa
   owner_name: kicad
-  symbol_name: converter_dcdc_tc7662axpa
+  symbol_name: tc7662axpa
 oomp_key: oomp_kicad_converter_dcdc_tc7662axpa
 oomp_key_simple: kicad_converter_dcdc_tc7662axpa
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

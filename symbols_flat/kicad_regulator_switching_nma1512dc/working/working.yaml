@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_nma1512dc
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_nma1512dc
+name: nma1512dc
 oomp:
   library_name: regulator_switching
-  md5: acec16c7ee17bdd1346f6e428ec12f63
-  md5_10: acec16c7ee
-  md5_5: acec1
-  md5_6: acec16
-  oomp_key: oomp_regulator_switching_nma1512dc
-  oomp_key_extra: oomp_symbol_regulator_switching_nma1512dc
-  oomp_key_full: oomp_symbol_regulator_switching_nma1512dc_acec16
-  oomp_key_simple: regulator_switching_nma1512dc
+  md5: 5facf967d336283f90ad6a9017f6e8ad
+  md5_10: 5facf967d3
+  md5_5: 5facf
+  md5_6: 5facf9
+  oomp_key: oomp_nma1512dc
+  oomp_key_extra: oomp_symbol_nma1512dc
+  oomp_key_full: oomp_symbol_nma1512dc_5facf9
+  oomp_key_simple: nma1512dc
   owner_name: kicad
-  symbol_name: regulator_switching_nma1512dc
+  symbol_name: nma1512dc
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

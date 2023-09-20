@@ -1,19 +1,19 @@
 id: kicad_oscillator_xux52
 library: oscillator
 library_name: Oscillator
-name: oscillator_xux52
+name: xux52
 oomp:
   library_name: oscillator
-  md5: dbefef398a6663dcba1c4edf6e6709c6
-  md5_10: dbefef398a
-  md5_5: dbefe
-  md5_6: dbefef
-  oomp_key: oomp_oscillator_xux52
-  oomp_key_extra: oomp_symbol_oscillator_xux52
-  oomp_key_full: oomp_symbol_oscillator_xux52_dbefef
-  oomp_key_simple: oscillator_xux52
+  md5: c636888e555674aec9cde6e374aceefe
+  md5_10: c636888e55
+  md5_5: c6368
+  md5_6: c63688
+  oomp_key: oomp_xux52
+  oomp_key_extra: oomp_symbol_xux52
+  oomp_key_full: oomp_symbol_xux52_c63688
+  oomp_key_simple: xux52
   owner_name: kicad
-  symbol_name: oscillator_xux52
+  symbol_name: xux52
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

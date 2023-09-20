@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ir1167s/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ir1167s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ir1167s/working
-name: regulator_controller_ir1167s
+name: ir1167s
 oomp:
   library_name: regulator_controller
-  md5: 3bca39aee4b6ac1412048bf763e6fab0
-  md5_10: 3bca39aee4
-  md5_5: 3bca3
-  md5_6: 3bca39
-  oomp_key: oomp_regulator_controller_ir1167s
-  oomp_key_extra: oomp_symbol_regulator_controller_ir1167s
-  oomp_key_full: oomp_symbol_regulator_controller_ir1167s_3bca39
-  oomp_key_simple: regulator_controller_ir1167s
+  md5: 0b8d197a5a7aae1f2d29581d103cf4f6
+  md5_10: 0b8d197a5a
+  md5_5: 0b8d1
+  md5_6: 0b8d19
+  oomp_key: oomp_ir1167s
+  oomp_key_extra: oomp_symbol_ir1167s
+  oomp_key_full: oomp_symbol_ir1167s_0b8d19
+  oomp_key_simple: ir1167s
   owner_name: kicad
-  symbol_name: regulator_controller_ir1167s
+  symbol_name: ir1167s
 oomp_key: oomp_kicad_regulator_controller_ir1167s
 oomp_key_simple: kicad_regulator_controller_ir1167s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

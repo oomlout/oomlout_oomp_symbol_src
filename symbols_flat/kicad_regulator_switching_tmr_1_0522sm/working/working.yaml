@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tmr_1_0522sm/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tmr_1_0522sm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tmr_1_0522sm/working
-name: regulator_switching_tmr_1_0522sm
+name: tmr_1_0522sm
 oomp:
   library_name: regulator_switching
-  md5: 7f1f659732cb8acde82eb8d38065c0a3
-  md5_10: 7f1f659732
-  md5_5: 7f1f6
-  md5_6: 7f1f65
-  oomp_key: oomp_regulator_switching_tmr_1_0522sm
-  oomp_key_extra: oomp_symbol_regulator_switching_tmr_1_0522sm
-  oomp_key_full: oomp_symbol_regulator_switching_tmr_1_0522sm_7f1f65
-  oomp_key_simple: regulator_switching_tmr_1_0522sm
+  md5: 764cd244f57a0a0cb74e9cf7be9ba4ad
+  md5_10: 764cd244f5
+  md5_5: 764cd
+  md5_6: 764cd2
+  oomp_key: oomp_tmr_1_0522sm
+  oomp_key_extra: oomp_symbol_tmr_1_0522sm
+  oomp_key_full: oomp_symbol_tmr_1_0522sm_764cd2
+  oomp_key_simple: tmr_1_0522sm
   owner_name: kicad
-  symbol_name: regulator_switching_tmr_1_0522sm
+  symbol_name: tmr_1_0522sm
 oomp_key: oomp_kicad_regulator_switching_tmr_1_0522sm
 oomp_key_simple: kicad_regulator_switching_tmr_1_0522sm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

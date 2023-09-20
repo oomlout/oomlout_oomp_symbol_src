@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tc1014_xct/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tc1014_xct/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tc1014_xct/working
-name: regulator_linear_tc1014_xct
+name: tc1014_xct
 oomp:
   library_name: regulator_linear
-  md5: 88b07c892f0cddb134fbd54354f803ef
-  md5_10: 88b07c892f
-  md5_5: 88b07
-  md5_6: 88b07c
-  oomp_key: oomp_regulator_linear_tc1014_xct
-  oomp_key_extra: oomp_symbol_regulator_linear_tc1014_xct
-  oomp_key_full: oomp_symbol_regulator_linear_tc1014_xct_88b07c
-  oomp_key_simple: regulator_linear_tc1014_xct
+  md5: 207ff5d6cf51b1a6ea68944726d7d012
+  md5_10: 207ff5d6cf
+  md5_5: 207ff
+  md5_6: 207ff5
+  oomp_key: oomp_tc1014_xct
+  oomp_key_extra: oomp_symbol_tc1014_xct
+  oomp_key_full: oomp_symbol_tc1014_xct_207ff5
+  oomp_key_simple: tc1014_xct
   owner_name: kicad
-  symbol_name: regulator_linear_tc1014_xct
+  symbol_name: tc1014_xct
 oomp_key: oomp_kicad_regulator_linear_tc1014_xct
 oomp_key_simple: kicad_regulator_linear_tc1014_xct
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

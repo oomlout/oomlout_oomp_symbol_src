@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_mcp1700x_300xxmb
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_mcp1700x_300xxmb
+name: mcp1700x_300xxmb
 oomp:
   library_name: regulator_linear
-  md5: fa560bb26e7420a28c98ac1a8415ce13
-  md5_10: fa560bb26e
-  md5_5: fa560
-  md5_6: fa560b
-  oomp_key: oomp_regulator_linear_mcp1700x_300xxmb
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1700x_300xxmb
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1700x_300xxmb_fa560b
-  oomp_key_simple: regulator_linear_mcp1700x_300xxmb
+  md5: 6f475d7e3fb9bd570730f92298e092ce
+  md5_10: 6f475d7e3f
+  md5_5: 6f475
+  md5_6: 6f475d
+  oomp_key: oomp_mcp1700x_300xxmb
+  oomp_key_extra: oomp_symbol_mcp1700x_300xxmb
+  oomp_key_full: oomp_symbol_mcp1700x_300xxmb_6f475d
+  oomp_key_simple: mcp1700x_300xxmb
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1700x_300xxmb
+  symbol_name: mcp1700x_300xxmb
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

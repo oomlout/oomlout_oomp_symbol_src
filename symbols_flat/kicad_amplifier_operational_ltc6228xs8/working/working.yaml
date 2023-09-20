@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_ltc6228xs8/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ltc6228xs8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ltc6228xs8/working
-name: amplifier_operational_ltc6228xs8
+name: ltc6228xs8
 oomp:
   library_name: amplifier_operational
-  md5: e0f3d3df4d315e215d8a6a8f4e6ed542
-  md5_10: e0f3d3df4d
-  md5_5: e0f3d
-  md5_6: e0f3d3
-  oomp_key: oomp_amplifier_operational_ltc6228xs8
-  oomp_key_extra: oomp_symbol_amplifier_operational_ltc6228xs8
-  oomp_key_full: oomp_symbol_amplifier_operational_ltc6228xs8_e0f3d3
-  oomp_key_simple: amplifier_operational_ltc6228xs8
+  md5: a37069031cb3613e0d7be8019f1de33a
+  md5_10: a37069031c
+  md5_5: a3706
+  md5_6: a37069
+  oomp_key: oomp_ltc6228xs8
+  oomp_key_extra: oomp_symbol_ltc6228xs8
+  oomp_key_full: oomp_symbol_ltc6228xs8_a37069
+  oomp_key_simple: ltc6228xs8
   owner_name: kicad
-  symbol_name: amplifier_operational_ltc6228xs8
+  symbol_name: ltc6228xs8
 oomp_key: oomp_kicad_amplifier_operational_ltc6228xs8
 oomp_key_simple: kicad_amplifier_operational_ltc6228xs8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

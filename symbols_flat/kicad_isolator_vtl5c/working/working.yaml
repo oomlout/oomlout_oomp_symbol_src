@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_vtl5c/working
   oomp_src_flat: symbols_flat/kicad_isolator_vtl5c/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_vtl5c/working
-name: isolator_vtl5c
+name: vtl5c
 oomp:
   library_name: isolator
-  md5: 617f279e2e40c26df10cc9cccf97ce0e
-  md5_10: 617f279e2e
-  md5_5: 617f2
-  md5_6: 617f27
-  oomp_key: oomp_isolator_vtl5c
-  oomp_key_extra: oomp_symbol_isolator_vtl5c
-  oomp_key_full: oomp_symbol_isolator_vtl5c_617f27
-  oomp_key_simple: isolator_vtl5c
+  md5: 1a2c44596d50cecd30bcb0cbcfa371af
+  md5_10: 1a2c44596d
+  md5_5: 1a2c4
+  md5_6: 1a2c44
+  oomp_key: oomp_vtl5c
+  oomp_key_extra: oomp_symbol_vtl5c
+  oomp_key_full: oomp_symbol_vtl5c_1a2c44
+  oomp_key_simple: vtl5c
   owner_name: kicad
-  symbol_name: isolator_vtl5c
+  symbol_name: vtl5c
 oomp_key: oomp_kicad_isolator_vtl5c
 oomp_key_simple: kicad_isolator_vtl5c
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

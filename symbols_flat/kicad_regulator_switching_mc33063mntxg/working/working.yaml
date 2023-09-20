@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_mc33063mntxg/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_mc33063mntxg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_mc33063mntxg/working
-name: regulator_switching_mc33063mntxg
+name: mc33063mntxg
 oomp:
   library_name: regulator_switching
-  md5: d5ca18246c73977a31480b29acdb8391
-  md5_10: d5ca18246c
-  md5_5: d5ca1
-  md5_6: d5ca18
-  oomp_key: oomp_regulator_switching_mc33063mntxg
-  oomp_key_extra: oomp_symbol_regulator_switching_mc33063mntxg
-  oomp_key_full: oomp_symbol_regulator_switching_mc33063mntxg_d5ca18
-  oomp_key_simple: regulator_switching_mc33063mntxg
+  md5: b40a1511ad7c7921954b8eb186a9178c
+  md5_10: b40a1511ad
+  md5_5: b40a1
+  md5_6: b40a15
+  oomp_key: oomp_mc33063mntxg
+  oomp_key_extra: oomp_symbol_mc33063mntxg
+  oomp_key_full: oomp_symbol_mc33063mntxg_b40a15
+  oomp_key_simple: mc33063mntxg
   owner_name: kicad
-  symbol_name: regulator_switching_mc33063mntxg
+  symbol_name: mc33063mntxg
 oomp_key: oomp_kicad_regulator_switching_mc33063mntxg
 oomp_key_simple: kicad_regulator_switching_mc33063mntxg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_sensor_current_ltsr15_np
 library: sensor_current
 library_name: Sensor_Current
-name: sensor_current_ltsr15_np
+name: ltsr15_np
 oomp:
   library_name: sensor_current
-  md5: 7b944c42f1b1ca0d7725bb99987c82b4
-  md5_10: 7b944c42f1
-  md5_5: 7b944
-  md5_6: 7b944c
-  oomp_key: oomp_sensor_current_ltsr15_np
-  oomp_key_extra: oomp_symbol_sensor_current_ltsr15_np
-  oomp_key_full: oomp_symbol_sensor_current_ltsr15_np_7b944c
-  oomp_key_simple: sensor_current_ltsr15_np
+  md5: 97be82a32c35e7154c6d2449d2262df9
+  md5_10: 97be82a32c
+  md5_5: 97be8
+  md5_6: 97be82
+  oomp_key: oomp_ltsr15_np
+  oomp_key_extra: oomp_symbol_ltsr15_np
+  oomp_key_full: oomp_symbol_ltsr15_np_97be82
+  oomp_key_simple: ltsr15_np
   owner_name: kicad
-  symbol_name: sensor_current_ltsr15_np
+  symbol_name: ltsr15_np
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

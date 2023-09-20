@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_isd2560s/working
   oomp_src_flat: symbols_flat/kicad_audio_isd2560s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_isd2560s/working
-name: audio_isd2560s
+name: isd2560s
 oomp:
   library_name: audio
-  md5: 6363e41c1da93a31d06de2d67b44d991
-  md5_10: 6363e41c1d
-  md5_5: 6363e
-  md5_6: 6363e4
-  oomp_key: oomp_audio_isd2560s
-  oomp_key_extra: oomp_symbol_audio_isd2560s
-  oomp_key_full: oomp_symbol_audio_isd2560s_6363e4
-  oomp_key_simple: audio_isd2560s
+  md5: f2a90fb30d2b78d4e8a976b1db42cd53
+  md5_10: f2a90fb30d
+  md5_5: f2a90
+  md5_6: f2a90f
+  oomp_key: oomp_isd2560s
+  oomp_key_extra: oomp_symbol_isd2560s
+  oomp_key_full: oomp_symbol_isd2560s_f2a90f
+  oomp_key_simple: isd2560s
   owner_name: kicad
-  symbol_name: audio_isd2560s
+  symbol_name: isd2560s
 oomp_key: oomp_kicad_audio_isd2560s
 oomp_key_simple: kicad_audio_isd2560s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

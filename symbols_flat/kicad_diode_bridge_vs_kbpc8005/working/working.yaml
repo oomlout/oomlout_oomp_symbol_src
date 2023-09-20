@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bridge_vs_kbpc8005/working
   oomp_src_flat: symbols_flat/kicad_diode_bridge_vs_kbpc8005/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bridge_vs_kbpc8005/working
-name: diode_bridge_vs_kbpc8005
+name: vs_kbpc8005
 oomp:
   library_name: diode_bridge
-  md5: 7309eb1ebad60ca2bf2ea7014b056fd4
-  md5_10: 7309eb1eba
-  md5_5: 7309e
-  md5_6: 7309eb
-  oomp_key: oomp_diode_bridge_vs_kbpc8005
-  oomp_key_extra: oomp_symbol_diode_bridge_vs_kbpc8005
-  oomp_key_full: oomp_symbol_diode_bridge_vs_kbpc8005_7309eb
-  oomp_key_simple: diode_bridge_vs_kbpc8005
+  md5: 70353854c8c0c3ed49dfde33159b156e
+  md5_10: 70353854c8
+  md5_5: '70353'
+  md5_6: '703538'
+  oomp_key: oomp_vs_kbpc8005
+  oomp_key_extra: oomp_symbol_vs_kbpc8005
+  oomp_key_full: oomp_symbol_vs_kbpc8005_703538
+  oomp_key_simple: vs_kbpc8005
   owner_name: kicad
-  symbol_name: diode_bridge_vs_kbpc8005
+  symbol_name: vs_kbpc8005
 oomp_key: oomp_kicad_diode_bridge_vs_kbpc8005
 oomp_key_simple: kicad_diode_bridge_vs_kbpc8005
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

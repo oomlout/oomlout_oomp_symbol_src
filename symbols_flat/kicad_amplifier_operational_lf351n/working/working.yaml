@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lf351n/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lf351n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lf351n/working
-name: amplifier_operational_lf351n
+name: lf351n
 oomp:
   library_name: amplifier_operational
-  md5: 86650d59d0be14b03bc15e42a80728a5
-  md5_10: 86650d59d0
-  md5_5: '86650'
-  md5_6: 86650d
-  oomp_key: oomp_amplifier_operational_lf351n
-  oomp_key_extra: oomp_symbol_amplifier_operational_lf351n
-  oomp_key_full: oomp_symbol_amplifier_operational_lf351n_86650d
-  oomp_key_simple: amplifier_operational_lf351n
+  md5: cd78851e2bfcf69368917cdbf9cefc80
+  md5_10: cd78851e2b
+  md5_5: cd788
+  md5_6: cd7885
+  oomp_key: oomp_lf351n
+  oomp_key_extra: oomp_symbol_lf351n
+  oomp_key_full: oomp_symbol_lf351n_cd7885
+  oomp_key_simple: lf351n
   owner_name: kicad
-  symbol_name: amplifier_operational_lf351n
+  symbol_name: lf351n
 oomp_key: oomp_kicad_amplifier_operational_lf351n
 oomp_key_simple: kicad_amplifier_operational_lf351n
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

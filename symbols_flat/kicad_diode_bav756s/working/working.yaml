@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bav756s/working
   oomp_src_flat: symbols_flat/kicad_diode_bav756s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bav756s/working
-name: diode_bav756s
+name: bav756s
 oomp:
   library_name: diode
-  md5: 0fc1d70bbf9620f32ba9b0eaba412448
-  md5_10: 0fc1d70bbf
-  md5_5: 0fc1d
-  md5_6: 0fc1d7
-  oomp_key: oomp_diode_bav756s
-  oomp_key_extra: oomp_symbol_diode_bav756s
-  oomp_key_full: oomp_symbol_diode_bav756s_0fc1d7
-  oomp_key_simple: diode_bav756s
+  md5: 0f301eb78815426714bb13ba602c9ac8
+  md5_10: 0f301eb788
+  md5_5: 0f301
+  md5_6: 0f301e
+  oomp_key: oomp_bav756s
+  oomp_key_extra: oomp_symbol_bav756s
+  oomp_key_full: oomp_symbol_bav756s_0f301e
+  oomp_key_simple: bav756s
   owner_name: kicad
-  symbol_name: diode_bav756s
+  symbol_name: bav756s
 oomp_key: oomp_kicad_diode_bav756s
 oomp_key_simple: kicad_diode_bav756s
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

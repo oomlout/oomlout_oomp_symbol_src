@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ap3211k/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ap3211k/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ap3211k/working
-name: regulator_switching_ap3211k
+name: ap3211k
 oomp:
   library_name: regulator_switching
-  md5: efa0ec52d8a68e990a5b534e762a3452
-  md5_10: efa0ec52d8
-  md5_5: efa0e
-  md5_6: efa0ec
-  oomp_key: oomp_regulator_switching_ap3211k
-  oomp_key_extra: oomp_symbol_regulator_switching_ap3211k
-  oomp_key_full: oomp_symbol_regulator_switching_ap3211k_efa0ec
-  oomp_key_simple: regulator_switching_ap3211k
+  md5: ba0c3d9597828aec9b14f41589013163
+  md5_10: ba0c3d9597
+  md5_5: ba0c3
+  md5_6: ba0c3d
+  oomp_key: oomp_ap3211k
+  oomp_key_extra: oomp_symbol_ap3211k
+  oomp_key_full: oomp_symbol_ap3211k_ba0c3d
+  oomp_key_simple: ap3211k
   owner_name: kicad
-  symbol_name: regulator_switching_ap3211k
+  symbol_name: ap3211k
 oomp_key: oomp_kicad_regulator_switching_ap3211k
 oomp_key_simple: kicad_regulator_switching_ap3211k
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

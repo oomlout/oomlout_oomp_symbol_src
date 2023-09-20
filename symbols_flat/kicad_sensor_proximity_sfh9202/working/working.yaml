@@ -1,19 +1,19 @@
 id: kicad_sensor_proximity_sfh9202
 library: sensor_proximity
 library_name: Sensor_Proximity
-name: sensor_proximity_sfh9202
+name: sfh9202
 oomp:
   library_name: sensor_proximity
-  md5: 08289c042a3f3f88c7a678467c0d7e0c
-  md5_10: 08289c042a
-  md5_5: 08289
-  md5_6: 08289c
-  oomp_key: oomp_sensor_proximity_sfh9202
-  oomp_key_extra: oomp_symbol_sensor_proximity_sfh9202
-  oomp_key_full: oomp_symbol_sensor_proximity_sfh9202_08289c
-  oomp_key_simple: sensor_proximity_sfh9202
+  md5: 3be2138b01f7fbe07faa1036f6a1b496
+  md5_10: 3be2138b01
+  md5_5: 3be21
+  md5_6: 3be213
+  oomp_key: oomp_sfh9202
+  oomp_key_extra: oomp_symbol_sfh9202
+  oomp_key_full: oomp_symbol_sfh9202_3be213
+  oomp_key_simple: sfh9202
   owner_name: kicad
-  symbol_name: sensor_proximity_sfh9202
+  symbol_name: sfh9202
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

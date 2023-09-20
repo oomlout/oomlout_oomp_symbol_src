@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_rclamp3328p/working
   oomp_src_flat: symbols_flat/kicad_power_protection_rclamp3328p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_rclamp3328p/working
-name: power_protection_rclamp3328p
+name: rclamp3328p
 oomp:
   library_name: power_protection
-  md5: b17632efb8ec7fd71ed3d05bafeac289
-  md5_10: b17632efb8
-  md5_5: b1763
-  md5_6: b17632
-  oomp_key: oomp_power_protection_rclamp3328p
-  oomp_key_extra: oomp_symbol_power_protection_rclamp3328p
-  oomp_key_full: oomp_symbol_power_protection_rclamp3328p_b17632
-  oomp_key_simple: power_protection_rclamp3328p
+  md5: 54c5cbc9fb6522a497c98316eddd1481
+  md5_10: 54c5cbc9fb
+  md5_5: 54c5c
+  md5_6: 54c5cb
+  oomp_key: oomp_rclamp3328p
+  oomp_key_extra: oomp_symbol_rclamp3328p
+  oomp_key_full: oomp_symbol_rclamp3328p_54c5cb
+  oomp_key_simple: rclamp3328p
   owner_name: kicad
-  symbol_name: power_protection_rclamp3328p
+  symbol_name: rclamp3328p
 oomp_key: oomp_kicad_power_protection_rclamp3328p
 oomp_key_simple: kicad_power_protection_rclamp3328p
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

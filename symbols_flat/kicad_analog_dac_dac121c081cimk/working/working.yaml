@@ -1,19 +1,19 @@
 id: kicad_analog_dac_dac121c081cimk
 library: analog_dac
 library_name: Analog_DAC
-name: analog_dac_dac121c081cimk
+name: dac121c081cimk
 oomp:
   library_name: analog_dac
-  md5: e78719efc534f3721ea652fc24316766
-  md5_10: e78719efc5
-  md5_5: e7871
-  md5_6: e78719
-  oomp_key: oomp_analog_dac_dac121c081cimk
-  oomp_key_extra: oomp_symbol_analog_dac_dac121c081cimk
-  oomp_key_full: oomp_symbol_analog_dac_dac121c081cimk_e78719
-  oomp_key_simple: analog_dac_dac121c081cimk
+  md5: abcaa8a76bf5792b1a6de55804877796
+  md5_10: abcaa8a76b
+  md5_5: abcaa
+  md5_6: abcaa8
+  oomp_key: oomp_dac121c081cimk
+  oomp_key_extra: oomp_symbol_dac121c081cimk
+  oomp_key_full: oomp_symbol_dac121c081cimk_abcaa8
+  oomp_key_simple: dac121c081cimk
   owner_name: kicad
-  symbol_name: analog_dac_dac121c081cimk
+  symbol_name: dac121c081cimk
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

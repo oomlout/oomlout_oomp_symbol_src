@@ -1,19 +1,19 @@
 id: kicad_regulator_switching_ape1707s_12_hf
 library: regulator_switching
 library_name: Regulator_Switching
-name: regulator_switching_ape1707s_12_hf
+name: ape1707s_12_hf
 oomp:
   library_name: regulator_switching
-  md5: 210b8ef6be9370d587b37eee60390a2b
-  md5_10: 210b8ef6be
-  md5_5: 210b8
-  md5_6: 210b8e
-  oomp_key: oomp_regulator_switching_ape1707s_12_hf
-  oomp_key_extra: oomp_symbol_regulator_switching_ape1707s_12_hf
-  oomp_key_full: oomp_symbol_regulator_switching_ape1707s_12_hf_210b8e
-  oomp_key_simple: regulator_switching_ape1707s_12_hf
+  md5: afa95569110fa948de9b63b602d130e9
+  md5_10: afa9556911
+  md5_5: afa95
+  md5_6: afa955
+  oomp_key: oomp_ape1707s_12_hf
+  oomp_key_extra: oomp_symbol_ape1707s_12_hf
+  oomp_key_full: oomp_symbol_ape1707s_12_hf_afa955
+  oomp_key_simple: ape1707s_12_hf
   owner_name: kicad
-  symbol_name: regulator_switching_ape1707s_12_hf
+  symbol_name: ape1707s_12_hf
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

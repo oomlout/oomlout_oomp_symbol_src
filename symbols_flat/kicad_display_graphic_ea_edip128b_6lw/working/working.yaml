@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_graphic_ea_edip128b_6lw/working
   oomp_src_flat: symbols_flat/kicad_display_graphic_ea_edip128b_6lw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_graphic_ea_edip128b_6lw/working
-name: display_graphic_ea_edip128b_6lw
+name: ea_edip128b_6lw
 oomp:
   library_name: display_graphic
-  md5: b8c0a50090a686fa6f2f307c708d3b15
-  md5_10: b8c0a50090
-  md5_5: b8c0a
-  md5_6: b8c0a5
-  oomp_key: oomp_display_graphic_ea_edip128b_6lw
-  oomp_key_extra: oomp_symbol_display_graphic_ea_edip128b_6lw
-  oomp_key_full: oomp_symbol_display_graphic_ea_edip128b_6lw_b8c0a5
-  oomp_key_simple: display_graphic_ea_edip128b_6lw
+  md5: c64be21a4df9bb4fedf077ac69e1fb82
+  md5_10: c64be21a4d
+  md5_5: c64be
+  md5_6: c64be2
+  oomp_key: oomp_ea_edip128b_6lw
+  oomp_key_extra: oomp_symbol_ea_edip128b_6lw
+  oomp_key_full: oomp_symbol_ea_edip128b_6lw_c64be2
+  oomp_key_simple: ea_edip128b_6lw
   owner_name: kicad
-  symbol_name: display_graphic_ea_edip128b_6lw
+  symbol_name: ea_edip128b_6lw
 oomp_key: oomp_kicad_display_graphic_ea_edip128b_6lw
 oomp_key_simple: kicad_display_graphic_ea_edip128b_6lw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

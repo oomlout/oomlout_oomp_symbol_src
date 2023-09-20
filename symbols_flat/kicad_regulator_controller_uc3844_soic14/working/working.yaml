@@ -1,19 +1,19 @@
 id: kicad_regulator_controller_uc3844_soic14
 library: regulator_controller
 library_name: Regulator_Controller
-name: regulator_controller_uc3844_soic14
+name: uc3844_soic14
 oomp:
   library_name: regulator_controller
-  md5: b7b23ef33bf4210bca7719b26c85b41d
-  md5_10: b7b23ef33b
-  md5_5: b7b23
-  md5_6: b7b23e
-  oomp_key: oomp_regulator_controller_uc3844_soic14
-  oomp_key_extra: oomp_symbol_regulator_controller_uc3844_soic14
-  oomp_key_full: oomp_symbol_regulator_controller_uc3844_soic14_b7b23e
-  oomp_key_simple: regulator_controller_uc3844_soic14
+  md5: b20b8a1bf0935b5fc2fd83122a7e10f5
+  md5_10: b20b8a1bf0
+  md5_5: b20b8
+  md5_6: b20b8a
+  oomp_key: oomp_uc3844_soic14
+  oomp_key_extra: oomp_symbol_uc3844_soic14
+  oomp_key_full: oomp_symbol_uc3844_soic14_b20b8a
+  oomp_key_simple: uc3844_soic14
   owner_name: kicad
-  symbol_name: regulator_controller_uc3844_soic14
+  symbol_name: uc3844_soic14
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

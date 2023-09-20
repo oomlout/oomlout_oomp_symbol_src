@@ -1,19 +1,19 @@
 id: kicad_regulator_linear_lp5907mfx_2_8
 library: regulator_linear
 library_name: Regulator_Linear
-name: regulator_linear_lp5907mfx_2_8
+name: lp5907mfx_2_8
 oomp:
   library_name: regulator_linear
-  md5: 6687073af78c467119af2418e556ddb6
-  md5_10: 6687073af7
-  md5_5: '66870'
-  md5_6: '668707'
-  oomp_key: oomp_regulator_linear_lp5907mfx_2_8
-  oomp_key_extra: oomp_symbol_regulator_linear_lp5907mfx_2_8
-  oomp_key_full: oomp_symbol_regulator_linear_lp5907mfx_2_8_668707
-  oomp_key_simple: regulator_linear_lp5907mfx_2_8
+  md5: 2c5880e61fd6c7829edfc649da0648ba
+  md5_10: 2c5880e61f
+  md5_5: 2c588
+  md5_6: 2c5880
+  oomp_key: oomp_lp5907mfx_2_8
+  oomp_key_extra: oomp_symbol_lp5907mfx_2_8
+  oomp_key_full: oomp_symbol_lp5907mfx_2_8_2c5880
+  oomp_key_simple: lp5907mfx_2_8
   owner_name: kicad
-  symbol_name: regulator_linear_lp5907mfx_2_8
+  symbol_name: lp5907mfx_2_8
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_testpoint_flag/working
   oomp_src_flat: symbols_flat/kicad_connector_testpoint_flag/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_testpoint_flag/working
-name: connector_testpoint_flag
+name: testpoint_flag
 oomp:
   library_name: connector
-  md5: d9804f03f971849fb4de0dc13c4e2c1f
-  md5_10: d9804f03f9
-  md5_5: d9804
-  md5_6: d9804f
-  oomp_key: oomp_connector_testpoint_flag
-  oomp_key_extra: oomp_symbol_connector_testpoint_flag
-  oomp_key_full: oomp_symbol_connector_testpoint_flag_d9804f
-  oomp_key_simple: connector_testpoint_flag
+  md5: 32bf9357c8737cf90b111ac4ebac0f6d
+  md5_10: 32bf9357c8
+  md5_5: 32bf9
+  md5_6: 32bf93
+  oomp_key: oomp_testpoint_flag
+  oomp_key_extra: oomp_symbol_testpoint_flag
+  oomp_key_full: oomp_symbol_testpoint_flag_32bf93
+  oomp_key_simple: testpoint_flag
   owner_name: kicad
-  symbol_name: connector_testpoint_flag
+  symbol_name: testpoint_flag
 oomp_key: oomp_kicad_connector_testpoint_flag
 oomp_key_simple: kicad_connector_testpoint_flag
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

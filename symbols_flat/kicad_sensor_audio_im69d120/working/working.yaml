@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_audio_im69d120/working
   oomp_src_flat: symbols_flat/kicad_sensor_audio_im69d120/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_audio_im69d120/working
-name: sensor_audio_im69d120
+name: im69d120
 oomp:
   library_name: sensor_audio
-  md5: 751c06267b93ae2b33758991ac25446c
-  md5_10: 751c06267b
-  md5_5: 751c0
-  md5_6: 751c06
-  oomp_key: oomp_sensor_audio_im69d120
-  oomp_key_extra: oomp_symbol_sensor_audio_im69d120
-  oomp_key_full: oomp_symbol_sensor_audio_im69d120_751c06
-  oomp_key_simple: sensor_audio_im69d120
+  md5: b7b2faab3b51e42b9beea6d182765ca0
+  md5_10: b7b2faab3b
+  md5_5: b7b2f
+  md5_6: b7b2fa
+  oomp_key: oomp_im69d120
+  oomp_key_extra: oomp_symbol_im69d120
+  oomp_key_full: oomp_symbol_im69d120_b7b2fa
+  oomp_key_simple: im69d120
   owner_name: kicad
-  symbol_name: sensor_audio_im69d120
+  symbol_name: im69d120
 oomp_key: oomp_kicad_sensor_audio_im69d120
 oomp_key_simple: kicad_sensor_audio_im69d120
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

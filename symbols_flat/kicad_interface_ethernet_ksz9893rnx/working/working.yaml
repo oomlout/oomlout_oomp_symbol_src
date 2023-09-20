@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_ksz9893rnx/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_ksz9893rnx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_ksz9893rnx/working
-name: interface_ethernet_ksz9893rnx
+name: ksz9893rnx
 oomp:
   library_name: interface_ethernet
-  md5: 92de45a3ac73cf627d9614dcb6879994
-  md5_10: 92de45a3ac
-  md5_5: 92de4
-  md5_6: 92de45
-  oomp_key: oomp_interface_ethernet_ksz9893rnx
-  oomp_key_extra: oomp_symbol_interface_ethernet_ksz9893rnx
-  oomp_key_full: oomp_symbol_interface_ethernet_ksz9893rnx_92de45
-  oomp_key_simple: interface_ethernet_ksz9893rnx
+  md5: 0d6f3f72f54dc4e3dfa15564855ab589
+  md5_10: 0d6f3f72f5
+  md5_5: 0d6f3
+  md5_6: 0d6f3f
+  oomp_key: oomp_ksz9893rnx
+  oomp_key_extra: oomp_symbol_ksz9893rnx
+  oomp_key_full: oomp_symbol_ksz9893rnx_0d6f3f
+  oomp_key_simple: ksz9893rnx
   owner_name: kicad
-  symbol_name: interface_ethernet_ksz9893rnx
+  symbol_name: ksz9893rnx
 oomp_key: oomp_kicad_interface_ethernet_ksz9893rnx
 oomp_key_simple: kicad_interface_ethernet_ksz9893rnx
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

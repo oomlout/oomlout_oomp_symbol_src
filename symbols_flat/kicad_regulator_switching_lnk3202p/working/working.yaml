@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lnk3202p/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lnk3202p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lnk3202p/working
-name: regulator_switching_lnk3202p
+name: lnk3202p
 oomp:
   library_name: regulator_switching
-  md5: ac2501d516c20f63c2a2565945cb3794
-  md5_10: ac2501d516
-  md5_5: ac250
-  md5_6: ac2501
-  oomp_key: oomp_regulator_switching_lnk3202p
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk3202p
-  oomp_key_full: oomp_symbol_regulator_switching_lnk3202p_ac2501
-  oomp_key_simple: regulator_switching_lnk3202p
+  md5: 287767bc794885ffddf71a40f1cf987a
+  md5_10: 287767bc79
+  md5_5: '28776'
+  md5_6: '287767'
+  oomp_key: oomp_lnk3202p
+  oomp_key_extra: oomp_symbol_lnk3202p
+  oomp_key_full: oomp_symbol_lnk3202p_287767
+  oomp_key_simple: lnk3202p
   owner_name: kicad
-  symbol_name: regulator_switching_lnk3202p
+  symbol_name: lnk3202p
 oomp_key: oomp_kicad_regulator_switching_lnk3202p
 oomp_key_simple: kicad_regulator_switching_lnk3202p
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

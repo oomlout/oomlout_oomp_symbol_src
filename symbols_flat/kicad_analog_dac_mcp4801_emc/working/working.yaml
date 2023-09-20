@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_mcp4801_emc/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_mcp4801_emc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_mcp4801_emc/working
-name: analog_dac_mcp4801_emc
+name: mcp4801_emc
 oomp:
   library_name: analog_dac
-  md5: 3d212bf84628b6cfda6de8ed473692a1
-  md5_10: 3d212bf846
-  md5_5: 3d212
-  md5_6: 3d212b
-  oomp_key: oomp_analog_dac_mcp4801_emc
-  oomp_key_extra: oomp_symbol_analog_dac_mcp4801_emc
-  oomp_key_full: oomp_symbol_analog_dac_mcp4801_emc_3d212b
-  oomp_key_simple: analog_dac_mcp4801_emc
+  md5: 0f646e01a6d10a1f3bf215ca77b67f84
+  md5_10: 0f646e01a6
+  md5_5: 0f646
+  md5_6: 0f646e
+  oomp_key: oomp_mcp4801_emc
+  oomp_key_extra: oomp_symbol_mcp4801_emc
+  oomp_key_full: oomp_symbol_mcp4801_emc_0f646e
+  oomp_key_simple: mcp4801_emc
   owner_name: kicad
-  symbol_name: analog_dac_mcp4801_emc
+  symbol_name: mcp4801_emc
 oomp_key: oomp_kicad_analog_dac_mcp4801_emc
 oomp_key_simple: kicad_analog_dac_mcp4801_emc
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

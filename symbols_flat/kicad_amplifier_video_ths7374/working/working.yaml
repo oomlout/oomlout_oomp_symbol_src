@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_video_ths7374/working
   oomp_src_flat: symbols_flat/kicad_amplifier_video_ths7374/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_video_ths7374/working
-name: amplifier_video_ths7374
+name: ths7374
 oomp:
   library_name: amplifier_video
-  md5: 06f1dbb5447850d72702e5ec2d5c50f2
-  md5_10: 06f1dbb544
-  md5_5: 06f1d
-  md5_6: 06f1db
-  oomp_key: oomp_amplifier_video_ths7374
-  oomp_key_extra: oomp_symbol_amplifier_video_ths7374
-  oomp_key_full: oomp_symbol_amplifier_video_ths7374_06f1db
-  oomp_key_simple: amplifier_video_ths7374
+  md5: 8550510f50d2514de77b5743ba30294f
+  md5_10: 8550510f50
+  md5_5: '85505'
+  md5_6: '855051'
+  oomp_key: oomp_ths7374
+  oomp_key_extra: oomp_symbol_ths7374
+  oomp_key_full: oomp_symbol_ths7374_855051
+  oomp_key_simple: ths7374
   owner_name: kicad
-  symbol_name: amplifier_video_ths7374
+  symbol_name: ths7374
 oomp_key: oomp_kicad_amplifier_video_ths7374
 oomp_key_simple: kicad_amplifier_video_ths7374
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

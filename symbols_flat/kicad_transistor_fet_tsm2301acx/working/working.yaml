@@ -1,19 +1,19 @@
 id: kicad_transistor_fet_tsm2301acx
 library: transistor_fet
 library_name: Transistor_FET
-name: transistor_fet_tsm2301acx
+name: tsm2301acx
 oomp:
   library_name: transistor_fet
-  md5: 1d677b9738d8e9d45ee9a01831cc26ef
-  md5_10: 1d677b9738
-  md5_5: 1d677
-  md5_6: 1d677b
-  oomp_key: oomp_transistor_fet_tsm2301acx
-  oomp_key_extra: oomp_symbol_transistor_fet_tsm2301acx
-  oomp_key_full: oomp_symbol_transistor_fet_tsm2301acx_1d677b
-  oomp_key_simple: transistor_fet_tsm2301acx
+  md5: a3b5ea88d14611b98c9f29c7824a2f61
+  md5_10: a3b5ea88d1
+  md5_5: a3b5e
+  md5_6: a3b5ea
+  oomp_key: oomp_tsm2301acx
+  oomp_key_extra: oomp_symbol_tsm2301acx
+  oomp_key_full: oomp_symbol_tsm2301acx_a3b5ea
+  oomp_key_simple: tsm2301acx
   owner_name: kicad
-  symbol_name: transistor_fet_tsm2301acx
+  symbol_name: tsm2301acx
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

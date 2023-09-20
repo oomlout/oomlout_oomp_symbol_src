@@ -1,19 +1,19 @@
 id: kicad_interface_6822
 library: interface
 library_name: Interface
-name: interface_6822
+name: '6822'
 oomp:
   library_name: interface
-  md5: 9e561147353c33a606358d2200324c18
-  md5_10: 9e56114735
-  md5_5: 9e561
-  md5_6: 9e5611
-  oomp_key: oomp_interface_6822
-  oomp_key_extra: oomp_symbol_interface_6822
-  oomp_key_full: oomp_symbol_interface_6822_9e5611
-  oomp_key_simple: interface_6822
+  md5: e6be4c22a5963ab00dfe8f3b695b5332
+  md5_10: e6be4c22a5
+  md5_5: e6be4
+  md5_6: e6be4c
+  oomp_key: oomp_6822
+  oomp_key_extra: oomp_symbol_6822
+  oomp_key_full: oomp_symbol_6822_e6be4c
+  oomp_key_simple: '6822'
   owner_name: kicad
-  symbol_name: interface_6822
+  symbol_name: '6822'
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

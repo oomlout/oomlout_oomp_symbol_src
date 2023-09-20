@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_gsm_bc66/working
   oomp_src_flat: symbols_flat/kicad_rf_gsm_bc66/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_gsm_bc66/working
-name: rf_gsm_bc66
+name: bc66
 oomp:
   library_name: rf_gsm
-  md5: 7bd403ac45322d0638c1864770d2a294
-  md5_10: 7bd403ac45
-  md5_5: 7bd40
-  md5_6: 7bd403
-  oomp_key: oomp_rf_gsm_bc66
-  oomp_key_extra: oomp_symbol_rf_gsm_bc66
-  oomp_key_full: oomp_symbol_rf_gsm_bc66_7bd403
-  oomp_key_simple: rf_gsm_bc66
+  md5: ac67f47ddc66407d4525afb2784a45fe
+  md5_10: ac67f47ddc
+  md5_5: ac67f
+  md5_6: ac67f4
+  oomp_key: oomp_bc66
+  oomp_key_extra: oomp_symbol_bc66
+  oomp_key_full: oomp_symbol_bc66_ac67f4
+  oomp_key_simple: bc66
   owner_name: kicad
-  symbol_name: rf_gsm_bc66
+  symbol_name: bc66
 oomp_key: oomp_kicad_rf_gsm_bc66
 oomp_key_simple: kicad_rf_gsm_bc66
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_power_management_bts716g
 library: power_management
 library_name: Power_Management
-name: power_management_bts716g
+name: bts716g
 oomp:
   library_name: power_management
-  md5: cea8bb82fa090aa98252c57bd9de67fc
-  md5_10: cea8bb82fa
-  md5_5: cea8b
-  md5_6: cea8bb
-  oomp_key: oomp_power_management_bts716g
-  oomp_key_extra: oomp_symbol_power_management_bts716g
-  oomp_key_full: oomp_symbol_power_management_bts716g_cea8bb
-  oomp_key_simple: power_management_bts716g
+  md5: 27210b8300c42f297772a1de8e6473d4
+  md5_10: 27210b8300
+  md5_5: '27210'
+  md5_6: 27210b
+  oomp_key: oomp_bts716g
+  oomp_key_extra: oomp_symbol_bts716g
+  oomp_key_full: oomp_symbol_bts716g_27210b
+  oomp_key_simple: bts716g
   owner_name: kicad
-  symbol_name: power_management_bts716g
+  symbol_name: bts716g
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

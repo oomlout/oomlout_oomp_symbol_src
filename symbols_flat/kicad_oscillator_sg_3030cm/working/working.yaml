@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_sg_3030cm/working
   oomp_src_flat: symbols_flat/kicad_oscillator_sg_3030cm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_sg_3030cm/working
-name: oscillator_sg_3030cm
+name: sg_3030cm
 oomp:
   library_name: oscillator
-  md5: 973adccb7ff90f67050a39bedb7c3d96
-  md5_10: 973adccb7f
-  md5_5: 973ad
-  md5_6: 973adc
-  oomp_key: oomp_oscillator_sg_3030cm
-  oomp_key_extra: oomp_symbol_oscillator_sg_3030cm
-  oomp_key_full: oomp_symbol_oscillator_sg_3030cm_973adc
-  oomp_key_simple: oscillator_sg_3030cm
+  md5: d292def057318cad54c472185f158c0d
+  md5_10: d292def057
+  md5_5: d292d
+  md5_6: d292de
+  oomp_key: oomp_sg_3030cm
+  oomp_key_extra: oomp_symbol_sg_3030cm
+  oomp_key_full: oomp_symbol_sg_3030cm_d292de
+  oomp_key_simple: sg_3030cm
   owner_name: kicad
-  symbol_name: oscillator_sg_3030cm
+  symbol_name: sg_3030cm
 oomp_key: oomp_kicad_oscillator_sg_3030cm
 oomp_key_simple: kicad_oscillator_sg_3030cm
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

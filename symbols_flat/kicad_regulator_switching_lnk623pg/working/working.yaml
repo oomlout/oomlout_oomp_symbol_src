@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lnk623pg/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lnk623pg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lnk623pg/working
-name: regulator_switching_lnk623pg
+name: lnk623pg
 oomp:
   library_name: regulator_switching
-  md5: 52b966f64212be04056c9b21737f4243
-  md5_10: 52b966f642
-  md5_5: 52b96
-  md5_6: 52b966
-  oomp_key: oomp_regulator_switching_lnk623pg
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk623pg
-  oomp_key_full: oomp_symbol_regulator_switching_lnk623pg_52b966
-  oomp_key_simple: regulator_switching_lnk623pg
+  md5: 21b3114e838aee56b53343e12da495d4
+  md5_10: 21b3114e83
+  md5_5: 21b31
+  md5_6: 21b311
+  oomp_key: oomp_lnk623pg
+  oomp_key_extra: oomp_symbol_lnk623pg
+  oomp_key_full: oomp_symbol_lnk623pg_21b311
+  oomp_key_simple: lnk623pg
   owner_name: kicad
-  symbol_name: regulator_switching_lnk623pg
+  symbol_name: lnk623pg
 oomp_key: oomp_kicad_regulator_switching_lnk623pg
 oomp_key_simple: kicad_regulator_switching_lnk623pg
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

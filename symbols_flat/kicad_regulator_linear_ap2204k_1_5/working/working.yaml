@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ap2204k_1_5/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ap2204k_1_5/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ap2204k_1_5/working
-name: regulator_linear_ap2204k_1_5
+name: ap2204k_1_5
 oomp:
   library_name: regulator_linear
-  md5: 7f2993e93c061770adc9cb501b87fc57
-  md5_10: 7f2993e93c
-  md5_5: 7f299
-  md5_6: 7f2993
-  oomp_key: oomp_regulator_linear_ap2204k_1_5
-  oomp_key_extra: oomp_symbol_regulator_linear_ap2204k_1_5
-  oomp_key_full: oomp_symbol_regulator_linear_ap2204k_1_5_7f2993
-  oomp_key_simple: regulator_linear_ap2204k_1_5
+  md5: b348099b3d549d55e4cbe6de8d9dd5a5
+  md5_10: b348099b3d
+  md5_5: b3480
+  md5_6: b34809
+  oomp_key: oomp_ap2204k_1_5
+  oomp_key_extra: oomp_symbol_ap2204k_1_5
+  oomp_key_full: oomp_symbol_ap2204k_1_5_b34809
+  oomp_key_simple: ap2204k_1_5
   owner_name: kicad
-  symbol_name: regulator_linear_ap2204k_1_5
+  symbol_name: ap2204k_1_5
 oomp_key: oomp_kicad_regulator_linear_ap2204k_1_5
 oomp_key_simple: kicad_regulator_linear_ap2204k_1_5
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

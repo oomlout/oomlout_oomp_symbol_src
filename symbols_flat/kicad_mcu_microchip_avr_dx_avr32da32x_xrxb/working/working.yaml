@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_avr_dx_avr32da32x_xrxb/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_avr_dx_avr32da32x_xrxb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_avr_dx_avr32da32x_xrxb/working
-name: mcu_microchip_avr_dx_avr32da32x_xrxb
+name: avr32da32x_xrxb
 oomp:
   library_name: mcu_microchip_avr_dx
-  md5: 7e5339985d90a81f8e9448b939ea9743
-  md5_10: 7e5339985d
-  md5_5: 7e533
-  md5_6: 7e5339
-  oomp_key: oomp_mcu_microchip_avr_dx_avr32da32x_xrxb
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_dx_avr32da32x_xrxb
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_dx_avr32da32x_xrxb_7e5339
-  oomp_key_simple: mcu_microchip_avr_dx_avr32da32x_xrxb
+  md5: 0090c3b9ca3cf3e6ff0fded0db8a4a67
+  md5_10: 0090c3b9ca
+  md5_5: 0090c
+  md5_6: 0090c3
+  oomp_key: oomp_avr32da32x_xrxb
+  oomp_key_extra: oomp_symbol_avr32da32x_xrxb
+  oomp_key_full: oomp_symbol_avr32da32x_xrxb_0090c3
+  oomp_key_simple: avr32da32x_xrxb
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_dx_avr32da32x_xrxb
+  symbol_name: avr32da32x_xrxb
 oomp_key: oomp_kicad_mcu_microchip_avr_dx_avr32da32x_xrxb
 oomp_key_simple: kicad_mcu_microchip_avr_dx_avr32da32x_xrxb
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

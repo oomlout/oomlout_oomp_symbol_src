@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_mini_din_5/working
   oomp_src_flat: symbols_flat/kicad_connector_mini_din_5/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_mini_din_5/working
-name: connector_mini_din_5
+name: mini_din_5
 oomp:
   library_name: connector
-  md5: d0c8c1bf8f5a6259b9a2ae6ce0b7d08d
-  md5_10: d0c8c1bf8f
-  md5_5: d0c8c
-  md5_6: d0c8c1
-  oomp_key: oomp_connector_mini_din_5
-  oomp_key_extra: oomp_symbol_connector_mini_din_5
-  oomp_key_full: oomp_symbol_connector_mini_din_5_d0c8c1
-  oomp_key_simple: connector_mini_din_5
+  md5: f675088ddfb20c03c44bf9be4507513d
+  md5_10: f675088ddf
+  md5_5: f6750
+  md5_6: f67508
+  oomp_key: oomp_mini_din_5
+  oomp_key_extra: oomp_symbol_mini_din_5
+  oomp_key_full: oomp_symbol_mini_din_5_f67508
+  oomp_key_simple: mini_din_5
   owner_name: kicad
-  symbol_name: connector_mini_din_5
+  symbol_name: mini_din_5
 oomp_key: oomp_kicad_connector_mini_din_5
 oomp_key_simple: kicad_connector_mini_din_5
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

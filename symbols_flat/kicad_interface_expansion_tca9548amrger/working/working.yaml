@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_tca9548amrger/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_tca9548amrger/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_tca9548amrger/working
-name: interface_expansion_tca9548amrger
+name: tca9548amrger
 oomp:
   library_name: interface_expansion
-  md5: d23b3b9a38131a31a192999da44f1770
-  md5_10: d23b3b9a38
-  md5_5: d23b3
-  md5_6: d23b3b
-  oomp_key: oomp_interface_expansion_tca9548amrger
-  oomp_key_extra: oomp_symbol_interface_expansion_tca9548amrger
-  oomp_key_full: oomp_symbol_interface_expansion_tca9548amrger_d23b3b
-  oomp_key_simple: interface_expansion_tca9548amrger
+  md5: 8f838f259d5200c8fec91af5f868f93d
+  md5_10: 8f838f259d
+  md5_5: 8f838
+  md5_6: 8f838f
+  oomp_key: oomp_tca9548amrger
+  oomp_key_extra: oomp_symbol_tca9548amrger
+  oomp_key_full: oomp_symbol_tca9548amrger_8f838f
+  oomp_key_simple: tca9548amrger
   owner_name: kicad
-  symbol_name: interface_expansion_tca9548amrger
+  symbol_name: tca9548amrger
 oomp_key: oomp_kicad_interface_expansion_tca9548amrger
 oomp_key_simple: kicad_interface_expansion_tca9548amrger
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

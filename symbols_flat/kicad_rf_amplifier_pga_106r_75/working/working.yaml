@@ -1,19 +1,19 @@
 id: kicad_rf_amplifier_pga_106r_75
 library: rf_amplifier
 library_name: RF_Amplifier
-name: rf_amplifier_pga_106r_75
+name: pga_106r_75
 oomp:
   library_name: rf_amplifier
-  md5: e69188e5b3e89e4b53a8351f841c6bae
-  md5_10: e69188e5b3
-  md5_5: e6918
-  md5_6: e69188
-  oomp_key: oomp_rf_amplifier_pga_106r_75
-  oomp_key_extra: oomp_symbol_rf_amplifier_pga_106r_75
-  oomp_key_full: oomp_symbol_rf_amplifier_pga_106r_75_e69188
-  oomp_key_simple: rf_amplifier_pga_106r_75
+  md5: 4ace0e865b76aa7d6f0567e5d6a925f2
+  md5_10: 4ace0e865b
+  md5_5: 4ace0
+  md5_6: 4ace0e
+  oomp_key: oomp_pga_106r_75
+  oomp_key_extra: oomp_symbol_pga_106r_75
+  oomp_key_full: oomp_symbol_pga_106r_75_4ace0e
+  oomp_key_simple: pga_106r_75
   owner_name: kicad
-  symbol_name: rf_amplifier_pga_106r_75
+  symbol_name: pga_106r_75
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_st1cc40dr/working
   oomp_src_flat: symbols_flat/kicad_driver_led_st1cc40dr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_st1cc40dr/working
-name: driver_led_st1cc40dr
+name: st1cc40dr
 oomp:
   library_name: driver_led
-  md5: 59f3371bd266038a7975340a294f6930
-  md5_10: 59f3371bd2
-  md5_5: 59f33
-  md5_6: 59f337
-  oomp_key: oomp_driver_led_st1cc40dr
-  oomp_key_extra: oomp_symbol_driver_led_st1cc40dr
-  oomp_key_full: oomp_symbol_driver_led_st1cc40dr_59f337
-  oomp_key_simple: driver_led_st1cc40dr
+  md5: 88a80d4a2b27b6d862678eabc1bab5d2
+  md5_10: 88a80d4a2b
+  md5_5: 88a80
+  md5_6: 88a80d
+  oomp_key: oomp_st1cc40dr
+  oomp_key_extra: oomp_symbol_st1cc40dr
+  oomp_key_full: oomp_symbol_st1cc40dr_88a80d
+  oomp_key_simple: st1cc40dr
   owner_name: kicad
-  symbol_name: driver_led_st1cc40dr
+  symbol_name: st1cc40dr
 oomp_key: oomp_kicad_driver_led_st1cc40dr
 oomp_key_simple: kicad_driver_led_st1cc40dr
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

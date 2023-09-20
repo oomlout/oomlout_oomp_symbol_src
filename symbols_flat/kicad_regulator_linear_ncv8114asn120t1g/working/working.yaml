@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ncv8114asn120t1g/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ncv8114asn120t1g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ncv8114asn120t1g/working
-name: regulator_linear_ncv8114asn120t1g
+name: ncv8114asn120t1g
 oomp:
   library_name: regulator_linear
-  md5: d7fc49f542982bcba69a19c04d462f30
-  md5_10: d7fc49f542
-  md5_5: d7fc4
-  md5_6: d7fc49
-  oomp_key: oomp_regulator_linear_ncv8114asn120t1g
-  oomp_key_extra: oomp_symbol_regulator_linear_ncv8114asn120t1g
-  oomp_key_full: oomp_symbol_regulator_linear_ncv8114asn120t1g_d7fc49
-  oomp_key_simple: regulator_linear_ncv8114asn120t1g
+  md5: 5e2b04671855055d065b7ebbf168c524
+  md5_10: 5e2b046718
+  md5_5: 5e2b0
+  md5_6: 5e2b04
+  oomp_key: oomp_ncv8114asn120t1g
+  oomp_key_extra: oomp_symbol_ncv8114asn120t1g
+  oomp_key_full: oomp_symbol_ncv8114asn120t1g_5e2b04
+  oomp_key_simple: ncv8114asn120t1g
   owner_name: kicad
-  symbol_name: regulator_linear_ncv8114asn120t1g
+  symbol_name: ncv8114asn120t1g
 oomp_key: oomp_kicad_regulator_linear_ncv8114asn120t1g
 oomp_key_simple: kicad_regulator_linear_ncv8114asn120t1g
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

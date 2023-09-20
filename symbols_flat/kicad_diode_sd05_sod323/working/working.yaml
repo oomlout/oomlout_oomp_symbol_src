@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_sd05_sod323/working
   oomp_src_flat: symbols_flat/kicad_diode_sd05_sod323/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_sd05_sod323/working
-name: diode_sd05_sod323
+name: sd05_sod323
 oomp:
   library_name: diode
-  md5: d28b2953ef5a1e2d58a5cec108fced0b
-  md5_10: d28b2953ef
-  md5_5: d28b2
-  md5_6: d28b29
-  oomp_key: oomp_diode_sd05_sod323
-  oomp_key_extra: oomp_symbol_diode_sd05_sod323
-  oomp_key_full: oomp_symbol_diode_sd05_sod323_d28b29
-  oomp_key_simple: diode_sd05_sod323
+  md5: f30c9b585d1f8effdc52b57eb2d7f94b
+  md5_10: f30c9b585d
+  md5_5: f30c9
+  md5_6: f30c9b
+  oomp_key: oomp_sd05_sod323
+  oomp_key_extra: oomp_symbol_sd05_sod323
+  oomp_key_full: oomp_symbol_sd05_sod323_f30c9b
+  oomp_key_simple: sd05_sod323
   owner_name: kicad
-  symbol_name: diode_sd05_sod323
+  symbol_name: sd05_sod323
 oomp_key: oomp_kicad_diode_sd05_sod323
 oomp_key_simple: kicad_diode_sd05_sod323
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

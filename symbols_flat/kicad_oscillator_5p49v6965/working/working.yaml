@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_5p49v6965/working
   oomp_src_flat: symbols_flat/kicad_oscillator_5p49v6965/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_5p49v6965/working
-name: oscillator_5p49v6965
+name: 5p49v6965
 oomp:
   library_name: oscillator
-  md5: 859c1280999c29389b58f0798d5090bd
-  md5_10: 859c128099
-  md5_5: 859c1
-  md5_6: 859c12
-  oomp_key: oomp_oscillator_5p49v6965
-  oomp_key_extra: oomp_symbol_oscillator_5p49v6965
-  oomp_key_full: oomp_symbol_oscillator_5p49v6965_859c12
-  oomp_key_simple: oscillator_5p49v6965
+  md5: d7c63ff245dc0955b752e6901567ab8c
+  md5_10: d7c63ff245
+  md5_5: d7c63
+  md5_6: d7c63f
+  oomp_key: oomp_5p49v6965
+  oomp_key_extra: oomp_symbol_5p49v6965
+  oomp_key_full: oomp_symbol_5p49v6965_d7c63f
+  oomp_key_simple: 5p49v6965
   owner_name: kicad
-  symbol_name: oscillator_5p49v6965
+  symbol_name: 5p49v6965
 oomp_key: oomp_kicad_oscillator_5p49v6965
 oomp_key_simple: kicad_oscillator_5p49v6965
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

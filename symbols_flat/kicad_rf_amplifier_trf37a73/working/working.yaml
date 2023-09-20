@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_amplifier_trf37a73/working
   oomp_src_flat: symbols_flat/kicad_rf_amplifier_trf37a73/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_amplifier_trf37a73/working
-name: rf_amplifier_trf37a73
+name: trf37a73
 oomp:
   library_name: rf_amplifier
-  md5: 480b12ac37ed18f3ac52c92750de4ffa
-  md5_10: 480b12ac37
-  md5_5: 480b1
-  md5_6: 480b12
-  oomp_key: oomp_rf_amplifier_trf37a73
-  oomp_key_extra: oomp_symbol_rf_amplifier_trf37a73
-  oomp_key_full: oomp_symbol_rf_amplifier_trf37a73_480b12
-  oomp_key_simple: rf_amplifier_trf37a73
+  md5: efa5a9b46b7c76c8017eb6dda2c44f64
+  md5_10: efa5a9b46b
+  md5_5: efa5a
+  md5_6: efa5a9
+  oomp_key: oomp_trf37a73
+  oomp_key_extra: oomp_symbol_trf37a73
+  oomp_key_full: oomp_symbol_trf37a73_efa5a9
+  oomp_key_simple: trf37a73
   owner_name: kicad
-  symbol_name: rf_amplifier_trf37a73
+  symbol_name: trf37a73
 oomp_key: oomp_kicad_rf_amplifier_trf37a73
 oomp_key_simple: kicad_rf_amplifier_trf37a73
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

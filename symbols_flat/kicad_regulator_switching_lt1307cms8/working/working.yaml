@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lt1307cms8/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lt1307cms8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lt1307cms8/working
-name: regulator_switching_lt1307cms8
+name: lt1307cms8
 oomp:
   library_name: regulator_switching
-  md5: 4392deaaed5d2eb3d0cc3be4994f563c
-  md5_10: 4392deaaed
-  md5_5: 4392d
-  md5_6: 4392de
-  oomp_key: oomp_regulator_switching_lt1307cms8
-  oomp_key_extra: oomp_symbol_regulator_switching_lt1307cms8
-  oomp_key_full: oomp_symbol_regulator_switching_lt1307cms8_4392de
-  oomp_key_simple: regulator_switching_lt1307cms8
+  md5: f271a46d03d0cade00cc776d3c50317b
+  md5_10: f271a46d03
+  md5_5: f271a
+  md5_6: f271a4
+  oomp_key: oomp_lt1307cms8
+  oomp_key_extra: oomp_symbol_lt1307cms8
+  oomp_key_full: oomp_symbol_lt1307cms8_f271a4
+  oomp_key_simple: lt1307cms8
   owner_name: kicad
-  symbol_name: regulator_switching_lt1307cms8
+  symbol_name: lt1307cms8
 oomp_key: oomp_kicad_regulator_switching_lt1307cms8
 oomp_key_simple: kicad_regulator_switching_lt1307cms8
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

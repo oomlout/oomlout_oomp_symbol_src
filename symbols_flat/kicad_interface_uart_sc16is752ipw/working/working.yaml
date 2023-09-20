@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_sc16is752ipw/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_sc16is752ipw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_sc16is752ipw/working
-name: interface_uart_sc16is752ipw
+name: sc16is752ipw
 oomp:
   library_name: interface_uart
-  md5: 50a39d5ebd628510f85580037f8cb8b6
-  md5_10: 50a39d5ebd
-  md5_5: 50a39
-  md5_6: 50a39d
-  oomp_key: oomp_interface_uart_sc16is752ipw
-  oomp_key_extra: oomp_symbol_interface_uart_sc16is752ipw
-  oomp_key_full: oomp_symbol_interface_uart_sc16is752ipw_50a39d
-  oomp_key_simple: interface_uart_sc16is752ipw
+  md5: ff5cb8d642916a4b8d12515ba21047f7
+  md5_10: ff5cb8d642
+  md5_5: ff5cb
+  md5_6: ff5cb8
+  oomp_key: oomp_sc16is752ipw
+  oomp_key_extra: oomp_symbol_sc16is752ipw
+  oomp_key_full: oomp_symbol_sc16is752ipw_ff5cb8
+  oomp_key_simple: sc16is752ipw
   owner_name: kicad
-  symbol_name: interface_uart_sc16is752ipw
+  symbol_name: sc16is752ipw
 oomp_key: oomp_kicad_interface_uart_sc16is752ipw
 oomp_key_simple: kicad_interface_uart_sc16is752ipw
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

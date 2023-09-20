@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_ld271/working
   oomp_src_flat: symbols_flat/kicad_led_ld271/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_ld271/working
-name: led_ld271
+name: ld271
 oomp:
   library_name: led
-  md5: 090a43ef2a1166c66aa74bd5a6739320
-  md5_10: 090a43ef2a
-  md5_5: 090a4
-  md5_6: 090a43
-  oomp_key: oomp_led_ld271
-  oomp_key_extra: oomp_symbol_led_ld271
-  oomp_key_full: oomp_symbol_led_ld271_090a43
-  oomp_key_simple: led_ld271
+  md5: 19aaff5c783ce74f350a6ae73758c1ac
+  md5_10: 19aaff5c78
+  md5_5: 19aaf
+  md5_6: 19aaff
+  oomp_key: oomp_ld271
+  oomp_key_extra: oomp_symbol_ld271
+  oomp_key_full: oomp_symbol_ld271_19aaff
+  oomp_key_simple: ld271
   owner_name: kicad
-  symbol_name: led_ld271
+  symbol_name: ld271
 oomp_key: oomp_kicad_led_ld271
 oomp_key_simple: kicad_led_ld271
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

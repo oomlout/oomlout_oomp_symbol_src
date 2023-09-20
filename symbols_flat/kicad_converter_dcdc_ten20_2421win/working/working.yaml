@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_ten20_2421win/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_ten20_2421win/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_ten20_2421win/working
-name: converter_dcdc_ten20_2421win
+name: ten20_2421win
 oomp:
   library_name: converter_dcdc
-  md5: d8dd681583247c4b2d46ae03db4b503d
-  md5_10: d8dd681583
-  md5_5: d8dd6
-  md5_6: d8dd68
-  oomp_key: oomp_converter_dcdc_ten20_2421win
-  oomp_key_extra: oomp_symbol_converter_dcdc_ten20_2421win
-  oomp_key_full: oomp_symbol_converter_dcdc_ten20_2421win_d8dd68
-  oomp_key_simple: converter_dcdc_ten20_2421win
+  md5: a93206a93a7112439737ca32dd731cde
+  md5_10: a93206a93a
+  md5_5: a9320
+  md5_6: a93206
+  oomp_key: oomp_ten20_2421win
+  oomp_key_extra: oomp_symbol_ten20_2421win
+  oomp_key_full: oomp_symbol_ten20_2421win_a93206
+  oomp_key_simple: ten20_2421win
   owner_name: kicad
-  symbol_name: converter_dcdc_ten20_2421win
+  symbol_name: ten20_2421win
 oomp_key: oomp_kicad_converter_dcdc_ten20_2421win
 oomp_key_simple: kicad_converter_dcdc_ten20_2421win
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

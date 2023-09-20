@@ -1,19 +1,19 @@
 id: kicad_interface_usb_tps2514a
 library: interface_usb
 library_name: Interface_USB
-name: interface_usb_tps2514a
+name: tps2514a
 oomp:
   library_name: interface_usb
-  md5: 5518bd38204149c950b7d78c6632797a
-  md5_10: 5518bd3820
-  md5_5: 5518b
-  md5_6: 5518bd
-  oomp_key: oomp_interface_usb_tps2514a
-  oomp_key_extra: oomp_symbol_interface_usb_tps2514a
-  oomp_key_full: oomp_symbol_interface_usb_tps2514a_5518bd
-  oomp_key_simple: interface_usb_tps2514a
+  md5: bdabd8f147746d24e06157340b1b0a44
+  md5_10: bdabd8f147
+  md5_5: bdabd
+  md5_6: bdabd8
+  oomp_key: oomp_tps2514a
+  oomp_key_extra: oomp_symbol_tps2514a
+  oomp_key_full: oomp_symbol_tps2514a_bdabd8
+  oomp_key_simple: tps2514a
   owner_name: kicad
-  symbol_name: interface_usb_tps2514a
+  symbol_name: tps2514a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

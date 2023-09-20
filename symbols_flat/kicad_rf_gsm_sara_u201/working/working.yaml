@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_gsm_sara_u201/working
   oomp_src_flat: symbols_flat/kicad_rf_gsm_sara_u201/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_gsm_sara_u201/working
-name: rf_gsm_sara_u201
+name: sara_u201
 oomp:
   library_name: rf_gsm
-  md5: cac909522b5d457593ac6b59ddc43e61
-  md5_10: cac909522b
-  md5_5: cac90
-  md5_6: cac909
-  oomp_key: oomp_rf_gsm_sara_u201
-  oomp_key_extra: oomp_symbol_rf_gsm_sara_u201
-  oomp_key_full: oomp_symbol_rf_gsm_sara_u201_cac909
-  oomp_key_simple: rf_gsm_sara_u201
+  md5: c99b750d0dbba99cf96d68c5e695ab40
+  md5_10: c99b750d0d
+  md5_5: c99b7
+  md5_6: c99b75
+  oomp_key: oomp_sara_u201
+  oomp_key_extra: oomp_symbol_sara_u201
+  oomp_key_full: oomp_symbol_sara_u201_c99b75
+  oomp_key_simple: sara_u201
   owner_name: kicad
-  symbol_name: rf_gsm_sara_u201
+  symbol_name: sara_u201
 oomp_key: oomp_kicad_rf_gsm_sara_u201
 oomp_key_simple: kicad_rf_gsm_sara_u201
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

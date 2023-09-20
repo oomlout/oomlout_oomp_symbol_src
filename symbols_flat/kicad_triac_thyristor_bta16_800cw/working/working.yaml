@@ -1,19 +1,19 @@
 id: kicad_triac_thyristor_bta16_800cw
 library: triac_thyristor
 library_name: Triac_Thyristor
-name: triac_thyristor_bta16_800cw
+name: bta16_800cw
 oomp:
   library_name: triac_thyristor
-  md5: 3589ffac75461db1321b8b30c4e2c5ae
-  md5_10: 3589ffac75
-  md5_5: 3589f
-  md5_6: 3589ff
-  oomp_key: oomp_triac_thyristor_bta16_800cw
-  oomp_key_extra: oomp_symbol_triac_thyristor_bta16_800cw
-  oomp_key_full: oomp_symbol_triac_thyristor_bta16_800cw_3589ff
-  oomp_key_simple: triac_thyristor_bta16_800cw
+  md5: fe62822ecadb14268c51e8056549e5c8
+  md5_10: fe62822eca
+  md5_5: fe628
+  md5_6: fe6282
+  oomp_key: oomp_bta16_800cw
+  oomp_key_extra: oomp_symbol_bta16_800cw
+  oomp_key_full: oomp_symbol_bta16_800cw_fe6282
+  oomp_key_simple: bta16_800cw
   owner_name: kicad
-  symbol_name: triac_thyristor_bta16_800cw
+  symbol_name: bta16_800cw
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -1,19 +1,19 @@
 id: kicad_rf_filter_bfcn_1945
 library: rf_filter
 library_name: RF_Filter
-name: rf_filter_bfcn_1945
+name: bfcn_1945
 oomp:
   library_name: rf_filter
-  md5: 18a4e3c2e0b34c1d3a357b22ce078013
-  md5_10: 18a4e3c2e0
-  md5_5: 18a4e
-  md5_6: 18a4e3
-  oomp_key: oomp_rf_filter_bfcn_1945
-  oomp_key_extra: oomp_symbol_rf_filter_bfcn_1945
-  oomp_key_full: oomp_symbol_rf_filter_bfcn_1945_18a4e3
-  oomp_key_simple: rf_filter_bfcn_1945
+  md5: 7bb65cd10350f2ff2e76a3c43a47a9af
+  md5_10: 7bb65cd103
+  md5_5: 7bb65
+  md5_6: 7bb65c
+  oomp_key: oomp_bfcn_1945
+  oomp_key_extra: oomp_symbol_bfcn_1945
+  oomp_key_full: oomp_symbol_bfcn_1945_7bb65c
+  oomp_key_simple: bfcn_1945
   owner_name: kicad
-  symbol_name: rf_filter_bfcn_1945
+  symbol_name: bfcn_1945
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

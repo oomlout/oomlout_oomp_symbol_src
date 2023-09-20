@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_bus_pci_express_x1/working
   oomp_src_flat: symbols_flat/kicad_connector_bus_pci_express_x1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_bus_pci_express_x1/working
-name: connector_bus_pci_express_x1
+name: bus_pci_express_x1
 oomp:
   library_name: connector
-  md5: b34277015bd3a72124eb0ee5bbfe1ff1
-  md5_10: b34277015b
-  md5_5: b3427
-  md5_6: b34277
-  oomp_key: oomp_connector_bus_pci_express_x1
-  oomp_key_extra: oomp_symbol_connector_bus_pci_express_x1
-  oomp_key_full: oomp_symbol_connector_bus_pci_express_x1_b34277
-  oomp_key_simple: connector_bus_pci_express_x1
+  md5: 9f9c3ad3421145eaf0071bc167272cf1
+  md5_10: 9f9c3ad342
+  md5_5: 9f9c3
+  md5_6: 9f9c3a
+  oomp_key: oomp_bus_pci_express_x1
+  oomp_key_extra: oomp_symbol_bus_pci_express_x1
+  oomp_key_full: oomp_symbol_bus_pci_express_x1_9f9c3a
+  oomp_key_simple: bus_pci_express_x1
   owner_name: kicad
-  symbol_name: connector_bus_pci_express_x1
+  symbol_name: bus_pci_express_x1
 oomp_key: oomp_kicad_connector_bus_pci_express_x1
 oomp_key_simple: kicad_connector_bus_pci_express_x1
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

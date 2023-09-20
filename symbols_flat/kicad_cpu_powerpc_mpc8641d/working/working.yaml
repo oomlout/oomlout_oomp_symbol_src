@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpu_powerpc_mpc8641d/working
   oomp_src_flat: symbols_flat/kicad_cpu_powerpc_mpc8641d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpu_powerpc_mpc8641d/working
-name: cpu_powerpc_mpc8641d
+name: mpc8641d
 oomp:
   library_name: cpu_powerpc
-  md5: a1f26c487ce9c06ed27ea9e597723e78
-  md5_10: a1f26c487c
-  md5_5: a1f26
-  md5_6: a1f26c
-  oomp_key: oomp_cpu_powerpc_mpc8641d
-  oomp_key_extra: oomp_symbol_cpu_powerpc_mpc8641d
-  oomp_key_full: oomp_symbol_cpu_powerpc_mpc8641d_a1f26c
-  oomp_key_simple: cpu_powerpc_mpc8641d
+  md5: d862379bfd824bd2219b593cdf9f3d47
+  md5_10: d862379bfd
+  md5_5: d8623
+  md5_6: d86237
+  oomp_key: oomp_mpc8641d
+  oomp_key_extra: oomp_symbol_mpc8641d
+  oomp_key_full: oomp_symbol_mpc8641d_d86237
+  oomp_key_simple: mpc8641d
   owner_name: kicad
-  symbol_name: cpu_powerpc_mpc8641d
+  symbol_name: mpc8641d
 oomp_key: oomp_kicad_cpu_powerpc_mpc8641d
 oomp_key_simple: kicad_cpu_powerpc_mpc8641d
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

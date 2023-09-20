@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_circuitbreaker_2p_us/working
   oomp_src_flat: symbols_flat/kicad_device_circuitbreaker_2p_us/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_circuitbreaker_2p_us/working
-name: device_circuitbreaker_2p_us
+name: circuitbreaker_2p_us
 oomp:
   library_name: device
-  md5: 7bff28964d8cdad9da0b712cf0314b60
-  md5_10: 7bff28964d
-  md5_5: 7bff2
-  md5_6: 7bff28
-  oomp_key: oomp_device_circuitbreaker_2p_us
-  oomp_key_extra: oomp_symbol_device_circuitbreaker_2p_us
-  oomp_key_full: oomp_symbol_device_circuitbreaker_2p_us_7bff28
-  oomp_key_simple: device_circuitbreaker_2p_us
+  md5: 57d22ac9a8cf8e6fde9de3451b8eafce
+  md5_10: 57d22ac9a8
+  md5_5: 57d22
+  md5_6: 57d22a
+  oomp_key: oomp_circuitbreaker_2p_us
+  oomp_key_extra: oomp_symbol_circuitbreaker_2p_us
+  oomp_key_full: oomp_symbol_circuitbreaker_2p_us_57d22a
+  oomp_key_simple: circuitbreaker_2p_us
   owner_name: kicad
-  symbol_name: device_circuitbreaker_2p_us
+  symbol_name: circuitbreaker_2p_us
 oomp_key: oomp_kicad_device_circuitbreaker_2p_us
 oomp_key_simple: kicad_device_circuitbreaker_2p_us
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

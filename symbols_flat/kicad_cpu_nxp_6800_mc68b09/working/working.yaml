@@ -1,19 +1,19 @@
 id: kicad_cpu_nxp_6800_mc68b09
 library: cpu_nxp_6800
 library_name: CPU_NXP_6800
-name: cpu_nxp_6800_mc68b09
+name: mc68b09
 oomp:
   library_name: cpu_nxp_6800
-  md5: fa012e8ee4b651c4f82bb49eb4bbfd09
-  md5_10: fa012e8ee4
-  md5_5: fa012
-  md5_6: fa012e
-  oomp_key: oomp_cpu_nxp_6800_mc68b09
-  oomp_key_extra: oomp_symbol_cpu_nxp_6800_mc68b09
-  oomp_key_full: oomp_symbol_cpu_nxp_6800_mc68b09_fa012e
-  oomp_key_simple: cpu_nxp_6800_mc68b09
+  md5: 566e01810f5254714c426ab83f935abf
+  md5_10: 566e01810f
+  md5_5: 566e0
+  md5_6: 566e01
+  oomp_key: oomp_mc68b09
+  oomp_key_extra: oomp_symbol_mc68b09
+  oomp_key_full: oomp_symbol_mc68b09_566e01
+  oomp_key_simple: mc68b09
   owner_name: kicad
-  symbol_name: cpu_nxp_6800_mc68b09
+  symbol_name: mc68b09
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

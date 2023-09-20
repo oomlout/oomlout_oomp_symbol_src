@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_d168k/working
   oomp_src_flat: symbols_flat/kicad_display_character_d168k/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_d168k/working
-name: display_character_d168k
+name: d168k
 oomp:
   library_name: display_character
-  md5: 601e9c181dacc8aaa551e6ceb597ca2b
-  md5_10: 601e9c181d
-  md5_5: 601e9
-  md5_6: 601e9c
-  oomp_key: oomp_display_character_d168k
-  oomp_key_extra: oomp_symbol_display_character_d168k
-  oomp_key_full: oomp_symbol_display_character_d168k_601e9c
-  oomp_key_simple: display_character_d168k
+  md5: fb157851dbd66a2b750833fb83c150f3
+  md5_10: fb157851db
+  md5_5: fb157
+  md5_6: fb1578
+  oomp_key: oomp_d168k
+  oomp_key_extra: oomp_symbol_d168k
+  oomp_key_full: oomp_symbol_d168k_fb1578
+  oomp_key_simple: d168k
   owner_name: kicad
-  symbol_name: display_character_d168k
+  symbol_name: d168k
 oomp_key: oomp_kicad_display_character_d168k
 oomp_key_simple: kicad_display_character_d168k
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

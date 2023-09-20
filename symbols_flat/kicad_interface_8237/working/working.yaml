@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_8237/working
   oomp_src_flat: symbols_flat/kicad_interface_8237/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_8237/working
-name: interface_8237
+name: '8237'
 oomp:
   library_name: interface
-  md5: ba5885adc115cb8142b36e4300000636
-  md5_10: ba5885adc1
-  md5_5: ba588
-  md5_6: ba5885
-  oomp_key: oomp_interface_8237
-  oomp_key_extra: oomp_symbol_interface_8237
-  oomp_key_full: oomp_symbol_interface_8237_ba5885
-  oomp_key_simple: interface_8237
+  md5: 7dd2ae7db7d18ee7c9425e38df1af5e2
+  md5_10: 7dd2ae7db7
+  md5_5: 7dd2a
+  md5_6: 7dd2ae
+  oomp_key: oomp_8237
+  oomp_key_extra: oomp_symbol_8237
+  oomp_key_full: oomp_symbol_8237_7dd2ae
+  oomp_key_simple: '8237'
   owner_name: kicad
-  symbol_name: interface_8237
+  symbol_name: '8237'
 oomp_key: oomp_kicad_interface_8237
 oomp_key_simple: kicad_interface_8237
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

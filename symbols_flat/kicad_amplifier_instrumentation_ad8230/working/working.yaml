@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_instrumentation_ad8230/working
   oomp_src_flat: symbols_flat/kicad_amplifier_instrumentation_ad8230/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_instrumentation_ad8230/working
-name: amplifier_instrumentation_ad8230
+name: ad8230
 oomp:
   library_name: amplifier_instrumentation
-  md5: f23e74545971ab146d663a67b50bdaaf
-  md5_10: f23e745459
-  md5_5: f23e7
-  md5_6: f23e74
-  oomp_key: oomp_amplifier_instrumentation_ad8230
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ad8230
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ad8230_f23e74
-  oomp_key_simple: amplifier_instrumentation_ad8230
+  md5: ba58a5cc6e9be3d9b7082944a1125979
+  md5_10: ba58a5cc6e
+  md5_5: ba58a
+  md5_6: ba58a5
+  oomp_key: oomp_ad8230
+  oomp_key_extra: oomp_symbol_ad8230
+  oomp_key_full: oomp_symbol_ad8230_ba58a5
+  oomp_key_simple: ad8230
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ad8230
+  symbol_name: ad8230
 oomp_key: oomp_kicad_amplifier_instrumentation_ad8230
 oomp_key_simple: kicad_amplifier_instrumentation_ad8230
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

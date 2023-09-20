@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_tfp410pap/working
   oomp_src_flat: symbols_flat/kicad_video_tfp410pap/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_tfp410pap/working
-name: video_tfp410pap
+name: tfp410pap
 oomp:
   library_name: video
-  md5: aaf38cfb739a0fd98de82e58112cabca
-  md5_10: aaf38cfb73
-  md5_5: aaf38
-  md5_6: aaf38c
-  oomp_key: oomp_video_tfp410pap
-  oomp_key_extra: oomp_symbol_video_tfp410pap
-  oomp_key_full: oomp_symbol_video_tfp410pap_aaf38c
-  oomp_key_simple: video_tfp410pap
+  md5: 3ac196be358ce9e2bac7f7d387d348ba
+  md5_10: 3ac196be35
+  md5_5: 3ac19
+  md5_6: 3ac196
+  oomp_key: oomp_tfp410pap
+  oomp_key_extra: oomp_symbol_tfp410pap
+  oomp_key_full: oomp_symbol_tfp410pap_3ac196
+  oomp_key_simple: tfp410pap
   owner_name: kicad
-  symbol_name: video_tfp410pap
+  symbol_name: tfp410pap
 oomp_key: oomp_kicad_video_tfp410pap
 oomp_key_simple: kicad_video_tfp410pap
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_esp32_wroom_32u/working
   oomp_src_flat: symbols_flat/kicad_rf_module_esp32_wroom_32u/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_esp32_wroom_32u/working
-name: rf_module_esp32_wroom_32u
+name: esp32_wroom_32u
 oomp:
   library_name: rf_module
-  md5: 6d0386e5dea31dda5cbbc8fa27cebbfc
-  md5_10: 6d0386e5de
-  md5_5: 6d038
-  md5_6: 6d0386
-  oomp_key: oomp_rf_module_esp32_wroom_32u
-  oomp_key_extra: oomp_symbol_rf_module_esp32_wroom_32u
-  oomp_key_full: oomp_symbol_rf_module_esp32_wroom_32u_6d0386
-  oomp_key_simple: rf_module_esp32_wroom_32u
+  md5: a2a6d5673bd6df07ba1a9ccc35af5126
+  md5_10: a2a6d5673b
+  md5_5: a2a6d
+  md5_6: a2a6d5
+  oomp_key: oomp_esp32_wroom_32u
+  oomp_key_extra: oomp_symbol_esp32_wroom_32u
+  oomp_key_full: oomp_symbol_esp32_wroom_32u_a2a6d5
+  oomp_key_simple: esp32_wroom_32u
   owner_name: kicad
-  symbol_name: rf_module_esp32_wroom_32u
+  symbol_name: esp32_wroom_32u
 oomp_key: oomp_kicad_rf_module_esp32_wroom_32u
 oomp_key_simple: kicad_rf_module_esp32_wroom_32u
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_ad725/working
   oomp_src_flat: symbols_flat/kicad_video_ad725/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_ad725/working
-name: video_ad725
+name: ad725
 oomp:
   library_name: video
-  md5: d24f12d5c19d0104f77c75389171d662
-  md5_10: d24f12d5c1
-  md5_5: d24f1
-  md5_6: d24f12
-  oomp_key: oomp_video_ad725
-  oomp_key_extra: oomp_symbol_video_ad725
-  oomp_key_full: oomp_symbol_video_ad725_d24f12
-  oomp_key_simple: video_ad725
+  md5: 020ef7834a8300b931f2ef84ba52e5f9
+  md5_10: 020ef7834a
+  md5_5: 020ef
+  md5_6: 020ef7
+  oomp_key: oomp_ad725
+  oomp_key_extra: oomp_symbol_ad725
+  oomp_key_full: oomp_symbol_ad725_020ef7
+  oomp_key_simple: ad725
   owner_name: kicad
-  symbol_name: video_ad725
+  symbol_name: ad725
 oomp_key: oomp_kicad_video_ad725
 oomp_key_simple: kicad_video_ad725
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

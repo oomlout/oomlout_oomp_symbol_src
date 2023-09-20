@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_max3221/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_max3221/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_max3221/working
-name: interface_uart_max3221
+name: max3221
 oomp:
   library_name: interface_uart
-  md5: 7dae9979a054cc1efdd99913f432ddcd
-  md5_10: 7dae9979a0
-  md5_5: 7dae9
-  md5_6: 7dae99
-  oomp_key: oomp_interface_uart_max3221
-  oomp_key_extra: oomp_symbol_interface_uart_max3221
-  oomp_key_full: oomp_symbol_interface_uart_max3221_7dae99
-  oomp_key_simple: interface_uart_max3221
+  md5: c89335d754ae700236f52a01d263399c
+  md5_10: c89335d754
+  md5_5: c8933
+  md5_6: c89335
+  oomp_key: oomp_max3221
+  oomp_key_extra: oomp_symbol_max3221
+  oomp_key_full: oomp_symbol_max3221_c89335
+  oomp_key_simple: max3221
   owner_name: kicad
-  symbol_name: interface_uart_max3221
+  symbol_name: max3221
 oomp_key: oomp_kicad_interface_uart_max3221
 oomp_key_simple: kicad_interface_uart_max3221
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

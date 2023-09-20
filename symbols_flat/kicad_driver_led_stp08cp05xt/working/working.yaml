@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_stp08cp05xt/working
   oomp_src_flat: symbols_flat/kicad_driver_led_stp08cp05xt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_stp08cp05xt/working
-name: driver_led_stp08cp05xt
+name: stp08cp05xt
 oomp:
   library_name: driver_led
-  md5: 990082c0a8d4444dbf7a42b98c7db390
-  md5_10: 990082c0a8
-  md5_5: '99008'
-  md5_6: '990082'
-  oomp_key: oomp_driver_led_stp08cp05xt
-  oomp_key_extra: oomp_symbol_driver_led_stp08cp05xt
-  oomp_key_full: oomp_symbol_driver_led_stp08cp05xt_990082
-  oomp_key_simple: driver_led_stp08cp05xt
+  md5: bb3e268cd210e97aa2691c07c174683c
+  md5_10: bb3e268cd2
+  md5_5: bb3e2
+  md5_6: bb3e26
+  oomp_key: oomp_stp08cp05xt
+  oomp_key_extra: oomp_symbol_stp08cp05xt
+  oomp_key_full: oomp_symbol_stp08cp05xt_bb3e26
+  oomp_key_simple: stp08cp05xt
   owner_name: kicad
-  symbol_name: driver_led_stp08cp05xt
+  symbol_name: stp08cp05xt
 oomp_key: oomp_kicad_driver_led_stp08cp05xt
 oomp_key_simple: kicad_driver_led_stp08cp05xt
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

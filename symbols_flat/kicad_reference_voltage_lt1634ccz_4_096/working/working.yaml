@@ -1,19 +1,19 @@
 id: kicad_reference_voltage_lt1634ccz_4_096
 library: reference_voltage
 library_name: Reference_Voltage
-name: reference_voltage_lt1634ccz_4_096
+name: lt1634ccz_4_096
 oomp:
   library_name: reference_voltage
-  md5: 27a57394da43e0a6695219b0c130a377
-  md5_10: 27a57394da
-  md5_5: 27a57
-  md5_6: 27a573
-  oomp_key: oomp_reference_voltage_lt1634ccz_4_096
-  oomp_key_extra: oomp_symbol_reference_voltage_lt1634ccz_4_096
-  oomp_key_full: oomp_symbol_reference_voltage_lt1634ccz_4_096_27a573
-  oomp_key_simple: reference_voltage_lt1634ccz_4_096
+  md5: d292b44fffb66659ad4cdcfd5c475cdd
+  md5_10: d292b44fff
+  md5_5: d292b
+  md5_6: d292b4
+  oomp_key: oomp_lt1634ccz_4_096
+  oomp_key_extra: oomp_symbol_lt1634ccz_4_096
+  oomp_key_full: oomp_symbol_lt1634ccz_4_096_d292b4
+  oomp_key_simple: lt1634ccz_4_096
   owner_name: kicad
-  symbol_name: reference_voltage_lt1634ccz_4_096
+  symbol_name: lt1634ccz_4_096
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

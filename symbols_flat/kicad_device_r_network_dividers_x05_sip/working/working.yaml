@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_network_dividers_x05_sip/working
   oomp_src_flat: symbols_flat/kicad_device_r_network_dividers_x05_sip/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_network_dividers_x05_sip/working
-name: device_r_network_dividers_x05_sip
+name: r_network_dividers_x05_sip
 oomp:
   library_name: device
-  md5: 74ce1ba23e1a0c48abcd0abe6efe14a2
-  md5_10: 74ce1ba23e
-  md5_5: 74ce1
-  md5_6: 74ce1b
-  oomp_key: oomp_device_r_network_dividers_x05_sip
-  oomp_key_extra: oomp_symbol_device_r_network_dividers_x05_sip
-  oomp_key_full: oomp_symbol_device_r_network_dividers_x05_sip_74ce1b
-  oomp_key_simple: device_r_network_dividers_x05_sip
+  md5: f100fbd7b6dce1e7b1a8429cf4ed8157
+  md5_10: f100fbd7b6
+  md5_5: f100f
+  md5_6: f100fb
+  oomp_key: oomp_r_network_dividers_x05_sip
+  oomp_key_extra: oomp_symbol_r_network_dividers_x05_sip
+  oomp_key_full: oomp_symbol_r_network_dividers_x05_sip_f100fb
+  oomp_key_simple: r_network_dividers_x05_sip
   owner_name: kicad
-  symbol_name: device_r_network_dividers_x05_sip
+  symbol_name: r_network_dividers_x05_sip
 oomp_key: oomp_kicad_device_r_network_dividers_x05_sip
 oomp_key_simple: kicad_device_r_network_dividers_x05_sip
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

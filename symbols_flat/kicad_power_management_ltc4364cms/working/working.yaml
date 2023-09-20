@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_ltc4364cms/working
   oomp_src_flat: symbols_flat/kicad_power_management_ltc4364cms/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_ltc4364cms/working
-name: power_management_ltc4364cms
+name: ltc4364cms
 oomp:
   library_name: power_management
-  md5: 59dcbcb0e23ab27b0df8ba36932f334c
-  md5_10: 59dcbcb0e2
-  md5_5: 59dcb
-  md5_6: 59dcbc
-  oomp_key: oomp_power_management_ltc4364cms
-  oomp_key_extra: oomp_symbol_power_management_ltc4364cms
-  oomp_key_full: oomp_symbol_power_management_ltc4364cms_59dcbc
-  oomp_key_simple: power_management_ltc4364cms
+  md5: 4b0115bb56fadc79436f1ec10310d909
+  md5_10: 4b0115bb56
+  md5_5: 4b011
+  md5_6: 4b0115
+  oomp_key: oomp_ltc4364cms
+  oomp_key_extra: oomp_symbol_ltc4364cms
+  oomp_key_full: oomp_symbol_ltc4364cms_4b0115
+  oomp_key_simple: ltc4364cms
   owner_name: kicad
-  symbol_name: power_management_ltc4364cms
+  symbol_name: ltc4364cms
 oomp_key: oomp_kicad_power_management_ltc4364cms
 oomp_key_simple: kicad_power_management_ltc4364cms
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

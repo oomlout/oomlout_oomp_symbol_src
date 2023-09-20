@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_hx20_p_sp2/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_hx20_p_sp2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_hx20_p_sp2/working
-name: sensor_current_hx20_p_sp2
+name: hx20_p_sp2
 oomp:
   library_name: sensor_current
-  md5: f23e30524ace12b4f1bf111694ec8aaf
-  md5_10: f23e30524a
-  md5_5: f23e3
-  md5_6: f23e30
-  oomp_key: oomp_sensor_current_hx20_p_sp2
-  oomp_key_extra: oomp_symbol_sensor_current_hx20_p_sp2
-  oomp_key_full: oomp_symbol_sensor_current_hx20_p_sp2_f23e30
-  oomp_key_simple: sensor_current_hx20_p_sp2
+  md5: 0b4dadb558b1f6f3d6b5578b1915813b
+  md5_10: 0b4dadb558
+  md5_5: 0b4da
+  md5_6: 0b4dad
+  oomp_key: oomp_hx20_p_sp2
+  oomp_key_extra: oomp_symbol_hx20_p_sp2
+  oomp_key_full: oomp_symbol_hx20_p_sp2_0b4dad
+  oomp_key_simple: hx20_p_sp2
   owner_name: kicad
-  symbol_name: sensor_current_hx20_p_sp2
+  symbol_name: hx20_p_sp2
 oomp_key: oomp_kicad_sensor_current_hx20_p_sp2
 oomp_key_simple: kicad_sensor_current_hx20_p_sp2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

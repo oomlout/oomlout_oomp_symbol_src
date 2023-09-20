@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_asmb_mtb0_0a3a2/working
   oomp_src_flat: symbols_flat/kicad_led_asmb_mtb0_0a3a2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_asmb_mtb0_0a3a2/working
-name: led_asmb_mtb0_0a3a2
+name: asmb_mtb0_0a3a2
 oomp:
   library_name: led
-  md5: 0eea7ba8e47ff5e31a0eadc0b634c470
-  md5_10: 0eea7ba8e4
-  md5_5: 0eea7
-  md5_6: 0eea7b
-  oomp_key: oomp_led_asmb_mtb0_0a3a2
-  oomp_key_extra: oomp_symbol_led_asmb_mtb0_0a3a2
-  oomp_key_full: oomp_symbol_led_asmb_mtb0_0a3a2_0eea7b
-  oomp_key_simple: led_asmb_mtb0_0a3a2
+  md5: 33312f1cde0901ef7d4ac410c8b46979
+  md5_10: 33312f1cde
+  md5_5: '33312'
+  md5_6: 33312f
+  oomp_key: oomp_asmb_mtb0_0a3a2
+  oomp_key_extra: oomp_symbol_asmb_mtb0_0a3a2
+  oomp_key_full: oomp_symbol_asmb_mtb0_0a3a2_33312f
+  oomp_key_simple: asmb_mtb0_0a3a2
   owner_name: kicad
-  symbol_name: led_asmb_mtb0_0a3a2
+  symbol_name: asmb_mtb0_0a3a2
 oomp_key: oomp_kicad_led_asmb_mtb0_0a3a2
 oomp_key_simple: kicad_led_asmb_mtb0_0a3a2
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

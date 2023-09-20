@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_analog_acpl_c870/working
   oomp_src_flat: symbols_flat/kicad_isolator_analog_acpl_c870/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_analog_acpl_c870/working
-name: isolator_analog_acpl_c870
+name: acpl_c870
 oomp:
   library_name: isolator_analog
-  md5: 539fcc71d90a71e5bb354b16bd4b7f03
-  md5_10: 539fcc71d9
-  md5_5: 539fc
-  md5_6: 539fcc
-  oomp_key: oomp_isolator_analog_acpl_c870
-  oomp_key_extra: oomp_symbol_isolator_analog_acpl_c870
-  oomp_key_full: oomp_symbol_isolator_analog_acpl_c870_539fcc
-  oomp_key_simple: isolator_analog_acpl_c870
+  md5: 3b31eeaf1303f73945082ed88b0808cb
+  md5_10: 3b31eeaf13
+  md5_5: 3b31e
+  md5_6: 3b31ee
+  oomp_key: oomp_acpl_c870
+  oomp_key_extra: oomp_symbol_acpl_c870
+  oomp_key_full: oomp_symbol_acpl_c870_3b31ee
+  oomp_key_simple: acpl_c870
   owner_name: kicad
-  symbol_name: isolator_analog_acpl_c870
+  symbol_name: acpl_c870
 oomp_key: oomp_kicad_isolator_analog_acpl_c870
 oomp_key_simple: kicad_isolator_analog_acpl_c870
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

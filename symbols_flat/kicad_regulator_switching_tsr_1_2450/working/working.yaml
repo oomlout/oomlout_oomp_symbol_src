@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tsr_1_2450/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tsr_1_2450/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tsr_1_2450/working
-name: regulator_switching_tsr_1_2450
+name: tsr_1_2450
 oomp:
   library_name: regulator_switching
-  md5: 4cbb8abc375954028f2f9910ec7dec04
-  md5_10: 4cbb8abc37
-  md5_5: 4cbb8
-  md5_6: 4cbb8a
-  oomp_key: oomp_regulator_switching_tsr_1_2450
-  oomp_key_extra: oomp_symbol_regulator_switching_tsr_1_2450
-  oomp_key_full: oomp_symbol_regulator_switching_tsr_1_2450_4cbb8a
-  oomp_key_simple: regulator_switching_tsr_1_2450
+  md5: 9733fe8ccbfabcbee907406a5886ae6a
+  md5_10: 9733fe8ccb
+  md5_5: 9733f
+  md5_6: 9733fe
+  oomp_key: oomp_tsr_1_2450
+  oomp_key_extra: oomp_symbol_tsr_1_2450
+  oomp_key_full: oomp_symbol_tsr_1_2450_9733fe
+  oomp_key_simple: tsr_1_2450
   owner_name: kicad
-  symbol_name: regulator_switching_tsr_1_2450
+  symbol_name: tsr_1_2450
 oomp_key: oomp_kicad_regulator_switching_tsr_1_2450
 oomp_key_simple: kicad_regulator_switching_tsr_1_2450
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

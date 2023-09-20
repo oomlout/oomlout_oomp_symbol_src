@@ -1,19 +1,19 @@
 id: kicad_interface_8255a
 library: interface
 library_name: Interface
-name: interface_8255a
+name: 8255a
 oomp:
   library_name: interface
-  md5: 1a4ed32491f4f2976312ae818876a4d2
-  md5_10: 1a4ed32491
-  md5_5: 1a4ed
-  md5_6: 1a4ed3
-  oomp_key: oomp_interface_8255a
-  oomp_key_extra: oomp_symbol_interface_8255a
-  oomp_key_full: oomp_symbol_interface_8255a_1a4ed3
-  oomp_key_simple: interface_8255a
+  md5: bd91b9e345d994b7a5312114c54ac4c2
+  md5_10: bd91b9e345
+  md5_5: bd91b
+  md5_6: bd91b9
+  oomp_key: oomp_8255a
+  oomp_key_extra: oomp_symbol_8255a
+  oomp_key_full: oomp_symbol_8255a_bd91b9
+  oomp_key_simple: 8255a
   owner_name: kicad
-  symbol_name: interface_8255a
+  symbol_name: 8255a
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -21,5 +21,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_mcp2221axsl/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_mcp2221axsl/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_mcp2221axsl/working
-name: interface_usb_mcp2221axsl
+name: mcp2221axsl
 oomp:
   library_name: interface_usb
-  md5: 8309e4d2ac93ff63fc8bd6159867e620
-  md5_10: 8309e4d2ac
-  md5_5: 8309e
-  md5_6: 8309e4
-  oomp_key: oomp_interface_usb_mcp2221axsl
-  oomp_key_extra: oomp_symbol_interface_usb_mcp2221axsl
-  oomp_key_full: oomp_symbol_interface_usb_mcp2221axsl_8309e4
-  oomp_key_simple: interface_usb_mcp2221axsl
+  md5: 2436219db80678956e131a0927ddc31f
+  md5_10: 2436219db8
+  md5_5: '24362'
+  md5_6: '243621'
+  oomp_key: oomp_mcp2221axsl
+  oomp_key_extra: oomp_symbol_mcp2221axsl
+  oomp_key_full: oomp_symbol_mcp2221axsl_243621
+  oomp_key_simple: mcp2221axsl
   owner_name: kicad
-  symbol_name: interface_usb_mcp2221axsl
+  symbol_name: mcp2221axsl
 oomp_key: oomp_kicad_interface_usb_mcp2221axsl
 oomp_key_simple: kicad_interface_usb_mcp2221axsl
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

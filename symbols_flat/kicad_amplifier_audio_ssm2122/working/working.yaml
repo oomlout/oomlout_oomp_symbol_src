@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_audio_ssm2122/working
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_ssm2122/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_ssm2122/working
-name: amplifier_audio_ssm2122
+name: ssm2122
 oomp:
   library_name: amplifier_audio
-  md5: 3c59a38f550eb2984d1fdd8ece8a04ab
-  md5_10: 3c59a38f55
-  md5_5: 3c59a
-  md5_6: 3c59a3
-  oomp_key: oomp_amplifier_audio_ssm2122
-  oomp_key_extra: oomp_symbol_amplifier_audio_ssm2122
-  oomp_key_full: oomp_symbol_amplifier_audio_ssm2122_3c59a3
-  oomp_key_simple: amplifier_audio_ssm2122
+  md5: 3c85f2caa7b028e56e5ec4bc560d2269
+  md5_10: 3c85f2caa7
+  md5_5: 3c85f
+  md5_6: 3c85f2
+  oomp_key: oomp_ssm2122
+  oomp_key_extra: oomp_symbol_ssm2122
+  oomp_key_full: oomp_symbol_ssm2122_3c85f2
+  oomp_key_simple: ssm2122
   owner_name: kicad
-  symbol_name: amplifier_audio_ssm2122
+  symbol_name: ssm2122
 oomp_key: oomp_kicad_amplifier_audio_ssm2122
 oomp_key_simple: kicad_amplifier_audio_ssm2122
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'

@@ -10,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_timer_rtc_ds1302_/working
   oomp_src_flat: symbols_flat/kicad_timer_rtc_ds1302_/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_timer_rtc_ds1302_/working
-name: timer_rtc_ds1302_
+name: ds1302_
 oomp:
   library_name: timer_rtc
-  md5: e7e3420f221585fb212afc22f31f0b94
-  md5_10: e7e3420f22
-  md5_5: e7e34
-  md5_6: e7e342
-  oomp_key: oomp_timer_rtc_ds1302_
-  oomp_key_extra: oomp_symbol_timer_rtc_ds1302_
-  oomp_key_full: oomp_symbol_timer_rtc_ds1302__e7e342
-  oomp_key_simple: timer_rtc_ds1302_
+  md5: 31bff3fd8cb3faa37d5e9964159fa8d3
+  md5_10: 31bff3fd8c
+  md5_5: 31bff
+  md5_6: 31bff3
+  oomp_key: oomp_ds1302_
+  oomp_key_extra: oomp_symbol_ds1302_
+  oomp_key_full: oomp_symbol_ds1302__31bff3
+  oomp_key_simple: ds1302_
   owner_name: kicad
-  symbol_name: timer_rtc_ds1302_
+  symbol_name: ds1302_
 oomp_key: oomp_kicad_timer_rtc_ds1302_
 oomp_key_simple: kicad_timer_rtc_ds1302_
 owner: kicad
@@ -32,5 +32,7 @@ repo:
   owner: kicad
   url: https://gitlab.com/kicad/libraries/kicad-symbols
 repo_github:
-  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
-  message: Not Found
+  documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+  message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.)'
