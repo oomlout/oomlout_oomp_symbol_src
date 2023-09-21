@@ -207,7 +207,7 @@ def get_all_symbols_from_kicad_syms(**kwargs):
                     deets["id"] = id
                     print(f"loading symbol {id}")
 
-                    if "h4pra" in name:
+                    if "oomlout_oomlout_oomp_part_symbols_oomp" in name or "oomlout_oomlout_oomp_part_symbols_oomlout" in name:
                         pass
 
                     symbols.append(deets)                    
