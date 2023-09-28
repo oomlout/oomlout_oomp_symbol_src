@@ -9,12 +9,21 @@ empty_library_file = 'templates/empty.kicad_sym'
 
 github_repos = {}
 
-def clone_and_copy_symbols(**kwargs):
+def clone_and_copy_symbols(**kwargs):    
     dir_base = kwargs.get('dir_base', 'tmp/data/oomlout_oomp_symbol_src')
+    test = kwargs.get('test', False)
+    repo_filter = kwargs.get('repo_filter', '')
+    #make repo_filter a list if it isn't
+    if type(repo_filter) is not list:
+        repo_filter = [repo_filter]
+    filter = kwargs.get('filter', '')
+    #make filter a list if it isn't
+    if type(filter) is not list:
+        filter = [filter]
     #set cwd
     old_cwd = os.getcwd()
     os.chdir(dir_base)
-    test = kwargs.get('test', False)
+    
     #load repos from repos.yaml and repos_manual.yaml
     repos = []
     if not test:
@@ -36,6 +45,8 @@ def clone_and_copy_symbols(**kwargs):
         url = repo['url']
         #get from repo github address https://github.com/oomlout/oomlout_oomp_part_templates
         #get owner from url
+
+
         if "github" in url:
             owner = url.split('/')[-2]
             name = url.split('/')[-1]
@@ -45,18 +56,20 @@ def clone_and_copy_symbols(**kwargs):
         repo['owner'] = owner
         repo['name'] = name
     
-    kicad_syms = load_symbols_from_files(repos=repos)    
-    copy_symbol_libraries_to_new_directories(kicad_syms=kicad_syms)
-
-    # start to do more major things
-    symbols_all = get_all_symbols_from_kicad_syms(kicad_syms=kicad_syms)
+    # returns everything in kicad_syms applies both repo_filter and filter filter
+    kicad_syms = load_symbols_from_files(repos=repos, **kwargs)    
+    
+    # extract only the ones we want
+    symbols_all = get_all_symbols_from_kicad_syms(kicad_syms=kicad_syms, **kwargs)
     make_mega_library(symbols_all=symbols_all)
-    make_a_flat_representation_with_one_simple_per_directory(symbols_all=symbols_all)
+    make_a_flat_representation_with_one_simple_per_directory(symbols_all=symbols_all, **kwargs) # puts them into directories
     #return cwd to normal
     os.chdir(old_cwd)
 
 def load_symbols_from_files(**kwargs):
     print("Cloning repos and loading kicad_syms from files")
+    repo_filter = kwargs.get('repo_filter', [''])
+    filter = kwargs.get('filter', [''])
     kicad_syms = []
     repos = kwargs['repos']
     #clone repos
@@ -64,84 +77,38 @@ def load_symbols_from_files(**kwargs):
         url = repo['url']
         #get from repo github address https://github.com/oomlout/oomlout_oomp_part_templates
         #get owner from url
-        if "github" in url:
-            owner = url.split('/')[-2]
-            name = url.split('/')[-1]
-        elif "gitlab" in url:
-            owner = url.split('/')[-3]
-            name = url.split('/')[-1]
-        #print what you're doing
-        import oom_git
-        oom_git.clone(repo=url, directory = f'tmp/')
-        dir_full = f'tmp/{name}'        
-        
-        for root, dirs, files in os.walk(f'tmp/{name}'):
-            for file in files:
-                if file.endswith('kicad_sym'):
-                    #skip all ones with fpga in the name to save space
-                    if 'fpga' not in file.lower():
-                        deets = {}
-                        kicad_sym = os.path.join(root, file)
-                        #replace \\ with / for windows
-                        kicad_sym = kicad_sym.replace('\\', '/')
-                        deets['kicad_sym'] = kicad_sym
-                        deets['repo'] = repo
-                        kicad_syms.append(deets)
-    #copy all the kicad_syms into the oomlout_oomp_symbol_src directory
-    #dump kicas_syms to yaml
+        #if any of repo_filter are in url 
+        if any(x in url for x in repo_filter):
+            if "github" in url:
+                owner = url.split('/')[-2]
+                name = url.split('/')[-1]
+            elif "gitlab" in url:
+                owner = url.split('/')[-3]
+                name = url.split('/')[-1]
+            #print what you're doing
+            import oom_git
+            oom_git.clone(repo=url, directory = f'tmp/')
+            dir_full = f'tmp/{name}'        
+            
+            for root, dirs, files in os.walk(f'tmp/{name}'):
+                for file in files:
+                    if file.endswith('kicad_sym'):
+                        #skip all ones with fpga in the name to save space
+                        if 'fpga' not in file.lower():
+                            deets = {}
+                            kicad_sym = os.path.join(root, file)
+                            #replace \\ with / for windows
+                            kicad_sym = kicad_sym.replace('\\', '/')
+                            deets['kicad_sym'] = kicad_sym
+                            deets['repo'] = repo
+                            #if any filter is in kicad_sym
+                            if any(x in kicad_sym for x in filter):
+                                kicad_syms.append(deets)
+        #copy all the kicad_syms into the oomlout_oomp_symbol_src directory
+        #dump kicas_syms to yaml
     return kicad_syms
 
-def copy_symbol_libraries_to_new_directories(**kwargs):
-    #just copies files across
-    print("Copying symbol libraries to new directories")
-    kicad_syms = kwargs['kicad_syms']
-    for ks in kicad_syms:
-        kicad_sym = ks["kicad_sym"]
-        repo = ks["repo"]
-        url = repo['url']
-        name = repo['name']
-        owner = repo['owner']
-        import shutil
-        """
-        ###### symbols_folder_library
-        src = kicad_sym
-        #replace \\ with / for windows
-        src = src.replace('\\', '/')
-        #remove tmp/
-        dst = src
-        #remove folders just filename for dst
-        dst = dst.split('/')[-1]
 
-
-        
-        #lower case
-        dst = dst.lower()
-        #add owner
-        dst = f'{owner}/{dst}'
-        dst = f'symbols_folder_library/{dst}'
-        #make sure the directory exists
-        os.makedirs(os.path.dirname(dst), exist_ok=True)
-        shutil.copy(src, dst)
-        """
-    """
-        ###### symbols_flat_library
-        src = kicad_sym
-        #replace \\ with / for windows
-        src = src.replace('\\', '/')
-        #remove tmp/
-        dst = src            
-        dst = dst.split('/')[-1]
-        dst = f'{owner}_{dst}'
-        # lower case
-        dst = dst.lower()
-        dst = f'symbols_flat_library/{dst}'
-        #make sure the directory exists
-        os.makedirs(os.path.dirname(dst), exist_ok=True)
-        shutil.copy(src, dst)
-        print('.', end='')
-    print()
-    print("Done copying symbol libraries to new directories")
-    """
 
 def get_all_symbols_from_kicad_syms(**kwargs):
     
@@ -498,7 +465,7 @@ def get_repo_from_github(**kwargs):
         return repo
     
         
-def make_symbols_readme():
+def make_symbols_readme(**kwargs):
     counter = 1
     folders = ["symbols_flat"]
     for folder in folders:

@@ -1,15 +1,6 @@
 id: kicad_interface_uart_max488e
 library: interface_uart
 library_name: Interface_UART
-links:
-  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
-  github_src_repo: https://gitlab.com/kicad/libraries/kicad-symbols
-  oomp_bot: kicad_interface_uart_max488e/working
-  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_interface_uart_max488e/working
-  oomp_doc: kicad_interface_uart_max488e/working
-  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_max488e/working
-  oomp_src_flat: symbols_flat/kicad_interface_uart_max488e/working
-  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_max488e/working
 name: max488e
 oomp:
   library_name: interface_uart
@@ -23,8 +14,6 @@ oomp:
   oomp_key_simple: max488e
   owner_name: kicad
   symbol_name: max488e
-oomp_key: oomp_kicad_interface_uart_max488e
-oomp_key_simple: kicad_interface_uart_max488e
 owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
